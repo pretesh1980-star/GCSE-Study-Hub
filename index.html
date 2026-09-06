@@ -51,9 +51,33 @@ function home(a){let all=Object.values(state.mastery), avg=all.length?Math.round
 function subjects(a){a.innerHTML=`<div class="grid">${Object.entries(SUBJECTS).map(([s,ts])=>`<div class="card"><span class="pill">${ts.length} modules</span><h2 style="margin-top:9px">${s}</h2>${ts.map(t=>`<div class="topic"><div><b>${t}</b><br><small>${status(mastery(s,t))} • ${mastery(s,t)}%</small></div><div class="actions"><button class="btn" onclick="openLesson('${s}','${t}')">Learn</button><button class="btn primary" onclick="startQuiz('${s}','${t}')">Practise</button></div></div>`).join('')}</div></div>`).join('')}`}
 function openLesson(s,t){state.page='lesson';state.subject=s;state.topic=t;save();lesson(document.getElementById('app'))}
 function lesson(a){let s=state.subject,t=state.topic,l=LESSONS[s]?.[t]||{learn:'Content coming in the next curriculum pack.',key:[],visual:'Visual coming soon.',challenge:'Try explaining the idea in your own words.'};a.innerHTML=`<button class="btn" onclick="setPage('subjects')">← Back</button><section class="card" style="margin-top:12px"><span class="pill">${s} • ${t}</span><h2 style="margin-top:10px">Learn</h2><p class="lesson">${l.learn}</p><h3>🔑 Key words</h3><p>${l.key.map(x=>`<span class="pill" style="margin:3px">${x}</span>`).join(' ')}</p><h3>🖼️ Visualise it</h3><div class="visual">${l.visual}</div><h3 style="margin-top:18px">⭐ Grade 8/9 challenge</h3><p>${l.challenge}</p><div class="actions"><button class="btn primary" onclick="startQuiz('${s}','${t}')">Practise this topic</button><button class="btn dark" onclick="startTest('${s}','${t}')">Take module test</button></div></section>`}
-let quizPool=[],quizIndex=0,quizScore=0;
-function startQuiz(s,t){quizPool=QUESTIONS.filter(q=>q.subject==s&&(t? q.topic==t:true));if(!quizPool.length) quizPool=QUESTIONS.filter(q=>q.subject==s);if(!quizPool.length) quizPool=QUESTIONS;quizPool=quizPool.slice().sort((a,b)=>mastery(a.subject,a.topic)-mastery(b.subject,b.topic));quizIndex=0;quizScore=0;state.page='quiz';save();renderQuiz()}
-function renderQuiz(){let a=document.getElementById('app');if(quizIndex>=Math.min(quizPool.length,8)){a.innerHTML=`<section class="card hero"><h2>Quiz complete 🎉</h2><div class="big">${quizScore} / ${Math.min(quizPool.length,8)}</div><p>Next time, the adaptive system will prioritise topics that need more practice.</p><button class="btn primary" onclick="setPage('progress')">View progress</button></section>`;return}let q=quizPool[quizIndex];a.innerHTML=`<section class="card"><span class="pill">Question ${quizIndex+1} of ${Math.min(quizPool.length,8)}</span><div class="question">${q.q}</div>${q.options?q.options.map(o=>`<button class="option" onclick="answer(this,${JSON.stringify(o)},${JSON.stringify(q.answer)})">${o}</button>`).join(''):`<input id="ans" placeholder="Type your answer"><div class="actions"><button class="btn primary" onclick="shortAnswer()">Check answer</button></div>`}<div id="feedback"></div></section>`}
+let quizPool=[],quizIndex=0,quizScore=0,quizLength=8,quizMode='adaptive';
+function quiz(a){
+a.innerHTML=`<section class="card hero"><h2>Adaptive Quiz</h2>
+<p class="muted">Choose how much you want to practise. Weak topics are prioritised.</p>
+<div class="actions">
+<button class="btn" onclick="quizLength=5;quizMode='adaptive';quiz(document.getElementById('app'))">5 questions</button>
+<button class="btn primary" onclick="quizLength=8;quizMode='adaptive';quiz(document.getElementById('app'))">8 questions</button>
+<button class="btn" onclick="quizLength=12;quizMode='adaptive';quiz(document.getElementById('app'))">12 questions</button>
+<button class="btn" onclick="quizMode='mistakes';quiz(document.getElementById('app'))">Fix my mistakes</button>
+</div>
+<div class="actions"><button class="btn primary" onclick="startQuiz()">Start session</button></div>
+</section>
+<section class="card" style="margin-top:14px"><h3>How the adaptive system works</h3>
+<p class="muted">Correct answers increase topic mastery. Incorrect answers lower mastery so the topic returns more often. Stronger topics are used for harder practice.</p></section>`;
+}
+function startQuiz(s,t){
+let pool=QUESTIONS.filter(q=>!s||q.subject==s).filter(q=>!t||q.topic==t);
+if(quizMode==='mistakes') pool=pool.filter(q=>(state.mastery[q.subject+'|'+q.topic]||0)<65);
+if(!pool.length) pool=QUESTIONS;
+pool=pool.slice().sort((a,b)=>{
+let am=state.mastery[a.subject+'|'+a.topic]||0,bm=state.mastery[b.subject+'|'+b.topic]||0;
+return (am-bm)+(Math.random()-.5)*8;
+});
+quizPool=pool.slice(0,quizLength);
+quizIndex=0;quizScore=0;state.page='quiz';save();renderQuiz()
+}
+function renderQuiz(){let a=document.getElementById('app');if(quizIndex>=quizPool.length){a.innerHTML=`<section class="card hero"><h2>Quiz complete 🎉</h2><div class="big">${quizScore} / ${quizPool.length}</div><p>Next time, the adaptive system will prioritise topics that need more practice.</p><button class="btn primary" onclick="setPage('progress')">View progress</button></section>`;return}let q=quizPool[quizIndex];a.innerHTML=`<section class="card"><span class="pill">Question ${quizIndex+1} of ${quizPool.length}</span><div class="question">${q.q}</div>${q.options?q.options.map(o=>`<button class="option" onclick="answer(this,${JSON.stringify(o)},${JSON.stringify(q.answer)})">${o}</button>`).join(''):`<input id="ans" placeholder="Type your answer"><div class="actions"><button class="btn primary" onclick="shortAnswer()">Check answer</button></div>`}<div id="feedback"></div></section>`}
 function answer(btn,chosen,correct){let q=quizPool[quizIndex],ok=chosen===correct;state.attempts++;if(ok){state.correct++;quizScore++}updateMastery(q,ok);document.querySelectorAll('.option').forEach(b=>b.disabled=true);btn.classList.add(ok?'correct':'wrong');document.getElementById('feedback').innerHTML=`<div class="card" style="margin-top:12px"><b>${ok?'Correct! 🎉':'Not quite yet.'}</b><p>${q.explain}</p><button class="btn primary" onclick="quizNext()">Next</button></div>`;save()}
 function shortAnswer(){let q=quizPool[quizIndex],v=document.getElementById('ans').value.trim().toLowerCase(),ok=v && (v===q.answer.toLowerCase()||q.answer.toLowerCase().includes(v));state.attempts++;if(ok){state.correct++;quizScore++}updateMastery(q,ok);document.getElementById('feedback').innerHTML=`<div class="card" style="margin-top:12px"><b>${ok?'Correct! 🎉':'Keep practising.'}</b><p>Answer: <b>${q.answer}</b></p><p>${q.explain}</p><button class="btn primary" onclick="quizNext()">Next</button></div>`;save()}
 function updateMastery(q,ok){let k=q.subject+'|'+q.topic,old=state.mastery[k]||0;state.mastery[k]=Math.max(0,Math.min(100,Math.round(old+(ok?12:-10))));}

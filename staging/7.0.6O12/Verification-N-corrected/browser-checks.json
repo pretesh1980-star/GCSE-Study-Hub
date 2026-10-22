@@ -1,0 +1,464 @@
+{
+  "browser": "Codex in-app browser, local candidate only",
+  "checks": [
+    {
+      "milestone": "5 Required Practical 1: Microscopy",
+      "visible": "CELL BIOLOGY · MILESTONE 5 OF 12\n\nRequired Practical 1: Microscopy\nWhy am I learning this?\n\nCareful focusing, drawing and labelling produce useful evidence about cells. These skills prepare you to observe real tissue with your teacher.\n\nWhat should I already understand?\n\nMicroscope theory, cell structures, magnification and scale.\n\nPrevious: Microscopy\nNext recommended: Chromosomes, cell division and stem cells\n\nMethod, observations and scale\n\nPrepare a thin specimen on a slide, add a suitable stain and lower a coverslip carefully. Start with a low-power objective, focus, then increase magnification. Draw clear outlines and label visible structures. Magnification = image size ÷ real size; use the same units.\n\nRP01 requires observing, drawing and labelling a selection of plant and animal cells with a magnification scale. Use a teacher-approved thin onion epidermis sample and a prepared animal-cell slide, such as a stained cheek epithelial slide; a fresh cheek sample is not required. Prepared slides provide animal evidence without assuming permission or procedures for collecting human samples. Under teacher instructions, spread a thin onion peel flat in a drop of water, use dilute iodine if specified to improve contrast, and lower a coverslip at an angle to reduce trapped air. A prepared animal slide may already be stained with methylene blue; do not add stain or a coverslip to a sealed prepared slide. These are suitable examples, not a requirement to use one named specimen or stain. Wear eye protection when handling stains, avoid skin/eye contact, wash hands, handle slide edges carefully and follow school spill and broken-glass procedures; do not handle broken glass. Start with the lowest objective. Adjust illumination, locate and centre cells, use coarse then fine focus at low power, and use fine focus when moving to higher power. Watch clearance when positioning the lens; never drive it into the slide. Observe several cells from each specimen and record specimen, objective/eyepiece magnification, visible structures and any variation. Draw large, clear, single outlines with appropriate proportions, a title and straight non-crossing label lines; no invented features or artistic shading. Include total magnification (eyepiece × objective) or a calibrated magnification scale/scale bar; explain which value describes the microscope and which describes a resized drawing. Use provided/calibrated size information rather than guessing actual cell size. Plant onion cells show a wall and large vacuole; a stained nucleus may be seen. Animal cells lack cell walls and chloroplasts. Onion bulb epidermis normally has no chloroplasts, unlike photosynthetic leaf cells. Do not claim ribosomes are visible with this light microscope or mistake air bubbles for nuclei. If a boundary is unclear, record that limitation rather than inventing it. Compare plant and animal observations, noting shared and different structures. Review the model drawing and scale task in practice. This online support prepares you for the practical; actual observations require laboratory work.\n\nPreparing for the physical required practical\n\nUse a light microscope to observe, draw and label plant and animal cells, including a magnification scale.\n\nReview the theory in the previous milestone. Follow your teacher’s safety instructions in the laboratory. Reading this guidance or using the Osmosis Lab does not complete the physical required practical.\n\nControls and fair comparisons\n\nUse consistent illumination/preparation when comparing specimens. Record eyepiece and objective magnification; measure with a calibrated scale or supplied reference. Repeat observations across several cells, distinguishing biological variation from preparation artefacts.\n\nAnalysing results and evaluating errors\n\nModel observation record: onion epidermis — box-like adjoining cells and walls, large clear vacuolar region, stained nucleus if visible, no chloroplasts expected. Prepared animal epithelium — irregular outlines, cytoplasm and stained nucleus, no wall. Draw what the slide actually shows. A 10 mm drawing of a measured 20 µm cell is ×500: 10/0.020 = 500. Label the drawing and include a 20 µm scale bar spanning that cell; resizing changes the drawing magnification.\n\nStart low and centre before increasing power; fine focus protects the lens/slide at high power. A magnification value is not a length; a scale bar needs a real-length label. Stains improve contrast, not resolving power. Never add ribosomes or chloroplasts just because a textbook schematic shows them.\n\nWhat should I demonstrate?\n\nDescribe a safe method, draw and label observations, calculate magnification and evaluate observation errors.\n\nDemonstrate understanding through existing practice and assessment. The existing scoring and independent Osmosis Lab checks are unchanged; visiting a milestone is not evidence of mastery.\n\nExisting practice for these source lessons\n← Microscopy\nNext: Chromosomes, cell division and stem cells →"
+    },
+    {
+      "milestone": "6 Chromosomes, cell division and stem cells",
+      "visible": "CELL BIOLOGY · MILESTONE 6 OF 12\n\nChromosomes, cell division and stem cells\nWhy am I learning this?\n\nNew cells let you grow and repair damaged tissue. Chromosomes explain how genetic information is copied, while stem cells explain possible treatments and their risks.\n\nWhat should I already understand?\n\nNucleus and DNA as genetic material; structures and specialised cell functions.\n\nPrevious: Required Practical 1: Microscopy\nNext recommended: Diffusion\n\nChromosomes and DNA\n\nFor the existing DNA explanation and paired chromosomes, open Inheritance → DNA, genes and chromosomes, then Sex chromosomes and inheritance. Chromosomes in the nucleus are made of DNA; each carries many genes. Body-cell chromosomes are normally in pairs.\n\nThe cell cycle and mitosis\n\nThe three overall cell-cycle stages are: (1) the cell grows, increases sub-cellular structures such as ribosomes and mitochondria, and copies DNA so there are two copies of each chromosome; (2) mitosis separates one set of chromosomes to each end and the nucleus divides; (3) the cytoplasm and cell membrane divide, forming two genetically identical daughter cells with the original chromosome number. Growth of an embryo or root and replacement of damaged skin involve mitosis. You do not need the named phases of mitosis.\n\nDifferentiation\n\nDivision increases cell number; differentiation produces specialised cells with different sub-cellular structures and functions. Most animal cells differentiate early in development; many plant cells retain differentiation potential throughout life. In mature animals division is mainly for repair and replacement. This is why a specialised nerve cell and muscle cell differ even though they normally share genetic information. Growth can involve division, enlargement and differentiation; these are different processes.\n\nStem cells and their uses\n\nA stem cell is undifferentiated: it can divide to make more stem cells and can give rise to differentiated cells. Embryonic stem cells can produce most human cell types. Adult bone-marrow stem cells produce several types of blood cell; their range is more limited. Plant meristems contain cells that can divide and differentiate into any plant cell type throughout life. Potential treatments include replacing insulin-producing cells in diabetes or damaged nerve cells in paralysis; potential is not a guaranteed cure. In therapeutic cloning an embryo with the patient's genes supplies stem cells, so cells derived from it are not rejected as genetically foreign. Stem-cell use can transfer viral infection, and uncontrolled cell division may form tumours. Embryo use also raises ethical or religious objections. Evaluate evidence of likely benefit, risk and alternatives; explain reasons rather than treating one ethical opinion as the correct answer. Meristem cloning can produce many identical plants quickly and economically: it can preserve a rare species or multiply a crop with a useful inherited feature such as disease resistance. Stem-cell laboratory techniques are not required here.\n\nSummary: growth and repair\n\nBefore mitosis, DNA is copied. Chromosomes are separated and the cell divides, producing two genetically identical daughter cells for growth, repair or asexual reproduction. Stem cells can divide and differentiate. Embryonic stem cells can form many cell types; adult stem cells have a more limited range. Consider benefits, rejection or tumour risks, and ethical arguments when evaluating treatment.\n\n\n\nWhat should I demonstrate?\n\nExplain chromosomes, the cell cycle and mitosis; distinguish division from differentiation and evaluate stem-cell uses.\n\nDemonstrate understanding through existing practice and assessment. The existing scoring and independent Osmosis Lab checks are unchanged; visiting a milestone is not evidence of mastery.\n\nExisting practice for these source lessons\n← Required Practical 1: Microscopy\nNext: Diffusion →"
+    },
+    {
+      "milestone": "7 Diffusion",
+      "visible": "CELL BIOLOGY · MILESTONE 7 OF 12\n\nDiffusion\nWhy am I learning this?\n\nOxygen reaches cells and wastes leave by diffusion. Understanding random particle movement explains why substances spread without a pump.\n\nWhat should I already understand?\n\nCell membranes; the particle and concentration introduction below.\n\nPrevious: Chromosomes, cell division and stem cells\nNext recommended: Surface area and exchange\n\nBefore diffusion: particles and concentration\n\nSubstances are made of particles. Particles in gases and solutions move randomly in all directions. Concentration means the amount of a substance in a given volume. A concentration gradient is a difference in concentration between two places. Random movement can produce more particles moving from the higher-concentration side to the lower-concentration side overall: this is net movement.\n\nDiffusion overview\n\nDiffusion is the net movement of particles from a higher concentration to a lower concentration. It is faster with a steeper concentration gradient, a higher temperature or a larger surface area.\n\nParticle movement and diffusion\n\nDiffusion is the spreading of gas particles or dissolved particles by random movement, producing net movement down a concentration gradient. Particles still move in both directions; at equal concentrations there is no net movement. Oxygen diffuses into respiring cells from a higher concentration outside; carbon dioxide can diffuse out where it is produced. Urea, a waste substance, diffuses from cells into blood plasma and is carried to the kidneys for excretion. A steeper concentration difference increases net movement; higher temperature increases particle motion; a larger membrane area permits more particles to cross at once. Diffusion does not require energy from respiration.\n\nWhat should I demonstrate?\n\nDescribe net movement down a concentration gradient and explain factors affecting diffusion.\n\nDemonstrate understanding through existing practice and assessment. The existing scoring and independent Osmosis Lab checks are unchanged; visiting a milestone is not evidence of mastery.\n\nExisting practice for these source lessons\n← Chromosomes, cell division and stem cells\nNext: Surface area and exchange →"
+    },
+    {
+      "milestone": "8 Surface area and exchange",
+      "visible": "CELL BIOLOGY · MILESTONE 8 OF 12\n\nSurface area and exchange\nWhy am I learning this?\n\nA large animal needs specialised exchange surfaces to supply all its cells. Surface-area-to-volume reasoning explains why lungs and gills have large, thin surfaces.\n\nWhat should I already understand?\n\nDiffusion, concentration gradients and cell size.\n\nPrevious: Diffusion\nNext recommended: Osmosis\n\nWhy exchange surfaces are needed\n\nThin exchange surfaces shorten the diffusion distance. Larger organisms have a smaller surface-area-to-volume ratio and need specialised exchange and transport systems.\n\n\n\nExchange adaptations\n\nExchange surfaces must meet demand. Alveoli in lungs have a large total area, thin walls, a good blood supply and ventilation; ventilation and blood flow maintain oxygen/carbon-dioxide gradients. Fish gill filaments and lamellae provide a large area and short diffusion path; blood flow and water moving over the gills maintain gas gradients. No detailed counter-current mechanism is needed here. Villi and microvilli increase small-intestine absorption area; a thin surface shortens the path and blood flow carries absorbed substances away. Root hairs increase contact area with soil for water and ion uptake. Thin leaves give a short gas pathway; stomata permit gas movement and air spaces expose a large area of mesophyll to gases. Photosynthesis can maintain inward carbon-dioxide and outward oxygen gradients; cells also respire, so direction depends on conditions. Plants do not have blood: do not transfer animal ventilation/blood-supply explanations uncritically to leaves and roots. In an unfamiliar organism, justify each adaptation using area, path length or maintenance of gradients rather than simply naming the organ. Use the existing Organisation lessons for alveoli, villi, leaf tissues and plant transport context.\n\nSurface-area-to-volume reasoning\n\nA cube with side 1 has surface area 6 and volume 1: its ratio is 6:1. Doubling the side gives area 24 and volume 8, a ratio of 3:1. The decreasing ratio helps explain why diffusion alone becomes insufficient as organisms get larger.\n\nA single-celled organism often has a relatively large surface-area-to-volume ratio and a short distance from its surroundings to its interior, allowing diffusion to meet demand. As an organism grows, volume (and demand) increases faster than surface area, so specialised exchange surfaces and transport systems become necessary. Compare equal-volume shapes as well as different sizes. For a rectangular model, surface area = 2(length × width + length × height + width × height); volume = length × width × height. A cube with side 2 has area 24 and volume 8, so SA:V is 3:1. A flat 1 × 2 × 4 model also has volume 8 but area 2(2+4+8)=28, giving 3.5:1; it has more exchange area for the same volume and a shorter path across its thin dimension. Area uses squared units and volume cubed units; the ratio is conventionally reported as SA:V. Shape models simplify real organisms, whose surfaces may fold and whose cells differ in activity.\n\nWhat should I demonstrate?\n\nCalculate and compare surface-area-to-volume ratios; explain how exchange adaptations support diffusion.\n\nDemonstrate understanding through existing practice and assessment. The existing scoring and independent Osmosis Lab checks are unchanged; visiting a milestone is not evidence of mastery.\n\nExisting practice for these source lessons\n← Diffusion\nNext: Osmosis →"
+    },
+    {
+      "milestone": "9 Osmosis",
+      "visible": "CELL BIOLOGY · MILESTONE 9 OF 12\n\nOsmosis\nWhy am I learning this?\n\nWater movement can make plant cells firm or cause them to lose water. Osmosis explains wilting plants and why potato tissue changes mass in different solutions.\n\nWhat should I already understand?\n\nDiffusion, concentration gradients, cell membranes and exchange.\n\nPrevious: Surface area and exchange\nNext recommended: Required Practical 2: Osmosis\n\nWater movement overview\n\nOsmosis is the net movement of water through a partially permeable membrane from a more dilute solution to a more concentrated solution. Water entering a plant cell helps make it turgid.\n\n\n\nOsmosis and cells\n\nOsmosis is specifically the net diffusion of water through a partially permeable membrane from a dilute solution to a more concentrated solution. The membrane permits water through but restricts some dissolved substances. In dilute surroundings, water can enter cells. A plant cell becomes turgid as its contents push against its supporting wall; an animal cell has no wall and may swell and burst in sufficiently dilute surroundings. In concentrated surroundings cells lose water and shrink; plant tissue may become less firm. These effects follow water movement, not movement of sugar into the cell.\n\nINTERACTIVE TUTOR · 20–25 MINUTES\nWhy does a potato gain or lose water?\nWatch: how water moves\n\nA narrated animation that explains what you are seeing in plain English. Turn your sound on. Subtitles appear in their own panel below the animation. Pause at the prediction and explain your answer.\n\nRead the full spoken explanation\n\nRead the video description\n\nExplore a membrane, make predictions and explain your thinking. AQA osmosis · Foundation and Higher.\n\nStart osmosis journey →\nWhat should I demonstrate?\n\nExplain net water movement through a partially permeable membrane and predict effects on plant and animal cells.\n\nDemonstrate understanding through existing practice and assessment. The existing scoring and independent Osmosis Lab checks are unchanged; visiting a milestone is not evidence of mastery.\n\nExisting practice for these source lessons\n← Surface area and exchange\nNext: Required Practical 2: Osmosis →"
+    },
+    {
+      "milestone": "10 Required Practical 2: Osmosis",
+      "visible": "CELL BIOLOGY · MILESTONE 10 OF 12\n\nRequired Practical 2: Osmosis\nWhy am I learning this?\n\nComparing potato mass in different solutions tests an osmosis prediction. Fair measurements and graphs help distinguish a real effect from experimental error.\n\nWhat should I already understand?\n\nOsmosis theory and its predictions about water movement.\n\nPrevious: Osmosis\nNext recommended: Active transport\n\nAnalysing mass changes and graphs\n\nPercentage change in mass = (final mass − initial mass) / initial mass ×100. For 2.0 g becoming 2.3 g, change is +0.3 g and percentage change is +15%; for 2.5 g becoming 2.0 g, it is −20%. A negative sign records loss; a percentage is not a mass in grams. Mean rate of water uptake can be estimated from mass gain / time when other mass changes are negligible: 0.30 g in 20 min = 0.015 g/min = 15 mg/min. This is an average, not proof that uptake was constant. Blotting consistently reduces surface-water error. Plot solution concentration on the horizontal axis and percentage mass change on the vertical axis, with labels, units, a suitable even scale and both gains and losses. For example, results at 0, 2, 4 and 6 g sugar per 100 mL of final solution of +15%, +5%, −5% and −15% cross zero between 2 and 4, approximately 3 g/100 mL. Use an appropriate trend line and interpolate; do not force it through the origin. Near the zero-change concentration, the solution and tissue have no net water exchange under the conditions (approximately isotonic). Water still moves both ways. This estimates the tissue's equivalent solute concentration; it does not show cells have stopped all transport, identify each solute, or give an exact value beyond the data precision. Use more concentrations near the crossing to improve the estimate. Practise plotting the separate dataset below before viewing its graph.\n\nPreparing for the physical required practical\n\nInvestigate the effect of a range of salt or sugar concentrations on plant-tissue mass (AQA Trilogy required practical 2).\n\nReview the theory in the previous milestone. Follow your teacher’s safety instructions in the laboratory. Reading this guidance or using the Osmosis Lab does not complete the physical required practical.\n\nExperimental method\n\nRP02 investigates how a range of salt or sugar solution concentrations affects the mass of plant tissue. Use the same type/source of plant tissue, for example potato cylinders cut with the same borer and trimmed to equal length; equal dimensions help control surface area and diffusion distance. A teacher prepares/carries out cutting or supervises use of a borer/scalpel on a safe surface; cut away from fingers, use eye protection as instructed and follow school sharps procedures. Do not taste laboratory materials; clean spills to prevent slips and wash hands. Label a range of known solution concentrations and use the same solution volume for each. Record concentration units consistently, such as g sugar per 100 mL final solution. Gently blot each sample in the same way, measure initial mass on a suitably precise balance and record dimensions if needed to check consistency. Immerse samples fully for the same time at the same temperature, using separate repeat samples at each concentration. Remove them, blot consistently without squeezing out internal water, and record final mass. Keep tissue source, dimensions, immersion time, temperature and solution volume controlled. Initial/final length can provide supplementary observations but does not replace the required mass measurements. Calculate final minus initial mass, then percentage change using initial mass as the denominator. This permits fairer comparison when initial masses differ slightly. Calculate each repeat's percentage change before taking a mean; record spread and investigate unexpected values. Plot mean percentage change against concentration, include negative results, and use an appropriate line/curve of best fit to estimate where it crosses zero. A point is not discarded merely for being inconvenient: investigate a recorded cause, repeat it, and explain any exclusion. More independent repeats improve reliability; closer concentration intervals near zero improve the concentration estimate. A finer balance may reduce measurement uncertainty; repeating an unchanged biased procedure does not remove its systematic error.\n\nControls and fair comparisons\n\nSame tissue source and dimensions; equal solution volume, temperature and immersion time; consistent blotting and balance procedure. Independent repeat samples at each concentration; record and investigate anomalies.\n\nAnalysing results and evaluating errors\n\nWorked example: initial 2.0 g, final 2.3 g gives +0.3 g and +15%. Initial 2.5 g, final 2.0 g gives −0.5 g and −20%. If +0.30 g is gained in 20 minutes, mean water-uptake estimate = 0.015 g/min. Example graph: +15, +5, −5, −15% at 0, 2, 4, 6 g/100 mL crosses zero near 3 g/100 mL. This is an estimate under those conditions, not proof that water molecules stop moving.\n\nUse initial mass, not final mass, as the percentage denominator. Surface solution can inflate final mass. Plot concentration horizontally and percentage vertically; do not force the trend through the origin or extrapolate beyond the data without justification. Recording length alone does not complete this mass investigation.\n\nWhat should I demonstrate?\n\nPlan controlled measurements and repeats; calculate percentage mass change, interpret graphs and evaluate errors.\n\nDemonstrate understanding through existing practice and assessment. The existing scoring and independent Osmosis Lab checks are unchanged; visiting a milestone is not evidence of mastery.\n\nExisting practice for these source lessons\n← Osmosis\nNext: Active transport →"
+    },
+    {
+      "milestone": "11 Active transport",
+      "visible": "CELL BIOLOGY · MILESTONE 11 OF 12\n\nActive transport\nWhy am I learning this?\n\nRoots absorb minerals even from dilute soil, and the gut absorbs glucose against a gradient. These jobs require cells to use energy.\n\nWhat should I already understand?\n\nDiffusion, osmosis and the respiration-energy introduction below.\n\nPrevious: Required Practical 2: Osmosis\nNext recommended: Cell Biology assessment\n\nBefore active transport: energy from respiration\n\nRespiration releases energy from glucose in cells. Energy transferred by respiration powers cell processes; mitochondria are the site of aerobic respiration. Moving a substance against its concentration gradient requires this energy supply. Compare that with diffusion and osmosis, which do not require energy from respiration.\n\nTransport against a gradient\n\nActive transport moves substances against their concentration gradient and requires energy transferred by respiration. Root hair cells can absorb mineral ions from dilute soil water this way.\n\nActive transport and comparisons\n\nActive transport uses energy supplied by respiration to move dissolved substances from a lower concentration to a higher concentration, against the gradient. Root-hair cells can accumulate mineral ions from dilute soil water, helping healthy growth even when their internal ion concentration is greater. Small-intestine cells can absorb glucose from a lower concentration in the gut into blood with a higher glucose concentration; glucose supplies respiration. Diffusion alone cannot sustain uptake against that gradient. Compare the processes: diffusion can move dissolved substances or gases down their own gradients without energy from respiration; osmosis moves water across a partially permeable membrane from dilute to concentrated solution without energy from respiration; active transport moves substances against their gradient and requires respiration energy. Decide from the substance, membrane, direction and energy evidence rather than assuming every root-uptake process is active transport: water enters by osmosis.\n\nWhat should I demonstrate?\n\nCompare active transport with diffusion and osmosis; explain mineral and glucose uptake and their energy requirement.\n\nDemonstrate understanding through existing practice and assessment. The existing scoring and independent Osmosis Lab checks are unchanged; visiting a milestone is not evidence of mastery.\n\nExisting practice for these source lessons\n← Required Practical 2: Osmosis\nNext: Cell Biology assessment →"
+    },
+    {
+      "milestone": "12 Cell Biology assessment",
+      "visible": "CELL BIOLOGY · MILESTONE 12 OF 12\n\nCell Biology assessment\nWhy am I learning this?\n\nExplaining ideas without reading a model answer reveals what you understand and what needs another look. This brings cell structures, growth and transport together.\n\nWhat should I already understand?\n\nAll eleven earlier milestones; revisit any freely before answering.\n\nPrevious: Active transport\nNext recommended: Organisation: cells to tissues, organs and organ systems\n\nFinal Cell Biology assessment\n\nTry the existing written module test independently before revealing its model answers. It samples existing questions; it is not a comprehensive certification of every specification point. Mixed practice and reviewing mistakes support further revision.\n\nStart Cell Biology assessment →\nMixed Cell Biology practice →\nWhat should I demonstrate?\n\nAnswer independently before revealing models, review mistakes and practise weaker areas. Opening a lesson never awards mastery.\n\nDemonstrate understanding through existing practice and assessment. The existing scoring and independent Osmosis Lab checks are unchanged; visiting a milestone is not evidence of mastery.\n\n← Active transport\nContinue to Organisation · revision access →"
+    },
+    {
+      "check": "assessment accessible",
+      "text": "← Back\nStudy Hub\n← Tests\nBiology · Cell Biology\n\nAQA · Higher\n\nOriginal practice questions. Completion is recorded separately from mastery.\n\n1. On the cell diagram, what does A point to? (1 practice marks)\n2. Which part directly assembles proteins? (1 practice marks)\n3. Which statement about bacterial DNA is correct? (1 practice marks)\n4. A sperm cell has a long tail. What is the clearest link between feature and function? (1 practice marks)\n5. A cell image is 20 mm wide and the real cell is 0.05 mm wide. What is the magnification? (1 practice marks)\n6. Which sequence gives a sensible way to view a new specimen? (1 practice marks)\nSubmit test"
+    },
+    {
+      "check": "homepage and reload resume",
+      "text": "Continue learning · Cell Biology\n\nResume milestone 12 of 12: Cell Biology assessment. Next recommended: Organisation: cells to tissues, organs and organ systems.\n\nResume Cell Biology →"
+    },
+    {
+      "check": "Osmosis saved answer survives reload",
+      "text": "pre",
+      "value": "Browser verification: water and particles continue moving in both directions."
+    },
+    {
+      "check": "mobile menu",
+      "labels": [
+        "Home",
+        "Subjects",
+        "Science course",
+        "Learning Lab",
+        "Past Papers",
+        "Adaptive Quiz",
+        "Module Tests",
+        "Progress",
+        "Dentist Path",
+        "Settings"
+      ]
+    }
+  ],
+  "responsive": [
+    {
+      "labels": [
+        {
+          "client": 244,
+          "scroll": 244,
+          "text": "1What are cells?"
+        },
+        {
+          "client": 244,
+          "scroll": 244,
+          "text": "2Cell structures and cell types"
+        },
+        {
+          "client": 244,
+          "scroll": 244,
+          "text": "3Specialised cells"
+        },
+        {
+          "client": 244,
+          "scroll": 244,
+          "text": "4Microscopy"
+        },
+        {
+          "client": 244,
+          "scroll": 244,
+          "text": "5Required Practical 1: Microscopy"
+        },
+        {
+          "client": 244,
+          "scroll": 244,
+          "text": "6Chromosomes, cell division and stem cells"
+        },
+        {
+          "client": 244,
+          "scroll": 244,
+          "text": "7Diffusion"
+        },
+        {
+          "client": 244,
+          "scroll": 244,
+          "text": "8Surface area and exchange"
+        },
+        {
+          "client": 244,
+          "scroll": 244,
+          "text": "9Osmosis"
+        },
+        {
+          "client": 244,
+          "scroll": 244,
+          "text": "10Required Practical 2: Osmosis"
+        },
+        {
+          "client": 244,
+          "scroll": 244,
+          "text": "11Active transport"
+        },
+        {
+          "client": 244,
+          "scroll": 244,
+          "text": "12Cell Biology assessment"
+        }
+      ],
+      "scroll": 320,
+      "width": 320
+    },
+    {
+      "labels": [
+        {
+          "client": 299,
+          "scroll": 299,
+          "text": "1What are cells?"
+        },
+        {
+          "client": 299,
+          "scroll": 299,
+          "text": "2Cell structures and cell types"
+        },
+        {
+          "client": 299,
+          "scroll": 299,
+          "text": "3Specialised cells"
+        },
+        {
+          "client": 299,
+          "scroll": 299,
+          "text": "4Microscopy"
+        },
+        {
+          "client": 299,
+          "scroll": 299,
+          "text": "5Required Practical 1: Microscopy"
+        },
+        {
+          "client": 299,
+          "scroll": 299,
+          "text": "6Chromosomes, cell division and stem cells"
+        },
+        {
+          "client": 299,
+          "scroll": 299,
+          "text": "7Diffusion"
+        },
+        {
+          "client": 299,
+          "scroll": 299,
+          "text": "8Surface area and exchange"
+        },
+        {
+          "client": 299,
+          "scroll": 299,
+          "text": "9Osmosis"
+        },
+        {
+          "client": 299,
+          "scroll": 299,
+          "text": "10Required Practical 2: Osmosis"
+        },
+        {
+          "client": 299,
+          "scroll": 299,
+          "text": "11Active transport"
+        },
+        {
+          "client": 299,
+          "scroll": 299,
+          "text": "12Cell Biology assessment"
+        }
+      ],
+      "scroll": 375,
+      "width": 375
+    },
+    {
+      "labels": [
+        {
+          "client": 314,
+          "scroll": 314,
+          "text": "1What are cells?"
+        },
+        {
+          "client": 314,
+          "scroll": 314,
+          "text": "2Cell structures and cell types"
+        },
+        {
+          "client": 314,
+          "scroll": 314,
+          "text": "3Specialised cells"
+        },
+        {
+          "client": 314,
+          "scroll": 314,
+          "text": "4Microscopy"
+        },
+        {
+          "client": 314,
+          "scroll": 314,
+          "text": "5Required Practical 1: Microscopy"
+        },
+        {
+          "client": 314,
+          "scroll": 314,
+          "text": "6Chromosomes, cell division and stem cells"
+        },
+        {
+          "client": 314,
+          "scroll": 314,
+          "text": "7Diffusion"
+        },
+        {
+          "client": 314,
+          "scroll": 314,
+          "text": "8Surface area and exchange"
+        },
+        {
+          "client": 314,
+          "scroll": 314,
+          "text": "9Osmosis"
+        },
+        {
+          "client": 314,
+          "scroll": 314,
+          "text": "10Required Practical 2: Osmosis"
+        },
+        {
+          "client": 314,
+          "scroll": 314,
+          "text": "11Active transport"
+        },
+        {
+          "client": 314,
+          "scroll": 314,
+          "text": "12Cell Biology assessment"
+        }
+      ],
+      "scroll": 390,
+      "width": 390
+    },
+    {
+      "labels": [
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "1What are cells?"
+        },
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "2Cell structures and cell types"
+        },
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "3Specialised cells"
+        },
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "4Microscopy"
+        },
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "5Required Practical 1: Microscopy"
+        },
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "6Chromosomes, cell division and stem cells"
+        },
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "7Diffusion"
+        },
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "8Surface area and exchange"
+        },
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "9Osmosis"
+        },
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "10Required Practical 2: Osmosis"
+        },
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "11Active transport"
+        },
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "12Cell Biology assessment"
+        }
+      ],
+      "scroll": 414,
+      "width": 414
+    },
+    {
+      "labels": [
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "1What are cells?"
+        },
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "2Cell structures and cell types"
+        },
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "3Specialised cells"
+        },
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "4Microscopy"
+        },
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "5Required Practical 1: Microscopy"
+        },
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "6Chromosomes, cell division and stem cells"
+        },
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "7Diffusion"
+        },
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "8Surface area and exchange"
+        },
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "9Osmosis"
+        },
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "10Required Practical 2: Osmosis"
+        },
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "11Active transport"
+        },
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "12Cell Biology assessment"
+        }
+      ],
+      "scroll": 768,
+      "width": 768
+    },
+    {
+      "labels": [
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "1What are cells?"
+        },
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "2Cell structures and cell types"
+        },
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "3Specialised cells"
+        },
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "4Microscopy"
+        },
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "5Required Practical 1: Microscopy"
+        },
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "6Chromosomes, cell division and stem cells"
+        },
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "7Diffusion"
+        },
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "8Surface area and exchange"
+        },
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "9Osmosis"
+        },
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "10Required Practical 2: Osmosis"
+        },
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "11Active transport"
+        },
+        {
+          "client": 331,
+          "scroll": 331,
+          "text": "12Cell Biology assessment"
+        }
+      ],
+      "scroll": 820,
+      "width": 820
+    }
+  ],
+  "realIPhoneSafariVerified": false
+}

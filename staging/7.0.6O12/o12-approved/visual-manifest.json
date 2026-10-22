@@ -1,0 +1,439 @@
+{
+  "F-CELL": {
+    "title": "F-CELL · Animal cell",
+    "alt": "An oval cell has an outer boundary, a large central oval compartment, smaller ovals with internal folds, and small dots. Leader A ends inside the large central compartment.",
+    "requiredLabels": [
+      "A"
+    ],
+    "width": 480,
+    "height": 270
+  },
+  "F-DRAWING": {
+    "title": "F-DRAWING · Two observation records",
+    "alt": "Drawing P is an oval with a smaller oval inside. Drawing Q has a similar layout but occupies more width and height on the page. Apart from P, Q and the observation-drawing caption, no measurements or other labels are printed.",
+    "requiredLabels": [
+      "Drawing P",
+      "Drawing Q"
+    ],
+    "width": 480,
+    "height": 235,
+    "intentionalAssessmentOmission": "No scale/magnification: the target of question 2d."
+  },
+  "F-CILIATED": {
+    "title": "F-CILIATED · Unfamiliar cell",
+    "alt": "A cell has many thin projections along its upper surface. The projections beat to move liquid, as stated in the question. Several internal folded ovals are labelled mitochondria. No energy process or function of mitochondria is printed.",
+    "requiredLabels": [
+      "Beating projections",
+      "Many mitochondria"
+    ],
+    "width": 480,
+    "height": 290
+  },
+  "F-CUBE": {
+    "title": "F-CUBE · Cube model",
+    "alt": "A cube is shown in perspective. One complete side is labelled 2 mm. The drawing is schematic, not to scale. Use the stated value, not a physical measurement of the drawing.",
+    "requiredLabels": [
+      "2 mm"
+    ],
+    "width": 480,
+    "height": 230
+  },
+  "F-GILL": {
+    "title": "F-GILL · Gill folds",
+    "alt": "Several long, thin tissue folds project into surrounding water. A connected blood channel runs inside each fold, separated from the water by a thin tissue boundary. Labels identify water, the boundary and blood channels; no explanation of their effects is printed.",
+    "requiredLabels": [
+      "Water",
+      "Thin tissue",
+      "Blood channels"
+    ],
+    "width": 480,
+    "height": 340
+  },
+  "F-ION": {
+    "title": "F-ION · Mineral-ion uptake",
+    "alt": "The outside concentration is 0.4 units and the inside root-hair concentration is 2.0 units, using the same arbitrary units. The observed uptake arrow points from outside into the root hair, crossing the cell membrane. No process or energy source is named.",
+    "requiredLabels": [
+      "0.4 units",
+      "2.0 units",
+      "Observed ion uptake"
+    ],
+    "width": 480,
+    "height": 310,
+    "direction": "outside-to-inside",
+    "concentrations": [
+      0.4,
+      2.0
+    ]
+  },
+  "F-STEM-TABLE": {
+    "title": "F-STEM-TABLE · Experimental treatment",
+    "alt": "Table. Feature; Information. Feature: Potential outcome; Information: Could replace damaged nerve cells. Feature: Safety observation; Information: A virus could be transferred. Feature: Cell source; Information: Embryos are used.",
+    "requiredLabels": [
+      "Feature",
+      "Information"
+    ],
+    "width": 480,
+    "height": 246,
+    "tableHeaders": [
+      "Feature",
+      "Information"
+    ],
+    "tableRows": [
+      [
+        "Potential outcome",
+        "Could replace damaged nerve cells"
+      ],
+      [
+        "Safety observation",
+        "A virus could be transferred"
+      ],
+      [
+        "Cell source",
+        "Embryos are used"
+      ]
+    ]
+  },
+  "F-DIFF-TABLE": {
+    "title": "F-DIFF-TABLE · Controlled diffusion test",
+    "alt": "Table. Temperature / °C; Mean rate / units/min. Temperature / °C: 10; Mean rate / units/min: 0.30. Temperature / °C: 20; Mean rate / units/min: 0.60.",
+    "requiredLabels": [
+      "Temperature / °C",
+      "Mean rate / units/min"
+    ],
+    "width": 480,
+    "height": 182,
+    "tableHeaders": [
+      "Temperature / °C",
+      "Mean rate / units/min"
+    ],
+    "tableRows": [
+      [
+        "10",
+        "0.30"
+      ],
+      [
+        "20",
+        "0.60"
+      ]
+    ]
+  },
+  "F-MASS-TABLE": {
+    "title": "F-MASS-TABLE · Pilot batch for 7a",
+    "alt": "Table. Measurement; Recorded value. Measurement: Sucrose (mol/dm³); Recorded value: 0.10. Measurement: Initial mass / g; Recorded value: 2.40. Measurement: Final mass / g; Recorded value: 2.64.",
+    "requiredLabels": [
+      "Measurement",
+      "Recorded value"
+    ],
+    "width": 480,
+    "height": 228,
+    "tableHeaders": [
+      "Measurement",
+      "Recorded value"
+    ],
+    "tableRows": [
+      [
+        "Sucrose (mol/dm³)",
+        "0.10"
+      ],
+      [
+        "Initial mass / g",
+        "2.40"
+      ],
+      [
+        "Final mass / g",
+        "2.64"
+      ]
+    ]
+  },
+  "F-OSM-TABLE": {
+    "title": "F-OSM-TABLE · Investigation for 7b",
+    "alt": "Table. Sucrose (mol/dm³); Mass change / %. Sucrose (mol/dm³): 0.00; Mass change / %: +8. Sucrose (mol/dm³): 0.20; Mass change / %: +4. Sucrose (mol/dm³): 0.40; Mass change / %: 0. Sucrose (mol/dm³): 0.60; Mass change / %: −4. Sucrose (mol/dm³): 0.80; Mass change / %: −8.",
+    "requiredLabels": [
+      "Sucrose (mol/dm³)",
+      "Mass change / %"
+    ],
+    "width": 480,
+    "height": 350,
+    "tableHeaders": [
+      "Sucrose (mol/dm³)",
+      "Mass change / %"
+    ],
+    "tableRows": [
+      [
+        "0.00",
+        "+8"
+      ],
+      [
+        "0.20",
+        "+4"
+      ],
+      [
+        "0.40",
+        "0"
+      ],
+      [
+        "0.60",
+        "−4"
+      ],
+      [
+        "0.80",
+        "−8"
+      ]
+    ]
+  },
+  "F-OSM-GRAPH": {
+    "title": "F-OSM-GRAPH · Investigation for 7b",
+    "alt": "Graph with horizontal axis sucrose concentration in mol/dm³ and vertical axis percentage mass change. The plotted coordinates are (0.00, +8), (0.20, +4), (0.40, +0), (0.60, -4), (0.80, -8). Consecutive points are joined. The corresponding table provides the same data. No intercept value or conclusion is printed.",
+    "requiredLabels": [
+      "Mass change / %",
+      "Sucrose concentration (mol/dm³)"
+    ],
+    "width": 480,
+    "height": 365,
+    "x": [
+      0,
+      0.2,
+      0.4,
+      0.6,
+      0.8
+    ],
+    "y": [
+      8,
+      4,
+      0,
+      -4,
+      -8
+    ],
+    "xRange": [
+      0,
+      0.8
+    ],
+    "yRange": [
+      -10,
+      10
+    ],
+    "zeroHighlighted": false
+  },
+  "H-CELL": {
+    "title": "H-CELL · Leaf cell",
+    "alt": "A rectangular leaf cell has a thick outer boundary, an inner boundary, a large pale central region, a smaller oval region to one side, and several green ovals containing stacked marks. Leader B ends inside an upper-right green oval.",
+    "requiredLabels": [
+      "B"
+    ],
+    "width": 480,
+    "height": 270
+  },
+  "H-DRAWING": {
+    "title": "H-DRAWING · Student record",
+    "alt": "An oval-cell drawing has a horizontal measurement line. The recorded displayed length is 4 cm. The student has also written “Actual cell length = 4 cm”. No magnification or calibrated scale is recorded.",
+    "requiredLabels": [
+      "4 cm"
+    ],
+    "width": 480,
+    "height": 235,
+    "intentionalAssessmentOmission": "The student treats displayed size as real size; no calibration supplied."
+  },
+  "H-NERVE": {
+    "title": "H-NERVE · Nerve cell",
+    "alt": "A cell body is joined to a long thin extension. The extension ends in several branches. More short branches extend from the cell body. Labels identify the long extension and branched ends, without stating their functions.",
+    "requiredLabels": [
+      "Long extension",
+      "Branched ends"
+    ],
+    "width": 480,
+    "height": 290
+  },
+  "H-CUBE": {
+    "title": "H-CUBE · Cube model",
+    "alt": "A cube is shown in perspective. One complete side is labelled 0.5 mm. The drawing is schematic, not to scale. Use the stated value, not a physical measurement of the drawing.",
+    "requiredLabels": [
+      "0.5 mm"
+    ],
+    "width": 480,
+    "height": 230
+  },
+  "H-LEAF": {
+    "title": "H-LEAF · Leaf exchange surface",
+    "alt": "A transverse leaf section has upper and lower surface layers, elongated cells near the upper layer and separated rounded cells with air spaces below. A gap in the lower surface is labelled stoma. A leader identifies an internal air space. No exchange explanation is printed.",
+    "requiredLabels": [
+      "Air spaces",
+      "Stoma"
+    ],
+    "width": 480,
+    "height": 340
+  },
+  "H-GLUCOSE": {
+    "title": "H-GLUCOSE · Glucose uptake route",
+    "alt": "The overall route goes from small-intestine contents through intestinal lining cells to blood. Glucose concentrations are 1.2 units in the intestine and 4.8 units in blood, using the same arbitrary units. Two arrows show the overall uptake direction. This is not one direct gut-to-blood pump; no process or energy requirement is labelled.",
+    "requiredLabels": [
+      "1.2 units",
+      "4.8 units",
+      "Intestinal",
+      "Blood"
+    ],
+    "width": 480,
+    "height": 290,
+    "direction": "gut-through-lining-to-blood",
+    "concentrations": [
+      1.2,
+      4.8
+    ]
+  },
+  "H-STEM-TABLE": {
+    "title": "H-STEM-TABLE · Rare-plant cloning",
+    "alt": "Table. Feature; Information. Feature: Production; Information: Many identical plants produced quickly. Feature: Existing trait; Information: Current disease resistance is preserved. Feature: Concern; Information: A new disease may affect many genetically uniform clones.",
+    "requiredLabels": [
+      "Feature",
+      "Information"
+    ],
+    "width": 480,
+    "height": 282,
+    "tableHeaders": [
+      "Feature",
+      "Information"
+    ],
+    "tableRows": [
+      [
+        "Production",
+        "Many identical plants produced quickly"
+      ],
+      [
+        "Existing trait",
+        "Current disease resistance is preserved"
+      ],
+      [
+        "Concern",
+        "A new disease may affect many genetically uniform clones"
+      ]
+    ]
+  },
+  "H-DIFF-TABLE": {
+    "title": "H-DIFF-TABLE · Rates / units/min",
+    "alt": "Table. Temp / °C; Trial 1; Trial 2; Trial 3. Temp / °C: 15; Trial 1: 0.24; Trial 2: 0.26; Trial 3: 0.25. Temp / °C: 25; Trial 1: 0.44; Trial 2: 0.46; Trial 3: 0.45.",
+    "requiredLabels": [
+      "Temp / °C",
+      "Trial 1",
+      "Trial 2",
+      "Trial 3"
+    ],
+    "width": 480,
+    "height": 182,
+    "tableHeaders": [
+      "Temp / °C",
+      "Trial 1",
+      "Trial 2",
+      "Trial 3"
+    ],
+    "tableRows": [
+      [
+        "15",
+        "0.24",
+        "0.26",
+        "0.25"
+      ],
+      [
+        "25",
+        "0.44",
+        "0.46",
+        "0.45"
+      ]
+    ]
+  },
+  "H-MASS-TABLE": {
+    "title": "H-MASS-TABLE · Pilot batch for 7a",
+    "alt": "Table. Measurement; Recorded value. Measurement: Sucrose (mol/dm³); Recorded value: 0.50. Measurement: Initial mass / g; Recorded value: 3.20. Measurement: Final mass / g; Recorded value: 2.92.",
+    "requiredLabels": [
+      "Measurement",
+      "Recorded value"
+    ],
+    "width": 480,
+    "height": 228,
+    "tableHeaders": [
+      "Measurement",
+      "Recorded value"
+    ],
+    "tableRows": [
+      [
+        "Sucrose (mol/dm³)",
+        "0.50"
+      ],
+      [
+        "Initial mass / g",
+        "3.20"
+      ],
+      [
+        "Final mass / g",
+        "2.92"
+      ]
+    ]
+  },
+  "H-OSM-TABLE": {
+    "title": "H-OSM-TABLE · Investigation for 7b",
+    "alt": "Table. Sucrose (mol/dm³); Mass change / %. Sucrose (mol/dm³): 0.00; Mass change / %: +11. Sucrose (mol/dm³): 0.15; Mass change / %: +5. Sucrose (mol/dm³): 0.30; Mass change / %: +1. Sucrose (mol/dm³): 0.45; Mass change / %: −7.5. Sucrose (mol/dm³): 0.60; Mass change / %: −12.",
+    "requiredLabels": [
+      "Sucrose (mol/dm³)",
+      "Mass change / %"
+    ],
+    "width": 480,
+    "height": 350,
+    "tableHeaders": [
+      "Sucrose (mol/dm³)",
+      "Mass change / %"
+    ],
+    "tableRows": [
+      [
+        "0.00",
+        "+11"
+      ],
+      [
+        "0.15",
+        "+5"
+      ],
+      [
+        "0.30",
+        "+1"
+      ],
+      [
+        "0.45",
+        "−7.5"
+      ],
+      [
+        "0.60",
+        "−12"
+      ]
+    ]
+  },
+  "H-OSM-GRAPH": {
+    "title": "H-OSM-GRAPH · Investigation for 7b",
+    "alt": "Graph with horizontal axis sucrose concentration in mol/dm³ and vertical axis percentage mass change. The plotted coordinates are (0.00, +11), (0.15, +5), (0.30, +1), (0.45, -7.5), (0.60, -12). Consecutive points are joined. The corresponding table provides the same data. No intercept value or conclusion is printed.",
+    "requiredLabels": [
+      "Mass change / %",
+      "Sucrose concentration (mol/dm³)"
+    ],
+    "width": 480,
+    "height": 365,
+    "x": [
+      0,
+      0.15,
+      0.3,
+      0.45,
+      0.6
+    ],
+    "y": [
+      11,
+      5,
+      1,
+      -7.5,
+      -12
+    ],
+    "xRange": [
+      0,
+      0.6
+    ],
+    "yRange": [
+      -15,
+      15
+    ],
+    "zeroHighlighted": false
+  }
+}

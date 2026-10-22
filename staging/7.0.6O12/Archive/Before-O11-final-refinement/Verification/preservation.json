@@ -1,0 +1,21 @@
+{
+  "baseline": "GCSE-Study-Hub-O11-ACTIVE-TRANSPORT-OPEN-THIS.zip",
+  "baseline_sha256": "af73d01a1659a88fd84ac32be4420966b3d595acba31de7873f2b9494e4f9ede",
+  "unchanged_files_before_final_evidence_copy": 517,
+  "changed_before_evidence_copy": [
+    "CURRENT-BUILD.txt",
+    "PROJECT-ROADMAP.md",
+    "active-transport-assessment.js",
+    "active-transport.css",
+    "index.html",
+    "package.json",
+    "preview-o11-build-id.txt",
+    "preview-o11.py",
+    "tests/active-transport-o11.test.cjs"
+  ],
+  "missing_baseline_files": [],
+  "approved_stage2_tutor_source_byte_identical": true,
+  "o1_o10_js_css_changed": [],
+  "original_verification_preserved_at": "Archive/Before-O11-refinement/Verification",
+  "new_refinement_tests": 24
+}

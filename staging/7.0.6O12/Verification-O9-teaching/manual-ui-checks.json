@@ -1,0 +1,31 @@
+{
+  "browser": "Native in-app browser on macOS",
+  "graph_keyboard": {
+    "input": "Home then ArrowRight",
+    "selectedConcentration": 0.1,
+    "percentChange": 19.6,
+    "classification": "Estimated between measurements"
+  },
+  "graph_pointer": {
+    "input": "Click range centre",
+    "selectedConcentration": 4,
+    "percentChange": 4,
+    "classification": "Dataset measurement"
+  },
+  "phone_sign_button": {
+    "viewport": [
+      390,
+      844
+    ],
+    "input": "Type 10, click Change sign, then Check and explain",
+    "result": "-10% correct for 8 g to 7.2 g; biological mass-loss explanation shown; no mastery"
+  },
+  "visual_review": [
+    "cell-desktop.png",
+    "cell-mobile.png",
+    "cucumber-mobile.png",
+    "calculation-mobile.png"
+  ],
+  "physical_iPhone_Safari": "Not verified",
+  "audible_narration_and_subtitle_timing": "Not verified"
+}

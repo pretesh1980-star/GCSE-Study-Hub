@@ -1,0 +1,1670 @@
+{
+  "build": "7.0.5X",
+  "method": "Targeted review of seven units using existing cached AQA 8464 Biology specification and established 78-unit framework. Teaching/revision, direct applications, answers/feedback, practical/skills and shared/Higher eligibility reviewed; not keyword-based promotion or whole-course discovery audit.",
+  "before": {
+    "fullyCovered": 35,
+    "partial": 42,
+    "missing": 1,
+    "higherOnlyAdequate": 0
+  },
+  "after": {
+    "fullyCovered": 42,
+    "partial": 35,
+    "missing": 1,
+    "higherOnlyAdequate": 0
+  },
+  "units": [
+    {
+      "specRef": "4.4.1.1",
+      "title": "Photosynthetic reaction",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Existing Photosynthesis and diagram retained; word equation, four formula recognitions, endothermic light transfer to chloroplasts/chlorophyll made explicit. Cached Trilogy scope does not require a balanced symbol equation.",
+      "assessment": "q01 directly assesses word equation, symbol recognition and endothermic explanation; prior gas/product questions retained.",
+      "answersFeedback": "Every new question includes model answer, criteria and misconception feedback. Written responses use existing self-assessment; time answers accept equivalent time units only.",
+      "skillsAndPractical": "Energy-transfer language and chemical symbols.",
+      "tier": "Shared Foundation/unsure/Higher except explicitly separated interacting-factor/inverse-square/economics and detailed recovery requirements.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Bioenergetics|Photosynthesis"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-bioenergetics-0-0",
+        "aqa-bio-step-bioenergetics-0-1",
+        "bio-deep-bioenergetics-photosynthesis-summary",
+        "bio-deep-bioenergetics-photosynthesis-keyword",
+        "bio-deep-bioenergetics-photosynthesis-explain",
+        "bio-deep-bioenergetics-photosynthesis-justify",
+        "bio-deep-bioenergetics-photosynthesis-improve",
+        "bio-deep-bioenergetics-photosynthesis-grade9",
+        "bio2-photo-gas",
+        "aqa-bioenergetics-completion-q01"
+      ],
+      "supportRefs": [
+        "Biology|support|diagram-photosynthesis"
+      ],
+      "higherLessonRefs": [],
+      "higherQuestionRefs": [],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Bioenergetics|Photosynthesis",
+            "label": "Photosynthesis",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5X Bioenergetics extension reviewed; existing material retained and mixed source separated for Foundation."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-bio-step-bioenergetics-0-0",
+            "label": "Which gas is taken in for photosynthesis?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bio-step-bioenergetics-0-1",
+            "label": "Which pair is produced by photosynthesis?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-photosynthesis-summary",
+            "label": "Which statement best summarises “Photosynthesis”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Photosynthesis summary: audited shared prompt/answer/feedback retained; inherited excluded or mixed-source distractors replaced with existing reviewed shared wording. Original Higher question preserved."
+          },
+          {
+            "id": "bio-deep-bioenergetics-photosynthesis-keyword",
+            "label": "Which key term is most closely linked to “Photosynthesis”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-photosynthesis-explain",
+            "label": "Explain “Photosynthesis” in two linked sentences.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-photosynthesis-justify",
+            "label": "A plant receives light, water and carbon dioxide. What useful food can it make? A student answers: “Glucose.” Explain why that answer is correct.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-photosynthesis-improve",
+            "label": "A student writes only “photosynthesis”. Improve this into a complete answer about Photosynthesis.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-photosynthesis-grade9",
+            "label": "Write a Grade 8/9 response for this focus: Balance the symbol equation if asked.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio2-photo-gas",
+            "label": "Which gas is a reactant in photosynthesis?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-bioenergetics-completion-q01",
+            "label": "Write the photosynthesis word equation, identify CO₂, H₂O, O₂ and C₆H₁₂O₆, and explain why photosynthesis is endothermic.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5X content reviewed against cached AQA 8464 shared/Higher scope."
+          }
+        ],
+        "support": [
+          {
+            "id": "Biology|support|diagram-photosynthesis",
+            "label": "Existing revision diagram: photosynthesis",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          }
+        ],
+        "higherLessons": [],
+        "higherQuestions": []
+      }
+    },
+    {
+      "specRef": "4.4.1.2",
+      "title": "Rate of photosynthesis",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Extended existing shared single-factor section with all four effects, enzyme temperature response, chlorophyll and graph reading. Reviewed Foundation extract mapped separately from mixed Higher original. Existing Higher interacting-factor section extended with controlled curve comparisons, inverse-square relation/limits and greenhouse profit.",
+      "assessment": "q03 four effects/plateau; q04 means/graph; q05 rearrangement. Higher q11 interacting curves/profit. Existing bio2-rate, bubbles, bio2-limit and inverse-square practice retained. Three pre-existing Higher question references moved out of shared evidence without changing question content or availability.",
+      "answersFeedback": "Every new question includes model answer, criteria and misconception feedback. Written responses use existing self-assessment; time answers accept equivalent time units only.",
+      "skillsAndPractical": "Single-factor means/axes/scales/rate and rearrangement shared; interactions, inverse-square and economics Higher-only.",
+      "tier": "Shared Foundation/unsure/Higher except explicitly separated interacting-factor/inverse-square/economics and detailed recovery requirements.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Bioenergetics|Measuring a biological rate"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-bioenergetics-1-0",
+        "aqa-bio-step-bioenergetics-5-0",
+        "aqa-bio-step-bioenergetics-5-1",
+        "bio-deep-bioenergetics-limiting-factors-summary",
+        "bio-deep-bioenergetics-limiting-factors-keyword",
+        "bio-deep-bioenergetics-limiting-factors-explain",
+        "bio-deep-bioenergetics-limiting-factors-improve",
+        "bio-deep-bioenergetics-measuring-a-biological-rate-summary",
+        "bio-deep-bioenergetics-measuring-a-biological-rate-keyword",
+        "bio-deep-bioenergetics-measuring-a-biological-rate-explain",
+        "bio-deep-bioenergetics-measuring-a-biological-rate-justify",
+        "bio-deep-bioenergetics-measuring-a-biological-rate-improve",
+        "bio-deep-bioenergetics-measuring-a-biological-rate-grade9",
+        "bio2-rate",
+        "bio2-bubbles",
+        "aqa-bioenergetics-completion-q03",
+        "aqa-bioenergetics-completion-q04",
+        "aqa-bioenergetics-completion-q05"
+      ],
+      "supportRefs": [
+        "Biology|support|equation-Rate",
+        "Biology|support|bioenergetics-shared-data",
+        "Biology|support|bioenergetics-foundation-limiting"
+      ],
+      "higherLessonRefs": [
+        "Biology|Bioenergetics|Interacting limiting factors",
+        "Biology|Bioenergetics|Limiting factors"
+      ],
+      "higherQuestionRefs": [
+        "bio2-limit",
+        "bio2-inverse-square",
+        "aqa-bioenergetics-completion-q11",
+        "bio-deep-bioenergetics-limiting-factors-justify",
+        "bio-deep-bioenergetics-limiting-factors-grade9",
+        "aqa-bio-step-bioenergetics-1-1"
+      ],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Bioenergetics|Measuring a biological rate",
+            "label": "Measuring a biological rate",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5X Bioenergetics extension reviewed; existing material retained and mixed source separated for Foundation."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-bio-step-bioenergetics-1-0",
+            "label": "What is a limiting factor?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Existing audited Foundation scope supports unchanged content."
+          },
+          {
+            "id": "aqa-bio-step-bioenergetics-5-0",
+            "label": "How is a simple rate calculated?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bio-step-bioenergetics-5-1",
+            "label": "Why repeat rate measurements?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-limiting-factors-summary",
+            "label": "Which statement best summarises “Limiting factors”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Shared basic limiting-factor answer retained; Higher interacting-factor distractor replaced with existing shared reflex wording."
+          },
+          {
+            "id": "bio-deep-bioenergetics-limiting-factors-keyword",
+            "label": "Which key term is most closely linked to “Limiting factors”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Existing audited Foundation scope supports unchanged content."
+          },
+          {
+            "id": "bio-deep-bioenergetics-limiting-factors-explain",
+            "label": "Explain “Limiting factors” in two linked sentences.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Existing audited Foundation scope supports unchanged content."
+          },
+          {
+            "id": "bio-deep-bioenergetics-limiting-factors-improve",
+            "label": "A student writes only “limiting factor”. Improve this into a complete answer about Limiting factors.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Existing basic limiting-factor answer retained; Higher graph-interaction feedback replaced with existing shared feedback."
+          },
+          {
+            "id": "bio-deep-bioenergetics-measuring-a-biological-rate-summary",
+            "label": "Which statement best summarises “Measuring a biological rate”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Measuring a biological rate summary: audited shared prompt/answer/feedback retained; inherited excluded or mixed-source distractors replaced with existing reviewed shared wording. Original Higher question preserved."
+          },
+          {
+            "id": "bio-deep-bioenergetics-measuring-a-biological-rate-keyword",
+            "label": "Which key term is most closely linked to “Measuring a biological rate”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-measuring-a-biological-rate-explain",
+            "label": "Explain “Measuring a biological rate” in two linked sentences.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-measuring-a-biological-rate-justify",
+            "label": "A plant produces 30 oxygen bubbles in 60 seconds. Find bubbles per second. A student answers: “0.5 bubbles per second.” Explain why that answer is correct.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-measuring-a-biological-rate-improve",
+            "label": "A student writes only “rate”. Improve this into a complete answer about Measuring a biological rate.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-measuring-a-biological-rate-grade9",
+            "label": "Write a Grade 8/9 response for this focus: Label graph axes with units.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio2-rate",
+            "label": "Pondweed produces 18 cm³ of oxygen in 6 minutes. Calculate the mean rate in cm³ per minute.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "bio2-bubbles",
+            "label": "Why can oxygen volume be a better measure than bubble count?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-bioenergetics-completion-q03",
+            "label": "Describe the effects on photosynthesis of changing light intensity alone, carbon dioxide concentration alone, temperature alone, or chlorophyll amount. A single-factor graph rises and then levels off: describe what the plateau shows without inventing a continued rise.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5X content reviewed against cached AQA 8464 shared/Higher scope."
+          },
+          {
+            "id": "aqa-bioenergetics-completion-q04",
+            "label": "Use the shared RP05 data. Calculate mean volume and rate at each light intensity, plot a labelled graph, and describe the observed pattern and one limit to the conclusion.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5X content reviewed against cached AQA 8464 shared/Higher scope."
+          },
+          {
+            "id": "aqa-bioenergetics-completion-q05",
+            "label": "At a constant oxygen collection rate of 2.4 cm³/min, how long is needed to collect 12 cm³? Give the time in minutes.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5X content reviewed against cached AQA 8464 shared/Higher scope."
+          }
+        ],
+        "support": [
+          {
+            "id": "Biology|support|equation-Rate",
+            "label": "Learning Lab equation: Rate",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "Biology|support|bioenergetics-shared-data",
+            "label": "Bioenergetics shared data/graph",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5X content reviewed against cached AQA 8464 shared/Higher scope."
+          },
+          {
+            "id": "Biology|support|bioenergetics-foundation-limiting",
+            "label": "Reviewed shared limiting-factor lesson extract",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Reviewed Foundation/shared extract; mixed original remains Higher evidence."
+          }
+        ],
+        "higherLessons": [
+          {
+            "id": "Biology|Bioenergetics|Interacting limiting factors",
+            "label": "Interacting limiting factors",
+            "kind": "lesson",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.5X Bioenergetics extension reviewed; existing material retained and mixed source separated for Foundation."
+          },
+          {
+            "id": "Biology|Bioenergetics|Limiting factors",
+            "label": "Limiting factors",
+            "kind": "lesson",
+            "tier": "mixed",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": false,
+            "foundationEvidence": true,
+            "reason": "7.0.5X Bioenergetics extension reviewed; existing material retained and mixed source separated for Foundation."
+          }
+        ],
+        "higherQuestions": [
+          {
+            "id": "bio2-limit",
+            "label": "A photosynthesis graph levels off as light intensity rises. Suggest why.",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "bio2-inverse-square",
+            "label": "In the inverse-square model, a lamp is moved from 10 cm to 20 cm away. What fraction of the initial light intensity remains?",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-bioenergetics-completion-q11",
+            "label": "Use the Higher curves. At high light compare low CO₂/20°C with high CO₂/20°C, then high CO₂/20°C with high CO₂/30°C. Explain the limits indicated and why low-light curves coincide. Evaluate greenhouse options giving £40 extra income for £20 cost versus £70 income for £60 cost.",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.5X content reviewed against cached AQA 8464 shared/Higher scope."
+          },
+          {
+            "id": "bio-deep-bioenergetics-limiting-factors-justify",
+            "label": "Light intensity increases but the photosynthesis graph becomes flat. Why? A student answers: “Another factor is limiting.” Explain why that answer is correct.",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "Interacting-factor graph justification / explicit Grade 8/9 demand retained on Higher, excluded from audited Foundation."
+          },
+          {
+            "id": "bio-deep-bioenergetics-limiting-factors-grade9",
+            "label": "Write a Grade 8/9 response for this focus: Explain why a graph levels off.",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "Interacting-factor graph justification / explicit Grade 8/9 demand retained on Higher, excluded from audited Foundation."
+          },
+          {
+            "id": "aqa-bio-step-bioenergetics-1-1",
+            "label": "Why can increasing light stop raising photosynthesis rate?",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "Interaction of limiting factors is excluded from audited Foundation scope; preserve original Higher question."
+          }
+        ]
+      }
+    },
+    {
+      "specRef": "4.4.1.3",
+      "title": "Uses of glucose from photosynthesis",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Existing Photosynthesis extended with all five specified glucose uses and nitrate nitrogen for amino acids/proteins; metabolism explanation shared rather than duplicated.",
+      "assessment": "q02 five uses/nitrate-limited application; existing bio2-glucose-use retained.",
+      "answersFeedback": "Every new question includes model answer, criteria and misconception feedback. Written responses use existing self-assessment; time answers accept equivalent time units only.",
+      "skillsAndPractical": "Storage versus structural roles and elemental requirements.",
+      "tier": "Shared Foundation/unsure/Higher except explicitly separated interacting-factor/inverse-square/economics and detailed recovery requirements.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Bioenergetics|Photosynthesis"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-bioenergetics-0-0",
+        "aqa-bio-step-bioenergetics-0-1",
+        "bio-deep-bioenergetics-photosynthesis-summary",
+        "bio-deep-bioenergetics-photosynthesis-keyword",
+        "bio-deep-bioenergetics-photosynthesis-explain",
+        "bio-deep-bioenergetics-photosynthesis-justify",
+        "bio-deep-bioenergetics-photosynthesis-improve",
+        "bio-deep-bioenergetics-photosynthesis-grade9",
+        "bio2-glucose-use",
+        "aqa-bioenergetics-completion-q02"
+      ],
+      "supportRefs": [],
+      "higherLessonRefs": [],
+      "higherQuestionRefs": [],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Bioenergetics|Photosynthesis",
+            "label": "Photosynthesis",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5X Bioenergetics extension reviewed; existing material retained and mixed source separated for Foundation."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-bio-step-bioenergetics-0-0",
+            "label": "Which gas is taken in for photosynthesis?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bio-step-bioenergetics-0-1",
+            "label": "Which pair is produced by photosynthesis?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-photosynthesis-summary",
+            "label": "Which statement best summarises “Photosynthesis”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Photosynthesis summary: audited shared prompt/answer/feedback retained; inherited excluded or mixed-source distractors replaced with existing reviewed shared wording. Original Higher question preserved."
+          },
+          {
+            "id": "bio-deep-bioenergetics-photosynthesis-keyword",
+            "label": "Which key term is most closely linked to “Photosynthesis”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-photosynthesis-explain",
+            "label": "Explain “Photosynthesis” in two linked sentences.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-photosynthesis-justify",
+            "label": "A plant receives light, water and carbon dioxide. What useful food can it make? A student answers: “Glucose.” Explain why that answer is correct.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-photosynthesis-improve",
+            "label": "A student writes only “photosynthesis”. Improve this into a complete answer about Photosynthesis.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-photosynthesis-grade9",
+            "label": "Write a Grade 8/9 response for this focus: Balance the symbol equation if asked.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio2-glucose-use",
+            "label": "Give two uses of glucose in a plant other than respiration.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-bioenergetics-completion-q02",
+            "label": "A plant has glucose available but too few nitrate ions. Explain all five specified uses of photosynthetic glucose and why protein production may be restricted despite the glucose supply.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5X content reviewed against cached AQA 8464 shared/Higher scope."
+          }
+        ],
+        "support": [],
+        "higherLessons": [],
+        "higherQuestions": []
+      }
+    },
+    {
+      "specRef": "4.4.2.1",
+      "title": "Aerobic and anaerobic respiration",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Existing aerobic and anaerobic lessons extended: continuous/exothermic cellular respiration, energy uses, equations/oxygen/products, incomplete oxidation/relative energy, plant/yeast fermentation and bread/alcohol roles.",
+      "assessment": "q08 comparative explanation/equations/energy/economic uses; existing night respiration, anaerobic and fermentation questions retained.",
+      "answersFeedback": "Every new question includes model answer, criteria and misconception feedback. Written responses use existing self-assessment; time answers accept equivalent time units only.",
+      "skillsAndPractical": "Comparison across organisms and products; respiration distinguished from breathing.",
+      "tier": "Shared Foundation/unsure/Higher except explicitly separated interacting-factor/inverse-square/economics and detailed recovery requirements.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Bioenergetics|Aerobic respiration",
+        "Biology|Bioenergetics|Anaerobic respiration"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-bioenergetics-2-0",
+        "aqa-bio-step-bioenergetics-2-1",
+        "aqa-bio-step-bioenergetics-3-0",
+        "aqa-bio-step-bioenergetics-3-1",
+        "bio-deep-bioenergetics-aerobic-respiration-summary",
+        "bio-deep-bioenergetics-aerobic-respiration-keyword",
+        "bio-deep-bioenergetics-aerobic-respiration-explain",
+        "bio-deep-bioenergetics-aerobic-respiration-justify",
+        "bio-deep-bioenergetics-aerobic-respiration-improve",
+        "bio-deep-bioenergetics-aerobic-respiration-grade9",
+        "bio-deep-bioenergetics-anaerobic-respiration-summary",
+        "bio-deep-bioenergetics-anaerobic-respiration-keyword",
+        "bio-deep-bioenergetics-anaerobic-respiration-explain",
+        "bio-deep-bioenergetics-anaerobic-respiration-justify",
+        "bio-deep-bioenergetics-anaerobic-respiration-improve",
+        "bio-deep-bioenergetics-anaerobic-respiration-grade9",
+        "bio2-night",
+        "bio2-anaerobic",
+        "bio2-ferment",
+        "aqa-bioenergetics-completion-q08"
+      ],
+      "supportRefs": [],
+      "higherLessonRefs": [],
+      "higherQuestionRefs": [],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Bioenergetics|Aerobic respiration",
+            "label": "Aerobic respiration",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5X Bioenergetics extension reviewed; existing material retained and mixed source separated for Foundation."
+          },
+          {
+            "id": "Biology|Bioenergetics|Anaerobic respiration",
+            "label": "Anaerobic respiration",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5X Bioenergetics extension reviewed; existing material retained and mixed source separated for Foundation."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-bio-step-bioenergetics-2-0",
+            "label": "Which are reactants in aerobic respiration?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bio-step-bioenergetics-2-1",
+            "label": "Which products form in aerobic respiration?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bio-step-bioenergetics-3-0",
+            "label": "Compared with aerobic respiration, anaerobic respiration releases...",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bio-step-bioenergetics-3-1",
+            "label": "What happens after hard exercise to help repay oxygen debt?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-aerobic-respiration-summary",
+            "label": "Which statement best summarises “Aerobic respiration”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Aerobic respiration summary: audited shared prompt/answer/feedback retained; inherited excluded or mixed-source distractors replaced with existing reviewed shared wording. Original Higher question preserved."
+          },
+          {
+            "id": "bio-deep-bioenergetics-aerobic-respiration-keyword",
+            "label": "Which key term is most closely linked to “Aerobic respiration”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-aerobic-respiration-explain",
+            "label": "Explain “Aerobic respiration” in two linked sentences.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-aerobic-respiration-justify",
+            "label": "Muscle cells have enough oxygen during a gentle walk. Which process releases energy? A student answers: “Aerobic respiration.” Explain why that answer is correct.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-aerobic-respiration-improve",
+            "label": "A student writes only “aerobic”. Improve this into a complete answer about Aerobic respiration.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-aerobic-respiration-grade9",
+            "label": "Write a Grade 8/9 response for this focus: Respiration happens in cells, not just in lungs.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-anaerobic-respiration-summary",
+            "label": "Which statement best summarises “Anaerobic respiration”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Anaerobic respiration summary: audited shared prompt/answer/feedback retained; inherited excluded or mixed-source distractors replaced with existing reviewed shared wording. Original Higher question preserved."
+          },
+          {
+            "id": "bio-deep-bioenergetics-anaerobic-respiration-keyword",
+            "label": "Which key term is most closely linked to “Anaerobic respiration”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-anaerobic-respiration-explain",
+            "label": "Explain “Anaerobic respiration” in two linked sentences.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-anaerobic-respiration-justify",
+            "label": "A sprinter’s muscles cannot get enough oxygen for their demand. What can build up? A student answers: “Lactic acid.” Explain why that answer is correct.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-anaerobic-respiration-improve",
+            "label": "A student writes only “anaerobic”. Improve this into a complete answer about Anaerobic respiration.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-anaerobic-respiration-grade9",
+            "label": "Write a Grade 8/9 response for this focus: Mention oxygen debt after hard exercise.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio2-night",
+            "label": "Do plants respire at night? Explain your answer.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "bio2-anaerobic",
+            "label": "Compare aerobic and anaerobic respiration in human muscles.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "bio2-ferment",
+            "label": "Name the two products of anaerobic respiration in yeast.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-bioenergetics-completion-q08",
+            "label": "Compare aerobic respiration, anaerobic respiration in muscles and fermentation in yeast/plants using word equations, oxygen requirement, products and relative energy transfer. Explain two uses of the transferred energy and the economic roles of fermentation.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5X content reviewed against cached AQA 8464 shared/Higher scope."
+          }
+        ],
+        "support": [],
+        "higherLessons": [],
+        "higherQuestions": []
+      }
+    },
+    {
+      "specRef": "4.4.2.2",
+      "title": "Response to exercise",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Existing Exercise and metabolism extended with heart/breathing rate and breath volume, oxygenated blood/energy demand, insufficient oxygen, lactic acid, basic debt and fatigue. New separately gated Higher recovery section supplies liver/glucose and extra-oxygen definition.",
+      "assessment": "q09 exercise readings and insufficient-oxygen application shared; q12 recovery/lactic-acid transport/conversion Higher-only. Existing exercise question family retained.",
+      "answersFeedback": "Every new question includes model answer, criteria and misconception feedback. Written responses use existing self-assessment; time answers accept equivalent time units only.",
+      "skillsAndPractical": "Read illustrative exercise data; no clinical thresholds. Basic debt shared; detailed recovery Higher-only. EPOC terminology not imposed.",
+      "tier": "Shared Foundation/unsure/Higher except explicitly separated interacting-factor/inverse-square/economics and detailed recovery requirements.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Bioenergetics|Exercise and metabolism"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-bioenergetics-4-0",
+        "aqa-bio-step-bioenergetics-4-1",
+        "bio-deep-bioenergetics-exercise-and-metabolism-summary",
+        "bio-deep-bioenergetics-exercise-and-metabolism-keyword",
+        "bio-deep-bioenergetics-exercise-and-metabolism-explain",
+        "bio-deep-bioenergetics-exercise-and-metabolism-justify",
+        "bio-deep-bioenergetics-exercise-and-metabolism-improve",
+        "bio-deep-bioenergetics-exercise-and-metabolism-grade9",
+        "aqa-bioenergetics-completion-q09"
+      ],
+      "supportRefs": [
+        "Biology|support|equation-Percentage change"
+      ],
+      "higherLessonRefs": [
+        "Biology|Bioenergetics|Higher recovery after exercise"
+      ],
+      "higherQuestionRefs": [
+        "aqa-bioenergetics-completion-q12"
+      ],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Bioenergetics|Exercise and metabolism",
+            "label": "Exercise and metabolism",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5X Bioenergetics extension reviewed; existing material retained and mixed source separated for Foundation."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-bio-step-bioenergetics-4-0",
+            "label": "What rises when muscles need more energy during exercise?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bio-step-bioenergetics-4-1",
+            "label": "Where is energy released from glucose for muscle activity?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-exercise-and-metabolism-summary",
+            "label": "Which statement best summarises “Exercise and metabolism”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Exercise and metabolism summary: audited shared prompt/answer/feedback retained; inherited excluded or mixed-source distractors replaced with existing reviewed shared wording. Original Higher question preserved."
+          },
+          {
+            "id": "bio-deep-bioenergetics-exercise-and-metabolism-keyword",
+            "label": "Which key term is most closely linked to “Exercise and metabolism”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-exercise-and-metabolism-explain",
+            "label": "Explain “Exercise and metabolism” in two linked sentences.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-exercise-and-metabolism-justify",
+            "label": "A cyclist works harder. Why does heart rate rise? A student answers: “To support faster respiration in muscles.” Explain why that answer is correct.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-exercise-and-metabolism-improve",
+            "label": "A student writes only “metabolism”. Improve this into a complete answer about Exercise and metabolism.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-exercise-and-metabolism-grade9",
+            "label": "Write a Grade 8/9 response for this focus: Link the change to respiration in muscle cells.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bioenergetics-completion-q09",
+            "label": "Illustrative readings before/during exercise are heart rate 70/140 beats per minute, breathing rate 12/24 breaths per minute and breath volume 0.5/1.0 litres. Explain all three changes and predict what happens if oxygen delivery still cannot meet demand during prolonged vigorous activity.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5X content reviewed against cached AQA 8464 shared/Higher scope."
+          }
+        ],
+        "support": [
+          {
+            "id": "Biology|support|equation-Percentage change",
+            "label": "Learning Lab equation: Percentage change",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          }
+        ],
+        "higherLessons": [
+          {
+            "id": "Biology|Bioenergetics|Higher recovery after exercise",
+            "label": "Higher recovery after exercise",
+            "kind": "lesson",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.5X content reviewed against cached AQA 8464 shared/Higher scope."
+          }
+        ],
+        "higherQuestions": [
+          {
+            "id": "aqa-bioenergetics-completion-q12",
+            "label": "After vigorous exercise, breathing remains above its resting level during recovery. Explain oxygen debt using the specification account of lactic acid transport and conversion.",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.5X content reviewed against cached AQA 8464 shared/Higher scope."
+          }
+        ]
+      }
+    },
+    {
+      "specRef": "4.4.2.3",
+      "title": "Metabolism",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Existing Exercise and metabolism extended with all-reactions definition, enzyme-controlled synthesis powered by respiration, glucose→starch/glycogen/cellulose, one glycerol/three fatty acids, amino acids/proteins/nitrates, excess protein breakdown/urea excretion. Existing Homeostasis glycogen explanation reused unchanged.",
+      "assessment": "q02 shared synthesis link and q10 synthesis/breakdown classification and functions. Existing exercise/metabolism practice retained.",
+      "answersFeedback": "Every new question includes model answer, criteria and misconception feedback. Written responses use existing self-assessment; time answers accept equivalent time units only.",
+      "skillsAndPractical": "Link material conversions, building/breakdown and excretion rather than duplicating prior digestion/glycogen material.",
+      "tier": "Shared Foundation/unsure/Higher except explicitly separated interacting-factor/inverse-square/economics and detailed recovery requirements.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Bioenergetics|Exercise and metabolism"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-bioenergetics-4-0",
+        "aqa-bio-step-bioenergetics-4-1",
+        "bio-deep-bioenergetics-exercise-and-metabolism-summary",
+        "bio-deep-bioenergetics-exercise-and-metabolism-keyword",
+        "bio-deep-bioenergetics-exercise-and-metabolism-explain",
+        "bio-deep-bioenergetics-exercise-and-metabolism-justify",
+        "bio-deep-bioenergetics-exercise-and-metabolism-improve",
+        "bio-deep-bioenergetics-exercise-and-metabolism-grade9",
+        "aqa-bioenergetics-completion-q02",
+        "aqa-bioenergetics-completion-q10"
+      ],
+      "supportRefs": [
+        "Biology|support|insulin-glycogen"
+      ],
+      "higherLessonRefs": [],
+      "higherQuestionRefs": [],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Bioenergetics|Exercise and metabolism",
+            "label": "Exercise and metabolism",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5X Bioenergetics extension reviewed; existing material retained and mixed source separated for Foundation."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-bio-step-bioenergetics-4-0",
+            "label": "What rises when muscles need more energy during exercise?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bio-step-bioenergetics-4-1",
+            "label": "Where is energy released from glucose for muscle activity?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-exercise-and-metabolism-summary",
+            "label": "Which statement best summarises “Exercise and metabolism”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Exercise and metabolism summary: audited shared prompt/answer/feedback retained; inherited excluded or mixed-source distractors replaced with existing reviewed shared wording. Original Higher question preserved."
+          },
+          {
+            "id": "bio-deep-bioenergetics-exercise-and-metabolism-keyword",
+            "label": "Which key term is most closely linked to “Exercise and metabolism”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-exercise-and-metabolism-explain",
+            "label": "Explain “Exercise and metabolism” in two linked sentences.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-exercise-and-metabolism-justify",
+            "label": "A cyclist works harder. Why does heart rate rise? A student answers: “To support faster respiration in muscles.” Explain why that answer is correct.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-exercise-and-metabolism-improve",
+            "label": "A student writes only “metabolism”. Improve this into a complete answer about Exercise and metabolism.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-exercise-and-metabolism-grade9",
+            "label": "Write a Grade 8/9 response for this focus: Link the change to respiration in muscle cells.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bioenergetics-completion-q02",
+            "label": "A plant has glucose available but too few nitrate ions. Explain all five specified uses of photosynthetic glucose and why protein production may be restricted despite the glucose supply.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5X content reviewed against cached AQA 8464 shared/Higher scope."
+          },
+          {
+            "id": "aqa-bioenergetics-completion-q10",
+            "label": "Classify these as metabolic synthesis or breakdown and state the materials/functions: glucose to starch/glycogen/cellulose; lipid formation; amino acids to protein; respiration; excess protein to urea. Explain why metabolism is more than digestion.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5X content reviewed against cached AQA 8464 shared/Higher scope."
+          }
+        ],
+        "support": [
+          {
+            "id": "Biology|support|insulin-glycogen",
+            "label": "Learning Lab misconception: insulin and glycogen storage",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          }
+        ],
+        "higherLessons": [],
+        "higherQuestions": []
+      }
+    },
+    {
+      "specRef": "RP05",
+      "title": "Light and plant gas output",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Existing required practical 5 extended: aquatic photosynthetic organism, light intensity/distance, timed oxygen volume or bubble proxy, controlled CO₂/temperature/shoot/background light, equilibration, repeated results, suitable apparatus and safety, gas collection limitations.",
+      "assessment": "q04 shared table/mean/rate/plot; q05 time rearrangement; q06 method/controls/confounding/safety; q07 bubble-count evaluation. Existing practical/rate/bubble and Learning Lab resources retained.",
+      "answersFeedback": "Every new question includes model answer, criteria and misconception feedback. Written responses use existing self-assessment; time answers accept equivalent time units only.",
+      "skillsAndPractical": "AT1 measurement; AT2 apparatus handling; AT3 environmental effects; AT4 safe handling of organisms; AT5 appropriate quantitative measures. Repeats/means/spread, units, graphs, limitations/improvements. Higher inverse-square practice remains separate. Digital preparation cannot certify hands-on execution.",
+      "tier": "Shared Foundation/unsure/Higher except explicitly separated interacting-factor/inverse-square/economics and detailed recovery requirements.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|practical|photosynthesis"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-bioenergetics-5-0",
+        "aqa-bio-step-bioenergetics-5-1",
+        "bio-deep-bioenergetics-measuring-a-biological-rate-summary",
+        "bio-deep-bioenergetics-measuring-a-biological-rate-keyword",
+        "bio-deep-bioenergetics-measuring-a-biological-rate-explain",
+        "bio-deep-bioenergetics-measuring-a-biological-rate-justify",
+        "bio-deep-bioenergetics-measuring-a-biological-rate-improve",
+        "bio-deep-bioenergetics-measuring-a-biological-rate-grade9",
+        "bio2-rate",
+        "bio2-bubbles",
+        "aqa-bioenergetics-completion-q04",
+        "aqa-bioenergetics-completion-q05",
+        "aqa-bioenergetics-completion-q06",
+        "aqa-bioenergetics-completion-q07"
+      ],
+      "supportRefs": [
+        "Biology|practical|photosynthesis",
+        "Biology|support|equation-Rate",
+        "Biology|support|practical-Photosynthesis",
+        "Biology|support|bioenergetics-shared-data"
+      ],
+      "higherLessonRefs": [],
+      "higherQuestionRefs": [],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|practical|photosynthesis",
+            "label": "Photosynthesis and light",
+            "kind": "practical",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5X Bioenergetics extension reviewed; existing material retained and mixed source separated for Foundation."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-bio-step-bioenergetics-5-0",
+            "label": "How is a simple rate calculated?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bio-step-bioenergetics-5-1",
+            "label": "Why repeat rate measurements?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-measuring-a-biological-rate-summary",
+            "label": "Which statement best summarises “Measuring a biological rate”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Measuring a biological rate summary: audited shared prompt/answer/feedback retained; inherited excluded or mixed-source distractors replaced with existing reviewed shared wording. Original Higher question preserved."
+          },
+          {
+            "id": "bio-deep-bioenergetics-measuring-a-biological-rate-keyword",
+            "label": "Which key term is most closely linked to “Measuring a biological rate”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-measuring-a-biological-rate-explain",
+            "label": "Explain “Measuring a biological rate” in two linked sentences.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-measuring-a-biological-rate-justify",
+            "label": "A plant produces 30 oxygen bubbles in 60 seconds. Find bubbles per second. A student answers: “0.5 bubbles per second.” Explain why that answer is correct.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-measuring-a-biological-rate-improve",
+            "label": "A student writes only “rate”. Improve this into a complete answer about Measuring a biological rate.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-bioenergetics-measuring-a-biological-rate-grade9",
+            "label": "Write a Grade 8/9 response for this focus: Label graph axes with units.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio2-rate",
+            "label": "Pondweed produces 18 cm³ of oxygen in 6 minutes. Calculate the mean rate in cm³ per minute.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "bio2-bubbles",
+            "label": "Why can oxygen volume be a better measure than bubble count?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-bioenergetics-completion-q04",
+            "label": "Use the shared RP05 data. Calculate mean volume and rate at each light intensity, plot a labelled graph, and describe the observed pattern and one limit to the conclusion.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5X content reviewed against cached AQA 8464 shared/Higher scope."
+          },
+          {
+            "id": "aqa-bioenergetics-completion-q05",
+            "label": "At a constant oxygen collection rate of 2.4 cm³/min, how long is needed to collect 12 cm³? Give the time in minutes.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5X content reviewed against cached AQA 8464 shared/Higher scope."
+          },
+          {
+            "id": "aqa-bioenergetics-completion-q06",
+            "label": "Plan the pondweed light-intensity investigation, including oxygen measurement, controls, repeats and safety. Explain why changing lamp distance could introduce a second variable.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5X content reviewed against cached AQA 8464 shared/Higher scope."
+          },
+          {
+            "id": "aqa-bioenergetics-completion-q07",
+            "label": "Two groups count the same number of bubbles but one has larger bubbles. Evaluate the comparison, suggest a better measurement and explain two remaining limitations or reliability improvements.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5X content reviewed against cached AQA 8464 shared/Higher scope."
+          }
+        ],
+        "support": [
+          {
+            "id": "Biology|practical|photosynthesis",
+            "label": "Photosynthesis and light",
+            "kind": "practical",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5X Bioenergetics extension reviewed; existing material retained and mixed source separated for Foundation."
+          },
+          {
+            "id": "Biology|support|equation-Rate",
+            "label": "Learning Lab equation: Rate",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "Biology|support|practical-Photosynthesis",
+            "label": "Learning Lab practical design: Photosynthesis",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "Biology|support|bioenergetics-shared-data",
+            "label": "Bioenergetics shared data/graph",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5X content reviewed against cached AQA 8464 shared/Higher scope."
+          }
+        ],
+        "higherLessons": [],
+        "higherQuestions": []
+      }
+    }
+  ],
+  "newQuestions": {
+    "total": 12,
+    "writingSelfAssessment": 11,
+    "numericAutoCheck": 1,
+    "multipleChoice": 0,
+    "shared": 10,
+    "higherOnly": 2
+  },
+  "recordedTierBacklog": 0,
+  "knownUnresolvedTierConcerns": 0,
+  "answerUnitBacklog": 0,
+  "tests": {
+    "focused": 143,
+    "full": 434,
+    "failures": 0
+  },
+  "scopeVerification": "100 registered pathways compared with W1: old questions unchanged on every pathway; only target Trilogy Bioenergetics lessons/practical and 12 new questions differ. MCQ presentation data/runtime unchanged."
+}

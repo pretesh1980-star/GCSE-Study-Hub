@@ -1,0 +1,12 @@
+{
+  "unchanged_baseline_files": 360,
+  "changed_baseline_files": [
+    "PROJECT-STATE.md",
+    "index.html",
+    "package.json",
+    "CURRENT-BUILD.txt",
+    "app.js"
+  ],
+  "missing": [],
+  "O7_assessment_byte_identical": true
+}

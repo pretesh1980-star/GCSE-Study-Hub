@@ -1,0 +1,43 @@
+{
+  "status": "PASS",
+  "cataloguePartsReviewed": 48,
+  "papers": {
+    "Foundation": {
+      "marks": 40,
+      "groups": 7,
+      "parts": 24,
+      "AO": [
+        16,
+        16,
+        8
+      ],
+      "auto": 11,
+      "review": 29
+    },
+    "Higher": {
+      "marks": 40,
+      "groups": 7,
+      "parts": 24,
+      "AO": [
+        16,
+        16,
+        8
+      ],
+      "auto": 11,
+      "review": 29
+    }
+  },
+  "visuals": 22,
+  "mobileWidths": [
+    320,
+    390
+  ],
+  "applicationTests": "Existing 1154/1154 evidence reused; no app code changed or new app tests claimed.",
+  "checksPassed": 861,
+  "limits": [
+    "No examination interface built",
+    "No physical iPhone Safari test",
+    "No learner timing/difficulty pilot",
+    "No official AQA equivalence validation"
+  ]
+}

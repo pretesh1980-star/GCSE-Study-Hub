@@ -1,0 +1,19 @@
+{
+  "baseline": "GCSE-Study-Hub-O10-RP02-OPEN-THIS.zip",
+  "baseline_sha256": "2eb2279644b29e2fdfa1f2648fa453f878f1f6757de9a4954cae88c2a916b2a9",
+  "unchanged_count": 488,
+  "changed": [
+    "preview-o10-build-id.txt",
+    "index.html",
+    "preview-o10.py",
+    "PROJECT-ROADMAP.md",
+    "CURRENT-BUILD.txt"
+  ],
+  "missing": [],
+  "added_before_verification_copy": [
+    "O10-stage4-review.md",
+    "rp02-stage4-purpose.js",
+    "tests/rp02-stage4-purpose.test.cjs"
+  ],
+  "approved_code_unchanged": true
+}

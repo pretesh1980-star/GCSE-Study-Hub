@@ -1,0 +1,20 @@
+{
+  "passed": 14,
+  "checks": [
+    "film opens with female Pip artwork",
+    "keyboard Enter starts playback",
+    "intro wave animation active",
+    "breathing transform changes during playback",
+    "growing cube uses surprise expression and larger model",
+    "mobile 390px layout has no horizontal overflow",
+    "pointer visibly marks actual cube",
+    "real-time silent playback reaches scene 15 and stops",
+    "unscored answer celebrates with explanatory feedback",
+    "captions toggle hides captions independently",
+    "replay returns to scene 1 stopped",
+    "actual device voice selection identifies Samantha en-US",
+    "actual device speech start activates approximate mouth animation",
+    "actual narration pause stops talking and character animation"
+  ],
+  "limits": "Native macOS in-app WebKit. Actual speech events observed with manually chosen Samantha en-US; sound quality not heard or approved by a human. Physical iOS Safari pending."
+}

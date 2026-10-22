@@ -1,0 +1,1697 @@
+{
+  "build": "7.0.6A",
+  "versionDecision": "User-requested next identifier after 7.0.5Z; package version 7.0.6-A follows established prerelease form.",
+  "method": "Read only nine target cached AQA 8464 specification/audit records and directly related sources. Individual teaching/revision, application, answer/feedback, skills and tier review; no whole-course discovery audit.",
+  "before": {
+    "fullyCovered": 51,
+    "partial": 27,
+    "missing": 0,
+    "higherOnlyAdequateSubset": 2
+  },
+  "after": {
+    "fullyCovered": 60,
+    "partial": 18,
+    "missing": 0,
+    "higherOnlyAdequateSubset": 2
+  },
+  "counting": "Full includes two adequate Higher-only units; 60+18+0=78.",
+  "units": [
+    {
+      "specRef": "4.6.1.1",
+      "auditRecordId": "aqa-8464-F-4.6.1.1",
+      "title": "Sexual and asexual reproduction",
+      "before": "PARTIALLY COVERED",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Extended existing sexual/asexual section: animal sperm/egg and flowering-plant male gametes in pollen/egg; fusion/mixing versus one parent/no fusion; meiosis versus mitosis/clones. Existing cell-division teaching reused.",
+      "assessment": "q01 direct comparison across animals/plants; q02 shared division/fertilisation sequence. Original questions retained.",
+      "answersFeedback": "Every new task includes model answer, criteria and misconception feedback; percentage answer marking accepts percent forms and rejects incompatible units.",
+      "tier": "Shared. No named meiotic stages or separate-science mechanisms added.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Inheritance|Sexual and asexual reproduction"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-inheritance-1-0",
+        "aqa-bio-step-inheritance-1-1",
+        "bio-deep-inheritance-sexual-and-asexual-reproduction-summary",
+        "bio-deep-inheritance-sexual-and-asexual-reproduction-keyword",
+        "bio-deep-inheritance-sexual-and-asexual-reproduction-explain",
+        "bio-deep-inheritance-sexual-and-asexual-reproduction-justify",
+        "bio-deep-inheritance-sexual-and-asexual-reproduction-improve",
+        "bio-deep-inheritance-sexual-and-asexual-reproduction-grade9",
+        "aqa-inheritance-completion-q01",
+        "aqa-inheritance-completion-q02"
+      ],
+      "supportRefs": [],
+      "higherLessonRefs": [],
+      "higherQuestionRefs": [],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Inheritance|Sexual and asexual reproduction",
+            "label": "Sexual and asexual reproduction",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.6A target inheritance extension reviewed; existing shared eligibility and source content retained."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-bio-step-inheritance-1-0",
+            "label": "Which process usually produces genetic clones?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bio-step-inheritance-1-1",
+            "label": "Why does sexual reproduction often increase variation?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-sexual-and-asexual-reproduction-summary",
+            "label": "Which statement best summarises “Sexual and asexual reproduction”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "All options including the general selective-breeding/genetic-engineering statement are supported by audited shared lesson wording; remove the conservative inherited hold without changing text."
+          },
+          {
+            "id": "bio-deep-inheritance-sexual-and-asexual-reproduction-keyword",
+            "label": "Which key term is most closely linked to “Sexual and asexual reproduction”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-sexual-and-asexual-reproduction-explain",
+            "label": "Explain “Sexual and asexual reproduction” in two linked sentences.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-sexual-and-asexual-reproduction-justify",
+            "label": "Two parents make offspring with a mix of alleles. Which type of reproduction is this? A student answers: “Sexual reproduction.” Explain why that answer is correct.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-sexual-and-asexual-reproduction-improve",
+            "label": "A student writes only “gamete”. Improve this into a complete answer about Sexual and asexual reproduction.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-sexual-and-asexual-reproduction-grade9",
+            "label": "Write a Grade 8/9 response for this focus: Compare both parent number and genetic outcome.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-inheritance-completion-q01",
+            "label": "Compare sexual and asexual reproduction in terms of parents, gametes, cell division and genetic similarity. Include both animal and flowering-plant gametes.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.6A targeted AQA 8464 review: shared inheritance overview/application versus Higher construction and detailed gene-transfer techniques."
+          },
+          {
+            "id": "aqa-inheritance-completion-q02",
+            "label": "Sequence meiosis, fertilisation and early embryo growth for an organism with 12 chromosomes in its body cells. State final gamete number, chromosome numbers and how later specialised cells arise.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.6A targeted AQA 8464 review: shared inheritance overview/application versus Higher construction and detailed gene-transfer techniques."
+          }
+        ],
+        "support": [],
+        "higherLessons": [],
+        "higherQuestions": []
+      }
+    },
+    {
+      "specRef": "4.6.1.2",
+      "auditRecordId": "aqa-8464-F-4.6.1.2",
+      "title": "Meiosis",
+      "before": "PARTIALLY COVERED",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Same existing section: copied information, two divisions/four non-identical gametes, halved chromosome set, fertilisation restoration and embryo mitosis/differentiation. Human and 12-chromosome model examples.",
+      "assessment": "q02 sequence and chromosome-number application; existing bio2-meiosis and earlier Cell Biology division work retained.",
+      "answersFeedback": "Every new task includes model answer, criteria and misconception feedback; percentage answer marking accepts percent forms and rejects incompatible units.",
+      "tier": "Shared. WS1.2 chromosome-number model; no extra stage-name requirement.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Inheritance|Sexual and asexual reproduction"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-inheritance-1-0",
+        "aqa-bio-step-inheritance-1-1",
+        "bio-deep-inheritance-sexual-and-asexual-reproduction-summary",
+        "bio-deep-inheritance-sexual-and-asexual-reproduction-keyword",
+        "bio-deep-inheritance-sexual-and-asexual-reproduction-explain",
+        "bio-deep-inheritance-sexual-and-asexual-reproduction-justify",
+        "bio-deep-inheritance-sexual-and-asexual-reproduction-improve",
+        "bio-deep-inheritance-sexual-and-asexual-reproduction-grade9",
+        "bio2-meiosis",
+        "aqa-inheritance-completion-q02"
+      ],
+      "supportRefs": [],
+      "higherLessonRefs": [],
+      "higherQuestionRefs": [],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Inheritance|Sexual and asexual reproduction",
+            "label": "Sexual and asexual reproduction",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.6A target inheritance extension reviewed; existing shared eligibility and source content retained."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-bio-step-inheritance-1-0",
+            "label": "Which process usually produces genetic clones?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bio-step-inheritance-1-1",
+            "label": "Why does sexual reproduction often increase variation?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-sexual-and-asexual-reproduction-summary",
+            "label": "Which statement best summarises “Sexual and asexual reproduction”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "All options including the general selective-breeding/genetic-engineering statement are supported by audited shared lesson wording; remove the conservative inherited hold without changing text."
+          },
+          {
+            "id": "bio-deep-inheritance-sexual-and-asexual-reproduction-keyword",
+            "label": "Which key term is most closely linked to “Sexual and asexual reproduction”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-sexual-and-asexual-reproduction-explain",
+            "label": "Explain “Sexual and asexual reproduction” in two linked sentences.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-sexual-and-asexual-reproduction-justify",
+            "label": "Two parents make offspring with a mix of alleles. Which type of reproduction is this? A student answers: “Sexual reproduction.” Explain why that answer is correct.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-sexual-and-asexual-reproduction-improve",
+            "label": "A student writes only “gamete”. Improve this into a complete answer about Sexual and asexual reproduction.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-sexual-and-asexual-reproduction-grade9",
+            "label": "Write a Grade 8/9 response for this focus: Compare both parent number and genetic outcome.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio2-meiosis",
+            "label": "Explain why gametes need half the usual chromosome number.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-inheritance-completion-q02",
+            "label": "Sequence meiosis, fertilisation and early embryo growth for an organism with 12 chromosomes in its body cells. State final gamete number, chromosome numbers and how later specialised cells arise.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.6A targeted AQA 8464 review: shared inheritance overview/application versus Higher construction and detailed gene-transfer techniques."
+          }
+        ],
+        "support": [],
+        "higherLessons": [],
+        "higherQuestions": []
+      }
+    },
+    {
+      "specRef": "4.6.1.3",
+      "auditRecordId": "aqa-8464-F-4.6.1.3",
+      "title": "DNA and the genome",
+      "before": "PARTIALLY COVERED",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Existing DNA section extended: polymer/two-strand double helix, chromosome/gene relationships, gene→amino-acid sequence/protein, entire genome and three specified genome uses: disease genes, inherited-disorder understanding/treatment, human migration. Existing DNA diagram reused.",
+      "assessment": "q03 relationship/genome-use/interpretation task; existing allele/basic gene-coding questions retained.",
+      "answersFeedback": "Every new task includes model answer, criteria and misconception feedback; percentage answer marking accepts percent forms and rejects incompatible units.",
+      "tier": "Shared basic coding explicitly taught here. Mixed DNA-and-protein source kept unchanged and moved to supplementary Higher audit evidence, avoiding reliance on a mixed block for shared Full credit.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Inheritance|DNA, genes and chromosomes"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-inheritance-0-0",
+        "aqa-bio-step-inheritance-0-1",
+        "bio-deep-inheritance-dna-genes-and-chromosomes-summary",
+        "bio-deep-inheritance-dna-genes-and-chromosomes-keyword",
+        "bio-deep-inheritance-dna-genes-and-chromosomes-explain",
+        "bio-deep-inheritance-dna-genes-and-chromosomes-justify",
+        "bio-deep-inheritance-dna-genes-and-chromosomes-improve",
+        "bio-deep-inheritance-dna-genes-and-chromosomes-grade9",
+        "aqa-bio-step-inheritance-8-0",
+        "aqa-inheritance-completion-q03"
+      ],
+      "supportRefs": [
+        "Biology|support|diagram-dna"
+      ],
+      "higherLessonRefs": [
+        "Biology|Inheritance|DNA and protein structure"
+      ],
+      "higherQuestionRefs": [],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Inheritance|DNA, genes and chromosomes",
+            "label": "DNA, genes and chromosomes",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.6A target inheritance extension reviewed; existing shared eligibility and source content retained."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-bio-step-inheritance-0-0",
+            "label": "Where are chromosomes usually found in an animal cell?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bio-step-inheritance-0-1",
+            "label": "What is an allele?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-dna-genes-and-chromosomes-summary",
+            "label": "Which statement best summarises “DNA, genes and chromosomes”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-dna-genes-and-chromosomes-keyword",
+            "label": "Which key term is most closely linked to “DNA, genes and chromosomes”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-dna-genes-and-chromosomes-explain",
+            "label": "Explain “DNA, genes and chromosomes” in two linked sentences.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-dna-genes-and-chromosomes-justify",
+            "label": "A cell has a chromosome carrying a gene for a characteristic. What is the gene made of? A student answers: “DNA.” Explain why that answer is correct.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-dna-genes-and-chromosomes-improve",
+            "label": "A student writes only “DNA”. Improve this into a complete answer about DNA, genes and chromosomes.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-dna-genes-and-chromosomes-grade9",
+            "label": "Write a Grade 8/9 response for this focus: State the relationship between gene, DNA and chromosome.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bio-step-inheritance-8-0",
+            "label": "What does the order of DNA bases help determine?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Shared gene-to-amino-acid recall; Foundation feedback removes protein-shape clause through explicit source-checked variant."
+          },
+          {
+            "id": "aqa-inheritance-completion-q03",
+            "label": "Explain the relationship between DNA, a chromosome, a gene, a protein and the genome. Give all three specified uses of understanding the human genome and one limit to conclusions from genetic comparisons.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.6A targeted AQA 8464 review: shared inheritance overview/application versus Higher construction and detailed gene-transfer techniques."
+          }
+        ],
+        "support": [
+          {
+            "id": "Biology|support|diagram-dna",
+            "label": "Existing revision diagram: dna",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          }
+        ],
+        "higherLessons": [
+          {
+            "id": "Biology|Inheritance|DNA and protein structure",
+            "label": "DNA and protein structure",
+            "kind": "lesson",
+            "tier": "mixed",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": false,
+            "foundationEvidence": true,
+            "reason": "Shared 4.6.1.3 gene-to-amino-acid clause separated from detailed protein-shape/mutation material; Foundation receives only reviewed first sentence."
+          }
+        ],
+        "higherQuestions": []
+      }
+    },
+    {
+      "specRef": "4.6.1.4",
+      "auditRecordId": "aqa-8464-F-4.6.1.4",
+      "title": "Genetic inheritance",
+      "before": "PARTIALLY COVERED",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Existing genetic-cross section extended with all specified terms, genotype/phenotype, polygenic qualification, single-gene examples, supplied cross completion/ratios/probability and family interpretation. New separate Higher constructing-cross section.",
+      "assessment": "Shared q04 headed Punnett template, q05 family inference, q08 numerical dominant percentage; existing bio2-cross/probability/allele reused. Higher q12 constructs a cross from parental descriptions and predicts ratio/expected numbers.",
+      "answersFeedback": "Every new task includes model answer, criteria and misconception feedback; percentage answer marking accepts percent forms and rejects incompatible units.",
+      "tier": "Shared completing/interpreting crosses/family trees and probability/ratios; Higher constructing a new single-gene cross. All source diagrams/data and q feedback tier-checked.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Inheritance|Genetic crosses"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-inheritance-2-0",
+        "aqa-bio-step-inheritance-2-1",
+        "bio-deep-inheritance-genetic-crosses-summary",
+        "bio-deep-inheritance-genetic-crosses-keyword",
+        "bio-deep-inheritance-genetic-crosses-explain",
+        "bio-deep-inheritance-genetic-crosses-justify",
+        "bio-deep-inheritance-genetic-crosses-improve",
+        "bio-deep-inheritance-genetic-crosses-grade9",
+        "bio2-cross",
+        "bio2-probability",
+        "bio2-allele",
+        "aqa-inheritance-completion-q04",
+        "aqa-inheritance-completion-q05",
+        "aqa-inheritance-completion-q08"
+      ],
+      "supportRefs": [
+        "Biology|support|equation-Percentage",
+        "Biology|support|inheritance-cross",
+        "Biology|support|inheritance-family"
+      ],
+      "higherLessonRefs": [
+        "Biology|Inheritance|Constructing genetic crosses"
+      ],
+      "higherQuestionRefs": [
+        "aqa-inheritance-completion-q12"
+      ],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Inheritance|Genetic crosses",
+            "label": "Genetic crosses",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.6A target inheritance extension reviewed; existing shared eligibility and source content retained."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-bio-step-inheritance-2-0",
+            "label": "What does genotype describe?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bio-step-inheritance-2-1",
+            "label": "If A is dominant, which genotype shows the recessive trait?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-genetic-crosses-summary",
+            "label": "Which statement best summarises “Genetic crosses”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Shared audited prompt, answer and feedback retained; DNA-base/amino-acid/protein-shape distractor replaced with existing reviewed shared reflex wording. Higher original preserved."
+          },
+          {
+            "id": "bio-deep-inheritance-genetic-crosses-keyword",
+            "label": "Which key term is most closely linked to “Genetic crosses”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-genetic-crosses-explain",
+            "label": "Explain “Genetic crosses” in two linked sentences.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-genetic-crosses-justify",
+            "label": "Two parents each have genotype Aa. What is the chance of aa offspring? A student answers: “1 in 4 (25%).” Explain why that answer is correct.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-genetic-crosses-improve",
+            "label": "A student writes only “allele”. Improve this into a complete answer about Genetic crosses.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-genetic-crosses-grade9",
+            "label": "Write a Grade 8/9 response for this focus: Give probability as a fraction or percentage.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio2-cross",
+            "label": "In a simple dominant/recessive model, two Aa parents have an offspring. What is the probability of aa?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "bio2-probability",
+            "label": "A couple already has a child with a recessive condition. Does this change the one-in-four probability for their next child in the same simple cross? Explain.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "bio2-allele",
+            "label": "What is an allele?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-inheritance-completion-q04",
+            "label": "Complete the supplied Aa × Aa Punnett square using its gamete headings. Label homozygous/heterozygous genotypes, state genotype and phenotype ratios, and explain why the result is not a rule for every family or every trait.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.6A targeted AQA 8464 review: shared inheritance overview/application versus Higher construction and detailed gene-transfer techniques."
+          },
+          {
+            "id": "aqa-inheritance-completion-q05",
+            "label": "Interpret the supplied recessive-disorder family tree. Infer the two unaffected parents’ genotypes and the possibilities for their unaffected child K. Contrast cystic fibrosis with polydactyly.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.6A targeted AQA 8464 review: shared inheritance overview/application versus Higher construction and detailed gene-transfer techniques."
+          },
+          {
+            "id": "aqa-inheritance-completion-q08",
+            "label": "The supplied completed cross has equally likely cells AA, Aa, Aa and aa, where A is dominant. What percentage of offspring is expected to show the dominant phenotype?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.6A targeted AQA 8464 review: shared inheritance overview/application versus Higher construction and detailed gene-transfer techniques."
+          }
+        ],
+        "support": [
+          {
+            "id": "Biology|support|equation-Percentage",
+            "label": "Learning Lab equation: Percentage",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "Biology|support|inheritance-cross",
+            "label": "Inheritance cross resource",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.6A targeted AQA 8464 review: shared inheritance overview/application versus Higher construction and detailed gene-transfer techniques."
+          },
+          {
+            "id": "Biology|support|inheritance-family",
+            "label": "Inheritance family resource",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.6A targeted AQA 8464 review: shared inheritance overview/application versus Higher construction and detailed gene-transfer techniques."
+          }
+        ],
+        "higherLessons": [
+          {
+            "id": "Biology|Inheritance|Constructing genetic crosses",
+            "label": "Constructing genetic crosses",
+            "kind": "lesson",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.6A targeted AQA 8464 review: shared inheritance overview/application versus Higher construction and detailed gene-transfer techniques."
+          }
+        ],
+        "higherQuestions": [
+          {
+            "id": "aqa-inheritance-completion-q12",
+            "label": "Higher: in a simple model tall is dominant T and short recessive t. Construct a cross between a heterozygous tall parent and a short parent. Predict genotypes, phenotype ratio and expected short offspring among 60.",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.6A targeted AQA 8464 review: shared inheritance overview/application versus Higher construction and detailed gene-transfer techniques."
+          }
+        ]
+      }
+    },
+    {
+      "specRef": "4.6.1.5",
+      "auditRecordId": "aqa-8464-F-4.6.1.5",
+      "title": "Inherited disorders",
+      "before": "PARTIALLY COVERED",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Existing disorders section extended with polydactyly extra digits/dominant, cystic fibrosis cell membranes/recessive, carrier/family inference and supplied-information screening trade-offs, limits, access and ethics.",
+      "assessment": "q05 shares family-tree resource with inheritance; q06 screening benefit/limits/economic/social/ethical evaluation. Existing restored feedback preserved.",
+      "answersFeedback": "Every new task includes model answer, criteria and misconception feedback; percentage answer marking accepts percent forms and rejects incompatible units.",
+      "tier": "Shared including pedigree interpretation. No clinical prediction or guarantee of a healthy child; respect differing family values.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Inheritance|Inherited disorders and screening"
+      ],
+      "questionRefs": [
+        "aqa-shared-gap-4-0",
+        "aqa-shared-gap-4-1",
+        "bio-deep-inheritance-inherited-disorders-and-screening-summary",
+        "bio-deep-inheritance-inherited-disorders-and-screening-keyword",
+        "bio-deep-inheritance-inherited-disorders-and-screening-explain",
+        "bio-deep-inheritance-inherited-disorders-and-screening-justify",
+        "bio-deep-inheritance-inherited-disorders-and-screening-improve",
+        "bio-deep-inheritance-inherited-disorders-and-screening-grade9",
+        "aqa-inheritance-completion-q05",
+        "aqa-inheritance-completion-q06"
+      ],
+      "supportRefs": [
+        "Biology|support|inheritance-family"
+      ],
+      "higherLessonRefs": [],
+      "higherQuestionRefs": [],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Inheritance|Inherited disorders and screening",
+            "label": "Inherited disorders and screening",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.6A target inheritance extension reviewed; existing shared eligibility and source content retained."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-shared-gap-4-0",
+            "label": "Which condition is caused by a recessive allele in the AQA examples?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-shared-gap-4-1",
+            "label": "Explain why two unaffected carriers can have a child with cystic fibrosis.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block. Existing source feedback restored in 7.0.5O."
+          },
+          {
+            "id": "bio-deep-inheritance-inherited-disorders-and-screening-summary",
+            "label": "Which statement best summarises “Inherited disorders and screening”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-inherited-disorders-and-screening-keyword",
+            "label": "Which key term is most closely linked to “Inherited disorders and screening”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-inherited-disorders-and-screening-explain",
+            "label": "Explain “Inherited disorders and screening” in two linked sentences.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-inherited-disorders-and-screening-justify",
+            "label": "Two parents each carry one cystic fibrosis allele. What is the chance of an affected child in a simple cross? A student answers: “1 in 4, or 25%, for each child.” Explain why that answer is correct.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-inherited-disorders-and-screening-improve",
+            "label": "A student writes only “carrier”. Improve this into a complete answer about Inherited disorders and screening.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-inherited-disorders-and-screening-grade9",
+            "label": "Write a Grade 8/9 response for this focus: Use alleles to explain the risk, then evaluate screening fairly.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-inheritance-completion-q05",
+            "label": "Interpret the supplied recessive-disorder family tree. Infer the two unaffected parents’ genotypes and the possibilities for their unaffected child K. Contrast cystic fibrosis with polydactyly.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.6A targeted AQA 8464 review: shared inheritance overview/application versus Higher construction and detailed gene-transfer techniques."
+          },
+          {
+            "id": "aqa-inheritance-completion-q06",
+            "label": "A hypothetical embryo test detects one specified inherited allele but cannot test every disorder. Evaluate its use, including a possible benefit, a scientific limitation and economic/social/ethical considerations.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.6A targeted AQA 8464 review: shared inheritance overview/application versus Higher construction and detailed gene-transfer techniques."
+          }
+        ],
+        "support": [
+          {
+            "id": "Biology|support|inheritance-family",
+            "label": "Inheritance family resource",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.6A targeted AQA 8464 review: shared inheritance overview/application versus Higher construction and detailed gene-transfer techniques."
+          }
+        ],
+        "higherLessons": [],
+        "higherQuestions": []
+      }
+    },
+    {
+      "specRef": "4.6.1.6",
+      "auditRecordId": "aqa-8464-F-4.6.1.6",
+      "title": "Sex determination",
+      "before": "PARTIALLY COVERED",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Existing sex-inheritance section extended: 22 autosomal pairs plus one sex pair, X egg/X or Y sperm, XX/XY cross, ratio/probability and independence. Existing sex-inheritance diagram reused.",
+      "assessment": "q07 explicitly carries out the sex cross and interprets ratio/probability after previous births; old family retained.",
+      "answersFeedback": "Every new task includes model answer, criteria and misconception feedback; percentage answer marking accepts percent forms and rejects incompatible units.",
+      "tier": "This sex cross is explicitly shared despite Higher construction rule in the general single-gene subsection. Simplified GCSE chromosome model stated.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Inheritance|Sex chromosomes and inheritance"
+      ],
+      "questionRefs": [
+        "aqa-shared-gap-5-0",
+        "aqa-shared-gap-5-1",
+        "bio-deep-inheritance-sex-chromosomes-and-inheritance-summary",
+        "bio-deep-inheritance-sex-chromosomes-and-inheritance-keyword",
+        "bio-deep-inheritance-sex-chromosomes-and-inheritance-explain",
+        "bio-deep-inheritance-sex-chromosomes-and-inheritance-justify",
+        "bio-deep-inheritance-sex-chromosomes-and-inheritance-improve",
+        "bio-deep-inheritance-sex-chromosomes-and-inheritance-grade9",
+        "aqa-inheritance-completion-q07"
+      ],
+      "supportRefs": [
+        "Biology|support|diagram-sex-inheritance"
+      ],
+      "higherLessonRefs": [],
+      "higherQuestionRefs": [],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Inheritance|Sex chromosomes and inheritance",
+            "label": "Sex chromosomes and inheritance",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.6A target inheritance extension reviewed; existing shared eligibility and source content retained."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-shared-gap-5-0",
+            "label": "Which sex chromosome can a human egg carry?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-shared-gap-5-1",
+            "label": "Explain why the expected probability of an XY child is one half.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block. Existing source feedback restored in 7.0.5O."
+          },
+          {
+            "id": "bio-deep-inheritance-sex-chromosomes-and-inheritance-summary",
+            "label": "Which statement best summarises “Sex chromosomes and inheritance”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-sex-chromosomes-and-inheritance-keyword",
+            "label": "Which key term is most closely linked to “Sex chromosomes and inheritance”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-sex-chromosomes-and-inheritance-explain",
+            "label": "Explain “Sex chromosomes and inheritance” in two linked sentences.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-sex-chromosomes-and-inheritance-justify",
+            "label": "An X-carrying egg is fertilised by a Y-carrying sperm. What is the chromosome pair? A student answers: “XY.” Explain why that answer is correct.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-sex-chromosomes-and-inheritance-improve",
+            "label": "A student writes only “chromosome”. Improve this into a complete answer about Sex chromosomes and inheritance.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-sex-chromosomes-and-inheritance-grade9",
+            "label": "Write a Grade 8/9 response for this focus: Show the cross and state probability for each child.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-inheritance-completion-q07",
+            "label": "Carry out the simplified XX × XY sex-inheritance cross. State body-cell chromosome pairs, gametes, offspring ratio/probability, and whether three previous XX children alter the next probability.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.6A targeted AQA 8464 review: shared inheritance overview/application versus Higher construction and detailed gene-transfer techniques."
+          }
+        ],
+        "support": [
+          {
+            "id": "Biology|support|diagram-sex-inheritance",
+            "label": "Existing revision diagram: sex-inheritance",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          }
+        ],
+        "higherLessons": [],
+        "higherQuestions": []
+      }
+    },
+    {
+      "specRef": "4.6.2.1",
+      "auditRecordId": "aqa-8464-F-4.6.2.1",
+      "title": "Variation",
+      "before": "PARTIALLY COVERED",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Existing variation section extended: genes/environment/interaction→phenotype, extensive population variation, continuous mutations, most/some/very-few phenotype effects and rare new phenotype after environmental change.",
+      "assessment": "q09 matched genotype/water-height table and interpretation/mutation explanation; existing twins example retained.",
+      "answersFeedback": "Every new task includes model answer, criteria and misconception feedback; percentage answer marking accepts percent forms and rejects incompatible units.",
+      "tier": "Shared. Limited to this point’s rare-phenotype statement; no adjacent evolution unit promoted or extended. Illustrative dataset does not prove uncontrolled causes.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Inheritance|Variation and mutation"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-inheritance-3-0",
+        "aqa-bio-step-inheritance-3-1",
+        "bio-deep-inheritance-variation-and-mutation-summary",
+        "bio-deep-inheritance-variation-and-mutation-keyword",
+        "bio-deep-inheritance-variation-and-mutation-explain",
+        "bio-deep-inheritance-variation-and-mutation-justify",
+        "bio-deep-inheritance-variation-and-mutation-improve",
+        "bio-deep-inheritance-variation-and-mutation-grade9",
+        "bio2-twins",
+        "aqa-inheritance-completion-q09"
+      ],
+      "supportRefs": [
+        "Biology|support|inheritance-variation"
+      ],
+      "higherLessonRefs": [],
+      "higherQuestionRefs": [],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Inheritance|Variation and mutation",
+            "label": "Variation and mutation",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.6A target inheritance extension reviewed; existing shared eligibility and source content retained."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-bio-step-inheritance-3-0",
+            "label": "What is a mutation?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bio-step-inheritance-3-1",
+            "label": "Which can cause variation in a population?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-variation-and-mutation-summary",
+            "label": "Which statement best summarises “Variation and mutation”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Shared audited prompt, answer and feedback retained; DNA-base/amino-acid/protein-shape distractor replaced with existing reviewed shared reflex wording. Higher original preserved."
+          },
+          {
+            "id": "bio-deep-inheritance-variation-and-mutation-keyword",
+            "label": "Which key term is most closely linked to “Variation and mutation”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-variation-and-mutation-explain",
+            "label": "Explain “Variation and mutation” in two linked sentences.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-variation-and-mutation-justify",
+            "label": "Identical seedlings grow to different heights in bright and shaded places. What caused some variation? A student answers: “Environmental differences.” Explain why that answer is correct.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-variation-and-mutation-improve",
+            "label": "A student writes only “mutation”. Improve this into a complete answer about Variation and mutation.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-variation-and-mutation-grade9",
+            "label": "Write a Grade 8/9 response for this focus: Distinguish inherited variation from environmental effects.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio2-twins",
+            "label": "Identical twins can have different body masses. Suggest why.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-inheritance-completion-q09",
+            "label": "Use the seedling table to explain genetic, environmental and combined influences on phenotype. Explain why mutations do not occur because plants need to grow taller and what most genetic variants do to phenotype.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.6A targeted AQA 8464 review: shared inheritance overview/application versus Higher construction and detailed gene-transfer techniques."
+          }
+        ],
+        "support": [
+          {
+            "id": "Biology|support|inheritance-variation",
+            "label": "Inheritance variation resource",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.6A targeted AQA 8464 review: shared inheritance overview/application versus Higher construction and detailed gene-transfer techniques."
+          }
+        ],
+        "higherLessons": [],
+        "higherQuestions": []
+      }
+    },
+    {
+      "specRef": "4.6.2.3",
+      "auditRecordId": "aqa-8464-F-4.6.2.3",
+      "title": "Selective breeding",
+      "before": "PARTIALLY COVERED",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Existing combined breeding/engineering section extended: mixed population, parent selection, breeding, offspring selection and repetition; four specified examples; inbreeding/diversity/disease/defects and welfare evaluation.",
+      "assessment": "q10 multi-generation applied plan/risk judgement; q11 process comparison shared with engineering. Existing bio2-breeding retained.",
+      "answersFeedback": "Every new task includes model answer, criteria and misconception feedback; percentage answer marking accepts percent forms and rejects incompatible units.",
+      "tier": "Shared sequence, benefits/risks and ethics; no adjacent evolution/ecology additions.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Inheritance|Selective breeding and genetic engineering"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-inheritance-5-0",
+        "aqa-bio-step-inheritance-5-1",
+        "bio-deep-inheritance-selective-breeding-and-genetic-engineering-summary",
+        "bio-deep-inheritance-selective-breeding-and-genetic-engineering-keyword",
+        "bio-deep-inheritance-selective-breeding-and-genetic-engineering-explain",
+        "bio-deep-inheritance-selective-breeding-and-genetic-engineering-justify",
+        "bio-deep-inheritance-selective-breeding-and-genetic-engineering-improve",
+        "bio-deep-inheritance-selective-breeding-and-genetic-engineering-grade9",
+        "bio2-breeding",
+        "aqa-inheritance-completion-q10",
+        "aqa-inheritance-completion-q11"
+      ],
+      "supportRefs": [],
+      "higherLessonRefs": [],
+      "higherQuestionRefs": [],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Inheritance|Selective breeding and genetic engineering",
+            "label": "Selective breeding and genetic engineering",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.6A target inheritance extension reviewed; existing shared eligibility and source content retained."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-bio-step-inheritance-5-0",
+            "label": "Which method directly inserts a chosen gene?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bio-step-inheritance-5-1",
+            "label": "Which is a possible risk of repeated selective breeding?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-selective-breeding-and-genetic-engineering-summary",
+            "label": "Which statement best summarises “Selective breeding and genetic engineering”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Selective breeding and genetic engineering: shared audited prompt, answer, feedback and other distractors retained; inherited DNA/protein or excluded biomass-transfer distractor replaced with existing reviewed shared wording. Original Higher question preserved."
+          },
+          {
+            "id": "bio-deep-inheritance-selective-breeding-and-genetic-engineering-keyword",
+            "label": "Which key term is most closely linked to “Selective breeding and genetic engineering”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-selective-breeding-and-genetic-engineering-explain",
+            "label": "Explain “Selective breeding and genetic engineering” in two linked sentences.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-selective-breeding-and-genetic-engineering-justify",
+            "label": "A farmer repeatedly breeds plants with larger fruit. Which method is this? A student answers: “Selective breeding.” Explain why that answer is correct.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-selective-breeding-and-genetic-engineering-improve",
+            "label": "A student writes only “selective breeding”. Improve this into a complete answer about Selective breeding and genetic engineering.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-selective-breeding-and-genetic-engineering-grade9",
+            "label": "Write a Grade 8/9 response for this focus: Evaluate benefits and risks with a named example.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio2-breeding",
+            "label": "Give one risk of repeatedly breeding closely related individuals for a desired feature.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-inheritance-completion-q10",
+            "label": "Plan selective breeding for a disease-resistant crop or higher-milk-yield animal over several generations. Evaluate a proposal to breed only a few closely related individuals with the strongest desired feature.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.6A targeted AQA 8464 review: shared inheritance overview/application versus Higher construction and detailed gene-transfer techniques."
+          },
+          {
+            "id": "aqa-inheritance-completion-q11",
+            "label": "Compare selective breeding with engineering bacteria to produce human insulin and crops resistant to insects or herbicides. Evaluate two potential benefits and two concerns without assuming all applications are good or bad.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.6A targeted AQA 8464 review: shared inheritance overview/application versus Higher construction and detailed gene-transfer techniques."
+          }
+        ],
+        "support": [],
+        "higherLessons": [],
+        "higherQuestions": []
+      }
+    },
+    {
+      "specRef": "4.6.2.4",
+      "auditRecordId": "aqa-8464-F-4.6.2.4",
+      "title": "Genetic engineering",
+      "before": "PARTIALLY COVERED",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Same combined section extended: introducing a gene from another organism, crops/disease/fruit/insect/herbicide examples and insulin bacteria; application-specific agricultural/medical benefits/risks and objections. New separate Higher technique section: enzymes, plasmid/virus vector, target-cell delivery/early development and technique/cloning interpretation.",
+      "assessment": "Shared q11 definitions/applications/evaluation; Higher q13 sequence/purpose and q14 missing-transfer evidence/cloning distinction/evaluation.",
+      "answersFeedback": "Every new task includes model answer, criteria and misconception feedback; percentage answer marking accepts percent forms and rejects incompatible units.",
+      "tier": "Shared general gene transfer/applications/risks. Higher detailed enzyme/vector/early-stage procedure and technique interpretation. No full cloning protocol or detailed enzyme names added.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Inheritance|Selective breeding and genetic engineering"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-inheritance-5-0",
+        "aqa-bio-step-inheritance-5-1",
+        "bio-deep-inheritance-selective-breeding-and-genetic-engineering-summary",
+        "bio-deep-inheritance-selective-breeding-and-genetic-engineering-keyword",
+        "bio-deep-inheritance-selective-breeding-and-genetic-engineering-explain",
+        "bio-deep-inheritance-selective-breeding-and-genetic-engineering-justify",
+        "bio-deep-inheritance-selective-breeding-and-genetic-engineering-improve",
+        "bio-deep-inheritance-selective-breeding-and-genetic-engineering-grade9",
+        "aqa-inheritance-completion-q11"
+      ],
+      "supportRefs": [],
+      "higherLessonRefs": [
+        "Biology|Inheritance|Genetic engineering techniques"
+      ],
+      "higherQuestionRefs": [
+        "aqa-inheritance-completion-q13",
+        "aqa-inheritance-completion-q14"
+      ],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Inheritance|Selective breeding and genetic engineering",
+            "label": "Selective breeding and genetic engineering",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.6A target inheritance extension reviewed; existing shared eligibility and source content retained."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-bio-step-inheritance-5-0",
+            "label": "Which method directly inserts a chosen gene?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bio-step-inheritance-5-1",
+            "label": "Which is a possible risk of repeated selective breeding?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-selective-breeding-and-genetic-engineering-summary",
+            "label": "Which statement best summarises “Selective breeding and genetic engineering”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Selective breeding and genetic engineering: shared audited prompt, answer, feedback and other distractors retained; inherited DNA/protein or excluded biomass-transfer distractor replaced with existing reviewed shared wording. Original Higher question preserved."
+          },
+          {
+            "id": "bio-deep-inheritance-selective-breeding-and-genetic-engineering-keyword",
+            "label": "Which key term is most closely linked to “Selective breeding and genetic engineering”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-selective-breeding-and-genetic-engineering-explain",
+            "label": "Explain “Selective breeding and genetic engineering” in two linked sentences.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-selective-breeding-and-genetic-engineering-justify",
+            "label": "A farmer repeatedly breeds plants with larger fruit. Which method is this? A student answers: “Selective breeding.” Explain why that answer is correct.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-selective-breeding-and-genetic-engineering-improve",
+            "label": "A student writes only “selective breeding”. Improve this into a complete answer about Selective breeding and genetic engineering.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-inheritance-selective-breeding-and-genetic-engineering-grade9",
+            "label": "Write a Grade 8/9 response for this focus: Evaluate benefits and risks with a named example.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-inheritance-completion-q11",
+            "label": "Compare selective breeding with engineering bacteria to produce human insulin and crops resistant to insects or herbicides. Evaluate two potential benefits and two concerns without assuming all applications are good or bad.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.6A targeted AQA 8464 review: shared inheritance overview/application versus Higher construction and detailed gene-transfer techniques."
+          }
+        ],
+        "support": [],
+        "higherLessons": [
+          {
+            "id": "Biology|Inheritance|Genetic engineering techniques",
+            "label": "Genetic engineering techniques",
+            "kind": "lesson",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.6A targeted AQA 8464 review: shared inheritance overview/application versus Higher construction and detailed gene-transfer techniques."
+          }
+        ],
+        "higherQuestions": [
+          {
+            "id": "aqa-inheritance-completion-q13",
+            "label": "Higher: explain the main steps for engineering cells to produce a useful protein and justify using a vector and an early developmental stage. Identify two kinds of vector.",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.6A targeted AQA 8464 review: shared inheritance overview/application versus Higher construction and detailed gene-transfer techniques."
+          },
+          {
+            "id": "aqa-inheritance-completion-q14",
+            "label": "Higher: a proposed crop technique places the desired gene in a vector but supplies no evidence it reached crop cells. Evaluate the claim that resistant plants are guaranteed, and distinguish this from cloning one existing resistant plant.",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.6A targeted AQA 8464 review: shared inheritance overview/application versus Higher construction and detailed gene-transfer techniques."
+          }
+        ]
+      }
+    }
+  ],
+  "newQuestions": {
+    "total": 14,
+    "writingSelfAssessment": 13,
+    "numericAutoCheck": 1,
+    "multipleChoice": 0,
+    "shared": 11,
+    "higherOnly": 3
+  },
+  "recordedTierBacklog": 0,
+  "knownUnresolvedTierConcerns": 0,
+  "answerUnitBacklog": 0,
+  "tests": {
+    "focused": 152,
+    "full": 521,
+    "failures": 0
+  },
+  "scopeVerification": "100 registered pathways compared with Z: all old questions unchanged; only seven target Inheritance sections, two new Higher sections and 14 new questions differ. All practicals, other topics and adjacent evolution/classification sections unchanged. All 69 non-target external/live audit records unchanged.",
+  "mcq": "All 320 variants pass; stored data/runtime unchanged from Z.",
+  "limitations": [
+    "Internal evidence-based coverage judgement, not accreditation.",
+    "Written responses use model-answer self-assessment.",
+    "Crosses/pedigree are simplified single-gene models; most traits are polygenic.",
+    "Variation data are illustrative; no causal proof from uncontrolled comparisons.",
+    "Browser skipped because environment unchanged."
+  ]
+}

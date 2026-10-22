@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-11",
+  "browser": "Mac-hosted Codex in-app browser",
+  "physical_iPhone": false,
+  "dashboard_entry_scroll": 0,
+  "card_destinations": [
+    "cells",
+    "structures",
+    "specialised"
+  ],
+  "native_history_and_reload": "passed",
+  "custom_back": "passed",
+  "keyboard_disclosure": "passed",
+  "reflection_restore": "passed",
+  "osmosis_saved_answer_reload": "passed",
+  "homepage_logo": "passed",
+  "responsive_viewport": [
+    390,
+    844
+  ],
+  "document_width": 390,
+  "collapsed_dashboard_disclosure_height": 45.5,
+  "revision_intro_height": 438.328125,
+  "console_errors_and_warnings": []
+}

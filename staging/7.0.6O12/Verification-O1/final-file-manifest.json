@@ -1,0 +1,28 @@
+{
+  "baseline": "corrected 7.0.6N",
+  "unchangedBaselineFiles": 176,
+  "modifiedBaselineFiles": [
+    "PROJECT-STATE.md",
+    "index.html",
+    "README.md",
+    "package.json",
+    "USAGE-CHECKPOINTS.md",
+    "cell-journey.js"
+  ],
+  "missingBaselineFiles": [],
+  "newFiles": [
+    "BUILD-O1-REVIEW.md",
+    "EDUCATIONAL-STANDARDS.md",
+    "Verification-O1/O1-mobile-preview.png",
+    "Verification-O1/O1-preview.png",
+    "Verification-O1/browser-notes.md",
+    "Verification-O1/focused-tests.txt",
+    "Verification-O1/full-tests.txt",
+    "Verification-O1/package-preservation.json",
+    "cells-tutor.css",
+    "cells-tutor.js",
+    "media/cells-intro-transcript.txt",
+    "tests/O1-baseline-hashes.json",
+    "tests/cells-tutor.test.cjs"
+  ]
+}

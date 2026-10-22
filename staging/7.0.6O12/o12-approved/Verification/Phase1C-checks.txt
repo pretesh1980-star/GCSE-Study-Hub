@@ -1,0 +1,861 @@
+Foundation: 24 unique parts
+Foundation: 7 groups
+Foundation: 40 marks
+Foundation: AO totals 16/16/8
+Foundation: 11 auto / 29 review marks
+Foundation 1a: allocated AO marks agree
+Foundation 1a: stem, scheme and specification present
+Foundation 1a: three complete options and one exact key
+Foundation 1b: allocated AO marks agree
+Foundation 1b: stem, scheme and specification present
+Foundation 1b: correct-tier dependency F-CELL
+Foundation 1c: allocated AO marks agree
+Foundation 1c: stem, scheme and specification present
+Foundation 1c: three complete options and one exact key
+Foundation 1d: allocated AO marks agree
+Foundation 1d: stem, scheme and specification present
+Foundation 1d: three complete options and one exact key
+Foundation 2a: allocated AO marks agree
+Foundation 2a: stem, scheme and specification present
+Foundation 2a: three complete options and one exact key
+Foundation 2b: allocated AO marks agree
+Foundation 2b: stem, scheme and specification present
+Foundation 2c: allocated AO marks agree
+Foundation 2c: stem, scheme and specification present
+Foundation 2d: allocated AO marks agree
+Foundation 2d: stem, scheme and specification present
+Foundation 2d: correct-tier dependency F-DRAWING
+Foundation 3a: allocated AO marks agree
+Foundation 3a: stem, scheme and specification present
+Foundation 3a: three complete options and one exact key
+Foundation 3b: allocated AO marks agree
+Foundation 3b: stem, scheme and specification present
+Foundation 3c: allocated AO marks agree
+Foundation 3c: stem, scheme and specification present
+Foundation 3c: three complete options and one exact key
+Foundation 3d: allocated AO marks agree
+Foundation 3d: stem, scheme and specification present
+Foundation 3d: correct-tier dependency F-CILIATED
+Foundation 4a: allocated AO marks agree
+Foundation 4a: stem, scheme and specification present
+Foundation 4b: allocated AO marks agree
+Foundation 4b: stem, scheme and specification present
+Foundation 4b: three complete options and one exact key
+Foundation 4c: allocated AO marks agree
+Foundation 4c: stem, scheme and specification present
+Foundation 4c: correct-tier dependency F-STEM-TABLE
+Foundation 5a: allocated AO marks agree
+Foundation 5a: stem, scheme and specification present
+Foundation 5a: three complete options and one exact key
+Foundation 5b: allocated AO marks agree
+Foundation 5b: stem, scheme and specification present
+Foundation 5b: correct-tier dependency F-CUBE
+Foundation 5c: allocated AO marks agree
+Foundation 5c: stem, scheme and specification present
+Foundation 5c: correct-tier dependency F-GILL
+Foundation 5d: allocated AO marks agree
+Foundation 5d: stem, scheme and specification present
+Foundation 5d: three complete options and one exact key
+Foundation 5d: correct-tier dependency F-DIFF-TABLE
+Foundation 6a: allocated AO marks agree
+Foundation 6a: stem, scheme and specification present
+Foundation 6a: correct-tier dependency F-ION
+Foundation 6b: allocated AO marks agree
+Foundation 6b: stem, scheme and specification present
+Foundation 6b: three complete options and one exact key
+Foundation 6c: allocated AO marks agree
+Foundation 6c: stem, scheme and specification present
+Foundation 6c: three complete options and one exact key
+Foundation 7a: allocated AO marks agree
+Foundation 7a: stem, scheme and specification present
+Foundation 7a: correct-tier dependency F-MASS-TABLE
+Foundation 7b: allocated AO marks agree
+Foundation 7b: stem, scheme and specification present
+Foundation 7b: correct-tier dependency F-OSM-TABLE
+Foundation 7b: correct-tier dependency F-OSM-GRAPH
+Foundation: actual PDF displays all 24 parts once
+Foundation: actual PDF printed marks sum to 40
+Foundation: no marking answers/models in question paper
+Foundation 1b: visual caption on its question page
+Foundation 2d: visual caption on its question page
+Foundation 3d: visual caption on its question page
+Foundation 4c: visual caption on its question page
+Foundation 5b: visual caption on its question page
+Foundation 5c: visual caption on its question page
+Foundation 5d: visual caption on its question page
+Foundation 6a: visual caption on its question page
+Foundation 7a: visual caption on its question page
+Foundation 7b: visual caption on its question page
+Foundation 7b: visual caption on its question page
+Foundation: actual marking guide has 11 selected-response keys
+Foundation 1a: key text present in actual guide
+Foundation 1c: key text present in actual guide
+Foundation 1d: key text present in actual guide
+Foundation 2a: key text present in actual guide
+Foundation 3a: key text present in actual guide
+Foundation 3c: key text present in actual guide
+Foundation 4b: key text present in actual guide
+Foundation 5a: key text present in actual guide
+Foundation 5d: key text present in actual guide
+Foundation 6b: key text present in actual guide
+Foundation 6c: key text present in actual guide
+Foundation: all 11 required original visual files valid and rendered at 320/390px
+Higher: 24 unique parts
+Higher: 7 groups
+Higher: 40 marks
+Higher: AO totals 16/16/8
+Higher: 11 auto / 29 review marks
+Higher 1a: allocated AO marks agree
+Higher 1a: stem, scheme and specification present
+Higher 1a: three complete options and one exact key
+Higher 1b: allocated AO marks agree
+Higher 1b: stem, scheme and specification present
+Higher 1b: correct-tier dependency H-CELL
+Higher 1c: allocated AO marks agree
+Higher 1c: stem, scheme and specification present
+Higher 1c: three complete options and one exact key
+Higher 1d: allocated AO marks agree
+Higher 1d: stem, scheme and specification present
+Higher 1d: three complete options and one exact key
+Higher 2a: allocated AO marks agree
+Higher 2a: stem, scheme and specification present
+Higher 2a: three complete options and one exact key
+Higher 2b: allocated AO marks agree
+Higher 2b: stem, scheme and specification present
+Higher 2c: allocated AO marks agree
+Higher 2c: stem, scheme and specification present
+Higher 2d: allocated AO marks agree
+Higher 2d: stem, scheme and specification present
+Higher 2d: correct-tier dependency H-DRAWING
+Higher 3a: allocated AO marks agree
+Higher 3a: stem, scheme and specification present
+Higher 3a: three complete options and one exact key
+Higher 3b: allocated AO marks agree
+Higher 3b: stem, scheme and specification present
+Higher 3c: allocated AO marks agree
+Higher 3c: stem, scheme and specification present
+Higher 3c: three complete options and one exact key
+Higher 3d: allocated AO marks agree
+Higher 3d: stem, scheme and specification present
+Higher 3d: correct-tier dependency H-NERVE
+Higher 4a: allocated AO marks agree
+Higher 4a: stem, scheme and specification present
+Higher 4b: allocated AO marks agree
+Higher 4b: stem, scheme and specification present
+Higher 4b: three complete options and one exact key
+Higher 4c: allocated AO marks agree
+Higher 4c: stem, scheme and specification present
+Higher 4c: correct-tier dependency H-STEM-TABLE
+Higher 5a: allocated AO marks agree
+Higher 5a: stem, scheme and specification present
+Higher 5a: three complete options and one exact key
+Higher 5b: allocated AO marks agree
+Higher 5b: stem, scheme and specification present
+Higher 5b: correct-tier dependency H-CUBE
+Higher 5c: allocated AO marks agree
+Higher 5c: stem, scheme and specification present
+Higher 5c: correct-tier dependency H-LEAF
+Higher 5d: allocated AO marks agree
+Higher 5d: stem, scheme and specification present
+Higher 5d: three complete options and one exact key
+Higher 5d: correct-tier dependency H-DIFF-TABLE
+Higher 6a: allocated AO marks agree
+Higher 6a: stem, scheme and specification present
+Higher 6a: correct-tier dependency H-GLUCOSE
+Higher 6b: allocated AO marks agree
+Higher 6b: stem, scheme and specification present
+Higher 6b: three complete options and one exact key
+Higher 6c: allocated AO marks agree
+Higher 6c: stem, scheme and specification present
+Higher 6c: three complete options and one exact key
+Higher 7a: allocated AO marks agree
+Higher 7a: stem, scheme and specification present
+Higher 7a: correct-tier dependency H-MASS-TABLE
+Higher 7b: allocated AO marks agree
+Higher 7b: stem, scheme and specification present
+Higher 7b: correct-tier dependency H-OSM-TABLE
+Higher 7b: correct-tier dependency H-OSM-GRAPH
+Higher: actual PDF displays all 24 parts once
+Higher: actual PDF printed marks sum to 40
+Higher: no marking answers/models in question paper
+Higher 1b: visual caption on its question page
+Higher 2d: visual caption on its question page
+Higher 3d: visual caption on its question page
+Higher 4c: visual caption on its question page
+Higher 5b: visual caption on its question page
+Higher 5c: visual caption on its question page
+Higher 5d: visual caption on its question page
+Higher 6a: visual caption on its question page
+Higher 7a: visual caption on its question page
+Higher 7b: visual caption on its question page
+Higher 7b: visual caption on its question page
+Higher: actual marking guide has 11 selected-response keys
+Higher 1a: key text present in actual guide
+Higher 1c: key text present in actual guide
+Higher 1d: key text present in actual guide
+Higher 2a: key text present in actual guide
+Higher 3a: key text present in actual guide
+Higher 3c: key text present in actual guide
+Higher 4b: key text present in actual guide
+Higher 5a: key text present in actual guide
+Higher 5d: key text present in actual guide
+Higher 6b: key text present in actual guide
+Higher 6c: key text present in actual guide
+Higher: all 11 required original visual files valid and rendered at 320/390px
+22 visual assets; no placeholder dependencies
+F: independently recomputed pilot percentage 10.0
+F: pilot answer is not a printed investigation data value
+H: independently recomputed pilot percentage -8.7500
+H: pilot answer is not a printed investigation data value
+Higher percentage rounds to -8.8%
+Foundation real size 40 µm
+Higher real size 3×10^-6 m
+Foundation SA:V 3:1; 24:8 equivalent
+Higher SA:V 12:1; comparison factor 4
+F: graph data match approved original values
+F: independent table/graph correspondence
+F: actual SVG contains five plotted data points
+F: SVG point at correct coordinate (0, 8)
+F: SVG point at correct coordinate (0.2, 4)
+F: SVG point at correct coordinate (0.4, 0)
+F: SVG point at correct coordinate (0.6, -4)
+F: SVG point at correct coordinate (0.8, -8)
+H: graph data match approved original values
+H: independent table/graph correspondence
+H: actual SVG contains five plotted data points
+H: SVG point at correct coordinate (0, 11)
+H: SVG point at correct coordinate (0.15, 5)
+H: SVG point at correct coordinate (0.3, 1)
+H: SVG point at correct coordinate (0.45, -7.5)
+H: SVG point at correct coordinate (0.6, -12)
+Higher graphical zero approximately 0.32 mol/dm³
+NEGATIVE: removed visible A is rejected, even though its description still mentions A
+NEGATIVE: omitted correct option rejected
+NEGATIVE: removed graph rejected by dependency validator
+NEGATIVE: corrupt SVG cannot parse
+O1–O11 approved app: preserved .gitignore
+O1–O11 approved app: preserved ADAPTIVE-FEEDBACK-7.0.6J.md
+O1–O11 approved app: preserved ANSWER-UNIT-AUDIT.json
+O1–O11 approved app: preserved Archive/Before-O10/CURRENT-BUILD.txt
+O1–O11 approved app: preserved Archive/Before-O11/CURRENT-BUILD.txt
+O1–O11 approved app: preserved Archive/Before-O11/Verification/browser-checks.md
+O1–O11 approved app: preserved Archive/Before-O11/Verification/focused-tests.txt
+O1–O11 approved app: preserved Archive/Before-O11/Verification/package-checks.txt
+O1–O11 approved app: preserved Archive/Before-O11/Verification/preservation.json
+O1–O11 approved app: preserved Archive/Before-O11/Verification/regression-tests.txt
+O1–O11 approved app: preserved Archive/Before-O11/Verification/stage4-desktop.png
+O1–O11 approved app: preserved Archive/Before-O11/Verification/stage4-mobile.png
+O1–O11 approved app: preserved Archive/Before-O11/package.json
+O1–O11 approved app: preserved Archive/Before-O11-final-refinement/CURRENT-BUILD 2.txt
+O1–O11 approved app: preserved Archive/Before-O11-final-refinement/CURRENT-BUILD.txt
+O1–O11 approved app: preserved Archive/Before-O11-final-refinement/O11-curriculum-coverage.md
+O1–O11 approved app: preserved Archive/Before-O11-final-refinement/O11-development-review.md
+O1–O11 approved app: preserved Archive/Before-O11-final-refinement/O11-refinement-curriculum.md
+O1–O11 approved app: preserved Archive/Before-O11-final-refinement/O11-refinement-review.md
+O1–O11 approved app: preserved Archive/Before-O11-final-refinement/PROJECT-ROADMAP.md
+O1–O11 approved app: preserved Archive/Before-O11-final-refinement/README.md
+O1–O11 approved app: preserved Archive/Before-O11-final-refinement/README.txt
+O1–O11 approved app: preserved Archive/Before-O11-final-refinement/Verification/O11-focused-tests.txt
+O1–O11 approved app: preserved Archive/Before-O11-final-refinement/Verification/O11-refined-focused-tests.txt
+O1–O11 approved app: preserved Archive/Before-O11-final-refinement/Verification/O11-refined-regression-tests.txt
+O1–O11 approved app: preserved Archive/Before-O11-final-refinement/Verification/O11-regression-tests.txt
+O1–O11 approved app: preserved Archive/Before-O11-final-refinement/Verification/asset-checks.json
+O1–O11 approved app: preserved Archive/Before-O11-final-refinement/Verification/browser-checks.md
+O1–O11 approved app: preserved Archive/Before-O11-final-refinement/Verification/desktop-bicycle-guide.png
+O1–O11 approved app: preserved Archive/Before-O11-final-refinement/Verification/focused-tests.txt
+O1–O11 approved app: preserved Archive/Before-O11-final-refinement/Verification/mobile-assessment-diagram.png
+O1–O11 approved app: preserved Archive/Before-O11-final-refinement/Verification/mobile-bicycle.png
+O1–O11 approved app: preserved Archive/Before-O11-final-refinement/Verification/mobile-reasoning.png
+O1–O11 approved app: preserved Archive/Before-O11-final-refinement/Verification/mobile-unmarked-results.png
+O1–O11 approved app: preserved Archive/Before-O11-final-refinement/Verification/o11-desktop-root.png
+O1–O11 approved app: preserved Archive/Before-O11-final-refinement/Verification/o11-mobile-results.png
+O1–O11 approved app: preserved Archive/Before-O11-final-refinement/Verification/o11-mobile-root.png
+O1–O11 approved app: preserved Archive/Before-O11-final-refinement/Verification/package-checks.txt
+O1–O11 approved app: preserved Archive/Before-O11-final-refinement/Verification/preservation.json
+O1–O11 approved app: preserved Archive/Before-O11-final-refinement/Verification/regression-tests.txt
+O1–O11 approved app: preserved Archive/Before-O11-final-refinement/Verification/stage4-desktop.png
+O1–O11 approved app: preserved Archive/Before-O11-final-refinement/Verification/stage4-mobile.png
+O1–O11 approved app: preserved Archive/Before-O11-final-refinement/package.json
+O1–O11 approved app: preserved Archive/Before-O11-refinement/CURRENT-BUILD.txt
+O1–O11 approved app: preserved Archive/Before-O11-refinement/O11-curriculum-coverage.md
+O1–O11 approved app: preserved Archive/Before-O11-refinement/O11-development-review.md
+O1–O11 approved app: preserved Archive/Before-O11-refinement/PROJECT-ROADMAP.md
+O1–O11 approved app: preserved Archive/Before-O11-refinement/Verification/O11-focused-tests.txt
+O1–O11 approved app: preserved Archive/Before-O11-refinement/Verification/O11-regression-tests.txt
+O1–O11 approved app: preserved Archive/Before-O11-refinement/Verification/asset-checks.json
+O1–O11 approved app: preserved Archive/Before-O11-refinement/Verification/browser-checks.md
+O1–O11 approved app: preserved Archive/Before-O11-refinement/Verification/focused-tests.txt
+O1–O11 approved app: preserved Archive/Before-O11-refinement/Verification/o11-desktop-root.png
+O1–O11 approved app: preserved Archive/Before-O11-refinement/Verification/o11-mobile-results.png
+O1–O11 approved app: preserved Archive/Before-O11-refinement/Verification/o11-mobile-root.png
+O1–O11 approved app: preserved Archive/Before-O11-refinement/Verification/package-checks.txt
+O1–O11 approved app: preserved Archive/Before-O11-refinement/Verification/preservation.json
+O1–O11 approved app: preserved Archive/Before-O11-refinement/Verification/regression-tests.txt
+O1–O11 approved app: preserved Archive/Before-O11-refinement/Verification/stage4-desktop.png
+O1–O11 approved app: preserved Archive/Before-O11-refinement/Verification/stage4-mobile.png
+O1–O11 approved app: preserved Archive/Before-O11-refinement/package.json
+O1–O11 approved app: preserved Archive/Development-evidence/O3-initial-focused-tests.txt
+O1–O11 approved app: preserved Archive/Inherited-build-records/Build-O2b-review.md
+O1–O11 approved app: preserved Archive/Inherited-build-records/CURRENT-BUILD.txt
+O1–O11 approved app: preserved Archive/Inherited-build-records/GCSE_Study_Hub_Build_4_Final/README.txt
+O1–O11 approved app: preserved Archive/Inherited-build-records/GCSE_Study_Hub_Build_4_Final/index.html
+O1–O11 approved app: preserved Archive/Inherited-build-records/GCSE_Study_Hub_Build_4_Final.zip
+O1–O11 approved app: preserved Archive/O2c-checkpoint-records/BUILD-O2c-REVIEW.md
+O1–O11 approved app: preserved Archive/O2c-checkpoint-records/CURRENT-BUILD.txt
+O1–O11 approved app: preserved BIOENERGETICS-COMPLETION-REVIEW.json
+O1–O11 approved app: preserved BIOENERGETICS-COMPLETION-X.md
+O1–O11 approved app: preserved BIOLOGY-BATCH-M.md
+O1–O11 approved app: preserved BIOLOGY-COMPLETE-7.0.6D.md
+O1–O11 approved app: preserved BIOLOGY-COMPLETION-REVIEW.json
+O1–O11 approved app: preserved BIOLOGY-CONSOLIDATION-N.md
+O1–O11 approved app: preserved BIOLOGY-COVERAGE-7.0.5O.json
+O1–O11 approved app: preserved BIOLOGY-COVERAGE-7.0.5P.json
+O1–O11 approved app: preserved BIOLOGY-COVERAGE-7.0.5Q.json
+O1–O11 approved app: preserved BIOLOGY-COVERAGE-7.0.5R.json
+O1–O11 approved app: preserved BIOLOGY-COVERAGE-7.0.5S.json
+O1–O11 approved app: preserved BIOLOGY-COVERAGE-7.0.5T.json
+O1–O11 approved app: preserved BIOLOGY-COVERAGE-7.0.5U.json
+O1–O11 approved app: preserved BIOLOGY-COVERAGE-7.0.5V.json
+O1–O11 approved app: preserved BIOLOGY-COVERAGE-7.0.5W.json
+O1–O11 approved app: preserved BIOLOGY-COVERAGE-7.0.5X.json
+O1–O11 approved app: preserved BIOLOGY-COVERAGE-7.0.5Y.json
+O1–O11 approved app: preserved BIOLOGY-COVERAGE-7.0.5Z.json
+O1–O11 approved app: preserved BIOLOGY-COVERAGE-7.0.6A.json
+O1–O11 approved app: preserved BIOLOGY-COVERAGE-7.0.6B.json
+O1–O11 approved app: preserved BIOLOGY-COVERAGE-7.0.6C.json
+O1–O11 approved app: preserved BIOLOGY-COVERAGE-7.0.6D.json
+O1–O11 approved app: preserved BIOLOGY-REPAIR-PREPARATION-P.md
+O1–O11 approved app: preserved BIOLOGY-REPAIR-REUSE-O.md
+O1–O11 approved app: preserved BLOOD-GLUCOSE-CLEANUP.md
+O1–O11 approved app: preserved BUILD-M-REVIEW.md
+O1–O11 approved app: preserved BUILD-N-STRUCTURAL-CORRECTIONS-REVIEW.md
+O1–O11 approved app: preserved BUILD-O1-REVIEW.md
+O1–O11 approved app: preserved BUILD-O1a-REVIEW.md
+O1–O11 approved app: preserved BUILD-O2-REVIEW-UPDATE.md
+O1–O11 approved app: preserved BUILD-O2-REVIEW.md
+O1–O11 approved app: preserved BUILD-O3-REVIEW.md
+O1–O11 approved app: preserved Build-Hollie-review.md
+O1–O11 approved app: preserved Build-N-structural-corrections.patch
+O1–O11 approved app: preserved Build-O3a-review.md
+O1–O11 approved app: preserved Build-O3b-O4a-review.md
+O1–O11 approved app: preserved Build-O3b-review.md
+O1–O11 approved app: preserved Build-O4a1-review.md
+O1–O11 approved app: preserved Build-O4b-review.md
+O1–O11 approved app: preserved Build-O4b1-review.md
+O1–O11 approved app: preserved Build-O4b2-review.md
+O1–O11 approved app: preserved Build-O4b3-review.md
+O1–O11 approved app: preserved Build-O4b4-review.md
+O1–O11 approved app: preserved Build-O5-review.md
+O1–O11 approved app: preserved Build-O6-review.md
+O1–O11 approved app: preserved Build-O6r1-review.md
+O1–O11 approved app: preserved Build-O7-review.md
+O1–O11 approved app: preserved Build-O8-film-review.md
+O1–O11 approved app: preserved Build-O8-review.md
+O1–O11 approved app: preserved Build-O9-review.md
+O1–O11 approved app: preserved Build-Pip-2-review.md
+O1–O11 approved app: preserved CELL-BIOLOGY-COMPLETION-Q.md
+O1–O11 approved app: preserved CELL-BIOLOGY-COMPLETION-REVIEW.json
+O1–O11 approved app: preserved CELL-BIOLOGY-IMPLEMENTATION-MANIFEST.json
+O1–O11 approved app: preserved CELL-BIOLOGY-IMPLEMENTATION-MANIFEST.md
+O1–O11 approved app: preserved CELL-BIOLOGY-PREP-EVIDENCE.json
+O1–O11 approved app: preserved CIRCULATION-COMPLETION-REVIEW.json
+O1–O11 approved app: preserved CIRCULATION-COMPLETION-T.md
+O1–O11 approved app: preserved COORDINATION-COMPLETION-REVIEW.json
+O1–O11 approved app: preserved COORDINATION-COMPLETION-Y.md
+O1–O11 approved app: preserved COURSE-ALIGNMENT.md
+O1–O11 approved app: preserved CURRENT-BUILD 2.txt
+O1–O11 approved app: preserved CURRENT-BUILD.txt
+O1–O11 approved app: preserved DEFENCES-SUMMARY-CLEANUP.md
+O1–O11 approved app: preserved DIGESTION-COMPLETION-REVIEW.json
+O1–O11 approved app: preserved DIGESTION-COMPLETION-S.md
+O1–O11 approved app: preserved ECOLOGY-BATCH-K.md
+O1–O11 approved app: preserved ECOLOGY-BATCH-L.md
+O1–O11 approved app: preserved ECOLOGY-FIELD-COMPLETION-C.md
+O1–O11 approved app: preserved EDUCATIONAL-STANDARDS.md
+O1–O11 approved app: preserved EVOLUTION-COMPLETION-B.md
+O1–O11 approved app: preserved EVOLUTION-COMPLETION-REVIEW.json
+O1–O11 approved app: preserved FOUNDATION-AUDIT.md
+O1–O11 approved app: preserved HOMEOSTASIS-BATCH-H.md
+O1–O11 approved app: preserved INFECTION-COMPLETION-REVIEW.json
+O1–O11 approved app: preserved INFECTION-COMPLETION-V.md
+O1–O11 approved app: preserved INHERITANCE-BATCH-I.md
+O1–O11 approved app: preserved INHERITANCE-COMPLETION-A.md
+O1–O11 approved app: preserved INHERITANCE-COMPLETION-REVIEW.json
+O1–O11 approved app: preserved MCQ-AUTHORING.md
+O1–O11 approved app: preserved MCQ-POSITION-AUDIT-W1.json
+O1–O11 approved app: preserved MCQ-POSITION-QUALITY-W1.md
+O1–O11 approved app: preserved MEDICINES-COMPLETION-REVIEW.json
+O1–O11 approved app: preserved MEDICINES-COMPLETION-W.md
+O1–O11 approved app: preserved NARRATED-OSMOSIS-7.0.6G.md
+O1–O11 approved app: preserved O10-review.md
+O1–O11 approved app: preserved O10-stage4-review.md
+O1–O11 approved app: preserved O11-curriculum-coverage.md
+O1–O11 approved app: preserved O11-development-review.md
+O1–O11 approved app: preserved O11-final-curriculum.md
+O1–O11 approved app: preserved O11-final-review.md
+O1–O11 approved app: preserved O11-refinement-curriculum.md
+O1–O11 approved app: preserved O11-refinement-review.md
+O1–O11 approved app: preserved O9-UX-pedagogy-review.md
+O1–O11 approved app: preserved O9-content-comparison-review.md
+O1–O11 approved app: preserved O9-discovery-review.md
+O1–O11 approved app: preserved O9-navigation-review.md
+O1–O11 approved app: preserved O9-refinement-review.md
+O1–O11 approved app: preserved O9-stage45-feedback-review.md
+O1–O11 approved app: preserved O9-teaching-review.md
+O1–O11 approved app: preserved OSMOSIS-BENCHMARK-7.0.6E.md
+O1–O11 approved app: preserved OSMOSIS-VIDEO-7.0.6F.md
+O1–O11 approved app: preserved PATHOGENS-SUMMARY-CLEANUP.md
+O1–O11 approved app: preserved PLANT-COMPLETION-REVIEW.json
+O1–O11 approved app: preserved PLANT-COMPLETION-U.md
+O1–O11 approved app: preserved PROJECT-ROADMAP.md
+O1–O11 approved app: preserved PROJECT-STATE-O5.md
+O1–O11 approved app: preserved PROJECT-STATE-O6.md
+O1–O11 approved app: preserved PROJECT-STATE-O6r1.md
+O1–O11 approved app: preserved PROJECT-STATE-O7.md
+O1–O11 approved app: preserved PROJECT-STATE-O9.md
+O1–O11 approved app: preserved PROJECT-STATE.md
+O1–O11 approved app: preserved Preservation-O6.json
+O1–O11 approved app: preserved READ-THIS-FIRST-O10.md
+O1–O11 approved app: preserved READ-THIS-FIRST-O9-REFINEMENT.md
+O1–O11 approved app: preserved READ-THIS-O9-TEACHING.md
+O1–O11 approved app: preserved README.md
+O1–O11 approved app: preserved README.txt
+O1–O11 approved app: preserved REMAINING-TIER-ISSUES.json
+O1–O11 approved app: preserved REPRODUCTION-COMPLETION-REVIEW.json
+O1–O11 approved app: preserved REPRODUCTION-COMPLETION-Z.md
+O1–O11 approved app: preserved REPRODUCTIVE-HORMONES-CLEANUP.md
+O1–O11 approved app: preserved RP02-curriculum-coverage.md
+O1–O11 approved app: preserved SPECIALISED-CELLS-MAPPING.md
+O1–O11 approved app: preserved STABLE-CONDITIONS-CLEANUP.md
+O1–O11 approved app: preserved SUBTITLE-FIX-7.0.6H.md
+O1–O11 approved app: preserved SUMMARY-BATCH-G.md
+O1–O11 approved app: preserved SUMMARY-BATCH-J.md
+O1–O11 approved app: preserved Start Preview.command
+O1–O11 approved app: preserved TIER-CLEANUP.md
+O1–O11 approved app: preserved TRANSPORT-COMPLETION-R.md
+O1–O11 approved app: preserved TRANSPORT-COMPLETION-REVIEW.json
+O1–O11 approved app: preserved USAGE-CHECKPOINTS.md
+O1–O11 approved app: preserved VERIFICATION-7.0.6D.json
+O1–O11 approved app: preserved Verification/O11-final-focused-tests.txt
+O1–O11 approved app: preserved Verification/O11-final-regression-tests.txt
+O1–O11 approved app: preserved Verification/asset-checks.json
+O1–O11 approved app: preserved Verification/browser-checks.json
+O1–O11 approved app: preserved Verification/browser-checks.md
+O1–O11 approved app: preserved Verification/learning-stages-desktop.png
+O1–O11 approved app: preserved Verification/learning-stages-mobile.png
+O1–O11 approved app: preserved Verification/package-checks.txt
+O1–O11 approved app: preserved Verification/preservation.json
+O1–O11 approved app: preserved Verification/results-mistakes-mobile.png
+O1–O11 approved app: preserved Verification/stage3-desktop.png
+O1–O11 approved app: preserved Verification/stage3-mobile.png
+O1–O11 approved app: preserved Verification-Hollie/browser-verification.json
+O1–O11 approved app: preserved Verification-Hollie/focused-57.txt
+O1–O11 approved app: preserved Verification-Hollie/live-preview.json
+O1–O11 approved app: preserved Verification-Hollie/preservation.json
+O1–O11 approved app: preserved Verification-Hollie/regression-964.txt
+O1–O11 approved app: preserved Verification-N-corrected/browser-checks.json
+O1–O11 approved app: preserved Verification-N-corrected/focused-tests.txt
+O1–O11 approved app: preserved Verification-N-corrected/full-tests.txt
+O1–O11 approved app: preserved Verification-N-corrected/preservation-manifest.json
+O1–O11 approved app: preserved Verification-O1/O1-mobile-preview.png
+O1–O11 approved app: preserved Verification-O1/O1-preview.png
+O1–O11 approved app: preserved Verification-O1/browser-notes.md
+O1–O11 approved app: preserved Verification-O1/final-file-manifest.json
+O1–O11 approved app: preserved Verification-O1/focused-tests.txt
+O1–O11 approved app: preserved Verification-O1/full-tests.txt
+O1–O11 approved app: preserved Verification-O1/package-preservation.json
+O1–O11 approved app: preserved Verification-O10/analysis-desktop.png
+O1–O11 approved app: preserved Verification-O10/assessment-desktop.png
+O1–O11 approved app: preserved Verification-O10/assessment-mobile.png
+O1–O11 approved app: preserved Verification-O10/browser-checks.json
+O1–O11 approved app: preserved Verification-O10/focused-tests.txt
+O1–O11 approved app: preserved Verification-O10/numeric-entry-mobile.png
+O1–O11 approved app: preserved Verification-O10/preservation-manifest.json
+O1–O11 approved app: preserved Verification-O10/regression-tests.txt
+O1–O11 approved app: preserved Verification-O10/review-start-desktop.png
+O1–O11 approved app: preserved Verification-O1a/O1a-mastery-mobile.png
+O1–O11 approved app: preserved Verification-O1a/O1a-mastery-preview.png
+O1–O11 approved app: preserved Verification-O1a/O1a-topic-unchanged.png
+O1–O11 approved app: preserved Verification-O1a/assets.json
+O1–O11 approved app: preserved Verification-O1a/browser-notes.md
+O1–O11 approved app: preserved Verification-O1a/file-manifest.json
+O1–O11 approved app: preserved Verification-O1a/focused-tests.txt
+O1–O11 approved app: preserved Verification-O1a/full-tests.txt
+O1–O11 approved app: preserved Verification-O2b/focused-tests.txt
+O1–O11 approved app: preserved Verification-O2b/preservation.json
+O1–O11 approved app: preserved Verification-O2b/regression-tests.txt
+O1–O11 approved app: preserved Verification-O2c/desktop-cards.png
+O1–O11 approved app: preserved Verification-O2c/focused-tests.txt
+O1–O11 approved app: preserved Verification-O2c/mobile.png
+O1–O11 approved app: preserved Verification-O2c/regression-tests.txt
+O1–O11 approved app: preserved Verification-O3/desktop-explorer.png
+O1–O11 approved app: preserved Verification-O3/focused-tests.txt
+O1–O11 approved app: preserved Verification-O3/independent-result.png
+O1–O11 approved app: preserved Verification-O3/mobile-explorer.png
+O1–O11 approved app: preserved Verification-O3/preserved-files.json
+O1–O11 approved app: preserved Verification-O3/regression-tests.txt
+O1–O11 approved app: preserved Verification-O3a/O3b-focused-tests.txt
+O1–O11 approved app: preserved Verification-O3a/O3b-regression-tests.txt
+O1–O11 approved app: preserved Verification-O3a/browser-checks.json
+O1–O11 approved app: preserved Verification-O3a/focused-tests.txt
+O1–O11 approved app: preserved Verification-O3a/navigation-tests.txt
+O1–O11 approved app: preserved Verification-O3a/preservation-manifest.json
+O1–O11 approved app: preserved Verification-O3a/regression-tests.txt
+O1–O11 approved app: preserved Verification-O4a/browser-checks.json
+O1–O11 approved app: preserved Verification-O4a/focused-tests.txt
+O1–O11 approved app: preserved Verification-O4a/layout-measurements.json
+O1–O11 approved app: preserved Verification-O4a/preservation-manifest.json
+O1–O11 approved app: preserved Verification-O4a/regression-tests.txt
+O1–O11 approved app: preserved Verification-O4a1/desktop-labels.png
+O1–O11 approved app: preserved Verification-O4a1/focused-tests.txt
+O1–O11 approved app: preserved Verification-O4a1/mobile-labels.png
+O1–O11 approved app: preserved Verification-O4a1/preservation-manifest.json
+O1–O11 approved app: preserved Verification-O4a1/regression-tests.txt
+O1–O11 approved app: preserved Verification-O4b/browser-checks.json
+O1–O11 approved app: preserved Verification-O4b/desktop-calculations.png
+O1–O11 approved app: preserved Verification-O4b/focused-tests.txt
+O1–O11 approved app: preserved Verification-O4b/mobile-calculations.png
+O1–O11 approved app: preserved Verification-O4b/mobile-labels.png
+O1–O11 approved app: preserved Verification-O4b/preservation-manifest.json
+O1–O11 approved app: preserved Verification-O4b/regression-tests.txt
+O1–O11 approved app: preserved Verification-O4b/review-preview.png
+O1–O11 approved app: preserved Verification-O4b1/focused-tests.txt
+O1–O11 approved app: preserved Verification-O4b1/mobile-simple.png
+O1–O11 approved app: preserved Verification-O4b1/preservation-manifest.json
+O1–O11 approved app: preserved Verification-O4b1/regression-tests.txt
+O1–O11 approved app: preserved Verification-O4b1/simple-preview.png
+O1–O11 approved app: preserved Verification-O4b2/browser-checks.json
+O1–O11 approved app: preserved Verification-O4b2/examples-preview.png
+O1–O11 approved app: preserved Verification-O4b2/focused-tests.txt
+O1–O11 approved app: preserved Verification-O4b2/mobile-examples.png
+O1–O11 approved app: preserved Verification-O4b2/preservation-manifest.json
+O1–O11 approved app: preserved Verification-O4b2/regression-tests.txt
+O1–O11 approved app: preserved Verification-O4b3/controls-preview.png
+O1–O11 approved app: preserved Verification-O4b3/focused-tests.txt
+O1–O11 approved app: preserved Verification-O4b3/preservation-manifest.json
+O1–O11 approved app: preserved Verification-O4b3/regression-tests.txt
+O1–O11 approved app: preserved Verification-O4b4/focused-tests.txt
+O1–O11 approved app: preserved Verification-O4b4/mobile-science.png
+O1–O11 approved app: preserved Verification-O4b4/preservation-manifest.json
+O1–O11 approved app: preserved Verification-O4b4/regression-tests.txt
+O1–O11 approved app: preserved Verification-O4b4/science-preview.png
+O1–O11 approved app: preserved Verification-O5/browser-checks.md
+O1–O11 approved app: preserved Verification-O5/focused-o5a.txt
+O1–O11 approved app: preserved Verification-O5/focused-o5b.txt
+O1–O11 approved app: preserved Verification-O5/regression-o5a.txt
+O1–O11 approved app: preserved Verification-O5/regression-o5b.txt
+O1–O11 approved app: preserved Verification-O6a/browser-checks.md
+O1–O11 approved app: preserved Verification-O6a/focused.log
+O1–O11 approved app: preserved Verification-O6a/full.log
+O1–O11 approved app: preserved Verification-O6b/browser-checks.md
+O1–O11 approved app: preserved Verification-O6b/focused.log
+O1–O11 approved app: preserved Verification-O6b/full.log
+O1–O11 approved app: preserved Verification-O6c/browser-checks.md
+O1–O11 approved app: preserved Verification-O6c/clean-preview-layouts.json
+O1–O11 approved app: preserved Verification-O6c/focused.log
+O1–O11 approved app: preserved Verification-O6c/full.log
+O1–O11 approved app: preserved Verification-O6r1/browser-checks.md
+O1–O11 approved app: preserved Verification-O6r1/focused.log
+O1–O11 approved app: preserved Verification-O6r1/full.log
+O1–O11 approved app: preserved Verification-O6r1/responsive-checks.json
+O1–O11 approved app: preserved Verification-O8/O8-final-regression-949.txt
+O1–O11 approved app: preserved Verification-O8/O8-focused-63.txt
+O1–O11 approved app: preserved Verification-O8/O8a-focused-13.txt
+O1–O11 approved app: preserved Verification-O8/O8a-regression-935.txt
+O1–O11 approved app: preserved Verification-O8/baseline-918.txt
+O1–O11 approved app: preserved Verification-O8/browser-checks.json
+O1–O11 approved app: preserved Verification-O8/layout-checks.json
+O1–O11 approved app: preserved Verification-O8/preservation.json
+O1–O11 approved app: preserved Verification-O8-film/browser-verification.json
+O1–O11 approved app: preserved Verification-O8-film/focused-67.txt
+O1–O11 approved app: preserved Verification-O8-film/preservation.json
+O1–O11 approved app: preserved Verification-O8-film/regression-953.txt
+O1–O11 approved app: preserved Verification-O9/additional-live-checks.json
+O1–O11 approved app: preserved Verification-O9/browser-verification-hollie.json
+O1–O11 approved app: preserved Verification-O9/browser-verification-o9.json
+O1–O11 approved app: preserved Verification-O9/focused-final.log
+O1–O11 approved app: preserved Verification-O9/full-regression-final.log
+O1–O11 approved app: preserved Verification-O9-UX/browser-summary.json
+O1–O11 approved app: preserved Verification-O9-UX/focused.log
+O1–O11 approved app: preserved Verification-O9-UX/preservation.json
+O1–O11 approved app: preserved Verification-O9-UX/regression-final.log
+O1–O11 approved app: preserved Verification-O9-content/O8-preservation.json
+O1–O11 approved app: preserved Verification-O9-content/browser-53.json
+O1–O11 approved app: preserved Verification-O9-content/focused-47.log
+O1–O11 approved app: preserved Verification-O9-content/media-observation.json
+O1–O11 approved app: preserved Verification-O9-content/raisin-preview.jpg
+O1–O11 approved app: preserved Verification-O9-content/regression-986.log
+O1–O11 approved app: preserved Verification-O9-navigation/desktop.png
+O1–O11 approved app: preserved Verification-O9-navigation/focused-tests.txt
+O1–O11 approved app: preserved Verification-O9-navigation/full-tests.txt
+O1–O11 approved app: preserved Verification-O9-navigation/mobile.png
+O1–O11 approved app: preserved Verification-O9-navigation/navigation-browser.json
+O1–O11 approved app: preserved Verification-O9-navigation/o9-browser.json
+O1–O11 approved app: preserved Verification-O9-navigation/original-reproduction.json
+O1–O11 approved app: preserved Verification-O9-refinement/allowance-snapshot.json
+O1–O11 approved app: preserved Verification-O9-refinement/focused-tests.txt
+O1–O11 approved app: preserved Verification-O9-refinement/four-steps-desktop.png
+O1–O11 approved app: preserved Verification-O9-refinement/full-tests.txt
+O1–O11 approved app: preserved Verification-O9-refinement/guided-comparison-mobile.png
+O1–O11 approved app: preserved Verification-O9-refinement/navigation-browser.json
+O1–O11 approved app: preserved Verification-O9-refinement/o9-browser.json
+O1–O11 approved app: preserved Verification-O9-refinement/preservation-audit.json
+O1–O11 approved app: preserved Verification-O9-refinement/teaching-browser.json
+O1–O11 approved app: preserved Verification-O9-teaching/allowance-snapshot.json
+O1–O11 approved app: preserved Verification-O9-teaching/calculation-mobile.png
+O1–O11 approved app: preserved Verification-O9-teaching/cell-desktop.png
+O1–O11 approved app: preserved Verification-O9-teaching/cell-mobile.png
+O1–O11 approved app: preserved Verification-O9-teaching/cucumber-mobile.png
+O1–O11 approved app: preserved Verification-O9-teaching/focused-tests.txt
+O1–O11 approved app: preserved Verification-O9-teaching/full-tests.txt
+O1–O11 approved app: preserved Verification-O9-teaching/manual-ui-checks.json
+O1–O11 approved app: preserved Verification-O9-teaching/navigation-browser.json
+O1–O11 approved app: preserved Verification-O9-teaching/o9-browser.json
+O1–O11 approved app: preserved Verification-O9-teaching/preservation-audit.json
+O1–O11 approved app: preserved Verification-O9-teaching/teaching-browser.json
+O1–O11 approved app: preserved Verification-Pip2/browser-verification.json
+O1–O11 approved app: preserved Verification-Pip2/focused-51.txt
+O1–O11 approved app: preserved Verification-Pip2/native-playback-review.json
+O1–O11 approved app: preserved Verification-Pip2/preservation.json
+O1–O11 approved app: preserved Verification-Pip2/regression-958.txt
+O1–O11 approved app: preserved Verification-stage45-feedback/focused-tests.txt
+O1–O11 approved app: preserved Verification-stage45-feedback/preservation-manifest.json
+O1–O11 approved app: preserved Verification-stage45-feedback/regression-tests.txt
+O1–O11 approved app: preserved Verification-stage45-feedback/stage4-mobile.png
+O1–O11 approved app: preserved Verification-stage45-feedback/stage5-desktop.png
+O1–O11 approved app: preserved Verification-stage45-feedback/stage5-mobile.png
+O1–O11 approved app: preserved active-transport-assessment.js
+O1–O11 approved app: preserved active-transport-final.css
+O1–O11 approved app: preserved active-transport-final.js
+O1–O11 approved app: preserved active-transport-refinement.js
+O1–O11 approved app: preserved active-transport-tutor.js
+O1–O11 approved app: preserved active-transport.css
+O1–O11 approved app: preserved app.js
+O1–O11 approved app: preserved assessment-ux.js
+O1–O11 approved app: preserved biology-bioenergetics-completion.js
+O1–O11 approved app: preserved biology-cards.js
+O1–O11 approved app: preserved biology-cell-completion.js
+O1–O11 approved app: preserved biology-circulation-completion.js
+O1–O11 approved app: preserved biology-coordination-completion.js
+O1–O11 approved app: preserved biology-core-gaps.js
+O1–O11 approved app: preserved biology-diagrams.js
+O1–O11 approved app: preserved biology-digestion-completion.js
+O1–O11 approved app: preserved biology-ecology-field-completion.js
+O1–O11 approved app: preserved biology-ecology-impact-completion.js
+O1–O11 approved app: preserved biology-evolution-completion.js
+O1–O11 approved app: preserved biology-extended-practice.js
+O1–O11 approved app: preserved biology-infection-completion.js
+O1–O11 approved app: preserved biology-inheritance-completion.js
+O1–O11 approved app: preserved biology-medicines-completion.js
+O1–O11 approved app: preserved biology-plant-completion.js
+O1–O11 approved app: preserved biology-practice.js
+O1–O11 approved app: preserved biology-question-bank.js
+O1–O11 approved app: preserved biology-reproduction-completion.js
+O1–O11 approved app: preserved biology-reuse.js
+O1–O11 approved app: preserved biology-transport-completion.js
+O1–O11 approved app: preserved biology.js
+O1–O11 approved app: preserved cell-dashboard.css
+O1–O11 approved app: preserved cell-dashboard.js
+O1–O11 approved app: preserved cell-journey.js
+O1–O11 approved app: preserved cell-lesson-navigation.js
+O1–O11 approved app: preserved cell-structures-tutor.css
+O1–O11 approved app: preserved cell-structures-tutor.js
+O1–O11 approved app: preserved cells-tutor.css
+O1–O11 approved app: preserved cells-tutor.js
+O1–O11 approved app: preserved common-content.js
+O1–O11 approved app: preserved coverage-admin.js
+O1–O11 approved app: preserved coverage.html
+O1–O11 approved app: preserved coverage.js
+O1–O11 approved app: preserved curriculum.js
+O1–O11 approved app: preserved design.css
+O1–O11 approved app: preserved diffusion-assessment.js
+O1–O11 approved app: preserved diffusion-tutor.css
+O1–O11 approved app: preserved diffusion-tutor.js
+O1–O11 approved app: preserved division-assessment.js
+O1–O11 approved app: preserved division-simple.js
+O1–O11 approved app: preserved division-tutor.css
+O1–O11 approved app: preserved division-tutor.js
+O1–O11 approved app: preserved exam-resources.js
+O1–O11 approved app: preserved exchange-assessment.js
+O1–O11 approved app: preserved exchange-film.css
+O1–O11 approved app: preserved exchange-film.js
+O1–O11 approved app: preserved exchange-tutor.css
+O1–O11 approved app: preserved exchange-tutor.js
+O1–O11 approved app: preserved foundation-tier-data.js
+O1–O11 approved app: preserved foundation-tier.js
+O1–O11 approved app: preserved index.html
+O1–O11 approved app: preserved journey-navigation.js
+O1–O11 approved app: preserved learning-stage-navigation-standard.md
+O1–O11 approved app: preserved learning-stage-navigation.css
+O1–O11 approved app: preserved learning-stage-navigation.js
+O1–O11 approved app: preserved learning-tools.js
+O1–O11 approved app: preserved lesson-percentage-feedback.js
+O1–O11 approved app: preserved maths.js
+O1–O11 approved app: preserved mcq-option-order-data.js
+O1–O11 approved app: preserved mcq-option-order.js
+O1–O11 approved app: preserved media/cells-intro-transcript.txt
+O1–O11 approved app: preserved media/osmosis-explainer-clear-subtitles.mp4
+O1–O11 approved app: preserved media/osmosis-explainer-narrated.mp4
+O1–O11 approved app: preserved media/osmosis-explainer.mp4
+O1–O11 approved app: preserved media/osmosis-explainer.vtt
+O1–O11 approved app: preserved media/osmosis-narrated-transcript.txt
+O1–O11 approved app: preserved media/osmosis-narrated.vtt
+O1–O11 approved app: preserved media/osmosis-poster.png
+O1–O11 approved app: preserved media/osmosis-transcript.txt
+O1–O11 approved app: preserved media-container-verification.json
+O1–O11 approved app: preserved media-decode-verification.txt
+O1–O11 approved app: preserved microscope-labelling.js
+O1–O11 approved app: preserved microscope-tutor.css
+O1–O11 approved app: preserved microscope-tutor.js
+O1–O11 approved app: preserved microscopy-calculations.css
+O1–O11 approved app: preserved microscopy-calculations.js
+O1–O11 approved app: preserved mobile-nav.js
+O1–O11 approved app: preserved osmosis-feedback.css
+O1–O11 approved app: preserved osmosis-feedback.js
+O1–O11 approved app: preserved osmosis-navigation-v2.css
+O1–O11 approved app: preserved osmosis-navigation.js
+O1–O11 approved app: preserved osmosis-o9-refined.css
+O1–O11 approved app: preserved osmosis-o9-refined.js
+O1–O11 approved app: preserved osmosis-refinement.css
+O1–O11 approved app: preserved osmosis-refinement.js
+O1–O11 approved app: preserved osmosis-tutor.css
+O1–O11 approved app: preserved osmosis-tutor.js
+O1–O11 approved app: preserved package.json
+O1–O11 approved app: preserved preservation-discovery.json
+O1–O11 approved app: preserved preview-build-id.txt
+O1–O11 approved app: preserved preview-feedback.py
+O1–O11 approved app: preserved preview-o10-build-id.txt
+O1–O11 approved app: preserved preview-o10.py
+O1–O11 approved app: preserved preview-o11-build-id.txt
+O1–O11 approved app: preserved preview-o11.py
+O1–O11 approved app: preserved regression-tests.log
+O1–O11 approved app: preserved rp01-assessment.js
+O1–O11 approved app: preserved rp01-lab.css
+O1–O11 approved app: preserved rp01-lab.js
+O1–O11 approved app: preserved rp02-assessment.js
+O1–O11 approved app: preserved rp02-lab.css
+O1–O11 approved app: preserved rp02-lab.js
+O1–O11 approved app: preserved rp02-stage4-purpose.js
+O1–O11 approved app: preserved science-courses.js
+O1–O11 approved app: preserved scripts/generate-mcq-order.cjs
+O1–O11 approved app: preserved scripts/mcq-quality.cjs
+O1–O11 approved app: preserved spec-audit-admin.js
+O1–O11 approved app: preserved spec-audit-data.js
+O1–O11 approved app: preserved spec-audit.js
+O1–O11 approved app: preserved specialised-cells-data.js
+O1–O11 approved app: preserved specialised-cells-tutor.css
+O1–O11 approved app: preserved specialised-cells-tutor.js
+O1–O11 approved app: preserved targeted-tests.log
+O1–O11 approved app: preserved tests/O1-baseline-hashes.json
+O1–O11 approved app: preserved tests/VERIFIED-FOCUSED-7.0.6D.txt
+O1–O11 approved app: preserved tests/VERIFIED-FULL-7.0.6D.txt
+O1–O11 approved app: preserved tests/active-transport-final.test.cjs
+O1–O11 approved app: preserved tests/active-transport-o11.test.cjs
+O1–O11 approved app: preserved tests/active-transport-refinement.test.cjs
+O1–O11 approved app: preserved tests/aqa-8464-foundation-index.json
+O1–O11 approved app: preserved tests/assessment-ux.test.cjs
+O1–O11 approved app: preserved tests/biology-bioenergetics-completion.test.cjs
+O1–O11 approved app: preserved tests/biology-cell-completion.test.cjs
+O1–O11 approved app: preserved tests/biology-circulation-completion.test.cjs
+O1–O11 approved app: preserved tests/biology-coordination-completion.test.cjs
+O1–O11 approved app: preserved tests/biology-digestion-completion.test.cjs
+O1–O11 approved app: preserved tests/biology-ecology-field.test.cjs
+O1–O11 approved app: preserved tests/biology-ecology-impact.test.cjs
+O1–O11 approved app: preserved tests/biology-evolution-completion.test.cjs
+O1–O11 approved app: preserved tests/biology-infection-completion.test.cjs
+O1–O11 approved app: preserved tests/biology-inheritance-completion.test.cjs
+O1–O11 approved app: preserved tests/biology-legacy-tier.test.cjs
+O1–O11 approved app: preserved tests/biology-medicines-completion.test.cjs
+O1–O11 approved app: preserved tests/biology-plant-completion.test.cjs
+O1–O11 approved app: preserved tests/biology-reproduction-completion.test.cjs
+O1–O11 approved app: preserved tests/biology-reuse.test.cjs
+O1–O11 approved app: preserved tests/biology-transport-completion.test.cjs
+O1–O11 approved app: preserved tests/browser.cjs
+O1–O11 approved app: preserved tests/cell-lesson-navigation.test.cjs
+O1–O11 approved app: preserved tests/cell-structures-tutor.test.cjs
+O1–O11 approved app: preserved tests/cells-tutor.test.cjs
+O1–O11 approved app: preserved tests/coverage.test.cjs
+O1–O11 approved app: preserved tests/diffusion-assessment.test.cjs
+O1–O11 approved app: preserved tests/diffusion-test-helpers.cjs
+O1–O11 approved app: preserved tests/diffusion-tutor.test.cjs
+O1–O11 approved app: preserved tests/division-tutor.test.cjs
+O1–O11 approved app: preserved tests/ecology-baseline-pathway-hashes.json
+O1–O11 approved app: preserved tests/evolution-baseline-question-hashes.json
+O1–O11 approved app: preserved tests/exchange-assessment.test.cjs
+O1–O11 approved app: preserved tests/exchange-film.test.cjs
+O1–O11 approved app: preserved tests/exchange-tutor.test.cjs
+O1–O11 approved app: preserved tests/fixtures/baseline-705n.json
+O1–O11 approved app: preserved tests/fixtures/baseline-705q-biology.json
+O1–O11 approved app: preserved tests/fixtures/o11-original-progress.json
+O1–O11 approved app: preserved tests/fixtures/o11-refined-v2-progress.json
+O1–O11 approved app: preserved tests/foundation-tier.test.cjs
+O1–O11 approved app: preserved tests/hollie-browser.html
+O1–O11 approved app: preserved tests/learning-stage-navigation.test.cjs
+O1–O11 approved app: preserved tests/lesson-percentage-feedback.test.cjs
+O1–O11 approved app: preserved tests/mcq-quality.test.cjs
+O1–O11 approved app: preserved tests/microscope-labelling.test.cjs
+O1–O11 approved app: preserved tests/microscope-tutor.test.cjs
+O1–O11 approved app: preserved tests/microscopy-calculations.test.cjs
+O1–O11 approved app: preserved tests/mobile-browser.cjs
+O1–O11 approved app: preserved tests/o9-visual-review.html
+O1–O11 approved app: preserved tests/osmosis-discovery.test.cjs
+O1–O11 approved app: preserved tests/osmosis-enhancement.test.cjs
+O1–O11 approved app: preserved tests/osmosis-feedback.test.cjs
+O1–O11 approved app: preserved tests/osmosis-media-browser.html
+O1–O11 approved app: preserved tests/osmosis-navigation-browser.html
+O1–O11 approved app: preserved tests/osmosis-navigation.test.cjs
+O1–O11 approved app: preserved tests/osmosis-o9-browser.html
+O1–O11 approved app: preserved tests/osmosis-o9.test.cjs
+O1–O11 approved app: preserved tests/osmosis-refinement.test.cjs
+O1–O11 approved app: preserved tests/osmosis-teaching-browser.html
+O1–O11 approved app: preserved tests/osmosis-teaching.test.cjs
+O1–O11 approved app: preserved tests/osmosis-tutor.test.cjs
+O1–O11 approved app: preserved tests/rp01-assessment.test.cjs
+O1–O11 approved app: preserved tests/rp01-lab.test.cjs
+O1–O11 approved app: preserved tests/rp02-o10.test.cjs
+O1–O11 approved app: preserved tests/rp02-stage4-purpose.test.cjs
+O1–O11 approved app: preserved tests/spec-audit.test.cjs
+O1–O11 approved app: preserved tests/specialised-cells-tutor.test.cjs
+O1–O11 approved app: preserved tests/state.test.cjs
+O1–O11 approved app: preserved tests/structured-journey.test.cjs
+O1–O11 approved app: preserved tests/student-experience.test.cjs
+O1–O11 approved app: preserved tests/visual-dashboard.test.cjs
+O1–O11 approved app: preserved trilogy-content.js
+O1–O11 approved app: 588 packaged files unchanged
+Original Phase 1: preserved O12-Integrity-and-Implementation.md
+Original Phase 1: preserved O12-Official-Sources.md
+Original Phase 1: preserved O12-Phase1-Blueprint.md
+Original Phase 1: preserved O12-Question-Proposals.md
+Original Phase 1: preserved Phase1-validation.txt
+Original Phase 1: preserved START-HERE.md
+Original Phase 1: preserved question-design-catalogue.json
+Original Phase 1: preserved source-evidence.json
+Original Phase 1: 8 packaged files unchanged
+Higher-A-Marking-Guide.pdf: text inside page 1
+Higher-A-Marking-Guide.pdf: text inside page 2
+Higher-A-Marking-Guide.pdf: text inside page 3
+Higher-A-Marking-Guide.pdf: text inside page 4
+Higher-A-Marking-Guide.pdf: text inside page 5
+Foundation-A-Marking-Guide.pdf: text inside page 1
+Foundation-A-Marking-Guide.pdf: text inside page 2
+Foundation-A-Marking-Guide.pdf: text inside page 3
+Foundation-A-Marking-Guide.pdf: text inside page 4
+Foundation-A-Questions.pdf: text inside page 1
+Foundation-A-Questions.pdf: text inside page 2
+Foundation-A-Questions.pdf: text inside page 3
+Foundation-A-Questions.pdf: text inside page 4
+Foundation-A-Questions.pdf: text inside page 5
+Foundation-A-Questions.pdf: text inside page 6
+Foundation-A-Questions.pdf: text inside page 7
+Foundation-A-Questions.pdf: text inside page 8
+Foundation-A-Questions.pdf: text inside page 9
+Owner-Review.pdf: text inside page 1
+Higher-A-Questions.pdf: text inside page 1
+Higher-A-Questions.pdf: text inside page 2
+Higher-A-Questions.pdf: text inside page 3
+Higher-A-Questions.pdf: text inside page 4
+Higher-A-Questions.pdf: text inside page 5
+Higher-A-Questions.pdf: text inside page 6
+Higher-A-Questions.pdf: text inside page 7
+Higher-A-Questions.pdf: text inside page 8
+Higher-A-Questions.pdf: text inside page 9

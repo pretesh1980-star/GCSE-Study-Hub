@@ -1,0 +1,1509 @@
+{
+  "build": "7.0.5Y",
+  "method": "Targeted actual-content review of six existing audit records against cached AQA 8464; no whole-course re-audit. Completion requires teaching/revision, application, answers/feedback, skills and appropriate tier eligibility.",
+  "before": {
+    "fullyCovered": 42,
+    "partial": 35,
+    "missing": 1,
+    "higherOnlyAdequateSubset": 0
+  },
+  "after": {
+    "fullyCovered": 48,
+    "partial": 30,
+    "missing": 0,
+    "higherOnlyAdequateSubset": 1
+  },
+  "counting": "Full includes one adequately covered Higher-only record; 48+30+0=78. Higher-only count is a subset, not a fourth additive category.",
+  "units": [
+    {
+      "specRef": "4.5.1",
+      "auditRecordId": "aqa-8464-F-4.5.1",
+      "title": "Homeostasis",
+      "before": "PARTIALLY COVERED",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Existing Keeping conditions stable extended with optimum enzyme/cell function, glucose/temperature/water conditions, internal/external changes, nervous/chemical controls and receptor/coordinator/effector application.",
+      "assessment": "q01 applied control-system roles and optimum-range reasoning; existing receptor/effector/temperature family retained.",
+      "answersFeedback": "Every new task has answer, criteria and misconception feedback. Written responses self-assessed; numerical time accepts equivalent seconds/milliseconds only.",
+      "skillsAndPractical": "Identify roles in supplied systems without importing Higher water-control mechanisms.",
+      "tier": "Shared requirements plus separately gated Higher blood-glucose feedback where applicable",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Homeostasis & Response|Keeping conditions stable"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-homeostasis-response-0-0",
+        "aqa-bio-step-homeostasis-response-0-1",
+        "bio-deep-homeostasis-response-keeping-conditions-stable-summary",
+        "bio-deep-homeostasis-response-keeping-conditions-stable-keyword",
+        "bio-deep-homeostasis-response-keeping-conditions-stable-explain",
+        "bio-deep-homeostasis-response-keeping-conditions-stable-justify",
+        "bio-deep-homeostasis-response-keeping-conditions-stable-improve",
+        "bio-deep-homeostasis-response-keeping-conditions-stable-grade9",
+        "bio2-effector",
+        "aqa-coordination-completion-q01"
+      ],
+      "supportRefs": [],
+      "higherLessonRefs": [],
+      "higherQuestionRefs": [],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Homeostasis & Response|Keeping conditions stable",
+            "label": "Keeping conditions stable",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5Y targeted coordination extension reviewed; existing Higher source preserved."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-bio-step-homeostasis-response-0-0",
+            "label": "What is an effector?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bio-step-homeostasis-response-0-1",
+            "label": "What does homeostasis maintain?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-keeping-conditions-stable-summary",
+            "label": "Which statement best summarises “Keeping conditions stable”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Keeping conditions stable summary reviewed: prompt, answer and feedback are Foundation-eligible. Remove the Higher-only glucagon clause from the blood-glucose distractor for Foundation; retain the original Higher option."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-keeping-conditions-stable-keyword",
+            "label": "Which key term is most closely linked to “Keeping conditions stable”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-keeping-conditions-stable-explain",
+            "label": "Explain “Keeping conditions stable” in two linked sentences.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-keeping-conditions-stable-justify",
+            "label": "Body temperature rises above its normal range. What detects the change? A student answers: “Receptors.” Explain why that answer is correct.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-keeping-conditions-stable-improve",
+            "label": "A student writes only “homeostasis”. Improve this into a complete answer about Keeping conditions stable.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-keeping-conditions-stable-grade9",
+            "label": "Write a Grade 8/9 response for this focus: Name the stimulus and the corrective response.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio2-effector",
+            "label": "Which structure can act as an effector?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-coordination-completion-q01",
+            "label": "Explain why glucose, temperature and water levels need regulation. In a supplied model, sensor cells detect a rise in temperature, a brain centre processes it and sweat glands act. Identify receptor, coordinator and effector and explain why homeostasis does not mean an unchanging value.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5Y reviewed against cached AQA Trilogy coordination/endocrine scope and tier clauses."
+          }
+        ],
+        "support": [],
+        "higherLessons": [],
+        "higherQuestions": []
+      }
+    },
+    {
+      "specRef": "4.5.2",
+      "auditRecordId": "aqa-8464-F-4.5.2",
+      "title": "The human nervous system",
+      "before": "PARTIALLY COVERED",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Existing reflex lesson extended with brain/spinal cord CNS, electrical impulses/chemical synapse, sensory/relay/motor route, effectors, rapid automatic protection/no conscious decision and damaged-pathway prediction. Existing reflex diagram and questions reused.",
+      "assessment": "q02 sequencing/damage application; q07 mean time and q08 conversion/chart/evaluation link to RP06; old reflex/synapse/reaction questions retained.",
+      "answersFeedback": "Every new task has answer, criteria and misconception feedback. Written responses self-assessed; numerical time accepts equivalent seconds/milliseconds only.",
+      "skillsAndPractical": "MS2c and MS4a numerical/graphical reaction-time interpretation; structure/function and protective significance.",
+      "tier": "Shared requirements plus separately gated Higher blood-glucose feedback where applicable",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Homeostasis & Response|Reflexes and the nervous system",
+        "Biology|Homeostasis & Response|Reaction-time investigations"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-homeostasis-response-1-0",
+        "aqa-bio-step-homeostasis-response-1-1",
+        "aqa-bio-step-homeostasis-response-5-0",
+        "aqa-bio-step-homeostasis-response-5-1",
+        "bio-deep-homeostasis-response-reflexes-and-the-nervous-system-summary",
+        "bio-deep-homeostasis-response-reflexes-and-the-nervous-system-keyword",
+        "bio-deep-homeostasis-response-reflexes-and-the-nervous-system-explain",
+        "bio-deep-homeostasis-response-reflexes-and-the-nervous-system-justify",
+        "bio-deep-homeostasis-response-reflexes-and-the-nervous-system-improve",
+        "bio-deep-homeostasis-response-reflexes-and-the-nervous-system-grade9",
+        "bio-deep-homeostasis-response-reaction-time-investigations-summary",
+        "bio-deep-homeostasis-response-reaction-time-investigations-keyword",
+        "bio-deep-homeostasis-response-reaction-time-investigations-explain",
+        "bio-deep-homeostasis-response-reaction-time-investigations-justify",
+        "bio-deep-homeostasis-response-reaction-time-investigations-improve",
+        "bio-deep-homeostasis-response-reaction-time-investigations-grade9",
+        "bio2-reflex",
+        "bio2-synapse",
+        "bio2-reaction",
+        "aqa-coordination-completion-q02",
+        "aqa-coordination-completion-q07",
+        "aqa-coordination-completion-q08"
+      ],
+      "supportRefs": [
+        "Biology|support|diagram-reflex",
+        "Biology|support|coordination-reaction"
+      ],
+      "higherLessonRefs": [],
+      "higherQuestionRefs": [],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Homeostasis & Response|Reflexes and the nervous system",
+            "label": "Reflexes and the nervous system",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5Y targeted coordination extension reviewed; existing Higher source preserved."
+          },
+          {
+            "id": "Biology|Homeostasis & Response|Reaction-time investigations",
+            "label": "Reaction-time investigations",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5Y targeted coordination extension reviewed; existing Higher source preserved."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-bio-step-homeostasis-response-1-0",
+            "label": "Which neurone carries impulses to an effector?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bio-step-homeostasis-response-1-1",
+            "label": "Which order is a reflex arc?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bio-step-homeostasis-response-5-0",
+            "label": "What should stay the same in a fair ruler-drop test?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bio-step-homeostasis-response-5-1",
+            "label": "Why repeat a reaction-time measurement?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-reflexes-and-the-nervous-system-summary",
+            "label": "Which statement best summarises “Reflexes and the nervous system”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Reflexes and the nervous system summary: audited shared prompt/answer/feedback retained; inherited excluded or mixed-source distractors replaced with existing reviewed shared wording. Original Higher question preserved."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-reflexes-and-the-nervous-system-keyword",
+            "label": "Which key term is most closely linked to “Reflexes and the nervous system”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-reflexes-and-the-nervous-system-explain",
+            "label": "Explain “Reflexes and the nervous system” in two linked sentences.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-reflexes-and-the-nervous-system-justify",
+            "label": "A hand touches a hot surface and quickly pulls away. Which neurone takes the signal from receptor to CNS? A student answers: “Sensory neurone.” Explain why that answer is correct.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-reflexes-and-the-nervous-system-improve",
+            "label": "A student writes only “reflex arc”. Improve this into a complete answer about Reflexes and the nervous system.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-reflexes-and-the-nervous-system-grade9",
+            "label": "Write a Grade 8/9 response for this focus: Put the neurones in the right order.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-reaction-time-investigations-summary",
+            "label": "Which statement best summarises “Reaction-time investigations”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Reaction-time investigations summary: shared audited prompt, answer and feedback retained; excluded/mixed-source hormone distractors separated using existing reviewed Foundation wording. Original Higher question preserved."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-reaction-time-investigations-keyword",
+            "label": "Which key term is most closely linked to “Reaction-time investigations”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-reaction-time-investigations-explain",
+            "label": "Explain “Reaction-time investigations” in two linked sentences.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-reaction-time-investigations-justify",
+            "label": "A pupil catches a dropped ruler at 15 cm, then 12 cm, then 13 cm. What should they do with repeats? A student answers: “Calculate a mean from comparable repeats.” Explain why that answer is correct.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-reaction-time-investigations-improve",
+            "label": "A student writes only “reaction time”. Improve this into a complete answer about Reaction-time investigations.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-reaction-time-investigations-grade9",
+            "label": "Write a Grade 8/9 response for this focus: Spot anomalies before calculating a mean.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio2-reflex",
+            "label": "Explain why withdrawing a hand from a hot surface can happen quickly without a conscious decision.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "bio2-synapse",
+            "label": "How does a signal cross a synapse?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "bio2-reaction",
+            "label": "Why should a student repeat a ruler-drop reaction-time test?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-coordination-completion-q02",
+            "label": "Sequence a withdrawal reflex from a painful stimulus to muscle contraction. Include the CNS and synapse, explain protection without a conscious decision, and predict the effect of a damaged motor neurone.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5Y reviewed against cached AQA Trilogy coordination/endocrine scope and tier clauses."
+          },
+          {
+            "id": "aqa-coordination-completion-q07",
+            "label": "Three reaction times already converted from catching distances are 0.16 s, 0.18 s and 0.20 s. Calculate the mean in seconds.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5Y reviewed against cached AQA Trilogy coordination/endocrine scope and tier clauses."
+          },
+          {
+            "id": "aqa-coordination-completion-q08",
+            "label": "Use the RP06 lookup/data. Convert each trial, calculate both mean times, draw a labelled comparison chart and evaluate the distraction conclusion. A note says the participant guessed one release: how should this be handled?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5Y reviewed against cached AQA Trilogy coordination/endocrine scope and tier clauses."
+          }
+        ],
+        "support": [
+          {
+            "id": "Biology|support|diagram-reflex",
+            "label": "Existing revision diagram: reflex",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "Biology|support|coordination-reaction",
+            "label": "Coordination reaction resource",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5Y reviewed against cached AQA Trilogy coordination/endocrine scope and tier clauses."
+          }
+        ],
+        "higherLessons": [],
+        "higherQuestions": []
+      }
+    },
+    {
+      "specRef": "4.5.3.1",
+      "auditRecordId": "aqa-8464-F-4.5.3.1",
+      "title": "Human endocrine system",
+      "before": "PARTIALLY COVERED",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Existing endocrine lesson extended with blood/target route, slower/longer duration, pituitary master-gland sequence and all six gland positions. New A–F location schematic, separate ovary/testis insets and answer key. Existing shared lesson wrongly included the name glucagon: now separated from the Foundation extract while preserving original Higher content.",
+      "assessment": "q03 identifies all gland positions and applies pituitary control/comparison; existing signals and gland questions/feedback retained.",
+      "answersFeedback": "Every new task has answer, criteria and misconception feedback. Written responses self-assessed; numerical time accepts equivalent seconds/milliseconds only.",
+      "skillsAndPractical": "Anatomical position interpretation; schematic not to scale. Thyroid/adrenal gland names are shared requirements, their target Higher hormone roles are gated.",
+      "tier": "Shared requirements plus separately gated Higher blood-glucose feedback where applicable",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Homeostasis & Response|Keeping conditions stable"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-homeostasis-response-0-0",
+        "aqa-bio-step-homeostasis-response-0-1",
+        "aqa-shared-gap-3-0",
+        "aqa-shared-gap-3-1",
+        "bio-deep-homeostasis-response-keeping-conditions-stable-summary",
+        "bio-deep-homeostasis-response-keeping-conditions-stable-keyword",
+        "bio-deep-homeostasis-response-keeping-conditions-stable-explain",
+        "bio-deep-homeostasis-response-keeping-conditions-stable-justify",
+        "bio-deep-homeostasis-response-keeping-conditions-stable-improve",
+        "bio-deep-homeostasis-response-keeping-conditions-stable-grade9",
+        "bio-deep-homeostasis-response-the-endocrine-system-summary",
+        "bio-deep-homeostasis-response-the-endocrine-system-keyword",
+        "bio-deep-homeostasis-response-the-endocrine-system-explain",
+        "bio-deep-homeostasis-response-the-endocrine-system-justify",
+        "bio-deep-homeostasis-response-the-endocrine-system-improve",
+        "bio-deep-homeostasis-response-the-endocrine-system-grade9",
+        "bio2-signals",
+        "aqa-coordination-completion-q03"
+      ],
+      "supportRefs": [
+        "Biology|support|diagram-hormone-pathway",
+        "Biology|support|coordination-shared-endocrine",
+        "Biology|support|coordination-glands"
+      ],
+      "higherLessonRefs": [
+        "Biology|Homeostasis & Response|The endocrine system"
+      ],
+      "higherQuestionRefs": [],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Homeostasis & Response|Keeping conditions stable",
+            "label": "Keeping conditions stable",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5Y targeted coordination extension reviewed; existing Higher source preserved."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-bio-step-homeostasis-response-0-0",
+            "label": "What is an effector?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bio-step-homeostasis-response-0-1",
+            "label": "What does homeostasis maintain?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-shared-gap-3-0",
+            "label": "Which gland is often called the master gland?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-shared-gap-3-1",
+            "label": "Compare how a hormonal signal and a nervous impulse travel.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block. Existing source feedback restored in 7.0.5O."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-keeping-conditions-stable-summary",
+            "label": "Which statement best summarises “Keeping conditions stable”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Keeping conditions stable summary reviewed: prompt, answer and feedback are Foundation-eligible. Remove the Higher-only glucagon clause from the blood-glucose distractor for Foundation; retain the original Higher option."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-keeping-conditions-stable-keyword",
+            "label": "Which key term is most closely linked to “Keeping conditions stable”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-keeping-conditions-stable-explain",
+            "label": "Explain “Keeping conditions stable” in two linked sentences.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-keeping-conditions-stable-justify",
+            "label": "Body temperature rises above its normal range. What detects the change? A student answers: “Receptors.” Explain why that answer is correct.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-keeping-conditions-stable-improve",
+            "label": "A student writes only “homeostasis”. Improve this into a complete answer about Keeping conditions stable.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-keeping-conditions-stable-grade9",
+            "label": "Write a Grade 8/9 response for this focus: Name the stimulus and the corrective response.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-the-endocrine-system-summary",
+            "label": "Which statement best summarises “The endocrine system”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "The endocrine system summary: shared audited prompt, answer and feedback retained; excluded/mixed-source hormone distractors separated using existing reviewed Foundation wording. Original Higher question preserved."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-the-endocrine-system-keyword",
+            "label": "Which key term is most closely linked to “The endocrine system”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-the-endocrine-system-explain",
+            "label": "Explain “The endocrine system” in two linked sentences.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-the-endocrine-system-justify",
+            "label": "Why can a hormone affect an organ far from the gland that releases it? A student answers: “It travels in the blood to its target organ.” Explain why that answer is correct.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-the-endocrine-system-improve",
+            "label": "A student writes only “gland”. Improve this into a complete answer about The endocrine system.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-the-endocrine-system-grade9",
+            "label": "Write a Grade 8/9 response for this focus: Name the gland, hormone and target effect when asked.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio2-signals",
+            "label": "Give two differences between nervous and hormonal communication.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-coordination-completion-q03",
+            "label": "Name glands A–F on the supplied location diagram. Explain how the pituitary can cause another gland to act and compare the route and duration with nervous communication.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5Y reviewed against cached AQA Trilogy coordination/endocrine scope and tier clauses."
+          }
+        ],
+        "support": [
+          {
+            "id": "Biology|support|diagram-hormone-pathway",
+            "label": "Existing revision diagram: hormone-pathway",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "Biology|support|coordination-shared-endocrine",
+            "label": "Reviewed Foundation/shared endocrine lesson",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5Y reviewed against cached AQA Trilogy coordination/endocrine scope and tier clauses."
+          },
+          {
+            "id": "Biology|support|coordination-glands",
+            "label": "Coordination glands resource",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5Y reviewed against cached AQA Trilogy coordination/endocrine scope and tier clauses."
+          }
+        ],
+        "higherLessons": [
+          {
+            "id": "Biology|Homeostasis & Response|The endocrine system",
+            "label": "The endocrine system",
+            "kind": "lesson",
+            "tier": "mixed",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": false,
+            "foundationEvidence": true,
+            "reason": "Existing source names Higher-only glucagon; shared body separated for Foundation in Y, original Higher wording retained."
+          }
+        ],
+        "higherQuestions": []
+      }
+    },
+    {
+      "specRef": "4.5.3.2",
+      "auditRecordId": "aqa-8464-F-4.5.3.2",
+      "title": "Control of blood glucose concentration",
+      "before": "PARTIALLY COVERED",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Existing Blood glucose extended with pancreas, uptake and liver/muscle glycogen storage; Type1 insulin deficiency/injections; Type2 reduced response/diet/exercise, obesity risk and ethical/social evaluation. Existing Higher Hormonal feedback extended with pancreatic glucagon and complete opposing feedback cycle.",
+      "assessment": "q04 quantified glucose graph and insulin mechanism/diagnostic limits; q05 diabetes causes/treatments/risk/equity; Higher q09 glucagon/insulin feedback. Existing insulin/glycogen/diabetes and Higher feedback evidence reused. Two already-Higher question references moved from shared to Higher audit evidence.",
+      "answersFeedback": "Every new task has answer, criteria and misconception feedback. Written responses self-assessed; numerical time accepts equivalent seconds/milliseconds only.",
+      "skillsAndPractical": "MS2c glucose graphs; WS1.3 evidence/social/ethical evaluation. Illustrative data are not clinical thresholds or personal treatment instructions.",
+      "tier": "Shared requirements plus separately gated Higher blood-glucose feedback where applicable",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Homeostasis & Response|Blood glucose"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-homeostasis-response-2-1",
+        "bio-deep-homeostasis-response-blood-glucose-summary",
+        "bio-deep-homeostasis-response-blood-glucose-keyword",
+        "bio-deep-homeostasis-response-blood-glucose-explain",
+        "bio-deep-homeostasis-response-blood-glucose-justify",
+        "bio-deep-homeostasis-response-blood-glucose-improve",
+        "bio2-insulin",
+        "bio2-diabetes",
+        "aqa-coordination-completion-q04",
+        "aqa-coordination-completion-q05"
+      ],
+      "supportRefs": [
+        "Biology|support|insulin-glycogen",
+        "Biology|support|coordination-glucose"
+      ],
+      "higherLessonRefs": [
+        "Biology|Homeostasis & Response|Hormonal feedback"
+      ],
+      "higherQuestionRefs": [
+        "bio2-feedback",
+        "aqa-bio-step-homeostasis-response-8-0",
+        "aqa-bio-step-homeostasis-response-8-1",
+        "bio-deep-homeostasis-response-hormonal-feedback-summary",
+        "bio-deep-homeostasis-response-hormonal-feedback-keyword",
+        "bio-deep-homeostasis-response-hormonal-feedback-explain",
+        "bio-deep-homeostasis-response-hormonal-feedback-justify",
+        "bio-deep-homeostasis-response-hormonal-feedback-improve",
+        "bio-deep-homeostasis-response-hormonal-feedback-grade9",
+        "aqa-coordination-completion-q09",
+        "bio-deep-homeostasis-response-blood-glucose-grade9",
+        "aqa-bio-step-homeostasis-response-2-0"
+      ],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Homeostasis & Response|Blood glucose",
+            "label": "Blood glucose",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5Y targeted coordination extension reviewed; existing Higher source preserved."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-bio-step-homeostasis-response-2-1",
+            "label": "What is an effect of insulin?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Blood glucose reviewed: Foundation insulin wording separated from original Higher feedback; existing wording reused."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-blood-glucose-summary",
+            "label": "Which statement best summarises “Blood glucose”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Blood glucose reviewed: Foundation insulin wording separated from original Higher feedback; existing wording reused."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-blood-glucose-keyword",
+            "label": "Which key term is most closely linked to “Blood glucose”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-blood-glucose-explain",
+            "label": "Explain “Blood glucose” in two linked sentences.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Blood glucose reviewed: Foundation insulin wording separated from original Higher feedback; existing wording reused."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-blood-glucose-justify",
+            "label": "Blood glucose is too high after a meal. Which hormone helps lower it? A student answers: “Insulin.” Explain why that answer is correct.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Blood glucose reviewed: Foundation insulin wording separated from original Higher feedback; existing wording reused."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-blood-glucose-improve",
+            "label": "A student writes only “insulin”. Improve this into a complete answer about Blood glucose.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Blood glucose reviewed: Foundation insulin wording separated from original Higher feedback; existing wording reused."
+          },
+          {
+            "id": "bio2-insulin",
+            "label": "Which organ releases insulin?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "bio2-diabetes",
+            "label": "Compare the underlying problems in Type 1 and Type 2 diabetes.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-coordination-completion-q04",
+            "label": "Use the illustrative glucose graph: compare the two curves after the meal and explain how insulin can account for return towards the starting range. State why the graph alone cannot diagnose diabetes type.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5Y reviewed against cached AQA Trilogy coordination/endocrine scope and tier clauses."
+          },
+          {
+            "id": "aqa-coordination-completion-q05",
+            "label": "Compare Type 1 and Type 2 diabetes and their specification treatments. A survey links obesity with more Type 2 cases: evaluate a claim that every person with obesity will develop diabetes and suggest a fair way to support risk reduction.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5Y reviewed against cached AQA Trilogy coordination/endocrine scope and tier clauses."
+          }
+        ],
+        "support": [
+          {
+            "id": "Biology|support|insulin-glycogen",
+            "label": "Learning Lab misconception: insulin and glycogen storage",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "Biology|support|coordination-glucose",
+            "label": "Coordination glucose resource",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5Y reviewed against cached AQA Trilogy coordination/endocrine scope and tier clauses."
+          }
+        ],
+        "higherLessons": [
+          {
+            "id": "Biology|Homeostasis & Response|Hormonal feedback",
+            "label": "Hormonal feedback",
+            "kind": "lesson",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.5Y targeted coordination extension reviewed; existing Higher source preserved."
+          }
+        ],
+        "higherQuestions": [
+          {
+            "id": "bio2-feedback",
+            "label": "Explain how glucagon helps restore blood glucose when it is too low.",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-bio-step-homeostasis-response-8-0",
+            "label": "What does negative feedback do?",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "Uses audited lesson subsection: 4.5.3.2 glucagon feedback is Higher-only"
+          },
+          {
+            "id": "aqa-bio-step-homeostasis-response-8-1",
+            "label": "Why is negative feedback useful?",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "Uses audited lesson subsection: 4.5.3.2 glucagon feedback is Higher-only"
+          },
+          {
+            "id": "bio-deep-homeostasis-response-hormonal-feedback-summary",
+            "label": "Which statement best summarises “Hormonal feedback”?",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "Uses audited lesson subsection: 4.5.3.2 glucagon feedback is Higher-only"
+          },
+          {
+            "id": "bio-deep-homeostasis-response-hormonal-feedback-keyword",
+            "label": "Which key term is most closely linked to “Hormonal feedback”?",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "Uses audited lesson subsection: 4.5.3.2 glucagon feedback is Higher-only"
+          },
+          {
+            "id": "bio-deep-homeostasis-response-hormonal-feedback-explain",
+            "label": "Explain “Hormonal feedback” in two linked sentences.",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "Uses audited lesson subsection: 4.5.3.2 glucagon feedback is Higher-only"
+          },
+          {
+            "id": "bio-deep-homeostasis-response-hormonal-feedback-justify",
+            "label": "A hormone response raises a low level towards normal. What should happen as normal is reached? A student answers: “Hormone release is reduced.” Explain why that answer is correct.",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "Uses audited lesson subsection: 4.5.3.2 glucagon feedback is Higher-only"
+          },
+          {
+            "id": "bio-deep-homeostasis-response-hormonal-feedback-improve",
+            "label": "A student writes only “negative feedback”. Improve this into a complete answer about Hormonal feedback.",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "Uses audited lesson subsection: 4.5.3.2 glucagon feedback is Higher-only"
+          },
+          {
+            "id": "bio-deep-homeostasis-response-hormonal-feedback-grade9",
+            "label": "Write a Grade 8/9 response for this focus: Show how the response opposes the original change.",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "Uses audited lesson subsection: 4.5.3.2 glucagon feedback is Higher-only"
+          },
+          {
+            "id": "aqa-coordination-completion-q09",
+            "label": "Higher: explain how the body responds when blood glucose falls below its normal range, compare this with a rise, and explain why the corrective hormone response decreases as the range is restored.",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.5Y reviewed against cached AQA Trilogy coordination/endocrine scope and tier clauses."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-blood-glucose-grade9",
+            "label": "Write a Grade 8/9 response for this focus: State which hormone is released and why.",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "Blood glucose reviewed: Higher-only glucagon / advanced response retained on Higher."
+          },
+          {
+            "id": "aqa-bio-step-homeostasis-response-2-0",
+            "label": "Which hormone raises low blood glucose?",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "Blood glucose reviewed: Higher-only glucagon / advanced response retained on Higher."
+          }
+        ]
+      }
+    },
+    {
+      "specRef": "4.5.3.6",
+      "auditRecordId": "biologyHigherPoints[specRef=\"4.5.3.6\"]",
+      "title": "Feedback systems",
+      "before": "MISSING",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "New Higher-only Feedback systems section: adrenal adrenaline/fear/stress/fight-or-flight/heart rate/oxygen-glucose delivery; thyroid thyroxine/basal metabolic rate/growth/development; simple pituitary stimulation/thyroxine inhibitory feedback model and diagram.",
+      "assessment": "Higher q10 adrenaline applied explanation; q11 diagram/control cycle; q12 unfamiliar unresponsive-thyroid/fixed-signal prediction with answers and misconception feedback.",
+      "answersFeedback": "Every new task has answer, criteria and misconception feedback. Written responses self-assessed; numerical time accepts equivalent seconds/milliseconds only.",
+      "skillsAndPractical": "WS1.2/MS2c negative-feedback diagram interpretation. TSH is a supplied model label, not an extra rote requirement; no hypothalamic detail added. Distinguishes stress response from thyroxine feedback.",
+      "tier": "Higher only; excluded from Foundation/unsure",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Homeostasis & Response|Feedback systems"
+      ],
+      "questionRefs": [
+        "aqa-coordination-completion-q10",
+        "aqa-coordination-completion-q11",
+        "aqa-coordination-completion-q12"
+      ],
+      "supportRefs": [
+        "Biology|support|coordination-feedback"
+      ],
+      "higherLessonRefs": [],
+      "higherQuestionRefs": [],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Homeostasis & Response|Feedback systems",
+            "label": "Feedback systems",
+            "kind": "lesson",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.5Y reviewed against cached AQA Trilogy coordination/endocrine scope and tier clauses."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-coordination-completion-q10",
+            "label": "Higher: during a frightening event a person has a faster heartbeat. Explain the gland, hormone and coordinated benefits for the brain and muscles, and distinguish this response from a nerve impulse.",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.5Y reviewed against cached AQA Trilogy coordination/endocrine scope and tier clauses."
+          },
+          {
+            "id": "aqa-coordination-completion-q11",
+            "label": "Higher: use the feedback diagram to explain the role of thyroxine and predict what happens to pituitary stimulation when thyroxine first falls and then rises towards normal.",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.5Y reviewed against cached AQA Trilogy coordination/endocrine scope and tier clauses."
+          },
+          {
+            "id": "aqa-coordination-completion-q12",
+            "label": "Higher: in an unfamiliar model a thyroid stops responding to the pituitary signal. Predict thyroxine and pituitary-signal changes and explain why giving a large permanent stimulating signal would not automatically restore normal control.",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.5Y reviewed against cached AQA Trilogy coordination/endocrine scope and tier clauses."
+          }
+        ],
+        "support": [
+          {
+            "id": "Biology|support|coordination-feedback",
+            "label": "Coordination feedback resource",
+            "kind": "support",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.5Y reviewed against cached AQA Trilogy coordination/endocrine scope and tier clauses."
+          }
+        ],
+        "higherLessons": [],
+        "higherQuestions": []
+      }
+    },
+    {
+      "specRef": "RP06",
+      "auditRecordId": "aqa-8464-F-RP06",
+      "title": "Reaction-time study",
+      "before": "PARTIALLY COVERED",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Required practical activity 6: plan and carry out an investigation into the effect of a factor on human reaction time. Existing ruler-drop practical expanded for a distraction comparison: setup/zero/alignment, unpredictable release, controls, familiarisation/order/rest, repeats/paired participants, conversion/means/chart, anomalies and justified exclusions, reliability/limits, consent/privacy/safe materials/no stimulants.",
+      "assessment": "q06 method/variables/bias/safety; q07 numerical mean with correct time-unit aliases; q08 supplied lookup, means/difference/chart and anomaly/evaluation. Existing reaction question family reused.",
+      "answersFeedback": "Every new task has answer, criteria and misconception feedback. Written responses self-assessed; numerical time accepts equivalent seconds/milliseconds only.",
+      "skillsAndPractical": "AT1 measurement, AT3 factor effect, AT4 safe/ethical humans; numerical/graphical conversion. Distances converted per trial before mean; no requirement to derive falling-body equation. Digital support does not certify hands-on practical completion.",
+      "tier": "Shared requirements plus separately gated Higher blood-glucose feedback where applicable",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|practical|reaction"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-homeostasis-response-5-0",
+        "aqa-bio-step-homeostasis-response-5-1",
+        "bio-deep-homeostasis-response-reaction-time-investigations-summary",
+        "bio-deep-homeostasis-response-reaction-time-investigations-keyword",
+        "bio-deep-homeostasis-response-reaction-time-investigations-explain",
+        "bio-deep-homeostasis-response-reaction-time-investigations-justify",
+        "bio-deep-homeostasis-response-reaction-time-investigations-improve",
+        "bio-deep-homeostasis-response-reaction-time-investigations-grade9",
+        "bio2-reaction",
+        "aqa-coordination-completion-q06",
+        "aqa-coordination-completion-q07",
+        "aqa-coordination-completion-q08"
+      ],
+      "supportRefs": [
+        "Biology|practical|reaction",
+        "Biology|support|coordination-reaction"
+      ],
+      "higherLessonRefs": [],
+      "higherQuestionRefs": [],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|practical|reaction",
+            "label": "Reaction time",
+            "kind": "practical",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5Y targeted coordination extension reviewed; existing Higher source preserved."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-bio-step-homeostasis-response-5-0",
+            "label": "What should stay the same in a fair ruler-drop test?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bio-step-homeostasis-response-5-1",
+            "label": "Why repeat a reaction-time measurement?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-reaction-time-investigations-summary",
+            "label": "Which statement best summarises “Reaction-time investigations”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Reaction-time investigations summary: shared audited prompt, answer and feedback retained; excluded/mixed-source hormone distractors separated using existing reviewed Foundation wording. Original Higher question preserved."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-reaction-time-investigations-keyword",
+            "label": "Which key term is most closely linked to “Reaction-time investigations”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-reaction-time-investigations-explain",
+            "label": "Explain “Reaction-time investigations” in two linked sentences.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-reaction-time-investigations-justify",
+            "label": "A pupil catches a dropped ruler at 15 cm, then 12 cm, then 13 cm. What should they do with repeats? A student answers: “Calculate a mean from comparable repeats.” Explain why that answer is correct.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-reaction-time-investigations-improve",
+            "label": "A student writes only “reaction time”. Improve this into a complete answer about Reaction-time investigations.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-reaction-time-investigations-grade9",
+            "label": "Write a Grade 8/9 response for this focus: Spot anomalies before calculating a mean.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio2-reaction",
+            "label": "Why should a student repeat a ruler-drop reaction-time test?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-coordination-completion-q06",
+            "label": "Plan a fair, safe comparison of reaction time with and without a simple distraction using a ruler. Identify variables, reduce practice/anticipation bias, and explain why repeated trials alone are insufficient.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5Y reviewed against cached AQA Trilogy coordination/endocrine scope and tier clauses."
+          },
+          {
+            "id": "aqa-coordination-completion-q07",
+            "label": "Three reaction times already converted from catching distances are 0.16 s, 0.18 s and 0.20 s. Calculate the mean in seconds.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5Y reviewed against cached AQA Trilogy coordination/endocrine scope and tier clauses."
+          },
+          {
+            "id": "aqa-coordination-completion-q08",
+            "label": "Use the RP06 lookup/data. Convert each trial, calculate both mean times, draw a labelled comparison chart and evaluate the distraction conclusion. A note says the participant guessed one release: how should this be handled?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5Y reviewed against cached AQA Trilogy coordination/endocrine scope and tier clauses."
+          }
+        ],
+        "support": [
+          {
+            "id": "Biology|practical|reaction",
+            "label": "Reaction time",
+            "kind": "practical",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5Y targeted coordination extension reviewed; existing Higher source preserved."
+          },
+          {
+            "id": "Biology|support|coordination-reaction",
+            "label": "Coordination reaction resource",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5Y reviewed against cached AQA Trilogy coordination/endocrine scope and tier clauses."
+          }
+        ],
+        "higherLessons": [],
+        "higherQuestions": []
+      }
+    }
+  ],
+  "newQuestions": {
+    "total": 12,
+    "writingSelfAssessment": 11,
+    "numericAutoCheck": 1,
+    "multipleChoice": 0,
+    "shared": 8,
+    "higherOnly": 4
+  },
+  "recordedTierBacklog": 0,
+  "knownUnresolvedTierConcerns": 0,
+  "answerUnitBacklog": 0,
+  "tests": {
+    "focused": 149,
+    "full": 465,
+    "failures": 0
+  },
+  "scopeVerification": "100 pathways compared with X; all unrelated lessons and existing questions unchanged except one necessary Foundation distractor replacement (Adrenaline → Insulin in aqa-bio-step-homeostasis-response-3-1); Higher original retained. No non-target audit-unit records changed.",
+  "mcq": "W1 runtime unchanged; all 319 prior stored orders unchanged; appended one new Foundation variant at its original answer position. 320 variants pass all bias/marking checks.",
+  "tierRepairs": [
+    "Foundation endocrine lesson split excludes inherited glucagon name while retaining Higher original.",
+    "Inherited reproductive-hormone distractor Adrenaline replaced with shared Insulin for Foundation only; required endocrine safety exception, no reproductive curriculum expansion."
+  ],
+  "limitations": [
+    "Internal evidence-based completion, not external accreditation.",
+    "Written responses self-assessed against model answers/criteria.",
+    "Figures/data illustrative; no browser/layout verification in unchanged environment.",
+    "Digital required-practical coverage is preparation, not proof of laboratory execution."
+  ]
+}

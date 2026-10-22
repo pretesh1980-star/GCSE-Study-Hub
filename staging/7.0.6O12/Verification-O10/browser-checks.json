@@ -1,0 +1,33 @@
+{
+  "test_origin": "http://127.0.0.1:8935/",
+  "review_origin": "http://127.0.0.1:8937/",
+  "desktop": "passed",
+  "phone_viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "no_page_overflow": [
+    "method",
+    "simulation",
+    "analysis",
+    "evaluation",
+    "assessment entry",
+    "assessment results",
+    "numeric sign entry"
+  ],
+  "observed": {
+    "recorded_rows": 18,
+    "first_percentage": 12,
+    "first_rate_g_per_min": 0.008,
+    "estimated_crossing_mol_per_dm3": 0.3,
+    "assessment_correct": 11,
+    "assessment_total": 12,
+    "wrong_answer_status": "Review",
+    "reload": "readings, plots and original answers retained",
+    "homepage_and_back": "passed",
+    "preserved_O9_entry": "passed"
+  },
+  "physical_iphone": false,
+  "physical_android": false,
+  "formal_screen_reader_audit": false
+}

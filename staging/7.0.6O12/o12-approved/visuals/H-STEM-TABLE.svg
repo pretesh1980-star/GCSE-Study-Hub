@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="480" height="282" preserveAspectRatio="xMinYMin meet" viewBox="0 0 480 282" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="H-STEM-TABLE-title H-STEM-TABLE-desc"><title id="H-STEM-TABLE-title">H-STEM-TABLE · Rare-plant cloning</title><desc id="H-STEM-TABLE-desc">Table. Feature; Information. Feature: Production; Information: Many identical plants produced quickly. Feature: Existing trait; Information: Current disease resistance is preserved. Feature: Concern; Information: A new disease may affect many genetically uniform clones.</desc>
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="480" height="282"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-282)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="12" y="260" style="font-family: Arial; font-size: 19px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,520) scale(1,-1)">H-STEM-TABLE · Rare-plant cloning</text>
+			<rect x="0" y="194" width="170" height="48" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,93%,90%); fill-rule: evenodd;"/>
+			<text x="12" y="217" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,434) scale(1,-1)">Feature</text>
+			<rect x="170" y="194" width="310" height="48" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,93%,90%); fill-rule: evenodd;"/>
+			<text x="182" y="217" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,434) scale(1,-1)">Information</text>
+			<rect x="0" y="130" width="170" height="64" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="12" y="169" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,338) scale(1,-1)">Production</text>
+			<rect x="170" y="130" width="310" height="64" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="182" y="169" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,338) scale(1,-1)">Many identical plants produced</text>
+			<text x="182" y="146" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,292) scale(1,-1)">quickly</text>
+			<rect x="0" y="66" width="170" height="64" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="12" y="105" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,210) scale(1,-1)">Existing trait</text>
+			<rect x="170" y="66" width="310" height="64" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="182" y="105" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,210) scale(1,-1)">Current disease resistance is</text>
+			<text x="182" y="82" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,164) scale(1,-1)">preserved</text>
+			<rect x="0" y="2" width="170" height="64" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="12" y="41" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,82) scale(1,-1)">Concern</text>
+			<rect x="170" y="2" width="310" height="64" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="182" y="41" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,82) scale(1,-1)">A new disease may affect many</text>
+			<text x="182" y="18" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,36) scale(1,-1)">genetically uniform clones</text>
+		</g>
+	</g>
+</svg>

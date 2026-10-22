@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="480" height="235" preserveAspectRatio="xMinYMin meet" viewBox="0 0 480 235" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="F-DRAWING-title F-DRAWING-desc"><title id="F-DRAWING-title">F-DRAWING · Two observation records</title><desc id="F-DRAWING-desc">Drawing P is an oval with a smaller oval inside. Drawing Q has a similar layout but occupies more width and height on the page. Apart from P, Q and the observation-drawing caption, no measurements or other labels are printed.</desc>
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="480" height="235"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-235)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="76.103515625" y="207" style="font-family: Arial; font-size: 20px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,414) scale(1,-1)">Drawing P</text>
+			<text x="299.9951171875" y="207" style="font-family: Arial; font-size: 20px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,414) scale(1,-1)">Drawing Q</text>
+			<ellipse cx="125.0" cy="112.0" rx="60.0" ry="42.0" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 2; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<ellipse cx="120.0" cy="116.0" rx="15.0" ry="13.0" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,90%,95%); fill-rule: evenodd;"/>
+			<ellipse cx="350.0" cy="112.0" rx="95.0" ry="65.0" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 2; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<ellipse cx="345.0" cy="113.0" rx="22.0" ry="18.0" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,90%,95%); fill-rule: evenodd;"/>
+			<text x="121.42675781249999" y="15" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,30) scale(1,-1)">Student observation drawings</text>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="480" height="270" preserveAspectRatio="xMinYMin meet" viewBox="0 0 480 270" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="F-CELL-title F-CELL-desc"><title id="F-CELL-title">F-CELL · Animal cell</title><desc id="F-CELL-desc">An oval cell has an outer boundary, a large central oval compartment, smaller ovals with internal folds, and small dots. Leader A ends inside the large central compartment.</desc>
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="480" height="270"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-270)" style="clip-path: url(#clip)">
+		<g transform="">
+			<ellipse cx="235.0" cy="137.0" rx="155.0" ry="92.0" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 2; fill: rgb(89%,93%,90%); fill-rule: evenodd;"/>
+			<ellipse cx="235.0" cy="137.0" rx="45.0" ry="35.0" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 2; fill: rgb(91%,90%,95%); fill-rule: evenodd;"/>
+			<ellipse cx="135.0" cy="150.0" rx="19.0" ry="10.0" style="stroke: rgb(14%,47%,47%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<polyline points="124 148, 131 154, 138 146, 145 152" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd;"/>
+			<ellipse cx="320.0" cy="175.0" rx="19.0" ry="10.0" style="stroke: rgb(14%,47%,47%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<polyline points="309 173, 316 179, 323 171, 330 177" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd;"/>
+			<ellipse cx="315.0" cy="90.0" rx="19.0" ry="10.0" style="stroke: rgb(14%,47%,47%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<polyline points="304 88, 311 94, 318 86, 325 92" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd;"/>
+			<circle cx="150" cy="105" r="2.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,22%); fill-rule: evenodd;"/>
+			<circle cx="175" cy="185" r="2.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,22%); fill-rule: evenodd;"/>
+			<circle cx="282" cy="190" r="2.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,22%); fill-rule: evenodd;"/>
+			<circle cx="295" cy="140" r="2.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,22%); fill-rule: evenodd;"/>
+			<circle cx="200" cy="75" r="2.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,22%); fill-rule: evenodd;"/>
+			<text x="44" y="237" style="font-family: Arial; font-size: 22px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,474) scale(1,-1)">A</text>
+			<polyline points="67 232, 160 232, 221 159" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd;"/>
+			<text x="96.79101562499997" y="12" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,24) scale(1,-1)">Animal cell • schematic, not to scale</text>
+		</g>
+	</g>
+</svg>

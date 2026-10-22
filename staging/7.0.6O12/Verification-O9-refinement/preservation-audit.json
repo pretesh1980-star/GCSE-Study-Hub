@@ -1,0 +1,16 @@
+{
+  "sourceTeachingZipUnchanged": true,
+  "inheritedFilesUnchanged": 440,
+  "modifiedOrRenamedInheritedFiles": [
+    "index.html",
+    "osmosis-o9.css",
+    "osmosis-o9.js",
+    "osmosis-teaching-v3.css",
+    "osmosis-teaching-v3.js",
+    "tests/osmosis-o9-browser.html",
+    "tests/osmosis-o9.test.cjs",
+    "tests/osmosis-teaching-browser.html",
+    "tests/osmosis-teaching.test.cjs"
+  ],
+  "cucumberAndGraphImplementationsUnchanged": true
+}

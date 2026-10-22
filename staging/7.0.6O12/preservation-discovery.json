@@ -1,0 +1,70 @@
+{
+  "input_zip_sha256": "7084dc3d3da203abcbfcfeb18ac0bc3e7b11049e584f954d453f09b3a8d74042",
+  "input_extracted_source_differences": [],
+  "changed_existing_files": [
+    "osmosis-o9.css",
+    "osmosis-o9.js",
+    "tests/osmosis-o9-browser.html"
+  ],
+  "new_files_before_packaging": [
+    "tests/osmosis-discovery.test.cjs"
+  ],
+  "all_original_media_unchanged": true,
+  "original_lab_js_css_unchanged": true,
+  "media": [
+    {
+      "file": "media/cells-intro-transcript.txt",
+      "bytes": 921,
+      "sha256": "07dbb3cd58b73a9ca8243ac2bc5692067bc26ca465c19e9b607612dc0bfc8aa9",
+      "unchanged": true
+    },
+    {
+      "file": "media/osmosis-explainer-clear-subtitles.mp4",
+      "bytes": 5783013,
+      "sha256": "d4222b0f5782c9ed1dbe4ca8c98c4ad35b3754664eb848d8edc23cba25b5feeb",
+      "unchanged": true
+    },
+    {
+      "file": "media/osmosis-explainer-narrated.mp4",
+      "bytes": 5349288,
+      "sha256": "bf2dcf91639e6eb08a6d29eed566a6fc07a00b87824b2ad247488f0f15515259",
+      "unchanged": true
+    },
+    {
+      "file": "media/osmosis-explainer.mp4",
+      "bytes": 1495807,
+      "sha256": "2d82cb0bb20fdac6f86715ba8d9a3f8caee64782610890a025d9fa097bd7f888",
+      "unchanged": true
+    },
+    {
+      "file": "media/osmosis-explainer.vtt",
+      "bytes": 956,
+      "sha256": "c3ab6994dff3c99257d5aefea16b645b770e56b18046d97d6c2229e539278081",
+      "unchanged": true
+    },
+    {
+      "file": "media/osmosis-narrated-transcript.txt",
+      "bytes": 2558,
+      "sha256": "094a46720cf38ea1582716f61ceabc840779b4ab436ebdd01f566487e1481dcf",
+      "unchanged": true
+    },
+    {
+      "file": "media/osmosis-narrated.vtt",
+      "bytes": 3790,
+      "sha256": "14a245a896f4940279fc4cb3d9d0634944147b3877fbc5148451125feaaa8539",
+      "unchanged": true
+    },
+    {
+      "file": "media/osmosis-poster.png",
+      "bytes": 34287,
+      "sha256": "e5dfcc9f88f770b2bf4e37acc45c44b5e1b8a8fea773386f05c0b83f103264ae",
+      "unchanged": true
+    },
+    {
+      "file": "media/osmosis-transcript.txt",
+      "bytes": 983,
+      "sha256": "0f716e772e7bcd8dc5c5fa3abf1167f7a21db418c8be420af138428e6ffaa1c4",
+      "unchanged": true
+    }
+  ]
+}

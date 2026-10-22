@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="480" height="270" preserveAspectRatio="xMinYMin meet" viewBox="0 0 480 270" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="H-CELL-title H-CELL-desc"><title id="H-CELL-title">H-CELL · Leaf cell</title><desc id="H-CELL-desc">A rectangular leaf cell has a thick outer boundary, an inner boundary, a large pale central region, a smaller oval region to one side, and several green ovals containing stacked marks. Leader B ends inside an upper-right green oval.</desc>
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="480" height="270"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-270)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="88" y="44" width="300" height="190" rx="18" ry="0" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 3; fill: rgb(89%,93%,90%); fill-rule: evenodd;"/>
+			<rect x="97" y="53" width="282" height="172" rx="14" ry="0" style="stroke: rgb(14%,47%,47%); stroke-linecap: butt; stroke-width: 1.3; fill: none; fill-rule: evenodd;"/>
+			<rect x="156" y="85" width="166" height="113" rx="26" ry="0" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(91%,95%,98%); fill-rule: evenodd;"/>
+			<ellipse cx="128.0" cy="114.0" rx="20.0" ry="27.0" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(91%,90%,95%); fill-rule: evenodd;"/>
+			<ellipse cx="131.0" cy="195.0" rx="20.0" ry="10.0" style="stroke: rgb(14%,47%,47%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(78%,87%,73%); fill-rule: evenodd;"/>
+			<path d="M 121,190 L 121,200 Z" style="stroke: rgb(14%,47%,47%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<path d="M 131,190 L 131,200 Z" style="stroke: rgb(14%,47%,47%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<path d="M 141,190 L 141,200 Z" style="stroke: rgb(14%,47%,47%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<ellipse cx="260.0" cy="211.0" rx="20.0" ry="10.0" style="stroke: rgb(14%,47%,47%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(78%,87%,73%); fill-rule: evenodd;"/>
+			<path d="M 250,206 L 250,216 Z" style="stroke: rgb(14%,47%,47%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<path d="M 260,206 L 260,216 Z" style="stroke: rgb(14%,47%,47%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<path d="M 270,206 L 270,216 Z" style="stroke: rgb(14%,47%,47%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<ellipse cx="352.0" cy="179.0" rx="20.0" ry="10.0" style="stroke: rgb(14%,47%,47%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(78%,87%,73%); fill-rule: evenodd;"/>
+			<path d="M 342,174 L 342,184 Z" style="stroke: rgb(14%,47%,47%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<path d="M 352,174 L 352,184 Z" style="stroke: rgb(14%,47%,47%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<path d="M 362,174 L 362,184 Z" style="stroke: rgb(14%,47%,47%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<ellipse cx="346.0" cy="89.0" rx="20.0" ry="10.0" style="stroke: rgb(14%,47%,47%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(78%,87%,73%); fill-rule: evenodd;"/>
+			<path d="M 336,84 L 336,94 Z" style="stroke: rgb(14%,47%,47%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<path d="M 346,84 L 346,94 Z" style="stroke: rgb(14%,47%,47%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<path d="M 356,84 L 356,94 Z" style="stroke: rgb(14%,47%,47%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<ellipse cx="211.0" cy="67.0" rx="20.0" ry="10.0" style="stroke: rgb(14%,47%,47%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(78%,87%,73%); fill-rule: evenodd;"/>
+			<path d="M 201,62 L 201,72 Z" style="stroke: rgb(14%,47%,47%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<path d="M 211,62 L 211,72 Z" style="stroke: rgb(14%,47%,47%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<path d="M 221,62 L 221,72 Z" style="stroke: rgb(14%,47%,47%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<text x="427" y="241" style="font-family: Arial; font-size: 22px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,482) scale(1,-1)">B</text>
+			<polyline points="415 234, 385 212, 356 181" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd;"/>
+			<text x="106.78417968749997" y="12" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,24) scale(1,-1)">Leaf cell • schematic, not to scale</text>
+		</g>
+	</g>
+</svg>

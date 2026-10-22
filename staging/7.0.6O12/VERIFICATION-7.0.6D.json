@@ -1,0 +1,278 @@
+{
+  "build": "7.0.6D",
+  "fullTests": 555,
+  "focusedTests": 109,
+  "failures": 0,
+  "biology": {
+    "total": 78,
+    "covered": 78,
+    "partial": 0,
+    "missing": 0,
+    "higherOnly": 2
+  },
+  "biologyIssues": [],
+  "otherIssues": [
+    {
+      "id": "8464-chemistry-atomic-structure-explain-4",
+      "subject": "Chemistry",
+      "type": "tier-metadata",
+      "declared": "both",
+      "audited": "mixed",
+      "reason": "Uses audited lesson subsection: Shared periodic groups combined with separate-science transition-metal properties"
+    },
+    {
+      "id": "8464-chemistry-bonding-explain-4",
+      "subject": "Chemistry",
+      "type": "tier-metadata",
+      "declared": "both",
+      "audited": "mixed",
+      "reason": "Uses audited lesson subsection: Shared carbon structures combined with separate-science nanoparticles"
+    },
+    {
+      "id": "8464-chemistry-quantitative-chemistry-explain-3",
+      "subject": "Chemistry",
+      "type": "tier-metadata",
+      "declared": "both",
+      "audited": "mixed",
+      "reason": "Uses audited lesson subsection: Foundation solution concentration combined with separate-science molar gas volumes"
+    },
+    {
+      "id": "8464-chemistry-chemical-changes-explain-0",
+      "subject": "Chemistry",
+      "type": "tier-metadata",
+      "declared": "both",
+      "audited": "mixed",
+      "reason": "Uses audited lesson subsection: Shared reactivity combined with Higher-only electron redox"
+    },
+    {
+      "id": "8464-chemistry-chemical-changes-explain-3",
+      "subject": "Chemistry",
+      "type": "tier-metadata",
+      "declared": "both",
+      "audited": "mixed",
+      "reason": "Uses audited lesson subsection: Basic pH combined with Higher-only acid strength and pH concentration factors"
+    },
+    {
+      "id": "8464-chemistry-chemical-changes-explain-4",
+      "subject": "Chemistry",
+      "type": "tier-metadata",
+      "declared": "both",
+      "audited": "mixed",
+      "reason": "Uses audited lesson subsection: Shared electrolysis combined with Higher-only electron redox explanations"
+    },
+    {
+      "id": "8464-chemistry-organic-chemistry-explain-3",
+      "subject": "Chemistry",
+      "type": "tier-metadata",
+      "declared": "both",
+      "audited": "mixed",
+      "reason": "Uses audited lesson subsection: Shared bromine test combined with additional separate-Chemistry alkene detail"
+    },
+    {
+      "id": "8464-chemistry-using-resources-explain-3",
+      "subject": "Chemistry",
+      "type": "tier-metadata",
+      "declared": "both",
+      "audited": "mixed",
+      "reason": "Uses audited lesson subsection: Foundation recycling combined with Higher-only bioleaching/phytomining"
+    },
+    {
+      "id": "8464-physics-energy-explain-3",
+      "subject": "Physics",
+      "type": "tier-metadata",
+      "declared": "both",
+      "audited": "mixed",
+      "reason": "Uses audited lesson subsection: Foundation efficiency calculation combined with Higher-only improving efficiency"
+    },
+    {
+      "id": "8464-physics-electricity-explain-4",
+      "subject": "Physics",
+      "type": "tier-metadata",
+      "declared": "both",
+      "audited": "mixed",
+      "reason": "Uses audited lesson subsection: Shared grid transmission combined with separate-Physics static electricity"
+    },
+    {
+      "id": "8464-physics-particle-model-explain-3",
+      "subject": "Physics",
+      "type": "tier-metadata",
+      "declared": "both",
+      "audited": "mixed",
+      "reason": "Uses audited lesson subsection: Shared gas pressure combined with separate-Physics work on gas"
+    },
+    {
+      "id": "8464-physics-atomic-structure-explain-2",
+      "subject": "Physics",
+      "type": "tier-metadata",
+      "declared": "both",
+      "audited": "mixed",
+      "reason": "Uses audited lesson subsection: Foundation half-life definition/graphs combined with Higher-only repeated-halving ratio work"
+    },
+    {
+      "id": "8464-physics-forces-explain-2",
+      "subject": "Physics",
+      "type": "tier-metadata",
+      "declared": "both",
+      "audited": "mixed",
+      "reason": "Uses audited lesson subsection: Foundation motion graphs combined with Higher-only velocity-time areas"
+    },
+    {
+      "id": "8464-physics-forces-explain-3",
+      "subject": "Physics",
+      "type": "tier-metadata",
+      "declared": "both",
+      "audited": "mixed",
+      "reason": "Uses audited lesson subsection: Foundation Newton laws combined with Higher-only inertia"
+    },
+    {
+      "id": "8464-physics-forces-explain-4",
+      "subject": "Physics",
+      "type": "tier-metadata",
+      "declared": "both",
+      "audited": "mixed",
+      "reason": "Uses audited lesson subsection: Foundation stopping distance combined with Higher-only momentum"
+    },
+    {
+      "id": "8464-physics-waves-explain-3",
+      "subject": "Physics",
+      "type": "tier-metadata",
+      "declared": "both",
+      "audited": "mixed",
+      "reason": "Uses audited lesson subsection: Foundation EM uses/hazards combined with Higher-only suitability explanations"
+    },
+    {
+      "id": "8464-physics-waves-explain-4",
+      "subject": "Physics",
+      "type": "tier-metadata",
+      "declared": "both",
+      "audited": "mixed",
+      "reason": "Uses audited lesson subsection: Foundation ray diagrams combined with Higher-only refraction mechanisms"
+    },
+    {
+      "id": "Physics|Magnetism & Electromagnetism|Electromagnetic devices",
+      "subject": "Physics",
+      "type": "tier-metadata",
+      "declared": "unassigned",
+      "audited": "mixed",
+      "reason": "Higher-only motor effects plus separate-Physics loudspeakers"
+    },
+    {
+      "id": "8464-physics-magnetism-electromagnetism-explain-3",
+      "subject": "Physics",
+      "type": "tier-metadata",
+      "declared": "both",
+      "audited": "mixed",
+      "reason": "Uses audited lesson subsection: Higher-only motor effects plus separate-Physics loudspeakers"
+    },
+    {
+      "id": "8464-chemistry-atomic-structure-calc",
+      "subject": "Chemistry",
+      "type": "answer-units",
+      "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction."
+    },
+    {
+      "id": "8464-chemistry-bonding-calc",
+      "subject": "Chemistry",
+      "type": "answer-units",
+      "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction."
+    },
+    {
+      "id": "8464-chemistry-quantitative-chemistry-calc",
+      "subject": "Chemistry",
+      "type": "answer-units",
+      "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction."
+    },
+    {
+      "id": "8464-chemistry-chemical-changes-calc",
+      "subject": "Chemistry",
+      "type": "answer-units",
+      "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction."
+    },
+    {
+      "id": "8464-chemistry-energy-changes-calc",
+      "subject": "Chemistry",
+      "type": "answer-units",
+      "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction."
+    },
+    {
+      "id": "8464-chemistry-rate-extent-of-chemical-change-calc",
+      "subject": "Chemistry",
+      "type": "answer-units",
+      "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction."
+    },
+    {
+      "id": "8464-chemistry-organic-chemistry-calc",
+      "subject": "Chemistry",
+      "type": "answer-units",
+      "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction."
+    },
+    {
+      "id": "8464-chemistry-chemical-analysis-calc",
+      "subject": "Chemistry",
+      "type": "answer-units",
+      "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction."
+    },
+    {
+      "id": "8464-chemistry-chemistry-of-the-atmosphere-calc",
+      "subject": "Chemistry",
+      "type": "answer-units",
+      "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction."
+    },
+    {
+      "id": "8464-chemistry-using-resources-calc",
+      "subject": "Chemistry",
+      "type": "answer-units",
+      "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction."
+    },
+    {
+      "id": "8464-physics-energy-calc",
+      "subject": "Physics",
+      "type": "answer-units",
+      "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction."
+    },
+    {
+      "id": "8464-physics-electricity-calc",
+      "subject": "Physics",
+      "type": "answer-units",
+      "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction."
+    },
+    {
+      "id": "8464-physics-particle-model-calc",
+      "subject": "Physics",
+      "type": "answer-units",
+      "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction."
+    },
+    {
+      "id": "8464-physics-atomic-structure-calc",
+      "subject": "Physics",
+      "type": "answer-units",
+      "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction."
+    },
+    {
+      "id": "8464-physics-forces-calc",
+      "subject": "Physics",
+      "type": "answer-units",
+      "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction."
+    },
+    {
+      "id": "8464-physics-waves-calc",
+      "subject": "Physics",
+      "type": "answer-units",
+      "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction."
+    },
+    {
+      "id": "8464-physics-magnetism-electromagnetism-calc",
+      "subject": "Physics",
+      "type": "answer-units",
+      "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction."
+    }
+  ],
+  "sourceChecks": "100 pathway regressions, original questions and unrelated lessons preserved; MCQ data/runtime, core app/course/state files unchanged.",
+  "browser": "Unverified: sandbox cannot start local preview server; no cached Chromium.",
+  "usage": {
+    "source": "user-reported",
+    "fiveHourStartRemaining": "100%",
+    "weeklyStartRemaining": "100%",
+    "laterCheckpoint": null
+  }
+}

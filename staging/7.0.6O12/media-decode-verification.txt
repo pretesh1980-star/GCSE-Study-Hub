@@ -1,0 +1,18 @@
+{
+  "durationSeconds" : 200.30866666666665,
+  "soun" : {
+    "audioBytes" : 0,
+    "completed" : false,
+    "decodedBuffers" : 0,
+    "error" : "The operation could not be completed",
+    "nonzeroAudio" : false
+  },
+  "vide" : {
+    "audioBytes" : 0,
+    "completed" : false,
+    "decodedBuffers" : 0,
+    "error" : "Cannot Decode",
+    "nonzeroAudio" : false
+  }
+}
+ERROR: Error Domain=AVFoundationErrorDomain Code=-11821 "Cannot Decode" UserInfo={NSLocalizedFailureReason=The media data could not be decoded. It may be damaged., NSLocalizedDescription=Cannot Decode, NSUnderlyingError=0x9b8cdc660 {Error Domain=NSOSStatusErrorDomain Code=-12911 "(null)"}}

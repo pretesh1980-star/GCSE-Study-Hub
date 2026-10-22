@@ -1,0 +1,16 @@
+{
+  "browser": "Codex in-app browser",
+  "desktop": true,
+  "responsiveViewport": [
+    390,
+    844
+  ],
+  "documentWidth": 390,
+  "documentScrollWidth": 390,
+  "practiceMeasurement": "30 mm / 500 = 60 \u00b5m",
+  "conversion": "0.004 mm = 4000 nm",
+  "independentSubmission": "8/8, 96% Secure",
+  "reloadRetainsIndependentAnswers": true,
+  "reloadRetainsKeyboardPlacedLabel": "Nucleus",
+  "physicalDevicesTested": false
+}

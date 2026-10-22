@@ -1,0 +1,660 @@
+{
+  "build": "7.0.5T",
+  "method": "Targeted curriculum review of only 4.2.2.2–4.2.2.6 against existing cached AQA 8464 headings in work/aqa-704/biology.json, using Q/R/S adequacy standard. Full requires adequate teaching/revision, direct assessment with answers/feedback, skills, tier and relevant visual/data/evaluation support. Presence of a keyword or count alone is insufficient. No full Biology rediscovery.",
+  "before": {
+    "fullyCovered": 18,
+    "partial": 59,
+    "missing": 1,
+    "higherOnlyAdequate": 0
+  },
+  "after": {
+    "fullyCovered": 23,
+    "partial": 54,
+    "missing": 1,
+    "higherOnlyAdequate": 0
+  },
+  "units": [
+    {
+      "specRef": "4.2.2.2",
+      "title": "The heart and blood vessels",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Extended existing The heart and blood and Gas exchange and health: four chambers, all named great vessels and coronary arteries, flow/valves, double pulmonary/systemic circuits, left-wall adaptation, natural right-atrial and artificial pacemakers, vessel structure/exchange, trachea/bronchi/alveoli/capillary network and gas exchange.",
+      "assessment": "q01 labelled flow schematic and complete route/wall reasoning; q02 unfamiliar vessel adaptation/exchange; q03 lungs and gas gradients; q04 pacemaker application; q05 blood-flow rate. Existing side/valve/alveolar recall retained.",
+      "answersFeedback": "Every new task has a model answer and specific criteria/misconception feedback. Writing/drawing/chart construction use explicit self-assessment; numerical checks accept appropriate equivalent units and reject incompatible quantities.",
+      "skillsAndPractical": "MS1a/1c: volume/time with equivalent volume-flow units, distinct from beats/min. Shared heart schematic plus textual route; valve names intentionally not required.",
+      "tier": "All requirements in these five units are shared Foundation/Higher. Effective Foundation, unsure and Higher content verified; Higher originals retained.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Organisation|The heart and blood",
+        "Biology|Organisation|Gas exchange and health"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-organisation-3-0",
+        "aqa-bio-step-organisation-3-1",
+        "aqa-bio-step-organisation-4-0",
+        "aqa-bio-step-organisation-4-1",
+        "bio2-valve",
+        "aqa-circulation-completion-q01",
+        "aqa-circulation-completion-q02",
+        "aqa-circulation-completion-q03",
+        "aqa-circulation-completion-q04",
+        "aqa-circulation-completion-q05"
+      ],
+      "supportRefs": [
+        "Biology|support|circulation-heart"
+      ],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Organisation|The heart and blood",
+            "label": "The heart and blood",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5T reviewed shared heart/blood/health/lifestyle extension; original material retained."
+          },
+          {
+            "id": "Biology|Organisation|Gas exchange and health",
+            "label": "Gas exchange and health",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5T reviewed shared heart/blood/health/lifestyle extension; original material retained."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-bio-step-organisation-3-0",
+            "label": "Which side pumps oxygenated blood to the body?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bio-step-organisation-3-1",
+            "label": "What do valves in the heart prevent?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bio-step-organisation-4-0",
+            "label": "Which feature gives alveoli a large exchange area?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bio-step-organisation-4-1",
+            "label": "Which gas moves from blood into the alveolus?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio2-valve",
+            "label": "What is the function of heart valves?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-circulation-completion-q01",
+            "label": "Use the heart schematic. Trace blood from the body through chambers, great vessels and lungs and back to the body. Explain double circulation and why the left ventricular wall is thicker.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5T reviewed shared AQA 8464 4.2.2.2–4.2.2.6 teaching, diagrams/data, questions, answers and feedback; no Higher-only demand."
+          },
+          {
+            "id": "aqa-circulation-completion-q02",
+            "label": "An unfamiliar organ has supply vessels with thick elastic walls, returning vessels with wide lumens and valves, and an exchange network with one-cell-thick walls. Identify the three vessel types and explain each adaptation, including exchange at tissues.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5T reviewed shared AQA 8464 4.2.2.2–4.2.2.6 teaching, diagrams/data, questions, answers and feedback; no Higher-only demand."
+          },
+          {
+            "id": "aqa-circulation-completion-q03",
+            "label": "Trace inhaled air from the trachea to the exchange surface. Explain how the lungs and surrounding blood vessels maintain rapid oxygen uptake, and where this blood goes next.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5T reviewed shared AQA 8464 4.2.2.2–4.2.2.6 teaching, diagrams/data, questions, answers and feedback; no Higher-only demand."
+          },
+          {
+            "id": "aqa-circulation-completion-q04",
+            "label": "A person has an irregular heart rate but no narrowed artery or faulty valve. Where is the natural pacemaker, and how could an artificial pacemaker address the stated problem? Why is a stent a different treatment?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5T reviewed shared AQA 8464 4.2.2.2–4.2.2.6 teaching, diagrams/data, questions, answers and feedback; no Higher-only demand."
+          },
+          {
+            "id": "aqa-circulation-completion-q05",
+            "label": "In a model, 360 cm³ of blood passes a point in 6 seconds. Calculate the mean blood flow rate in cm³/s.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5T reviewed shared AQA 8464 4.2.2.2–4.2.2.6 teaching, diagrams/data, questions, answers and feedback; no Higher-only demand."
+          }
+        ],
+        "support": [
+          {
+            "id": "Biology|support|circulation-heart",
+            "label": "Circulation/health heart resource",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5T reviewed shared AQA 8464 4.2.2.2–4.2.2.6 teaching, diagrams/data, questions, answers and feedback; no Higher-only demand."
+          }
+        ]
+      }
+    },
+    {
+      "specRef": "4.2.2.3",
+      "title": "Blood",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Extended existing blood explanation: tissue/plasma and dissolved transport examples; haemoglobin, biconcave/no-nucleus red cells; nucleated white cells/defence; platelets/clotting. Shape-based diagram observation and labelled drawing, plus blood-product compatibility/pathogen risks.",
+      "assessment": "q06 component identification from image, labelled outline drawing and component-specific adaptations/functions; q07 unfamiliar deficient-component case and matched/screened blood-product risk/benefit. These replace generic heart mappings as evidence, without removing any existing question.",
+      "answersFeedback": "Every new task has a model answer and specific criteria/misconception feedback. Writing/drawing/chart construction use explicit self-assessment; numerical checks accept appropriate equivalent units and reject incompatible quantities.",
+      "skillsAndPractical": "AT7 observation/drawing preparation using a schematic; WS1.5 blood-product risk evaluation; WS3.5 recognising components from image/description. Actual microscope observation remains a physical classroom activity, not certified by the app.",
+      "tier": "All requirements in these five units are shared Foundation/Higher. Effective Foundation, unsure and Higher content verified; Higher originals retained.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Organisation|The heart and blood"
+      ],
+      "questionRefs": [
+        "aqa-circulation-completion-q06",
+        "aqa-circulation-completion-q07"
+      ],
+      "supportRefs": [
+        "Biology|support|circulation-blood"
+      ],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Organisation|The heart and blood",
+            "label": "The heart and blood",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5T reviewed shared heart/blood/health/lifestyle extension; original material retained."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-circulation-completion-q06",
+            "label": "In the blood schematic identify A, B, C and the surrounding D. Make a labelled outline drawing of A and B. Explain how each component contributes to transport, defence or clotting, linking red-cell structure to function.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5T reviewed shared AQA 8464 4.2.2.2–4.2.2.6 teaching, diagrams/data, questions, answers and feedback; no Higher-only demand."
+          },
+          {
+            "id": "aqa-circulation-completion-q07",
+            "label": "A supplied case describes low red-cell count, very few platelets and normal white-cell function. Predict two different consequences. Explain how matched, screened blood products might help and why risk is reduced rather than eliminated.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5T reviewed shared AQA 8464 4.2.2.2–4.2.2.6 teaching, diagrams/data, questions, answers and feedback; no Higher-only demand."
+          }
+        ],
+        "support": [
+          {
+            "id": "Biology|support|circulation-blood",
+            "label": "Circulation/health blood resource",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5T reviewed shared AQA 8464 4.2.2.2–4.2.2.6 teaching, diagrams/data, questions, answers and feedback; no Higher-only demand."
+          }
+        ]
+      }
+    },
+    {
+      "specRef": "4.2.2.4",
+      "title": "Coronary heart disease: a non-communicable disease",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Extended existing treatment section: fatty coronary narrowing → reduced oxygen/aerobic respiration; stent/statin actions and risks; restricted/leaking valves and mechanical/biological replacements; donor heart or heart/lungs, rejection/donor limits; temporary artificial hearts and device limits.",
+      "assessment": "q08 coronary mechanism and evidence-based stent/statin comparison; q09 distinct faulty-valve effects and replacement trade-offs; q10 transplant/artificial-heart evaluation with pacemaker distinction. Existing stent recall and restored comparison feedback retained.",
+      "answersFeedback": "Every new task has a model answer and specific criteria/misconception feedback. Writing/drawing/chart construction use explicit self-assessment; numerical checks accept appropriate equivalent units and reject incompatible quantities.",
+      "skillsAndPractical": "WS1.3/1.4: compare drugs/devices/transplant against the actual problem, benefits/risks, availability and limits. No universal treatment claim or additional clinical dosing.",
+      "tier": "All requirements in these five units are shared Foundation/Higher. Effective Foundation, unsure and Higher content verified; Higher originals retained.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Organisation|Treating cardiovascular disease"
+      ],
+      "questionRefs": [
+        "aqa-shared-gap-1-0",
+        "aqa-shared-gap-1-1",
+        "aqa-circulation-completion-q08",
+        "aqa-circulation-completion-q09",
+        "aqa-circulation-completion-q10"
+      ],
+      "supportRefs": [],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Organisation|Treating cardiovascular disease",
+            "label": "Treating cardiovascular disease",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5T reviewed shared heart/blood/health/lifestyle extension; original material retained."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-shared-gap-1-0",
+            "label": "Which treatment holds a narrowed coronary artery open?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-shared-gap-1-1",
+            "label": "A patient is offered a stent or long-term statins. Give one relevant point to compare.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block. Existing source feedback restored in 7.0.5O."
+          },
+          {
+            "id": "aqa-circulation-completion-q08",
+            "label": "Explain how coronary fatty deposits affect heart muscle. Then evaluate these supplied options: a stent improves flow directly but requires a procedure and can cause clots; statins lower cholesterol over time but require continued use and may have side effects. Is either universally best?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5T reviewed shared AQA 8464 4.2.2.2–4.2.2.6 teaching, diagrams/data, questions, answers and feedback; no Higher-only demand."
+          },
+          {
+            "id": "aqa-circulation-completion-q09",
+            "label": "One valve cannot open fully; another leaks. Explain the effect of each. Compare a durable mechanical replacement requiring clot-prevention medicine with a biological replacement that may wear out.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5T reviewed shared AQA 8464 4.2.2.2–4.2.2.6 teaching, diagrams/data, questions, answers and feedback; no Higher-only demand."
+          },
+          {
+            "id": "aqa-circulation-completion-q10",
+            "label": "A person with heart failure awaits a donor heart. Compare transplantation with a temporary artificial heart, including why a heart-and-lung transplant might sometimes be considered and why a pacemaker is not equivalent.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5T reviewed shared AQA 8464 4.2.2.2–4.2.2.6 teaching, diagrams/data, questions, answers and feedback; no Higher-only demand."
+          }
+        ],
+        "support": []
+      }
+    },
+    {
+      "specRef": "4.2.2.5",
+      "title": "Health issues",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Extended existing health section: physical/mental well-being; communicable/non-communicable illness; diet/stress/life situations; immune defect/infection, virus/cancer, pathogen-triggered allergy and physical/mental illness interactions. Added shared incidence, sampling and chart conventions.",
+      "assessment": "q11 full interaction explanations and calibrated language; shared q12 table/bar construction and percentages; q13 grouped-frequency histogram and denominator limits; q14 scatter association/confounding; q18 clinic-volunteer sampling bias.",
+      "answersFeedback": "Every new task has a model answer and specific criteria/misconception feedback. Writing/drawing/chart construction use explicit self-assessment; numerical checks accept appropriate equivalent units and reject incompatible quantities.",
+      "skillsAndPractical": "MS2c/2g/4a: translate numerical/table/graph information, construct categorical bar and equal-width histogram representations, interpret scatter. MS2d representative sampling, comparable time/case definition/denominators. Chart construction uses existing written/self-assessment flow.",
+      "tier": "All requirements in these five units are shared Foundation/Higher. Effective Foundation, unsure and Higher content verified; Higher originals retained.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Organisation|Gas exchange and health"
+      ],
+      "questionRefs": [
+        "aqa-circulation-completion-q11",
+        "aqa-circulation-completion-q12",
+        "aqa-circulation-completion-q13",
+        "aqa-circulation-completion-q14",
+        "aqa-circulation-completion-q18"
+      ],
+      "supportRefs": [
+        "Biology|support|circulation-data"
+      ],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Organisation|Gas exchange and health",
+            "label": "Gas exchange and health",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5T reviewed shared heart/blood/health/lifestyle extension; original material retained."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-circulation-completion-q11",
+            "label": "Explain health in terms of physical and mental well-being. Give one non-disease influence, then explain each interaction: immune defect/infection, virus/cancer, pathogen-triggered immune reaction/allergy, and severe physical illness/mental illness.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5T reviewed shared AQA 8464 4.2.2.2–4.2.2.6 teaching, diagrams/data, questions, answers and feedback; no Higher-only demand."
+          },
+          {
+            "id": "aqa-circulation-completion-q12",
+            "label": "Illustrative annual new-case frequencies in three separate groups are A: 12, B: 18, C: 30, each out of 200. Construct a labelled frequency table and bar chart. Give the percentages and explain why raw counts could mislead if the groups had different sizes or follow-up periods.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5T reviewed shared AQA 8464 4.2.2.2–4.2.2.6 teaching, diagrams/data, questions, answers and feedback; no Higher-only demand."
+          },
+          {
+            "id": "aqa-circulation-completion-q13",
+            "label": "The data panel lists ages of 12 newly recorded cases: 20, 24, 27, 31, 33, 36, 38, 40, 43, 45, 46, 49 years. Group them into 20–<30, 30–<40, 40–<50; construct a frequency table and histogram. Can the tallest bar alone establish greatest age-specific disease risk?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5T reviewed shared AQA 8464 4.2.2.2–4.2.2.6 teaching, diagrams/data, questions, answers and feedback; no Higher-only demand."
+          },
+          {
+            "id": "aqa-circulation-completion-q14",
+            "label": "Use the illustrative regional scatter data. Describe the association between percentage smoking and annual new cases per 1000. Explain why it cannot prove the cause or predict an individual outcome. Suggest a better sampling/comparison approach.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5T reviewed shared AQA 8464 4.2.2.2–4.2.2.6 teaching, diagrams/data, questions, answers and feedback; no Higher-only demand."
+          },
+          {
+            "id": "aqa-circulation-completion-q18",
+            "label": "A survey of 1000 volunteers from one specialist clinic finds more disease than a random community sample of 200. Which conclusion is best supported?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5T reviewed shared AQA 8464 4.2.2.2–4.2.2.6 teaching, diagrams/data, questions, answers and feedback; no Higher-only demand."
+          }
+        ],
+        "support": [
+          {
+            "id": "Biology|support|circulation-data",
+            "label": "Circulation/health data resource",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5T reviewed shared AQA 8464 4.2.2.2–4.2.2.6 teaching, diagrams/data, questions, answers and feedback; no Higher-only demand."
+          }
+        ]
+      }
+    },
+    {
+      "specRef": "4.2.2.6",
+      "title": "The effect of lifestyle on some non-communicable diseases",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Extended risk-factor section: lifestyle/body/environment risks; diet/smoking/exercise and cardiovascular disease; obesity/Type 2; alcohol/liver/brain; smoking/lung disease/cancer; smoking/alcohol and unborn babies; carcinogens/ionising radiation, interacting factors, human/financial costs at family/community/national/global levels.",
+      "assessment": "q16 integrated risk mechanisms and probability; q17 pregnancy effects and multi-level costs; q15 relative percentage increase vs percentage points. Shared q12/13/14/18 provide table/chart/scatter/sampling tasks; retained bio2-heart-risk and restored q0-1 correlation explanations.",
+      "answersFeedback": "Every new task has a model answer and specific criteria/misconception feedback. Writing/drawing/chart construction use explicit self-assessment; numerical checks accept appropriate equivalent units and reject incompatible quantities.",
+      "skillsAndPractical": "WS1.4/1.5, MS2c/2d/2g/4a: evidence interpretation, percentages/relative change, confounders, sampling and group-to-individual limits. Illustrative data explicitly labelled; no invented clinical risk estimates.",
+      "tier": "All requirements in these five units are shared Foundation/Higher. Effective Foundation, unsure and Higher content verified; Higher originals retained.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Organisation|Cancer and risk factors",
+        "Biology|Organisation|Gas exchange and health"
+      ],
+      "questionRefs": [
+        "aqa-shared-gap-0-1",
+        "bio2-heart-risk",
+        "aqa-circulation-completion-q12",
+        "aqa-circulation-completion-q13",
+        "aqa-circulation-completion-q14",
+        "aqa-circulation-completion-q15",
+        "aqa-circulation-completion-q16",
+        "aqa-circulation-completion-q17",
+        "aqa-circulation-completion-q18"
+      ],
+      "supportRefs": [
+        "Biology|support|circulation-data"
+      ],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Organisation|Cancer and risk factors",
+            "label": "Cancer and risk factors",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5T reviewed shared heart/blood/health/lifestyle extension; original material retained."
+          },
+          {
+            "id": "Biology|Organisation|Gas exchange and health",
+            "label": "Gas exchange and health",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5T reviewed shared heart/blood/health/lifestyle extension; original material retained."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-shared-gap-0-1",
+            "label": "Explain why a correlation between smoking and cancer is not automatically proof of causation.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block. Existing source feedback restored in 7.0.5O."
+          },
+          {
+            "id": "bio2-heart-risk",
+            "label": "A study links smoking with heart disease. Why is correlation alone not enough to prove causation?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-circulation-completion-q12",
+            "label": "Illustrative annual new-case frequencies in three separate groups are A: 12, B: 18, C: 30, each out of 200. Construct a labelled frequency table and bar chart. Give the percentages and explain why raw counts could mislead if the groups had different sizes or follow-up periods.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5T reviewed shared AQA 8464 4.2.2.2–4.2.2.6 teaching, diagrams/data, questions, answers and feedback; no Higher-only demand."
+          },
+          {
+            "id": "aqa-circulation-completion-q13",
+            "label": "The data panel lists ages of 12 newly recorded cases: 20, 24, 27, 31, 33, 36, 38, 40, 43, 45, 46, 49 years. Group them into 20–<30, 30–<40, 40–<50; construct a frequency table and histogram. Can the tallest bar alone establish greatest age-specific disease risk?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5T reviewed shared AQA 8464 4.2.2.2–4.2.2.6 teaching, diagrams/data, questions, answers and feedback; no Higher-only demand."
+          },
+          {
+            "id": "aqa-circulation-completion-q14",
+            "label": "Use the illustrative regional scatter data. Describe the association between percentage smoking and annual new cases per 1000. Explain why it cannot prove the cause or predict an individual outcome. Suggest a better sampling/comparison approach.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5T reviewed shared AQA 8464 4.2.2.2–4.2.2.6 teaching, diagrams/data, questions, answers and feedback; no Higher-only demand."
+          },
+          {
+            "id": "aqa-circulation-completion-q15",
+            "label": "A model study records 30 new cases among 200 people in group A and 20 among 200 in group B in one year. Calculate the relative percentage increase in group A compared with B.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5T reviewed shared AQA 8464 4.2.2.2–4.2.2.6 teaching, diagrams/data, questions, answers and feedback; no Higher-only demand."
+          },
+          {
+            "id": "aqa-circulation-completion-q16",
+            "label": "Explain relevant disease risks for a person exposed to cigarette smoke and ionising radiation, with little exercise, a diet high in saturated fat, obesity and excessive alcohol intake. Distinguish increased risk from certainty and include biological links where established.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5T reviewed shared AQA 8464 4.2.2.2–4.2.2.6 teaching, diagrams/data, questions, answers and feedback; no Higher-only demand."
+          },
+          {
+            "id": "aqa-circulation-completion-q17",
+            "label": "Explain why smoking and alcohol exposure during pregnancy can affect an unborn baby. Then discuss human and financial consequences of non-communicable disease for a family, local community and wider society.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5T reviewed shared AQA 8464 4.2.2.2–4.2.2.6 teaching, diagrams/data, questions, answers and feedback; no Higher-only demand."
+          },
+          {
+            "id": "aqa-circulation-completion-q18",
+            "label": "A survey of 1000 volunteers from one specialist clinic finds more disease than a random community sample of 200. Which conclusion is best supported?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5T reviewed shared AQA 8464 4.2.2.2–4.2.2.6 teaching, diagrams/data, questions, answers and feedback; no Higher-only demand."
+          }
+        ],
+        "support": [
+          {
+            "id": "Biology|support|circulation-data",
+            "label": "Circulation/health data resource",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5T reviewed shared AQA 8464 4.2.2.2–4.2.2.6 teaching, diagrams/data, questions, answers and feedback; no Higher-only demand."
+          }
+        ]
+      }
+    }
+  ],
+  "newQuestions": {
+    "total": 18,
+    "writingSelfAssessment": 15,
+    "numericAutoCheck": 2,
+    "multipleChoice": 1
+  },
+  "recordedTierBacklog": 0,
+  "knownUnresolvedTierConcerns": 0,
+  "answerUnitBacklog": 0,
+  "tests": {
+    "focused": 132,
+    "full": 321,
+    "failures": 0
+  },
+  "scopeVerification": "All 63 science pathways compared with S. Only four targeted Organisation sections and 18 new questions differ. Existing questions/practicals and all unrelated content retained."
+}

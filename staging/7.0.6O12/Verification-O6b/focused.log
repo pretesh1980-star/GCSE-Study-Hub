@@ -1,0 +1,136 @@
+TAP version 13
+# Subtest: O6 opens from existing milestone with independent activity state
+ok 1 - O6 opens from existing milestone with independent activity state
+  ---
+  duration_ms: 55.681125
+  type: 'test'
+  ...
+# Subtest: exploration exposes accurate relationships, model limits and nonidentical pairs
+ok 2 - exploration exposes accurate relationships, model limits and nonidentical pairs
+  ---
+  duration_ms: 22.716083
+  type: 'test'
+  ...
+# Subtest: relationship construction rejects misconceptions and allows retries
+ok 3 - relationship construction rejects misconceptions and allows retries
+  ---
+  duration_ms: 21.642
+  type: 'test'
+  ...
+# Subtest: all exploratory actions and hints award zero credit
+ok 4 - all exploratory actions and hints award zero credit
+  ---
+  duration_ms: 23.307375
+  type: 'test'
+  ...
+# Subtest: gene direct manipulation validates values and retains selected position
+ok 5 - gene direct manipulation validates values and retains selected position
+  ---
+  duration_ms: 22.477917
+  type: 'test'
+  ...
+# Subtest: guided state resumes with unchanged localStorage keys
+ok 6 - guided state resumes with unchanged localStorage keys
+  ---
+  duration_ms: 47.214041
+  type: 'test'
+  ...
+# Subtest: tier separation retains higher state while foundation starts fresh
+ok 7 - tier separation retains higher state while foundation starts fresh
+  ---
+  duration_ms: 304.532792
+  type: 'test'
+  ...
+# Subtest: unsupported board and course cannot mutate O6 state
+ok 8 - unsupported board and course cannot mutate O6 state
+  ---
+  duration_ms: 42.78775
+  type: 'test'
+  ...
+# Subtest: exit disables controls and library retains approved O5 entry
+ok 9 - exit disables controls and library retains approved O5 entry
+  ---
+  duration_ms: 27.147583
+  type: 'test'
+  ...
+# Subtest: corrupt visual fields recover to safe defaults
+ok 10 - corrupt visual fields recover to safe defaults
+  ---
+  duration_ms: 20.678458
+  type: 'test'
+  ...
+# Subtest: keyboard SVG alternatives, live feedback and range label exist
+ok 11 - keyboard SVG alternatives, live feedback and range label exist
+  ---
+  duration_ms: 21.943042
+  type: 'test'
+  ...
+# Subtest: progressive hints are capped and do not change mastery
+ok 12 - progressive hints are capped and do not change mastery
+  ---
+  duration_ms: 19.731
+  type: 'test'
+  ...
+# Subtest: cycle keeps DNA replication before mitosis and separates final cell division
+ok 13 - cycle keeps DNA replication before mitosis and separates final cell division
+  ---
+  duration_ms: 21.374959
+  type: 'test'
+  ...
+# Subtest: two daughters each receive same complete labelled set, not half
+ok 14 - two daughters each receive same complete labelled set, not half
+  ---
+  duration_ms: 19.918541
+  type: 'test'
+  ...
+# Subtest: model count, genetic identity and meiosis distinction are explicit
+ok 15 - model count, genetic identity and meiosis distinction are explicit
+  ---
+  duration_ms: 20.486583
+  type: 'test'
+  ...
+# Subtest: cycle ordering rejects separation before copying and division before mitosis
+ok 16 - cycle ordering rejects separation before copying and division before mitosis
+  ---
+  duration_ms: 20.709166
+  type: 'test'
+  ...
+# Subtest: timeline direct manipulation updates diagrams, stores position and ignores invalid input
+ok 17 - timeline direct manipulation updates diagrams, stores position and ignores invalid input
+  ---
+  duration_ms: 41.104792
+  type: 'test'
+  ...
+# Subtest: animation is opt-in; pause, navigation and scrub cancel it
+ok 18 - animation is opt-in; pause, navigation and scrub cancel it
+  ---
+  duration_ms: 23.399875
+  type: 'test'
+  ...
+# Subtest: course switch stops animation and prevents cross-context writes
+ok 19 - course switch stops animation and prevents cross-context writes
+  ---
+  duration_ms: 20.726
+  type: 'test'
+  ...
+# Subtest: guided sequence reconstruction and play never change legacy mastery
+ok 20 - guided sequence reconstruction and play never change legacy mastery
+  ---
+  duration_ms: 21.123917
+  type: 'test'
+  ...
+# Subtest: optional revision restore retains original explanations
+ok 21 - optional revision restore retains original explanations
+  ---
+  duration_ms: 35.524208
+  type: 'test'
+  ...
+1..21
+# tests 21
+# suites 0
+# pass 21
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 911.065375

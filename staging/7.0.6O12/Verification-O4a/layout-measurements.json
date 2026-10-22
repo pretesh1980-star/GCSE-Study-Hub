@@ -1,0 +1,23 @@
+[
+  {
+    "columns": "310.578px 559.047px",
+    "documentWidth": 1280,
+    "focusButtonHeight": 44,
+    "viewWidth": 480,
+    "width": 1280
+  },
+  {
+    "columns": "248.562px 447.438px",
+    "documentWidth": 820,
+    "focusButtonHeight": 44,
+    "viewWidth": 447.4375,
+    "width": 820
+  },
+  {
+    "columns": "314px",
+    "documentWidth": 390,
+    "focusButtonHeight": 44,
+    "viewWidth": 314,
+    "width": 390
+  }
+]

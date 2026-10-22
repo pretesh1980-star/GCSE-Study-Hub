@@ -1,0 +1,42 @@
+{
+  "browser": "Codex in-app browser",
+  "origin": "http://127.0.0.1:8938",
+  "responsive": [
+    {
+      "width": 390,
+      "documentWidth": 390,
+      "smallControls": 0
+    },
+    {
+      "width": 768,
+      "documentWidth": 768,
+      "smallControls": 0
+    },
+    {
+      "width": 1365,
+      "documentWidth": 1365,
+      "smallControls": 0
+    }
+  ],
+  "verified": [
+    "O8 deep link",
+    "cube size updates area/volume/ratio",
+    "keyboard ArrowRight changes size",
+    "Play/Pause, mute, replay and scene captions",
+    "surface choices and feature explanations",
+    "generic area/thickness/gradient model",
+    "guided answer feedback",
+    "typed independent answers and selections survive reload",
+    "O8 incomplete numeric focus",
+    "O8 exactly-two focus",
+    "O8 12/12 score and dashboard evidence with 0% topic mastery",
+    "O7 11/12 completeness, per-question exact-two error, 12 selections preserved and focused question 12",
+    "O7 12/12 valid submission unchanged scoring",
+    "Library and dashboard cards"
+  ],
+  "pending": [
+    "physical iPhone Safari",
+    "formal screen-reader audit",
+    "audible real-device voice quality and timing"
+  ]
+}

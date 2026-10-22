@@ -1,0 +1,847 @@
+{
+  "status": "PLANNING ONLY — NOT IMPLEMENTED",
+  "preparedInBuild": "7.0.5P",
+  "intendedNextBuild": "7.0.5Q if sequence is unchanged",
+  "framework": "Existing 78 units; these nine remain PARTIAL in this build.",
+  "sourceEvidence": "Cached AQA 8464 Biology specification in work/aqa-704/biology.json; Build 7.0.5O effective Foundation lesson/question objects and coverage audit.",
+  "units": [
+    {
+      "specRef": "4.1.1.1",
+      "title": "Eukaryotes and prokaryotes",
+      "currentStatus": "PARTIALLY COVERED",
+      "existingTeaching": "Nucleus/membrane/cytoplasm in Inside a cell; bacterial lack of nucleus, wall and plasmids in Bacteria and specialised cells.",
+      "existingPractice": "aqa-cell-bacteria-dna, bio2-bacteria and the relevant bacteria explanation family; nucleus question is only supporting evidence.",
+      "existingMappedLessonIds": [
+        "Biology|Cell Biology|Inside a cell",
+        "Biology|Cell Biology|Bacteria and specialised cells"
+      ],
+      "existingMappedQuestionIds": [
+        "aqa-cell-nucleus-label",
+        "aqa-cell-protein-maker",
+        "aqa-cell-bacteria-dna",
+        "aqa-cell-sperm-tail",
+        "bio-deep-cell-biology-inside-a-cell-summary",
+        "bio-deep-cell-biology-inside-a-cell-keyword",
+        "bio-deep-cell-biology-inside-a-cell-explain",
+        "bio-deep-cell-biology-inside-a-cell-justify",
+        "bio-deep-cell-biology-inside-a-cell-improve",
+        "bio-deep-cell-biology-inside-a-cell-grade9",
+        "bio-deep-cell-biology-bacteria-and-specialised-cells-summary",
+        "bio-deep-cell-biology-bacteria-and-specialised-cells-keyword",
+        "bio-deep-cell-biology-bacteria-and-specialised-cells-explain",
+        "bio-deep-cell-biology-bacteria-and-specialised-cells-justify",
+        "bio-deep-cell-biology-bacteria-and-specialised-cells-improve",
+        "bio-deep-cell-biology-bacteria-and-specialised-cells-grade9",
+        "bio2-bacteria"
+      ],
+      "mappingCaution": "The listed historical mappings are an inventory, not all direct evidence. Retain question coverage but remove only inappropriate audit links after reviewing exact demand.",
+      "buildOReuse": {
+        "questionRefs": [
+          "bio2-bacteria"
+        ],
+        "supportRefs": [
+          "Biology|support|diagram-bacterium"
+        ]
+      },
+      "remainingTeaching": "Explicit eukaryote terminology; bacterial single DNA loop linked to art; relative size/order-of-magnitude treatment.",
+      "remainingAssessment": "Size/scale and organelle comparisons with worked conversions; Q01/Q02.",
+      "answerFeedbackRequirements": [
+        {
+          "id": "Q01",
+          "requirements": "Conversion steps, ratio/order distinction, appropriate prefix and dimensionless comparison."
+        },
+        {
+          "id": "Q02",
+          "requirements": "Explicit label/function marking points; nucleus versus DNA loop/plasmid; photosynthetic chloroplast qualification; no credit for structures not present in the image."
+        }
+      ],
+      "tier": "Shared Foundation and Higher in the cached AQA 8464 specification; no Higher-only extension in these nine units. Scaffold numeracy appropriately without excluding shared knowledge.",
+      "skills": "MS 1b, 2a, 2h; WS 4.4 prefixes and size models.",
+      "minimumToFull": "T1/T3 plus Q01/Q02; do not count sperm-tail questions as prokaryote coverage.",
+      "completionGate": "Only reclassify after explicit teaching/revision and practice/feedback review against all subsection clauses; proposed counts are a scoped estimate, not an automatic completeness threshold."
+    },
+    {
+      "specRef": "4.1.1.2",
+      "title": "Animal and plant cells",
+      "currentStatus": "PARTIALLY COVERED",
+      "existingTeaching": "Most animal organelles/functions and plant additional structures already listed; chloroplast photosynthesis role elsewhere in Bioenergetics/leaf tissues. Animal diagram has only four labels; bacterium three.",
+      "existingPractice": "aqa-cell-nucleus-label, aqa-cell-protein-maker, build4-0, bio2-ribosome, inside-a-cell family; related existing chloroplast/leaf questions can support but not replace cell-image assessment.",
+      "existingMappedLessonIds": [
+        "Biology|Cell Biology|Inside a cell",
+        "Biology|Cell Biology|Bacteria and specialised cells"
+      ],
+      "existingMappedQuestionIds": [
+        "aqa-cell-nucleus-label",
+        "aqa-cell-protein-maker",
+        "aqa-cell-bacteria-dna",
+        "aqa-cell-sperm-tail",
+        "bio-deep-cell-biology-inside-a-cell-summary",
+        "bio-deep-cell-biology-inside-a-cell-keyword",
+        "bio-deep-cell-biology-inside-a-cell-explain",
+        "bio-deep-cell-biology-inside-a-cell-justify",
+        "bio-deep-cell-biology-inside-a-cell-improve",
+        "bio-deep-cell-biology-inside-a-cell-grade9",
+        "bio-deep-cell-biology-bacteria-and-specialised-cells-summary",
+        "bio-deep-cell-biology-bacteria-and-specialised-cells-keyword",
+        "bio-deep-cell-biology-bacteria-and-specialised-cells-explain",
+        "bio-deep-cell-biology-bacteria-and-specialised-cells-justify",
+        "bio-deep-cell-biology-bacteria-and-specialised-cells-improve",
+        "bio-deep-cell-biology-bacteria-and-specialised-cells-grade9",
+        "build4-0",
+        "bio2-ribosome"
+      ],
+      "mappingCaution": "The listed historical mappings are an inventory, not all direct evidence. Retain question coverage but remove only inappropriate audit links after reviewing exact demand.",
+      "buildOReuse": {
+        "questionRefs": [
+          "build4-0",
+          "bio2-ribosome"
+        ],
+        "supportRefs": [
+          "Biology|support|diagram-animal-cell",
+          "Biology|support|diagram-bacterium"
+        ]
+      },
+      "remainingTeaching": "Complete structure/function comparison including algae, cell-wall support and vacuole; visual representations of required structures and estimation skills.",
+      "remainingAssessment": "Plant/bacterial image interpretation, comprehensive function checks and relative size/area estimation: Q02/Q03/Q18.",
+      "answerFeedbackRequirements": [
+        {
+          "id": "Q02",
+          "requirements": "Explicit label/function marking points; nucleus versus DNA loop/plasmid; photosynthetic chloroplast qualification; no credit for structures not present in the image."
+        },
+        {
+          "id": "Q03",
+          "requirements": "Method, area versus length distinction, sensible tolerance, units and justified approximation."
+        },
+        {
+          "id": "Q18",
+          "requirements": "Only visible structures, clear outlines/label lines, correct scale with rationale; distinguish onion from chloroplast-bearing tissue and magnification from resolution."
+        }
+      ],
+      "tier": "Shared Foundation and Higher in the cached AQA 8464 specification; no Higher-only extension in these nine units. Scaffold numeracy appropriately without excluding shared knowledge.",
+      "skills": "WS 1.2; MS 1d, 3a; AT7 images/estimation.",
+      "minimumToFull": "T1/T3/T6 plus shared Q02/Q03/Q18; plant drawing resource reused by RP01.",
+      "completionGate": "Only reclassify after explicit teaching/revision and practice/feedback review against all subsection clauses; proposed counts are a scoped estimate, not an automatic completeness threshold."
+    },
+    {
+      "specRef": "4.1.1.3",
+      "title": "Cell specialisation",
+      "currentStatus": "PARTIALLY COVERED",
+      "existingTeaching": "Sperm tail/mitochondria and root-hair surface area; active transport lesson reinforces root hair; Organisation supplies xylem/phloem transport functions.",
+      "existingPractice": "aqa-cell-sperm-tail and bacteria/specialised explanation family; bio2-active/bio2-plant-transport are reusable contextual support only.",
+      "existingMappedLessonIds": [
+        "Biology|Cell Biology|Bacteria and specialised cells"
+      ],
+      "existingMappedQuestionIds": [
+        "aqa-cell-bacteria-dna",
+        "aqa-cell-sperm-tail",
+        "bio-deep-cell-biology-bacteria-and-specialised-cells-summary",
+        "bio-deep-cell-biology-bacteria-and-specialised-cells-keyword",
+        "bio-deep-cell-biology-bacteria-and-specialised-cells-explain",
+        "bio-deep-cell-biology-bacteria-and-specialised-cells-justify",
+        "bio-deep-cell-biology-bacteria-and-specialised-cells-improve",
+        "bio-deep-cell-biology-bacteria-and-specialised-cells-grade9"
+      ],
+      "mappingCaution": "The listed historical mappings are an inventory, not all direct evidence. Retain question coverage but remove only inappropriate audit links after reviewing exact demand.",
+      "buildOReuse": {},
+      "remainingTeaching": "Nerve/muscle and xylem/phloem structure-to-function adaptations; interpreting provided unfamiliar cell features.",
+      "remainingAssessment": "Q04/Q05 contextual adaptation tasks and shared Q06; retain existing sperm/root-hair work.",
+      "answerFeedbackRequirements": [
+        {
+          "id": "Q04",
+          "requirements": "Each credited feature must be linked to function, rather than named only."
+        },
+        {
+          "id": "Q05",
+          "requirements": "Structure-to-function links; existing transport-function recall alone insufficient."
+        },
+        {
+          "id": "Q06",
+          "requirements": "Differentiate specialisation from cell division; early animal versus lifelong plant qualification."
+        }
+      ],
+      "tier": "Shared Foundation and Higher in the cached AQA 8464 specification; no Higher-only extension in these nine units. Scaffold numeracy appropriately without excluding shared knowledge.",
+      "skills": "Scientific reasoning from supplied structural evidence to function at tissue/organ level.",
+      "minimumToFull": "T2 and Q04/Q05/Q06, no duplicate transport lesson.",
+      "completionGate": "Only reclassify after explicit teaching/revision and practice/feedback review against all subsection clauses; proposed counts are a scoped estimate, not an automatic completeness threshold."
+    },
+    {
+      "specRef": "4.1.1.4",
+      "title": "Cell differentiation",
+      "currentStatus": "PARTIALLY COVERED",
+      "existingTeaching": "Division/stem-cell text introduces differentiation. Non-target Cells and Control has a reusable growth/differentiation/meristem clause, not yet AQA mapped.",
+      "existingPractice": "Stem potential and generic division family touch differentiation but do not adequately test timing or significance.",
+      "existingMappedLessonIds": [
+        "Biology|Cell Biology|Division and stem cells"
+      ],
+      "existingMappedQuestionIds": [
+        "aqa-cell-mitosis-sequence",
+        "aqa-cell-stem-potential",
+        "bio-deep-cell-biology-division-and-stem-cells-summary",
+        "bio-deep-cell-biology-division-and-stem-cells-keyword",
+        "bio-deep-cell-biology-division-and-stem-cells-explain",
+        "bio-deep-cell-biology-division-and-stem-cells-justify",
+        "bio-deep-cell-biology-division-and-stem-cells-improve",
+        "bio-deep-cell-biology-division-and-stem-cells-grade9"
+      ],
+      "mappingCaution": "The listed historical mappings are an inventory, not all direct evidence. Retain question coverage but remove only inappropriate audit links after reviewing exact demand.",
+      "buildOReuse": {},
+      "remainingTeaching": "Animal early differentiation, plant continuing potential, repair/replacement in mature animals and acquisition of sub-cellular structures.",
+      "remainingAssessment": "Q06/Q12/Q13; direct differentiation versus division and source/potential comparisons.",
+      "answerFeedbackRequirements": [
+        {
+          "id": "Q06",
+          "requirements": "Differentiate specialisation from cell division; early animal versus lifelong plant qualification."
+        },
+        {
+          "id": "Q12",
+          "requirements": "Contextual application; cell-number change versus specialised structures; no meiosis detail required."
+        },
+        {
+          "id": "Q13",
+          "requirements": "Undifferentiated/self-renewing nature, embryonic broad potential, adult blood-cell examples, lifelong meristem potential."
+        }
+      ],
+      "tier": "Shared Foundation and Higher in the cached AQA 8464 specification; no Higher-only extension in these nine units. Scaffold numeracy appropriately without excluding shared knowledge.",
+      "skills": "Compare developmental evidence; avoid confusing division, enlargement and differentiation.",
+      "minimumToFull": "T4/T5 plus shared Q06/Q12/Q13.",
+      "completionGate": "Only reclassify after explicit teaching/revision and practice/feedback review against all subsection clauses; proposed counts are a scoped estimate, not an automatic completeness threshold."
+    },
+    {
+      "specRef": "4.1.1.5",
+      "title": "Microscopy",
+      "currentStatus": "PARTIALLY COVERED",
+      "existingTeaching": "Equation, mm↔micrometre conversion, resolution definition/electron contrast, drawing guidance; cards, worked ×600 example, Lab ×1000 and source mixed-unit challenge exist.",
+      "existingPractice": "aqa-cell-image-magnification, aqa-cell-micro-sequence, aqa-micro, bio2-micro, aqa-drawing and microscope explanation family.",
+      "existingMappedLessonIds": [
+        "Biology|Cell Biology|Microscopes and scale"
+      ],
+      "existingMappedQuestionIds": [
+        "aqa-cell-image-magnification",
+        "aqa-cell-micro-sequence",
+        "bio-deep-cell-biology-microscopes-and-scale-summary",
+        "bio-deep-cell-biology-microscopes-and-scale-keyword",
+        "bio-deep-cell-biology-microscopes-and-scale-explain",
+        "bio-deep-cell-biology-microscopes-and-scale-justify",
+        "bio-deep-cell-biology-microscopes-and-scale-improve",
+        "bio-deep-cell-biology-microscopes-and-scale-grade9",
+        "aqa-micro",
+        "bio2-micro",
+        "aqa-drawing"
+      ],
+      "mappingCaution": "The listed historical mappings are an inventory, not all direct evidence. Retain question coverage but remove only inappropriate audit links after reviewing exact demand.",
+      "buildOReuse": {
+        "questionRefs": [
+          "aqa-micro",
+          "bio2-micro",
+          "aqa-drawing"
+        ],
+        "supportRefs": [
+          "Biology|support|equation-Magnification"
+        ]
+      },
+      "remainingTeaching": "Development over time limited to magnification/resolution, both rearrangements, full specified prefixes, standard form and estimation.",
+      "remainingAssessment": "Q01/Q03/Q07/Q08/Q09 plus reused mixed-unit challenge R01; existing same-unit divisions are not enough.",
+      "answerFeedbackRequirements": [
+        {
+          "id": "Q01",
+          "requirements": "Conversion steps, ratio/order distinction, appropriate prefix and dimensionless comparison."
+        },
+        {
+          "id": "Q03",
+          "requirements": "Method, area versus length distinction, sensible tolerance, units and justified approximation."
+        },
+        {
+          "id": "Q07",
+          "requirements": "Two close points versus image enlargement, justified method choice and development of understanding; no unnecessary microscope-engineering details."
+        },
+        {
+          "id": "Q08",
+          "requirements": "Rearrangement, conversion and actual length unit; accept equivalent valid length units, reject incompatible units."
+        },
+        {
+          "id": "Q09",
+          "requirements": "Correct multiplication/conversion, standard-form exponent and length unit."
+        },
+        {
+          "id": "Q18",
+          "requirements": "Only visible structures, clear outlines/label lines, correct scale with rationale; distinguish onion from chloroplast-bearing tissue and magnification from resolution."
+        }
+      ],
+      "tier": "Shared Foundation and Higher in the cached AQA 8464 specification; no Higher-only extension in these nine units. Scaffold numeracy appropriately without excluding shared knowledge.",
+      "skills": "MS 1a, 1b, 2h, 3b; WS 1.1/4.4; equation rearrangement and standard form.",
+      "minimumToFull": "T3 plus shared quantitative/image tasks and R01 restoration, no duplicate basic equation drill.",
+      "completionGate": "Only reclassify after explicit teaching/revision and practice/feedback review against all subsection clauses; proposed counts are a scoped estimate, not an automatic completeness threshold."
+    },
+    {
+      "specRef": "4.1.2.1",
+      "title": "Chromosomes",
+      "currentStatus": "PARTIALLY COVERED",
+      "existingTeaching": "O remapped Inheritance DNA, genes and chromosomes and Sex chromosomes and inheritance; paired body chromosomes and existing DNA flow are reusable.",
+      "existingPractice": "bio2-mitosis supports chromosome number; generic nucleus/protein questions do not adequately test chromosome-gene relations.",
+      "existingMappedLessonIds": [
+        "Biology|Cell Biology|Inside a cell",
+        "Biology|Cell Biology|Division and stem cells",
+        "Biology|Inheritance|DNA, genes and chromosomes",
+        "Biology|Inheritance|Sex chromosomes and inheritance"
+      ],
+      "existingMappedQuestionIds": [
+        "aqa-cell-nucleus-label",
+        "aqa-cell-protein-maker",
+        "aqa-cell-mitosis-sequence",
+        "aqa-cell-stem-potential",
+        "bio-deep-cell-biology-inside-a-cell-summary",
+        "bio-deep-cell-biology-inside-a-cell-keyword",
+        "bio-deep-cell-biology-inside-a-cell-explain",
+        "bio-deep-cell-biology-inside-a-cell-justify",
+        "bio-deep-cell-biology-inside-a-cell-improve",
+        "bio-deep-cell-biology-inside-a-cell-grade9",
+        "bio-deep-cell-biology-division-and-stem-cells-summary",
+        "bio-deep-cell-biology-division-and-stem-cells-keyword",
+        "bio-deep-cell-biology-division-and-stem-cells-explain",
+        "bio-deep-cell-biology-division-and-stem-cells-justify",
+        "bio-deep-cell-biology-division-and-stem-cells-improve",
+        "bio-deep-cell-biology-division-and-stem-cells-grade9",
+        "bio2-mitosis"
+      ],
+      "mappingCaution": "The listed historical mappings are an inventory, not all direct evidence. Retain question coverage but remove only inappropriate audit links after reviewing exact demand.",
+      "buildOReuse": {
+        "lessonRefs": [
+          "Biology|Inheritance|DNA, genes and chromosomes",
+          "Biology|Inheritance|Sex chromosomes and inheritance"
+        ],
+        "questionRefs": [
+          "bio2-mitosis"
+        ],
+        "supportRefs": [
+          "Biology|support|diagram-dna"
+        ]
+      },
+      "remainingTeaching": "No duplicate DNA lesson. Reconnect existing explanation/flow; add only explicit many genes per chromosome if required.",
+      "remainingAssessment": "Q10 targets the full relationship/pairs; Q11 reinforces chromosome copying/separation.",
+      "answerFeedbackRequirements": [
+        {
+          "id": "Q10",
+          "requirements": "Nuclear location, DNA composition, many genes per chromosome, normal body-cell pairs; avoid conflating chromosomes with genes or gametes."
+        },
+        {
+          "id": "Q11",
+          "requirements": "Growth/increased structures; DNA copies; chromosome sets/nuclei; cytoplasm/membrane division and identical daughter cells. No named mitosis phases."
+        }
+      ],
+      "tier": "Shared Foundation and Higher in the cached AQA 8464 specification; no Higher-only extension in these nine units. Scaffold numeracy appropriately without excluding shared knowledge.",
+      "skills": "WS1.2 chromosome models; distinguish molecule, gene, chromosome and pair.",
+      "minimumToFull": "T4 reference/short bridge plus Q10/Q11; no separate chromosome chapter.",
+      "completionGate": "Only reclassify after explicit teaching/revision and practice/feedback review against all subsection clauses; proposed counts are a scoped estimate, not an automatic completeness threshold."
+    },
+    {
+      "specRef": "4.1.2.2",
+      "title": "Mitosis and the cell cycle",
+      "currentStatus": "PARTIALLY COVERED",
+      "existingTeaching": "DNA copied before mitosis; identical daughter cells; growth/repair/asexual reproduction; division card flow and skin-repair worked example.",
+      "existingPractice": "aqa-cell-mitosis-sequence, bio2-mitosis, division summary/writing family.",
+      "existingMappedLessonIds": [
+        "Biology|Cell Biology|Division and stem cells"
+      ],
+      "existingMappedQuestionIds": [
+        "aqa-cell-mitosis-sequence",
+        "aqa-cell-stem-potential",
+        "bio-deep-cell-biology-division-and-stem-cells-summary",
+        "bio-deep-cell-biology-division-and-stem-cells-keyword",
+        "bio-deep-cell-biology-division-and-stem-cells-explain",
+        "bio-deep-cell-biology-division-and-stem-cells-justify",
+        "bio-deep-cell-biology-division-and-stem-cells-improve",
+        "bio-deep-cell-biology-division-and-stem-cells-grade9",
+        "bio2-mitosis"
+      ],
+      "mappingCaution": "The listed historical mappings are an inventory, not all direct evidence. Retain question coverage but remove only inappropriate audit links after reviewing exact demand.",
+      "buildOReuse": {
+        "questionRefs": [
+          "bio2-mitosis"
+        ]
+      },
+      "remainingTeaching": "Growth/increased ribosomes and mitochondria, copied chromosomes, set separation/nuclear division and final membrane/cytoplasm division as overall stages.",
+      "remainingAssessment": "Q11 sequence/reasoning and Q12 applied contexts; Q10 shared chromosome model.",
+      "answerFeedbackRequirements": [
+        {
+          "id": "Q10",
+          "requirements": "Nuclear location, DNA composition, many genes per chromosome, normal body-cell pairs; avoid conflating chromosomes with genes or gametes."
+        },
+        {
+          "id": "Q11",
+          "requirements": "Growth/increased structures; DNA copies; chromosome sets/nuclei; cytoplasm/membrane division and identical daughter cells. No named mitosis phases."
+        },
+        {
+          "id": "Q12",
+          "requirements": "Contextual application; cell-number change versus specialised structures; no meiosis detail required."
+        }
+      ],
+      "tier": "Shared Foundation and Higher in the cached AQA 8464 specification; no Higher-only extension in these nine units. Scaffold numeracy appropriately without excluding shared knowledge.",
+      "skills": "Sequencing biological processes and recognising growth/development/repair contexts.",
+      "minimumToFull": "T4 plus Q10/Q11/Q12; no named mitotic-phase teaching.",
+      "completionGate": "Only reclassify after explicit teaching/revision and practice/feedback review against all subsection clauses; proposed counts are a scoped estimate, not an automatic completeness threshold."
+    },
+    {
+      "specRef": "4.1.2.3",
+      "title": "Stem cells",
+      "currentStatus": "PARTIALLY COVERED",
+      "existingTeaching": "Embryonic versus adult range, usefulness of differentiation and generic risks/ethics; O restored bio2-stem.",
+      "existingPractice": "aqa-cell-stem-potential, bio2-stem and division-family evaluation prompts; generic risk question is retained, not treated as source/application completeness.",
+      "existingMappedLessonIds": [
+        "Biology|Cell Biology|Division and stem cells"
+      ],
+      "existingMappedQuestionIds": [
+        "aqa-cell-mitosis-sequence",
+        "aqa-cell-stem-potential",
+        "bio-deep-cell-biology-division-and-stem-cells-summary",
+        "bio-deep-cell-biology-division-and-stem-cells-keyword",
+        "bio-deep-cell-biology-division-and-stem-cells-explain",
+        "bio-deep-cell-biology-division-and-stem-cells-justify",
+        "bio-deep-cell-biology-division-and-stem-cells-improve",
+        "bio-deep-cell-biology-division-and-stem-cells-grade9",
+        "bio2-stem"
+      ],
+      "mappingCaution": "The listed historical mappings are an inventory, not all direct evidence. Retain question coverage but remove only inappropriate audit links after reviewing exact demand.",
+      "buildOReuse": {
+        "questionRefs": [
+          "bio2-stem"
+        ]
+      },
+      "remainingTeaching": "Bone marrow/meristems, therapeutic cloning, diabetes/paralysis, viral transfer, explicit ethical balance and plant conservation/crop applications.",
+      "remainingAssessment": "Q13–Q16 targeted source/function, therapeutic cloning, balanced evaluation and plant-cloning tasks.",
+      "answerFeedbackRequirements": [
+        {
+          "id": "Q13",
+          "requirements": "Undifferentiated/self-renewing nature, embryonic broad potential, adult blood-cell examples, lifelong meristem potential."
+        },
+        {
+          "id": "Q14",
+          "requirements": "Same genes as patient, appropriate replacement-cell function, distinguish treatment potential from guaranteed cure."
+        },
+        {
+          "id": "Q15",
+          "requirements": "Evidence-based balanced judgement; retain valid existing tumour/rejection concerns; ethical position itself is not marked right/wrong."
+        },
+        {
+          "id": "Q16",
+          "requirements": "Quick/economic identical plants, preservation or desired inherited feature; explanation tied to the supplied application."
+        }
+      ],
+      "tier": "Shared Foundation and Higher in the cached AQA 8464 specification; no Higher-only extension in these nine units. Scaffold numeracy appropriately without excluding shared knowledge.",
+      "skills": "WS1.3 evaluate practical, social and ethical risks/benefits; techniques of stem-cell culture not required.",
+      "minimumToFull": "T5 plus Q13/Q14/Q15/Q16; reuse T4 differentiation rather than repeat it.",
+      "completionGate": "Only reclassify after explicit teaching/revision and practice/feedback review against all subsection clauses; proposed counts are a scoped estimate, not an automatic completeness threshold."
+    },
+    {
+      "specRef": "RP01",
+      "title": "Microscope observations",
+      "currentStatus": "PARTIALLY COVERED",
+      "existingTeaching": "Your board · microscopy already describes thin specimen, stain, coverslip, low power and focusing; practical record, drawing rules, ×600 worked example and microscopy Lab all exist.",
+      "existingPractice": "aqa-cell-scope-order, aqa-cell-drawing-label, aqa-drawing, aqa-micro, bio2-micro and board-microscopy family.",
+      "existingMappedLessonIds": [
+        "Biology|practical|microscopy"
+      ],
+      "existingMappedQuestionIds": [
+        "aqa-cell-scope-order",
+        "aqa-cell-drawing-label",
+        "bio-deep-cell-biology-your-board-microscopy-summary",
+        "bio-deep-cell-biology-your-board-microscopy-keyword",
+        "bio-deep-cell-biology-your-board-microscopy-explain",
+        "bio-deep-cell-biology-your-board-microscopy-justify",
+        "bio-deep-cell-biology-your-board-microscopy-improve",
+        "bio-deep-cell-biology-your-board-microscopy-grade9",
+        "aqa-micro",
+        "aqa-drawing",
+        "bio2-micro"
+      ],
+      "mappingCaution": "The listed historical mappings are an inventory, not all direct evidence. Retain question coverage but remove only inappropriate audit links after reviewing exact demand.",
+      "buildOReuse": {
+        "questionRefs": [
+          "aqa-micro",
+          "aqa-drawing",
+          "bio2-micro"
+        ],
+        "supportRefs": [
+          "Biology|practical|microscopy",
+          "Biology|support|equation-Magnification",
+          "Biology|support|practical-Microscopy"
+        ]
+      },
+      "remainingTeaching": "Complete plant AND animal observation guidance; specimen/stain/safety details; fine focusing and protection; labelled proportional records with magnification scale and observable-structure limits.",
+      "remainingAssessment": "Q17/Q18 plus Q02/Q03/Q08 and R01. Existing Lab asks variables; it is not a complete practical or actual lab completion.",
+      "answerFeedbackRequirements": [
+        {
+          "id": "Q02",
+          "requirements": "Explicit label/function marking points; nucleus versus DNA loop/plasmid; photosynthetic chloroplast qualification; no credit for structures not present in the image."
+        },
+        {
+          "id": "Q03",
+          "requirements": "Method, area versus length distinction, sensible tolerance, units and justified approximation."
+        },
+        {
+          "id": "Q08",
+          "requirements": "Rearrangement, conversion and actual length unit; accept equivalent valid length units, reject incompatible units."
+        },
+        {
+          "id": "Q17",
+          "requirements": "Suitable specimen/stain, thin preparation/coverslip, low power then centring/focus, lens/slide protection, named risk linked to control."
+        },
+        {
+          "id": "Q18",
+          "requirements": "Only visible structures, clear outlines/label lines, correct scale with rationale; distinguish onion from chloroplast-bearing tissue and magnification from resolution."
+        }
+      ],
+      "tier": "Shared Foundation and Higher in the cached AQA 8464 specification; no Higher-only extension in these nine units. Scaffold numeracy appropriately without excluding shared knowledge.",
+      "skills": "AT1/7; observations, scale/measurement, diagrams, risk management and evaluation.",
+      "minimumToFull": "T6 integrated with T1/T3; practical evidence checklist must cover observe, draw, label, scale, plant and animal plus AT1/7.",
+      "completionGate": "Only reclassify after explicit teaching/revision and practice/feedback review against all subsection clauses; proposed counts are a scoped estimate, not an automatic completeness threshold."
+    }
+  ],
+  "teachingComponents": [
+    {
+      "id": "T1",
+      "title": "Cell types, structure/function and images",
+      "specRefs": [
+        "4.1.1.1",
+        "4.1.1.2",
+        "RP01"
+      ],
+      "extend": [
+        "Inside a cell",
+        "Bacteria and specialised cells"
+      ],
+      "brief": "Extend existing text to explicitly identify animal/plant cells as eukaryotic, bacterial single DNA loop and relative size; complete organelle functions including cellulose wall support, vacuole/cell sap and algal cells. Reuse photosynthesis chloroplast/chlorophyll explanation. Extend animal and bacterium art/labels to match all claimed structures; add one reusable plant-cell schematic. Distinguish schematic structures from what a light microscope can actually resolve. Put quantitative scale explanations in T3, not here."
+    },
+    {
+      "id": "T2",
+      "title": "Specialisation structure-to-function comparison",
+      "specRefs": [
+        "4.1.1.3"
+      ],
+      "extend": [
+        "Bacteria and specialised cells"
+      ],
+      "brief": "Retain sperm/root-hair examples. Add nerve and muscle and xylem/phloem adaptation-to-function links. Reuse existing plant transport functions and root-hair active-transport explanation; do not teach plant transport again. Include inference from supplied unfamiliar-cell features."
+    },
+    {
+      "id": "T3",
+      "title": "Microscopy, scale and quantitative reasoning",
+      "specRefs": [
+        "4.1.1.1",
+        "4.1.1.2",
+        "4.1.1.5",
+        "RP01"
+      ],
+      "extend": [
+        "Microscopes and scale"
+      ],
+      "brief": "Extend existing equation/resolution explanation with light-to-electron development, magnification versus resolving power, both rearrangements, centi/milli/micro/nano conversions, standard form, orders of magnitude, estimation of size/area and why estimation is suitable. Reuse existing division examples, card equation flow and Learning Lab. Supply a shared labelled image/scale context for several questions, not a new image per question."
+    },
+    {
+      "id": "T4",
+      "title": "Chromosomes, differentiation and the three-stage cell cycle",
+      "specRefs": [
+        "4.1.1.4",
+        "4.1.2.1",
+        "4.1.2.2"
+      ],
+      "extend": [
+        "Division and stem cells"
+      ],
+      "brief": "Reference existing Inheritance DNA/chromosome explanation and paired chromosomes; add only explicit many-genes-per-chromosome link if source review confirms it is not stated. Extend division explanation with growth and increased organelles, chromosome copying, separation/nuclear division and final cytoplasm/membrane division. Reuse card flow for the three overall stages; no named mitotic phases required. Add animal early differentiation versus lifelong plant differentiation, mature animal repair/replacement and acquisition of specialised sub-cellular structures. Reuse the existing non-AQA Growth and differentiation clause only after explicit shared-AQA mapping; do not import its unrelated brain/eye content."
+    },
+    {
+      "id": "T5",
+      "title": "Stem-cell sources and applications",
+      "specRefs": [
+        "4.1.1.4",
+        "4.1.2.3"
+      ],
+      "extend": [
+        "Division and stem cells"
+      ],
+      "brief": "Extend current embryonic/adult comparison with source/function of adult bone marrow and plant meristems, lifelong plant potential, diabetes/paralysis applications, therapeutic cloning/rejection, viral-transfer risk and balanced ethics. Add rare-plant conservation and crop-cloning purposes. Retain existing tumour/rejection warning and benefit/risk question; do not require laboratory stem-cell techniques."
+    },
+    {
+      "id": "T6",
+      "title": "RP01 observations and practical support",
+      "specRefs": [
+        "RP01",
+        "4.1.1.2",
+        "4.1.1.5"
+      ],
+      "extend": [
+        "Your board · microscopy",
+        "Biology|practical|microscopy"
+      ],
+      "brief": "Consolidate existing slide/stain/coverslip/focus material with practical record. Extend to suitable prepared/fresh plant and animal specimens, appropriate stain choice under school protocol, safe slide/coverslip/stain handling, illumination/coarse/fine focus and lens/specimen protection, comparison of observations, labelled proportional drawings and a magnification scale. Include a model observation/drawing checklist and shared scale calculation from T3. Distinguish an unchloroplasted onion epidermis from a photosynthetic plant cell. No new simulation or UI redesign."
+    }
+  ],
+  "newQuestions": [
+    {
+      "id": "Q01",
+      "specRefs": [
+        "4.1.1.1",
+        "4.1.1.5"
+      ],
+      "brief": "Compare bacterial and eukaryotic sizes from supplied measurements; calculate an order-of-magnitude comparison using standard form.",
+      "answersAndFeedback": "Conversion steps, ratio/order distinction, appropriate prefix and dimensionless comparison.",
+      "format": "writing/calculation",
+      "tier": "both",
+      "proposedQuestionId": "aqa-cell-completion-q01"
+    },
+    {
+      "id": "Q02",
+      "specRefs": [
+        "4.1.1.1",
+        "4.1.1.2",
+        "RP01"
+      ],
+      "brief": "Use shared animal/plant/bacterial images to identify structures and link required organelles/plasmids to functions; include plant/algal wall comparison.",
+      "answersAndFeedback": "Explicit label/function marking points; nucleus versus DNA loop/plasmid; photosynthetic chloroplast qualification; no credit for structures not present in the image.",
+      "format": "structured writing/image",
+      "tier": "both",
+      "proposedQuestionId": "aqa-cell-completion-q02"
+    },
+    {
+      "id": "Q03",
+      "specRefs": [
+        "4.1.1.2",
+        "4.1.1.5",
+        "RP01"
+      ],
+      "brief": "Estimate relative size or area of a sub-cellular structure from the shared image/grid and justify an estimate.",
+      "answersAndFeedback": "Method, area versus length distinction, sensible tolerance, units and justified approximation.",
+      "format": "calculation/evaluation",
+      "tier": "both",
+      "proposedQuestionId": "aqa-cell-completion-q03"
+    },
+    {
+      "id": "Q04",
+      "specRefs": [
+        "4.1.1.3"
+      ],
+      "brief": "Explain nerve and muscle cell adaptations from supplied features, then infer a function of an unfamiliar specialised cell.",
+      "answersAndFeedback": "Each credited feature must be linked to function, rather than named only.",
+      "format": "structured writing",
+      "tier": "both",
+      "proposedQuestionId": "aqa-cell-completion-q04"
+    },
+    {
+      "id": "Q05",
+      "specRefs": [
+        "4.1.1.3"
+      ],
+      "brief": "Explain xylem and phloem cell adaptations using supplied structures; contrast with retained root-hair/sperm examples.",
+      "answersAndFeedback": "Structure-to-function links; existing transport-function recall alone insufficient.",
+      "format": "structured writing",
+      "tier": "both",
+      "proposedQuestionId": "aqa-cell-completion-q05"
+    },
+    {
+      "id": "Q06",
+      "specRefs": [
+        "4.1.1.3",
+        "4.1.1.4"
+      ],
+      "brief": "Compare animal and plant differentiation timing and explain why specialised structures and mature-animal repair/replacement matter.",
+      "answersAndFeedback": "Differentiate specialisation from cell division; early animal versus lifelong plant qualification.",
+      "format": "writing",
+      "tier": "both",
+      "proposedQuestionId": "aqa-cell-completion-q06"
+    },
+    {
+      "id": "Q07",
+      "specRefs": [
+        "4.1.1.5"
+      ],
+      "brief": "Choose light versus electron microscopy in a supplied investigation and explain how improved resolution/magnification changed understanding.",
+      "answersAndFeedback": "Two close points versus image enlargement, justified method choice and development of understanding; no unnecessary microscope-engineering details.",
+      "format": "writing",
+      "tier": "both",
+      "proposedQuestionId": "aqa-cell-completion-q07"
+    },
+    {
+      "id": "Q08",
+      "specRefs": [
+        "4.1.1.5",
+        "RP01"
+      ],
+      "brief": "Rearrange magnification to obtain actual size from an image and magnification, with mixed units.",
+      "answersAndFeedback": "Rearrangement, conversion and actual length unit; accept equivalent valid length units, reject incompatible units.",
+      "format": "calculation",
+      "tier": "both",
+      "proposedQuestionId": "aqa-cell-completion-q08"
+    },
+    {
+      "id": "Q09",
+      "specRefs": [
+        "4.1.1.5"
+      ],
+      "brief": "Calculate image size from actual size and magnification; use nano/micro conversion and appropriate standard form.",
+      "answersAndFeedback": "Correct multiplication/conversion, standard-form exponent and length unit.",
+      "format": "calculation",
+      "tier": "both",
+      "proposedQuestionId": "aqa-cell-completion-q09"
+    },
+    {
+      "id": "Q10",
+      "specRefs": [
+        "4.1.2.1",
+        "4.1.2.2"
+      ],
+      "brief": "Interpret existing cell→nucleus→chromosome→DNA→gene diagram and a paired-chromosome model.",
+      "answersAndFeedback": "Nuclear location, DNA composition, many genes per chromosome, normal body-cell pairs; avoid conflating chromosomes with genes or gametes.",
+      "format": "structured writing/image",
+      "tier": "both",
+      "proposedQuestionId": "aqa-cell-completion-q10"
+    },
+    {
+      "id": "Q11",
+      "specRefs": [
+        "4.1.2.1",
+        "4.1.2.2"
+      ],
+      "brief": "Sequence the three overall cell-cycle stages and explain organelle increase, chromosome duplication and separation.",
+      "answersAndFeedback": "Growth/increased structures; DNA copies; chromosome sets/nuclei; cytoplasm/membrane division and identical daughter cells. No named mitosis phases.",
+      "format": "structured writing",
+      "tier": "both",
+      "proposedQuestionId": "aqa-cell-completion-q11"
+    },
+    {
+      "id": "Q12",
+      "specRefs": [
+        "4.1.1.4",
+        "4.1.2.2"
+      ],
+      "brief": "Identify and justify mitosis in growth, development and repair contexts; distinguish it from differentiation.",
+      "answersAndFeedback": "Contextual application; cell-number change versus specialised structures; no meiosis detail required.",
+      "format": "writing",
+      "tier": "both",
+      "proposedQuestionId": "aqa-cell-completion-q12"
+    },
+    {
+      "id": "Q13",
+      "specRefs": [
+        "4.1.1.4",
+        "4.1.2.3"
+      ],
+      "brief": "Compare embryonic, bone-marrow and meristem stem-cell sources and differentiation potential.",
+      "answersAndFeedback": "Undifferentiated/self-renewing nature, embryonic broad potential, adult blood-cell examples, lifelong meristem potential.",
+      "format": "structured writing",
+      "tier": "both",
+      "proposedQuestionId": "aqa-cell-completion-q13"
+    },
+    {
+      "id": "Q14",
+      "specRefs": [
+        "4.1.2.3"
+      ],
+      "brief": "Apply therapeutic cloning to a supplied diabetes/paralysis treatment scenario and explain reduced rejection.",
+      "answersAndFeedback": "Same genes as patient, appropriate replacement-cell function, distinguish treatment potential from guaranteed cure.",
+      "format": "writing",
+      "tier": "both",
+      "proposedQuestionId": "aqa-cell-completion-q14"
+    },
+    {
+      "id": "Q15",
+      "specRefs": [
+        "4.1.2.3"
+      ],
+      "brief": "Evaluate a supplied stem-cell treatment proposal using benefits, viral-transfer risk and ethical/social considerations.",
+      "answersAndFeedback": "Evidence-based balanced judgement; retain valid existing tumour/rejection concerns; ethical position itself is not marked right/wrong.",
+      "format": "evaluation",
+      "tier": "both",
+      "proposedQuestionId": "aqa-cell-completion-q15"
+    },
+    {
+      "id": "Q16",
+      "specRefs": [
+        "4.1.2.3"
+      ],
+      "brief": "Apply meristem cloning to rare-species conservation and disease-resistant crop production.",
+      "answersAndFeedback": "Quick/economic identical plants, preservation or desired inherited feature; explanation tied to the supplied application.",
+      "format": "writing",
+      "tier": "both",
+      "proposedQuestionId": "aqa-cell-completion-q16"
+    },
+    {
+      "id": "Q17",
+      "specRefs": [
+        "RP01"
+      ],
+      "brief": "Review a microscopy preparation/focusing sequence, identify unsafe or ineffective steps and justify corrections.",
+      "answersAndFeedback": "Suitable specimen/stain, thin preparation/coverslip, low power then centring/focus, lens/slide protection, named risk linked to control.",
+      "format": "practical evaluation",
+      "tier": "both",
+      "proposedQuestionId": "aqa-cell-completion-q17"
+    },
+    {
+      "id": "Q18",
+      "specRefs": [
+        "RP01",
+        "4.1.1.2",
+        "4.1.1.5"
+      ],
+      "brief": "Compare plant/animal microscope observations and critique a biological drawing, including labels, proportions and magnification scale.",
+      "answersAndFeedback": "Only visible structures, clear outlines/label lines, correct scale with rationale; distinguish onion from chloroplast-bearing tissue and magnification from resolution.",
+      "format": "practical image/writing",
+      "tier": "both",
+      "proposedQuestionId": "aqa-cell-completion-q18"
+    }
+  ],
+  "restoredQuestion": {
+    "id": "R01",
+    "source": "BIOLOGY_UNITS[Cell Biology].challenge in biology.js",
+    "brief": "Reuse existing 36 mm / 60 micrometre mixed-unit magnification prompt; provide source-derived conversion/magnification feedback. Foundation currently clears challenge; release explicitly as audited practice, do not re-enable all challenge fields.",
+    "newPrompt": false
+  },
+  "estimates": {
+    "newMaterialComponents": 6,
+    "newStandaloneLessons": 0,
+    "newQuestionRecordsWithNewPrompts": 18,
+    "existingPromptRecoveredAsQuestion": 1,
+    "newPlantCellSchematic": 1,
+    "existingVisualsToExtend": [
+      "animal-cell",
+      "bacterium",
+      "division card flow"
+    ],
+    "meaning": "Six substantive extension bundles, including visuals/practical support; not six entirely new lessons. Eighteen individual records may each have linked subparts with explicit marking points."
+  },
+  "implementationOrder": [
+    "Extend five existing section targets using T1–T6; reference Inheritance rather than copy it.",
+    "Extend retained visuals and reuse one common image/scale context.",
+    "Add Q01–Q18 and restore R01 through existing question architecture.",
+    "Add correct shared-tier metadata, fingerprints and clause-level audit refs for every changed/new item.",
+    "Update focused tests and run full suite; manually review nine completion matrices.",
+    "Only then update 78-unit counts and package. No automatic Full promotion based on question numbers."
+  ],
+  "mappingChanges": [
+    "Map only directly relevant question demands; remove sperm-tail links from prokaryote/plant-cell evidence and stem-potential links from chromosome/cell-cycle evidence where they do not test that demand. Do not delete the actual questions.",
+    "Use multiple specRefs on one shared resource/question; retain one canonical source, unique question ID and unchanged progress keys.",
+    "Retain O chromosome links; make Inheritance reference discoverable from Cell Biology using existing navigation without copying the lesson.",
+    "Map T3/Q01/Q03/Q08/Q09/R01 across their genuinely supported cell-size/microscopy/practical requirements.",
+    "Map T6/Q17/Q18 to RP01 and shared image requirements; keep required practical number 1.",
+    "Update audited source fingerprints for changed lesson text and existing edited visuals; ensure unchanged sections stay eligible.",
+    "Scope new curriculum to AQA Trilogy through existing pathway mechanism; do not silently expand other boards, Synergy, Chemistry or Physics."
+  ],
+  "tests": [
+    "Exact Foundation/Higher and unsure eligibility for each new/shared item; no new held distractors or Higher leakage.",
+    "Lesson fingerprint fail-closed checks, audited metadata completeness and source-linked feedback for all new question records.",
+    "Meaningful numeric-answer tests: magnitude/rearrangement/conversion, valid equivalent units, reject incompatible units and unreasonable estimate tolerances.",
+    "Diagram labels match rendered structures; shared images use consistent measurements/scale; diagram state does not leak across pathways.",
+    "R01 restored only through reviewed AQA Trilogy metadata; Higher existing question coverage retained.",
+    "All nine requirement matrices tested for explicit links; full status requires completed human content review and current evidence, not keyword presence.",
+    "RP01 asserts plant and animal observations, drawing, labels and magnification scale; correction remains Trilogy RP1.",
+    "Baseline Chemistry/Physics hashes, unaffected Biology questions, pathway progress, Past Papers, other board/course selections and legacy hormone repair remain unchanged.",
+    "Run focused and full suite. Browser only if environment materially changes."
+  ],
+  "uncertainties": [
+    "Use the cached AQA source version already governing this project; this is not a new current-specification certification.",
+    "Audit must distinguish good mapped source from student discoverability: chromosome content is available in Inheritance but needs a clear existing-navigation reference.",
+    "Existing separate-Biology source/spec labels (8461) persist on inherited shared AQA Biology objects; do not treat that label alone as Trilogy coverage evidence or broaden this task into a full metadata migration.",
+    "Validate planned plant-cell art and any micrograph-like image against light-microscope resolution. No unlicensed images are assumed; a diagram is not evidence that a student completed a physical practical.",
+    "Select school-appropriate animal specimen/stain and safety wording when implementing RP01; prepared slides avoid assuming cheek-sampling permission/procedure.",
+    "Full coverage remains an editorial judgement based on depth/application and answer feedback; 18 questions is the controlled minimum proposed here, subject to that review."
+  ]
+}

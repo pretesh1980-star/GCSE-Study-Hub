@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="480" height="350" preserveAspectRatio="xMinYMin meet" viewBox="0 0 480 350" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="F-OSM-TABLE-title F-OSM-TABLE-desc"><title id="F-OSM-TABLE-title">F-OSM-TABLE · Investigation for 7b</title><desc id="F-OSM-TABLE-desc">Table. Sucrose (mol/dm³); Mass change / %. Sucrose (mol/dm³): 0.00; Mass change / %: +8. Sucrose (mol/dm³): 0.20; Mass change / %: +4. Sucrose (mol/dm³): 0.40; Mass change / %: 0. Sucrose (mol/dm³): 0.60; Mass change / %: −4. Sucrose (mol/dm³): 0.80; Mass change / %: −8.</desc>
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="480" height="350"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-350)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="12" y="328" style="font-family: Arial; font-size: 19px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,656) scale(1,-1)">F-OSM-TABLE · Investigation for 7b</text>
+			<rect x="0" y="262" width="240" height="48" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,93%,90%); fill-rule: evenodd;"/>
+			<text x="12" y="285" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,570) scale(1,-1)">Sucrose (mol/dm³)</text>
+			<rect x="240" y="262" width="240" height="48" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,93%,90%); fill-rule: evenodd;"/>
+			<text x="252" y="285" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,570) scale(1,-1)">Mass change / %</text>
+			<rect x="0" y="216" width="240" height="46" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="12" y="237" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,474) scale(1,-1)">0.00</text>
+			<rect x="240" y="216" width="240" height="46" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="252" y="237" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,474) scale(1,-1)">+8</text>
+			<rect x="0" y="170" width="240" height="46" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="12" y="191" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,382) scale(1,-1)">0.20</text>
+			<rect x="240" y="170" width="240" height="46" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="252" y="191" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,382) scale(1,-1)">+4</text>
+			<rect x="0" y="124" width="240" height="46" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="12" y="145" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,290) scale(1,-1)">0.40</text>
+			<rect x="240" y="124" width="240" height="46" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="252" y="145" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,290) scale(1,-1)">0</text>
+			<rect x="0" y="78" width="240" height="46" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="12" y="99" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,198) scale(1,-1)">0.60</text>
+			<rect x="240" y="78" width="240" height="46" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="252" y="99" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,198) scale(1,-1)">−4</text>
+			<rect x="0" y="32" width="240" height="46" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="12" y="53" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,106) scale(1,-1)">0.80</text>
+			<rect x="240" y="32" width="240" height="46" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="252" y="53" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,106) scale(1,-1)">−8</text>
+			<text x="12" y="10" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,20) scale(1,-1)">One cylinder at each concentration</text>
+		</g>
+	</g>
+</svg>

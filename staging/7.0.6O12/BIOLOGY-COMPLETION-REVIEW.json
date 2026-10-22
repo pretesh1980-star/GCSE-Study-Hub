@@ -1,0 +1,982 @@
+{
+  "build": "7.0.6D",
+  "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/biology-subject-content",
+  "verified": "2026-10-08",
+  "baseline": "7.0.6B",
+  "controlledComponents": [
+    {
+      "build": "7.0.6C",
+      "units": [
+        "4.7.1.1",
+        "4.7.1.2",
+        "4.7.1.3",
+        "4.7.1.4",
+        "4.7.2.1",
+        "RP07"
+      ],
+      "tests": 547
+    },
+    {
+      "build": "7.0.6D",
+      "units": [
+        "4.7.2.2",
+        "4.7.3.1",
+        "4.7.3.2",
+        "4.7.3.3",
+        "4.7.3.4",
+        "4.7.3.5",
+        "4.7.3.6"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "specRef": "4.7.1.1",
+      "title": "Communities",
+      "status": "FULLY COVERED",
+      "scope": "Foundation content of this numbered subsection.",
+      "foundation": {
+        "eligibility": "Shared required scope available",
+        "teaching_revision": "Organisation levels, competition resources, interdependence including seed dispersal, stable-community balance and population-interaction data.",
+        "practice_answers_feedback": "Direct questions with model answers and feedback; see current explicit questionRefs.",
+        "visibleMappedQuestions": 18
+      },
+      "higher": {
+        "eligibility": "Shared scope available; original Higher gates preserved",
+        "additionalGap": "None in target Ecology specification scope; no HT-only clauses.",
+        "visibleMappedQuestions": 16
+      },
+      "requiredPractical": "Not separately applicable",
+      "lessonRefs": [
+        "Biology|Ecology|Communities and ecosystems",
+        "Biology|Ecology|Competition and adaptation"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-ecology-0-0",
+        "aqa-bio-step-ecology-0-1",
+        "aqa-bio-step-ecology-1-0",
+        "aqa-bio-step-ecology-1-1",
+        "bio-deep-ecology-communities-and-ecosystems-summary",
+        "bio-deep-ecology-communities-and-ecosystems-keyword",
+        "bio-deep-ecology-communities-and-ecosystems-explain",
+        "bio-deep-ecology-communities-and-ecosystems-justify",
+        "bio-deep-ecology-communities-and-ecosystems-improve",
+        "bio-deep-ecology-communities-and-ecosystems-grade9",
+        "bio-deep-ecology-competition-and-adaptation-summary",
+        "bio-deep-ecology-competition-and-adaptation-keyword",
+        "bio-deep-ecology-competition-and-adaptation-explain",
+        "bio-deep-ecology-competition-and-adaptation-justify",
+        "bio-deep-ecology-competition-and-adaptation-improve",
+        "bio-deep-ecology-competition-and-adaptation-grade9",
+        "aqa-ecology-field-q01",
+        "aqa-ecology-field-q02"
+      ],
+      "confidence": "Exact-scope source/content review plus current live mappings; internal judgement, not external accreditation.",
+      "revision": "Organisation levels, competition resources, interdependence including seed dispersal, stable-community balance and population-interaction data.",
+      "missing": {},
+      "supportMatrix": {
+        "teaching": {
+          "status": "complete",
+          "finding": "Organisation levels, competition resources, interdependence including seed dispersal, stable-community balance and population-interaction data."
+        },
+        "revision": {
+          "status": "complete",
+          "finding": "Current lesson-derived revision and model-answer self-assessment; exact evidence linked."
+        },
+        "practice": {
+          "status": "complete",
+          "finding": "Organisation levels, competition resources, interdependence including seed dispersal, stable-community balance and population-interaction data."
+        },
+        "answers_feedback": {
+          "status": "complete",
+          "finding": "Current lesson-derived revision and model-answer self-assessment; exact evidence linked."
+        }
+      },
+      "baselineGapsBeforeRepair": {
+        "teaching_revision": "Stable-community balance and explicit seed-dispersal interdependence",
+        "practice_answers_feedback": "Population-interaction graphs and removal-of-species scenarios"
+      },
+      "repairEvidence": {},
+      "supportRefs": [],
+      "higherLessonRefs": [],
+      "higherQuestionRefs": [],
+      "currentEvidence": "All required mapped evidence is current and shared eligible; original Higher-only/out-of-scope questions retain their gates.",
+      "repairOutcome": "Completed in 7.0.6C"
+    },
+    {
+      "specRef": "4.7.1.2",
+      "title": "Abiotic factors",
+      "status": "FULLY COVERED",
+      "scope": "Foundation content of this numbered subsection.",
+      "foundation": {
+        "eligibility": "Shared required scope available",
+        "teaching_revision": "Complete abiotic factor range, organism-specific causal explanations and light/count data with confounding.",
+        "practice_answers_feedback": "Direct questions with model answers and feedback; see current explicit questionRefs.",
+        "visibleMappedQuestions": 10
+      },
+      "higher": {
+        "eligibility": "Shared scope available; original Higher gates preserved",
+        "additionalGap": "None in target Ecology specification scope; no HT-only clauses.",
+        "visibleMappedQuestions": 8
+      },
+      "requiredPractical": "Not separately applicable",
+      "lessonRefs": [
+        "Biology|Ecology|Competition and adaptation"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-ecology-1-0",
+        "aqa-bio-step-ecology-1-1",
+        "bio-deep-ecology-competition-and-adaptation-summary",
+        "bio-deep-ecology-competition-and-adaptation-keyword",
+        "bio-deep-ecology-competition-and-adaptation-explain",
+        "bio-deep-ecology-competition-and-adaptation-justify",
+        "bio-deep-ecology-competition-and-adaptation-improve",
+        "bio-deep-ecology-competition-and-adaptation-grade9",
+        "bio2-abiotic",
+        "aqa-ecology-field-q03"
+      ],
+      "confidence": "Exact-scope source/content review plus current live mappings; internal judgement, not external accreditation.",
+      "revision": "Complete abiotic factor range, organism-specific causal explanations and light/count data with confounding.",
+      "missing": {},
+      "supportMatrix": {
+        "teaching": {
+          "status": "complete",
+          "finding": "Complete abiotic factor range, organism-specific causal explanations and light/count data with confounding."
+        },
+        "revision": {
+          "status": "complete",
+          "finding": "Current lesson-derived revision and model-answer self-assessment; exact evidence linked."
+        },
+        "practice": {
+          "status": "complete",
+          "finding": "Complete abiotic factor range, organism-specific causal explanations and light/count data with confounding."
+        },
+        "answers_feedback": {
+          "status": "complete",
+          "finding": "Current lesson-derived revision and model-answer self-assessment; exact evidence linked."
+        }
+      },
+      "baselineGapsBeforeRepair": {
+        "teaching_revision": "Full factor range: soil pH/minerals, wind, CO2 and aquatic oxygen",
+        "practice_answers_feedback": "Abiotic-factor change explanations with actual datasets/graphs"
+      },
+      "repairEvidence": {
+        "questionRefs": [
+          "bio2-abiotic"
+        ]
+      },
+      "supportRefs": [],
+      "higherLessonRefs": [],
+      "higherQuestionRefs": [],
+      "currentEvidence": "All required mapped evidence is current and shared eligible; original Higher-only/out-of-scope questions retain their gates.",
+      "repairOutcome": "Completed in 7.0.6C"
+    },
+    {
+      "specRef": "4.7.1.3",
+      "title": "Biotic factors",
+      "status": "FULLY COVERED",
+      "scope": "Foundation content of this numbered subsection.",
+      "foundation": {
+        "eligibility": "Shared required scope available",
+        "teaching_revision": "Food, new predators/pathogens and competition affecting breeding, with before/after population data and limitations.",
+        "practice_answers_feedback": "Direct questions with model answers and feedback; see current explicit questionRefs.",
+        "visibleMappedQuestions": 10
+      },
+      "higher": {
+        "eligibility": "Shared scope available; original Higher gates preserved",
+        "additionalGap": "None in target Ecology specification scope; no HT-only clauses.",
+        "visibleMappedQuestions": 8
+      },
+      "requiredPractical": "Not separately applicable",
+      "lessonRefs": [
+        "Biology|Ecology|Competition and adaptation"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-ecology-1-0",
+        "aqa-bio-step-ecology-1-1",
+        "bio-deep-ecology-competition-and-adaptation-summary",
+        "bio-deep-ecology-competition-and-adaptation-keyword",
+        "bio-deep-ecology-competition-and-adaptation-explain",
+        "bio-deep-ecology-competition-and-adaptation-justify",
+        "bio-deep-ecology-competition-and-adaptation-improve",
+        "bio-deep-ecology-competition-and-adaptation-grade9",
+        "aqa-ecology-field-q02",
+        "aqa-ecology-field-q04"
+      ],
+      "confidence": "Exact-scope source/content review plus current live mappings; internal judgement, not external accreditation.",
+      "revision": "Food, new predators/pathogens and competition affecting breeding, with before/after population data and limitations.",
+      "missing": {},
+      "supportMatrix": {
+        "teaching": {
+          "status": "complete",
+          "finding": "Food, new predators/pathogens and competition affecting breeding, with before/after population data and limitations."
+        },
+        "revision": {
+          "status": "complete",
+          "finding": "Current lesson-derived revision and model-answer self-assessment; exact evidence linked."
+        },
+        "practice": {
+          "status": "complete",
+          "finding": "Food, new predators/pathogens and competition affecting breeding, with before/after population data and limitations."
+        },
+        "answers_feedback": {
+          "status": "complete",
+          "finding": "Current lesson-derived revision and model-answer self-assessment; exact evidence linked."
+        }
+      },
+      "baselineGapsBeforeRepair": {
+        "teaching_revision": "Food availability, arriving pathogens/predators and competition preventing breeding",
+        "practice_answers_feedback": "Biotic-factor population-change datasets and explanations"
+      },
+      "repairEvidence": {},
+      "supportRefs": [],
+      "higherLessonRefs": [],
+      "higherQuestionRefs": [],
+      "currentEvidence": "All required mapped evidence is current and shared eligible; original Higher-only/out-of-scope questions retain their gates.",
+      "repairOutcome": "Completed in 7.0.6C"
+    },
+    {
+      "specRef": "4.7.1.4",
+      "title": "Adaptations",
+      "status": "FULLY COVERED",
+      "scope": "Foundation content of this numbered subsection.",
+      "foundation": {
+        "eligibility": "Shared required scope available",
+        "teaching_revision": "Structural/behavioural/functional unfamiliar-habitat adaptations and extremophiles.",
+        "practice_answers_feedback": "Direct questions with model answers and feedback; see current explicit questionRefs.",
+        "visibleMappedQuestions": 9
+      },
+      "higher": {
+        "eligibility": "Shared scope available; original Higher gates preserved",
+        "additionalGap": "None in target Ecology specification scope; no HT-only clauses.",
+        "visibleMappedQuestions": 8
+      },
+      "requiredPractical": "Not separately applicable",
+      "lessonRefs": [
+        "Biology|Ecology|Competition and adaptation"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-ecology-1-0",
+        "aqa-bio-step-ecology-1-1",
+        "bio-deep-ecology-competition-and-adaptation-summary",
+        "bio-deep-ecology-competition-and-adaptation-keyword",
+        "bio-deep-ecology-competition-and-adaptation-explain",
+        "bio-deep-ecology-competition-and-adaptation-justify",
+        "bio-deep-ecology-competition-and-adaptation-improve",
+        "bio-deep-ecology-competition-and-adaptation-grade9",
+        "aqa-ecology-field-q05"
+      ],
+      "confidence": "Exact-scope source/content review plus current live mappings; internal judgement, not external accreditation.",
+      "revision": "Structural/behavioural/functional unfamiliar-habitat adaptations and extremophiles.",
+      "missing": {},
+      "supportMatrix": {
+        "teaching": {
+          "status": "complete",
+          "finding": "Structural/behavioural/functional unfamiliar-habitat adaptations and extremophiles."
+        },
+        "revision": {
+          "status": "complete",
+          "finding": "Current lesson-derived revision and model-answer self-assessment; exact evidence linked."
+        },
+        "practice": {
+          "status": "complete",
+          "finding": "Structural/behavioural/functional unfamiliar-habitat adaptations and extremophiles."
+        },
+        "answers_feedback": {
+          "status": "complete",
+          "finding": "Current lesson-derived revision and model-answer self-assessment; exact evidence linked."
+        }
+      },
+      "baselineGapsBeforeRepair": {
+        "teaching_revision": "Worked structural/behavioural/functional adaptations and extremophiles",
+        "practice_answers_feedback": "Unfamiliar-habitat adaptation and extreme-environment practice"
+      },
+      "repairEvidence": {},
+      "supportRefs": [],
+      "higherLessonRefs": [],
+      "higherQuestionRefs": [],
+      "currentEvidence": "All required mapped evidence is current and shared eligible; original Higher-only/out-of-scope questions retain their gates.",
+      "repairOutcome": "Completed in 7.0.6C"
+    },
+    {
+      "specRef": "4.7.2.1",
+      "title": "Levels of organisation",
+      "status": "FULLY COVERED",
+      "scope": "Foundation content of this numbered subsection.",
+      "foundation": {
+        "eligibility": "Shared required scope available",
+        "teaching_revision": "Producer/consumer levels, biomass origin, predator-prey graph, mean/median/mode, quadrat abundance and transect plotting.",
+        "practice_answers_feedback": "Direct questions with model answers and feedback; see current explicit questionRefs.",
+        "visibleMappedQuestions": 22
+      },
+      "higher": {
+        "eligibility": "Shared scope available; original Higher gates preserved",
+        "additionalGap": "None in target Ecology specification scope; no HT-only clauses.",
+        "visibleMappedQuestions": 16
+      },
+      "requiredPractical": "RP07",
+      "lessonRefs": [
+        "Biology|Ecology|Sampling and fieldwork"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-ecology-2-0",
+        "aqa-bio-step-ecology-2-1",
+        "aqa-bio-step-ecology-4-0",
+        "aqa-bio-step-ecology-4-1",
+        "bio-deep-ecology-food-chains-and-biomass-summary",
+        "bio-deep-ecology-food-chains-and-biomass-keyword",
+        "bio-deep-ecology-food-chains-and-biomass-explain",
+        "bio-deep-ecology-food-chains-and-biomass-justify",
+        "bio-deep-ecology-food-chains-and-biomass-improve",
+        "bio-deep-ecology-sampling-and-fieldwork-summary",
+        "bio-deep-ecology-sampling-and-fieldwork-keyword",
+        "bio-deep-ecology-sampling-and-fieldwork-explain",
+        "bio-deep-ecology-sampling-and-fieldwork-justify",
+        "bio-deep-ecology-sampling-and-fieldwork-improve",
+        "bio-deep-ecology-sampling-and-fieldwork-grade9",
+        "bio2-quadrat",
+        "bio2-population",
+        "bio2-transect",
+        "aqa-ecology-field-q06",
+        "aqa-ecology-field-q07",
+        "aqa-ecology-field-q08",
+        "aqa-ecology-field-q10"
+      ],
+      "confidence": "Exact-scope source/content review plus current live mappings; internal judgement, not external accreditation.",
+      "revision": "Producer/consumer levels, biomass origin, predator-prey graph, mean/median/mode, quadrat abundance and transect plotting.",
+      "missing": {},
+      "supportMatrix": {
+        "teaching": {
+          "status": "complete",
+          "finding": "Producer/consumer levels, biomass origin, predator-prey graph, mean/median/mode, quadrat abundance and transect plotting."
+        },
+        "revision": {
+          "status": "complete",
+          "finding": "Current lesson-derived revision and model-answer self-assessment; exact evidence linked."
+        },
+        "practice": {
+          "status": "complete",
+          "finding": "Producer/consumer levels, biomass origin, predator-prey graph, mean/median/mode, quadrat abundance and transect plotting."
+        },
+        "answers_feedback": {
+          "status": "complete",
+          "finding": "Current lesson-derived revision and model-answer self-assessment; exact evidence linked."
+        }
+      },
+      "baselineGapsBeforeRepair": {
+        "teaching_revision": "Secondary/tertiary consumers and predator-prey cycles; mean/mode/median distinctions",
+        "practice_answers_feedback": "Predator-prey graph interpretation and fieldwork statistics/plotting; reuse quadrat calculation"
+      },
+      "repairEvidence": {
+        "questionRefs": [
+          "bio2-quadrat",
+          "bio2-population",
+          "bio2-transect"
+        ],
+        "supportRefs": [
+          "Biology|support|diagram-food-chain"
+        ]
+      },
+      "supportRefs": [
+        "Biology|support|diagram-food-chain",
+        "Biology|support|ecology-shared-food-chain",
+        "Biology|support|ecology-predator-diagram"
+      ],
+      "higherLessonRefs": [
+        "Biology|Ecology|Food chains and biomass"
+      ],
+      "higherQuestionRefs": [
+        "bio-deep-ecology-food-chains-and-biomass-grade9"
+      ],
+      "currentEvidence": "All required mapped evidence is current and shared eligible; original Higher-only/out-of-scope questions retain their gates.",
+      "repairOutcome": "Completed in 7.0.6C"
+    },
+    {
+      "specRef": "4.7.2.2",
+      "title": "How materials are cycled",
+      "status": "FULLY COVERED",
+      "scope": "Foundation content of this numbered subsection.",
+      "foundation": {
+        "eligibility": "Shared required scope available",
+        "teaching_revision": "Carbon and water diagram interpretation, decomposer respiration and mineral-ion return, freshwater movement and material versus energy distinction.",
+        "practice_answers_feedback": "Direct questions with model answers and feedback; see current explicit questionRefs.",
+        "visibleMappedQuestions": 13
+      },
+      "higher": {
+        "eligibility": "Shared scope available; original Higher gates preserved",
+        "additionalGap": "None in target Ecology specification scope; no HT-only clauses.",
+        "visibleMappedQuestions": 8
+      },
+      "requiredPractical": "Not separately applicable",
+      "lessonRefs": [
+        "Biology|Ecology|Carbon, water and decay"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-ecology-3-0",
+        "aqa-bio-step-ecology-3-1",
+        "bio-deep-ecology-carbon-water-and-decay-summary",
+        "bio-deep-ecology-carbon-water-and-decay-keyword",
+        "bio-deep-ecology-carbon-water-and-decay-explain",
+        "bio-deep-ecology-carbon-water-and-decay-justify",
+        "bio-deep-ecology-carbon-water-and-decay-improve",
+        "bio-deep-ecology-carbon-water-and-decay-grade9",
+        "bio2-carbon",
+        "bio2-decay",
+        "aqa-ecology-impact-q01",
+        "aqa-ecology-impact-q02",
+        "aqa-ecology-impact-q03"
+      ],
+      "confidence": "Exact-scope source/content review plus current live mappings; internal judgement, not external accreditation.",
+      "revision": "Carbon and water diagram interpretation, decomposer respiration and mineral-ion return, freshwater movement and material versus energy distinction.",
+      "missing": {},
+      "supportMatrix": {
+        "teaching": {
+          "status": "complete",
+          "finding": "Carbon and water diagram interpretation, decomposer respiration and mineral-ion return, freshwater movement and material versus energy distinction."
+        },
+        "revision": {
+          "status": "complete",
+          "finding": "Current lesson-derived revision and model-answer self-assessment; exact evidence linked."
+        },
+        "practice": {
+          "status": "complete",
+          "finding": "Carbon and water diagram interpretation, decomposer respiration and mineral-ion return, freshwater movement and material versus energy distinction."
+        },
+        "answers_feedback": {
+          "status": "complete",
+          "finding": "Current lesson-derived revision and model-answer self-assessment; exact evidence linked."
+        }
+      },
+      "baselineGapsBeforeRepair": {
+        "teaching_revision": "Explicit decomposer respiration/mineral return and freshwater movement through the full cycle",
+        "practice_answers_feedback": "Labelled carbon/water-cycle interpretation with process-specific feedback"
+      },
+      "repairEvidence": {
+        "questionRefs": [
+          "bio2-carbon",
+          "bio2-decay"
+        ]
+      },
+      "supportRefs": [
+        "Biology|support|ecology-carbon-diagram",
+        "Biology|support|ecology-water-diagram"
+      ],
+      "higherLessonRefs": [],
+      "higherQuestionRefs": [],
+      "currentEvidence": "All required mapped evidence is current and shared eligible; original Higher-only/out-of-scope questions retain their gates.",
+      "repairOutcome": "Completed in 7.0.6D"
+    },
+    {
+      "specRef": "4.7.3.1",
+      "title": "Biodiversity",
+      "status": "FULLY COVERED",
+      "scope": "Foundation content of this numbered subsection.",
+      "foundation": {
+        "eligibility": "Shared required scope available",
+        "teaching_revision": "Species variety versus individual count, alternative resources, stability and human dependence with explicit limitations.",
+        "practice_answers_feedback": "Direct questions with model answers and feedback; see current explicit questionRefs.",
+        "visibleMappedQuestions": 15
+      },
+      "higher": {
+        "eligibility": "Shared scope available; original Higher gates preserved",
+        "additionalGap": "None in target Ecology specification scope; no HT-only clauses.",
+        "visibleMappedQuestions": 16
+      },
+      "requiredPractical": "Not separately applicable",
+      "lessonRefs": [
+        "Biology|Ecology|Human impacts and biodiversity"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-ecology-5-0",
+        "aqa-shared-gap-6-0",
+        "bio-deep-ecology-biodiversity-and-food-security-summary",
+        "bio-deep-ecology-biodiversity-and-food-security-keyword",
+        "bio-deep-ecology-biodiversity-and-food-security-explain",
+        "bio-deep-ecology-biodiversity-and-food-security-justify",
+        "bio-deep-ecology-biodiversity-and-food-security-improve",
+        "bio-deep-ecology-human-impacts-and-biodiversity-summary",
+        "bio-deep-ecology-human-impacts-and-biodiversity-keyword",
+        "bio-deep-ecology-human-impacts-and-biodiversity-explain",
+        "bio-deep-ecology-human-impacts-and-biodiversity-justify",
+        "bio-deep-ecology-human-impacts-and-biodiversity-improve",
+        "bio-deep-ecology-human-impacts-and-biodiversity-grade9",
+        "aqa-ecology-impact-q04",
+        "aqa-ecology-impact-q11"
+      ],
+      "confidence": "Exact-scope source/content review plus current live mappings; internal judgement, not external accreditation.",
+      "revision": "Species variety versus individual count, alternative resources, stability and human dependence with explicit limitations.",
+      "missing": {},
+      "supportMatrix": {
+        "teaching": {
+          "status": "complete",
+          "finding": "Species variety versus individual count, alternative resources, stability and human dependence with explicit limitations."
+        },
+        "revision": {
+          "status": "complete",
+          "finding": "Current lesson-derived revision and model-answer self-assessment; exact evidence linked."
+        },
+        "practice": {
+          "status": "complete",
+          "finding": "Species variety versus individual count, alternative resources, stability and human dependence with explicit limitations."
+        },
+        "answers_feedback": {
+          "status": "complete",
+          "finding": "Current lesson-derived revision and model-answer self-assessment; exact evidence linked."
+        }
+      },
+      "baselineGapsBeforeRepair": {
+        "teaching_revision": "Mechanistic link between diversity, reduced dependence and stability",
+        "practice_answers_feedback": "Biodiversity-stability and human dependence explanations, not just definition"
+      },
+      "repairEvidence": {
+        "restoredFeedback": [
+          "aqa-shared-gap-6-1"
+        ]
+      },
+      "supportRefs": [
+        "Biology|support|ecology-shared-biodiversity"
+      ],
+      "higherLessonRefs": [
+        "Biology|Ecology|Biodiversity and food security"
+      ],
+      "higherQuestionRefs": [
+        "bio-deep-ecology-biodiversity-and-food-security-grade9"
+      ],
+      "currentEvidence": "All required mapped evidence is current and shared eligible; original Higher-only/out-of-scope questions retain their gates.",
+      "repairOutcome": "Completed in 7.0.6D"
+    },
+    {
+      "specRef": "4.7.3.2",
+      "title": "Waste management",
+      "status": "FULLY COVERED",
+      "scope": "Foundation content of this numbered subsection.",
+      "foundation": {
+        "eligibility": "Shared required scope available",
+        "teaching_revision": "Population/living-standard pressures, air/water/land sources and causal biodiversity impacts.",
+        "practice_answers_feedback": "Direct questions with model answers and feedback; see current explicit questionRefs.",
+        "visibleMappedQuestions": 8
+      },
+      "higher": {
+        "eligibility": "Shared scope available; original Higher gates preserved",
+        "additionalGap": "None in target Ecology specification scope; no HT-only clauses.",
+        "visibleMappedQuestions": 8
+      },
+      "requiredPractical": "Not separately applicable",
+      "lessonRefs": [
+        "Biology|Ecology|Human impacts and biodiversity"
+      ],
+      "questionRefs": [
+        "aqa-shared-gap-6-0",
+        "bio-deep-ecology-human-impacts-and-biodiversity-summary",
+        "bio-deep-ecology-human-impacts-and-biodiversity-keyword",
+        "bio-deep-ecology-human-impacts-and-biodiversity-explain",
+        "bio-deep-ecology-human-impacts-and-biodiversity-justify",
+        "bio-deep-ecology-human-impacts-and-biodiversity-improve",
+        "bio-deep-ecology-human-impacts-and-biodiversity-grade9",
+        "aqa-ecology-impact-q05"
+      ],
+      "confidence": "Exact-scope source/content review plus current live mappings; internal judgement, not external accreditation.",
+      "revision": "Population/living-standard pressures, air/water/land sources and causal biodiversity impacts.",
+      "missing": {},
+      "supportMatrix": {
+        "teaching": {
+          "status": "complete",
+          "finding": "Population/living-standard pressures, air/water/land sources and causal biodiversity impacts."
+        },
+        "revision": {
+          "status": "complete",
+          "finding": "Current lesson-derived revision and model-answer self-assessment; exact evidence linked."
+        },
+        "practice": {
+          "status": "complete",
+          "finding": "Population/living-standard pressures, air/water/land sources and causal biodiversity impacts."
+        },
+        "answers_feedback": {
+          "status": "complete",
+          "finding": "Current lesson-derived revision and model-answer self-assessment; exact evidence linked."
+        }
+      },
+      "baselineGapsBeforeRepair": {
+        "teaching_revision": "Population/standard-of-living pressures and specified air/water/land pollution sources",
+        "practice_answers_feedback": "Waste/pollution mechanism and biodiversity-impact questions"
+      },
+      "repairEvidence": {
+        "restoredFeedback": [
+          "aqa-shared-gap-6-1"
+        ]
+      },
+      "supportRefs": [],
+      "higherLessonRefs": [],
+      "higherQuestionRefs": [],
+      "currentEvidence": "All required mapped evidence is current and shared eligible; original Higher-only/out-of-scope questions retain their gates.",
+      "repairOutcome": "Completed in 7.0.6D"
+    },
+    {
+      "specRef": "4.7.3.3",
+      "title": "Land use",
+      "status": "FULLY COVERED",
+      "scope": "Foundation content of this numbered subsection.",
+      "foundation": {
+        "eligibility": "Shared required scope available",
+        "teaching_revision": "Building/quarrying/farming/waste habitat loss, peat compost trade-offs, decay/burning CO2 and feedback.",
+        "practice_answers_feedback": "Direct questions with model answers and feedback; see current explicit questionRefs.",
+        "visibleMappedQuestions": 8
+      },
+      "higher": {
+        "eligibility": "Shared scope available; original Higher gates preserved",
+        "additionalGap": "None in target Ecology specification scope; no HT-only clauses.",
+        "visibleMappedQuestions": 8
+      },
+      "requiredPractical": "Not separately applicable",
+      "lessonRefs": [
+        "Biology|Ecology|Human impacts and biodiversity"
+      ],
+      "questionRefs": [
+        "aqa-shared-gap-6-0",
+        "bio-deep-ecology-human-impacts-and-biodiversity-summary",
+        "bio-deep-ecology-human-impacts-and-biodiversity-keyword",
+        "bio-deep-ecology-human-impacts-and-biodiversity-explain",
+        "bio-deep-ecology-human-impacts-and-biodiversity-justify",
+        "bio-deep-ecology-human-impacts-and-biodiversity-improve",
+        "bio-deep-ecology-human-impacts-and-biodiversity-grade9",
+        "aqa-ecology-impact-q06"
+      ],
+      "confidence": "Exact-scope source/content review plus current live mappings; internal judgement, not external accreditation.",
+      "revision": "Building/quarrying/farming/waste habitat loss, peat compost trade-offs, decay/burning CO2 and feedback.",
+      "missing": {},
+      "supportMatrix": {
+        "teaching": {
+          "status": "complete",
+          "finding": "Building/quarrying/farming/waste habitat loss, peat compost trade-offs, decay/burning CO2 and feedback."
+        },
+        "revision": {
+          "status": "complete",
+          "finding": "Current lesson-derived revision and model-answer self-assessment; exact evidence linked."
+        },
+        "practice": {
+          "status": "complete",
+          "finding": "Building/quarrying/farming/waste habitat loss, peat compost trade-offs, decay/burning CO2 and feedback."
+        },
+        "answers_feedback": {
+          "status": "complete",
+          "finding": "Current lesson-derived revision and model-answer self-assessment; exact evidence linked."
+        }
+      },
+      "baselineGapsBeforeRepair": {
+        "teaching_revision": "Building/quarrying/farming/waste land uses and peat compost trade-offs",
+        "practice_answers_feedback": "Land-use and peat-decay/burning evaluations; repair absent feedback on aqa-shared-gap-6-1"
+      },
+      "repairEvidence": {
+        "restoredFeedback": [
+          "aqa-shared-gap-6-1"
+        ]
+      },
+      "supportRefs": [],
+      "higherLessonRefs": [],
+      "higherQuestionRefs": [],
+      "currentEvidence": "All required mapped evidence is current and shared eligible; original Higher-only/out-of-scope questions retain their gates.",
+      "repairOutcome": "Completed in 7.0.6D"
+    },
+    {
+      "specRef": "4.7.3.4",
+      "title": "Deforestation",
+      "status": "FULLY COVERED",
+      "scope": "Foundation content of this numbered subsection.",
+      "foundation": {
+        "eligibility": "Shared required scope available",
+        "teaching_revision": "Tropical cattle/rice/biofuel drivers, habitat/carbon effects and environmental/economic evaluation.",
+        "practice_answers_feedback": "Direct questions with model answers and feedback; see current explicit questionRefs.",
+        "visibleMappedQuestions": 8
+      },
+      "higher": {
+        "eligibility": "Shared scope available; original Higher gates preserved",
+        "additionalGap": "None in target Ecology specification scope; no HT-only clauses.",
+        "visibleMappedQuestions": 8
+      },
+      "requiredPractical": "Not separately applicable",
+      "lessonRefs": [
+        "Biology|Ecology|Human impacts and biodiversity"
+      ],
+      "questionRefs": [
+        "aqa-shared-gap-6-0",
+        "bio-deep-ecology-human-impacts-and-biodiversity-summary",
+        "bio-deep-ecology-human-impacts-and-biodiversity-keyword",
+        "bio-deep-ecology-human-impacts-and-biodiversity-explain",
+        "bio-deep-ecology-human-impacts-and-biodiversity-justify",
+        "bio-deep-ecology-human-impacts-and-biodiversity-improve",
+        "bio-deep-ecology-human-impacts-and-biodiversity-grade9",
+        "aqa-ecology-impact-q07"
+      ],
+      "confidence": "Exact-scope source/content review plus current live mappings; internal judgement, not external accreditation.",
+      "revision": "Tropical cattle/rice/biofuel drivers, habitat/carbon effects and environmental/economic evaluation.",
+      "missing": {},
+      "supportMatrix": {
+        "teaching": {
+          "status": "complete",
+          "finding": "Tropical cattle/rice/biofuel drivers, habitat/carbon effects and environmental/economic evaluation."
+        },
+        "revision": {
+          "status": "complete",
+          "finding": "Current lesson-derived revision and model-answer self-assessment; exact evidence linked."
+        },
+        "practice": {
+          "status": "complete",
+          "finding": "Tropical cattle/rice/biofuel drivers, habitat/carbon effects and environmental/economic evaluation."
+        },
+        "answers_feedback": {
+          "status": "complete",
+          "finding": "Current lesson-derived revision and model-answer self-assessment; exact evidence linked."
+        }
+      },
+      "baselineGapsBeforeRepair": {
+        "teaching_revision": "Cattle/rice/biofuel drivers and environmental consequences of tropical deforestation",
+        "practice_answers_feedback": "Deforestation-specific causal/evaluation questions"
+      },
+      "repairEvidence": {
+        "restoredFeedback": [
+          "aqa-shared-gap-6-1"
+        ]
+      },
+      "supportRefs": [],
+      "higherLessonRefs": [],
+      "higherQuestionRefs": [],
+      "currentEvidence": "All required mapped evidence is current and shared eligible; original Higher-only/out-of-scope questions retain their gates.",
+      "repairOutcome": "Completed in 7.0.6D"
+    },
+    {
+      "specRef": "4.7.3.5",
+      "title": "Global warming",
+      "status": "FULLY COVERED",
+      "scope": "Foundation content of this numbered subsection.",
+      "foundation": {
+        "eligibility": "Shared required scope available",
+        "teaching_revision": "CO2/methane, biological consequences, numerical flowering data, consensus evidence and bounded uncertainty.",
+        "practice_answers_feedback": "Direct questions with model answers and feedback; see current explicit questionRefs.",
+        "visibleMappedQuestions": 9
+      },
+      "higher": {
+        "eligibility": "Shared scope available; original Higher gates preserved",
+        "additionalGap": "None in target Ecology specification scope; no HT-only clauses.",
+        "visibleMappedQuestions": 8
+      },
+      "requiredPractical": "Not separately applicable",
+      "lessonRefs": [
+        "Biology|Ecology|Human impacts and biodiversity"
+      ],
+      "questionRefs": [
+        "aqa-shared-gap-6-0",
+        "bio-deep-ecology-human-impacts-and-biodiversity-summary",
+        "bio-deep-ecology-human-impacts-and-biodiversity-keyword",
+        "bio-deep-ecology-human-impacts-and-biodiversity-explain",
+        "bio-deep-ecology-human-impacts-and-biodiversity-justify",
+        "bio-deep-ecology-human-impacts-and-biodiversity-improve",
+        "bio-deep-ecology-human-impacts-and-biodiversity-grade9",
+        "aqa-ecology-impact-q08",
+        "aqa-ecology-impact-q09"
+      ],
+      "confidence": "Exact-scope source/content review plus current live mappings; internal judgement, not external accreditation.",
+      "revision": "CO2/methane, biological consequences, numerical flowering data, consensus evidence and bounded uncertainty.",
+      "missing": {},
+      "supportMatrix": {
+        "teaching": {
+          "status": "complete",
+          "finding": "CO2/methane, biological consequences, numerical flowering data, consensus evidence and bounded uncertainty."
+        },
+        "revision": {
+          "status": "complete",
+          "finding": "Current lesson-derived revision and model-answer self-assessment; exact evidence linked."
+        },
+        "practice": {
+          "status": "complete",
+          "finding": "CO2/methane, biological consequences, numerical flowering data, consensus evidence and bounded uncertainty."
+        },
+        "answers_feedback": {
+          "status": "complete",
+          "finding": "Current lesson-derived revision and model-answer self-assessment; exact evidence linked."
+        }
+      },
+      "baselineGapsBeforeRepair": {
+        "teaching_revision": "Methane as well as CO2, biological consequences and evidence/consensus/uncertainty",
+        "practice_answers_feedback": "Climate-biodiversity data interpretation and evidence evaluation"
+      },
+      "repairEvidence": {
+        "restoredFeedback": [
+          "aqa-shared-gap-6-1"
+        ]
+      },
+      "supportRefs": [],
+      "higherLessonRefs": [],
+      "higherQuestionRefs": [],
+      "currentEvidence": "All required mapped evidence is current and shared eligible; original Higher-only/out-of-scope questions retain their gates.",
+      "repairOutcome": "Completed in 7.0.6D"
+    },
+    {
+      "specRef": "4.7.3.6",
+      "title": "Maintaining biodiversity",
+      "status": "FULLY COVERED",
+      "scope": "Foundation content of this numbered subsection.",
+      "foundation": {
+        "eligibility": "Shared required scope available",
+        "teaching_revision": "All specified conservation programmes and government actions, quantified budget/percentage comparisons and conflicting pressures.",
+        "practice_answers_feedback": "Direct questions with model answers and feedback; see current explicit questionRefs.",
+        "visibleMappedQuestions": 19
+      },
+      "higher": {
+        "eligibility": "Shared scope available; original Higher gates preserved",
+        "additionalGap": "None in target Ecology specification scope; no HT-only clauses.",
+        "visibleMappedQuestions": 16
+      },
+      "requiredPractical": "Not separately applicable",
+      "lessonRefs": [
+        "Biology|Ecology|Evaluating interventions",
+        "Biology|Ecology|Human impacts and biodiversity"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-ecology-6-0",
+        "aqa-bio-step-ecology-6-1",
+        "aqa-shared-gap-6-0",
+        "bio-deep-ecology-evaluating-interventions-summary",
+        "bio-deep-ecology-evaluating-interventions-keyword",
+        "bio-deep-ecology-evaluating-interventions-explain",
+        "bio-deep-ecology-evaluating-interventions-justify",
+        "bio-deep-ecology-evaluating-interventions-improve",
+        "bio-deep-ecology-evaluating-interventions-grade9",
+        "bio-deep-ecology-human-impacts-and-biodiversity-summary",
+        "bio-deep-ecology-human-impacts-and-biodiversity-keyword",
+        "bio-deep-ecology-human-impacts-and-biodiversity-explain",
+        "bio-deep-ecology-human-impacts-and-biodiversity-justify",
+        "bio-deep-ecology-human-impacts-and-biodiversity-improve",
+        "bio-deep-ecology-human-impacts-and-biodiversity-grade9",
+        "bio2-biodiversity",
+        "aqa-ecology-impact-q10",
+        "aqa-ecology-impact-q11",
+        "aqa-ecology-impact-q12"
+      ],
+      "confidence": "Exact-scope source/content review plus current live mappings; internal judgement, not external accreditation.",
+      "revision": "All specified conservation programmes and government actions, quantified budget/percentage comparisons and conflicting pressures.",
+      "missing": {},
+      "supportMatrix": {
+        "teaching": {
+          "status": "complete",
+          "finding": "All specified conservation programmes and government actions, quantified budget/percentage comparisons and conflicting pressures."
+        },
+        "revision": {
+          "status": "complete",
+          "finding": "Current lesson-derived revision and model-answer self-assessment; exact evidence linked."
+        },
+        "practice": {
+          "status": "complete",
+          "finding": "All specified conservation programmes and government actions, quantified budget/percentage comparisons and conflicting pressures."
+        },
+        "answers_feedback": {
+          "status": "complete",
+          "finding": "Current lesson-derived revision and model-answer self-assessment; exact evidence linked."
+        }
+      },
+      "baselineGapsBeforeRepair": {
+        "teaching_revision": "Government deforestation/CO2 measures and full programme-specific trade-offs",
+        "practice_answers_feedback": "Comparative conservation choices using data and conflicting pressures"
+      },
+      "repairEvidence": {
+        "questionRefs": [
+          "bio2-biodiversity"
+        ],
+        "restoredFeedback": [
+          "aqa-shared-gap-6-1"
+        ]
+      },
+      "supportRefs": [],
+      "higherLessonRefs": [],
+      "higherQuestionRefs": [],
+      "currentEvidence": "All required mapped evidence is current and shared eligible; original Higher-only/out-of-scope questions retain their gates.",
+      "repairOutcome": "Completed in 7.0.6D"
+    },
+    {
+      "specRef": "RP07",
+      "title": "Ecological sampling",
+      "status": "FULLY COVERED",
+      "scope": "Required-practical preparation and assessment, not evidence of laboratory completion.",
+      "foundation": {
+        "eligibility": "Shared required scope available",
+        "teaching_revision": "Random quadrat population estimates and systematic transect distribution/light investigation, measurements, plotting, safety and evaluation.",
+        "practice_answers_feedback": "Direct questions with model answers and feedback; see current explicit questionRefs.",
+        "visibleMappedQuestions": 15
+      },
+      "higher": {
+        "eligibility": "Shared scope available; original Higher gates preserved",
+        "additionalGap": "None in target Ecology specification scope; no HT-only clauses.",
+        "visibleMappedQuestions": 8
+      },
+      "requiredPractical": "RP07",
+      "lessonRefs": [
+        "Biology|practical|fieldwork"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-ecology-4-0",
+        "aqa-bio-step-ecology-4-1",
+        "bio-deep-ecology-sampling-and-fieldwork-summary",
+        "bio-deep-ecology-sampling-and-fieldwork-keyword",
+        "bio-deep-ecology-sampling-and-fieldwork-explain",
+        "bio-deep-ecology-sampling-and-fieldwork-justify",
+        "bio-deep-ecology-sampling-and-fieldwork-improve",
+        "bio-deep-ecology-sampling-and-fieldwork-grade9",
+        "bio2-quadrat",
+        "bio2-population",
+        "bio2-transect",
+        "aqa-ecology-field-q08",
+        "aqa-ecology-field-q09",
+        "aqa-ecology-field-q10",
+        "aqa-ecology-field-q11"
+      ],
+      "confidence": "Exact-scope source/content review plus current live mappings; internal judgement, not external accreditation.",
+      "revision": "Random quadrat population estimates and systematic transect distribution/light investigation, measurements, plotting, safety and evaluation.",
+      "missing": {},
+      "supportMatrix": {
+        "teaching": {
+          "status": "complete",
+          "finding": "Random quadrat population estimates and systematic transect distribution/light investigation, measurements, plotting, safety and evaluation."
+        },
+        "revision": {
+          "status": "complete",
+          "finding": "Current lesson-derived revision and model-answer self-assessment; exact evidence linked."
+        },
+        "practice": {
+          "status": "complete",
+          "finding": "Random quadrat population estimates and systematic transect distribution/light investigation, measurements, plotting, safety and evaluation."
+        },
+        "answers_feedback": {
+          "status": "complete",
+          "finding": "Current lesson-derived revision and model-answer self-assessment; exact evidence linked."
+        }
+      },
+      "baselineGapsBeforeRepair": {
+        "teaching_revision": "Complete common-species abundance plus factor-distribution investigation and field safety; correct Trilogy RP7 label",
+        "practice_answers_feedback": "Dataset/statistics/graph/uncertainty assessment; one worked population estimate is not enough"
+      },
+      "repairEvidence": {
+        "questionRefs": [
+          "bio2-quadrat",
+          "bio2-population",
+          "bio2-transect"
+        ],
+        "supportRefs": [
+          "Biology|practical|fieldwork"
+        ],
+        "correctedPracticalReference": 7
+      },
+      "supportRefs": [
+        "Biology|practical|fieldwork"
+      ],
+      "higherLessonRefs": [],
+      "higherQuestionRefs": [],
+      "currentEvidence": "All required mapped evidence is current and shared eligible; original Higher-only/out-of-scope questions retain their gates.",
+      "repairOutcome": "Completed in 7.0.6C"
+    }
+  ],
+  "limitations": [
+    "Written responses use model-answer self-assessment.",
+    "Internal 78-unit coverage judgement for AQA Combined Science Trilogy; other boards/courses not certified.",
+    "Illustrative data; supervised practical experience remains necessary.",
+    "Browser/mobile verification unavailable in sandbox; automated application-rendering tests pass."
+  ]
+}

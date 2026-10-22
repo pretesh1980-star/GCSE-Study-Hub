@@ -1,0 +1,5 @@
+Launcher: Start Preview.command has mode 0755; zsh syntax validation passed.
+Actual launcher --check: exited 0; safely recognised the running candidate at http://127.0.0.1:8939/#cell-biology/rp02.
+Preview server: started with this candidate's own preview-o10.py; build marker O10-stage4-purpose-review-2026-10-15 confirmed.
+Preservation: 488 original files unchanged, 5 metadata/entry-point files changed, 3 new code/test/review files before verification evidence. No baseline files missing.
+ZIP: complete package; ZIP CRC integrity and executable launcher attribute verified after creation. Matching latest-alias SHA256 recorded alongside ZIP.

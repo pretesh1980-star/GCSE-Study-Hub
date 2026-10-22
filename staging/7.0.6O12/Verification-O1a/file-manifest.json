@@ -1,0 +1,19 @@
+{
+  "baseline": "completed unpublished O1",
+  "unchangedBaselineFiles": 187,
+  "modifiedBaselineFiles": [
+    "PROJECT-STATE.md",
+    "index.html",
+    "README.md",
+    "cells-tutor.css",
+    "package.json",
+    "USAGE-CHECKPOINTS.md",
+    "cells-tutor.js",
+    "app.js",
+    "tests/cells-tutor.test.cjs"
+  ],
+  "missingBaselineFiles": [],
+  "protectedFilesMatch": true,
+  "coreGraderChanges": "two opt-in scope changes only",
+  "assetsHTTP200": 47
+}

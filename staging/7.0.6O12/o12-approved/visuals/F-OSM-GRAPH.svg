@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="480" height="365" preserveAspectRatio="xMinYMin meet" viewBox="0 0 480 365" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="F-OSM-GRAPH-title F-OSM-GRAPH-desc"><title id="F-OSM-GRAPH-title">F-OSM-GRAPH · Investigation for 7b</title><desc id="F-OSM-GRAPH-desc">Graph with horizontal axis sucrose concentration in mol/dm³ and vertical axis percentage mass change. The plotted coordinates are (0.00, +8), (0.20, +4), (0.40, +0), (0.60, -4), (0.80, -8). Consecutive points are joined. The corresponding table provides the same data. No intercept value or conclusion is printed.</desc>
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="480" height="365"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-365)" style="clip-path: url(#clip)">
+		<g transform="">
+			<path d="M 85,74 L 450,74 Z" style="stroke: rgb(80%,85%,83%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="42.466796875" y="68.0" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,136) scale(1,-1)">−10</text>
+			<path d="M 85,133 L 450,133 Z" style="stroke: rgb(80%,85%,83%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="52.4775390625" y="127.0" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,254) scale(1,-1)">−5</text>
+			<path d="M 85,192 L 450,192 Z" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<text x="62.9892578125" y="186.0" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,372) scale(1,-1)">0</text>
+			<path d="M 85,251 L 450,251 Z" style="stroke: rgb(80%,85%,83%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="62.9892578125" y="245.0" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,490) scale(1,-1)">5</text>
+			<path d="M 85,310 L 450,310 Z" style="stroke: rgb(80%,85%,83%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="52.978515625" y="304.0" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,608) scale(1,-1)">10</text>
+			<path d="M 85,74 L 85,310 Z" style="stroke: rgb(85%,88%,87%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="67.4833984375" y="48" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,96) scale(1,-1)">0.00</text>
+			<path d="M 176.25,74 L 176.25,310 Z" style="stroke: rgb(85%,88%,87%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="158.7333984375" y="48" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,96) scale(1,-1)">0.20</text>
+			<path d="M 267.5,74 L 267.5,310 Z" style="stroke: rgb(85%,88%,87%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="249.9833984375" y="48" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,96) scale(1,-1)">0.40</text>
+			<path d="M 358.75,74 L 358.75,310 Z" style="stroke: rgb(85%,88%,87%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="341.23339843749994" y="48" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,96) scale(1,-1)">0.60</text>
+			<path d="M 450,74 L 450,310 Z" style="stroke: rgb(85%,88%,87%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="432.4833984375" y="48" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,96) scale(1,-1)">0.80</text>
+			<path d="M 85,74 L 85,310 Z" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 85,74 L 450,74 Z" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polyline points="85 286.4, 176.25 239.2, 267.5 192, 358.75 144.8, 450 97.6" style="stroke: rgb(14%,47%,47%); stroke-linecap: butt; stroke-width: 2.5; fill: None; fill-rule: evenodd;"/>
+			<circle cx="85.0" cy="286.4" r="4.2" style="stroke: rgb(14%,47%,47%); stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,47%,47%); fill-rule: evenodd;"/>
+			<circle cx="176.25" cy="239.2" r="4.2" style="stroke: rgb(14%,47%,47%); stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,47%,47%); fill-rule: evenodd;"/>
+			<circle cx="267.5" cy="192.0" r="4.2" style="stroke: rgb(14%,47%,47%); stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,47%,47%); fill-rule: evenodd;"/>
+			<circle cx="358.74999999999994" cy="144.8" r="4.2" style="stroke: rgb(14%,47%,47%); stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,47%,47%); fill-rule: evenodd;"/>
+			<circle cx="450.0" cy="97.6" r="4.2" style="stroke: rgb(14%,47%,47%); stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,47%,47%); fill-rule: evenodd;"/>
+			<text x="16" y="341" style="font-family: Arial; font-size: 20px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,682) scale(1,-1)">Mass change / %</text>
+			<text x="116.149658203125" y="18" style="font-family: Arial; font-size: 19px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,36) scale(1,-1)">Sucrose concentration (mol/dm³)</text>
+		</g>
+	</g>
+</svg>

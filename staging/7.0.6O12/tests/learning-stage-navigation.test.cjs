@@ -1,0 +1,26 @@
+const {test}=require('node:test'),assert=require('node:assert/strict');
+const {boot}=require('./diffusion-test-helpers.cjs');
+function open(b,id){b.run(`openLesson('Biology','Cell Biology');cellJourneyOpenCard('${id}')`);}
+const lessons=[
+ ['cells','cellsScene(5);cellsStartCheck()','cellsData().assessment'],
+ ['structures','structuresScene(2);structuresStartCheck()','structuresData().assessment'],
+ ['specialised','specialisedScene(2);specialisedStartCheck()','specialisedData().assessment'],
+ ['microscopy','microO4Scene(2);microO4Start()','microO4Data().assessment'],
+ ['rp01','rpData().finished=true;rpCheckStart()','rpData().check'],
+ ['division','divisionCheckStart()','divisionData().check'],
+ ['diffusion','diffusionCheckStart()','diffusionData().check'],
+ ['exchange','exchangeCheckStart()','exchangeData().check'],
+ ['osmosis','o9CheckStart()','o9Data().check'],
+ ['rp02','rp02CheckStart()','rp02Data().check'],
+ ['active','atStage(5);atCheckStart()','atData().check']
+];
+for(const [id,start,record] of lessons){
+ test(id+': both controls preserve pending work; choosing teaching records assistance',()=>{const b=boot();open(b,id);b.run(start);assert.ok(b.run(record),id+' check starts');const before=b.run(`JSON.stringify(${record})`),attempts=b.run("record('Biology').attempts");assert.equal((b.els.app.innerHTML.match(/↑ Back to learning stages/g)||[]).length,2);assert.equal(b.run('learningStagesAdapter().id'),id);b.run("learningStagesOpen('bottom');learningStagesChoose(learningStagesAdapter().current)");assert.equal(b.run(`JSON.stringify(${record})`),before);assert.equal(b.run("record('Biology').attempts"),attempts);assert.doesNotMatch(b.run('learningStagesDialog(learningStagesAdapter())'),/Correct answer|Model answer|atCheckSubmit|cellJourneyLibrary/);b.run("learningStagesOpen();learningStagesChoose(0)");assert.equal(b.run(`${record}.assisted`),true);assert.equal(b.run(`${record}.done`),false);assert.equal(b.run("record('Biology').attempts"),attempts);});
+}
+test('library and unrelated subjects receive no stage menu',()=>{const b=boot();b.run("openLesson('Biology','Cell Biology')");assert.equal(b.run('learningStagesAdapter()'),null);b.run("openLesson('Chemistry','Atomic Structure')");assert.equal(b.run('learningStagesAdapter()'),null);});
+test('stale lesson or tier context cannot use an open menu',()=>{const b=boot();open(b,'active');b.run("atStage(2);learningStagesOpen();learningStagesSession.context='different-tier';learningStagesChoose(1)");assert.equal(b.run('atData().stage'),2);b.run("learningStagesSession.id='cells';learningStagesChoose(1)");assert.equal(b.run('atData().stage'),2);});
+test('RP01 respects gates and retains furthest visited stage without resetting work',()=>{const b=boot();open(b,'rp01');assert.equal(b.run('learningStagesAdapter().canVisit(6)'),false);assert.equal(b.run('learningStagesAdapter().canVisit(2)'),false);b.run('learningStagesOpen();learningStagesChoose(2)');assert.equal(b.run('rpData().stage'),0);b.run("rpData().stage=3;rpData().labelNotes='saved scientific observations';rpRender();learningStagesOpen();learningStagesChoose(0)");assert.equal(b.run('learningStagesAdapter().canVisit(3)'),true);assert.equal(b.run('rpData().labelNotes'),'saved scientific observations');const c=boot(b.data);open(c,'rp01');assert.equal(c.run('learningStagesAdapter().canVisit(3)'),true);assert.equal(c.run('learningStagesAdapter().canVisit(4)'),false);});
+test('Osmosis delayed benchmark cannot open teaching',()=>{const b=boot();open(b,'osmosis');b.run("ot.mode='delayed';o9CheckStart()");assert.equal(b.run('learningStagesAdapter().canVisit(0)'),false);assert.equal(b.run('learningStagesAdapter().canVisit(6)'),true);});
+test('real DOM path appends controls without replacing media and avoids duplicates',()=>{const b=boot();open(b,'active');b.els.app.innerHTML='<video id="existing"></video>';b.els.app.insertAdjacentHTML=(position,html)=>{b.els.app[position]=(b.els.app[position]||'')+html;b.els.app.innerHTML+=html;};b.run('learningStagesDecorate();learningStagesDecorate()');assert.ok(b.els.app.innerHTML.startsWith('<video id="existing"></video>'));assert.equal((b.els.app.innerHTML.match(/↑ Back to learning stages/g)||[]).length,2);assert.match(b.els.app.afterbegin,/type="button"/);assert.match(b.els.app.beforeend,/<dialog/);assert.match(b.els.app.beforeend,/aria-current="step"/);});
+test('future lessons register navigation with their own guarded context',()=>{const b=boot();b.run("globalThis.futureStage=1;registerLearningStages(()=>({id:'future',title:'Future lesson',names:['Learn','Independent'],current:futureStage,context:()=> 'future-course-tier',go:n=>futureStage=n}));learningStagesDecorate();learningStagesOpen();learningStagesChoose(0)");assert.equal(b.run('futureStage'),0);assert.equal(b.run('registerLearningStages(null)'),false);});
+test('open stops media and close restores focus without altering independence',()=>{const b=boot();open(b,'active');b.run('atStage(5);atCheckStart();globalThis.paused=0;document.querySelectorAll=()=>[{pause(){paused++}}]');let focused=false;b.els['learning-stage-bottom']={focus(){focused=true;}};b.run("learningStagesOpen('bottom');learningStagesClose()");assert.equal(b.run('paused'),1);assert.equal(focused,true);assert.equal(b.run('atData().check.assisted'),false);});

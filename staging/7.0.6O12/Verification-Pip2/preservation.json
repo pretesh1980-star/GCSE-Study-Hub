@@ -1,0 +1,25 @@
+{
+  "unchanged_baseline_files": 366,
+  "changed_baseline_files": [
+    "PROJECT-STATE.md",
+    "index.html",
+    "exchange-film.css",
+    "package.json",
+    "exchange-film.js",
+    "CURRENT-BUILD.txt",
+    "tests/exchange-film.test.cjs"
+  ],
+  "added_files": [
+    "Build-Pip-2-review.md",
+    "tests/pip-browser.html",
+    "Verification-Pip2/regression-958.txt",
+    "Verification-Pip2/browser-verification.json",
+    "Verification-Pip2/native-playback-review.json",
+    "Verification-Pip2/focused-51.txt"
+  ],
+  "missing_baseline_files": [],
+  "original_15_film_captions_identical": true,
+  "O7_fix_identical": true,
+  "new_storage_keys": false,
+  "baseline_zip_sha256": "3edc17847a9375b860c123a8ada622298853ca8d08b07ad1cebf52676e27a719"
+}

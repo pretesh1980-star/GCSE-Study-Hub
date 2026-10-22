@@ -1,0 +1,27 @@
+{
+  "passed": 64,
+  "total": 64,
+  "browser": "Codex in-app browser",
+  "responsive_widths": [
+    320,
+    390,
+    768,
+    1365
+  ],
+  "checks": "Updated tests/osmosis-o9-browser.html; all results observed passed; no browser errors",
+  "media": {
+    "clear_subtitles_time": 1.453557,
+    "narrated_time": 1.449045,
+    "silent_time": 1.501294,
+    "vtt_status": 200,
+    "vtt_cues": 41
+  },
+  "unverified": [
+    "full-film reliable playback",
+    "audible narration",
+    "timed subtitle legibility",
+    "physical Safari",
+    "screen reader session",
+    "OS reduced-motion toggle"
+  ]
+}

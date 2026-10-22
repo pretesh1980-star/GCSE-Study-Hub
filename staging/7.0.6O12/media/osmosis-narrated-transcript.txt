@@ -1,0 +1,13 @@
+Osmosis — full plain-English narration
+
+Let's start with what you're looking at. This is a close-up model of water with sugar dissolved in it, like sugar stirred into a drink. The small blue balls represent water molecules. The larger gold balls represent sugar. They're drawn much bigger than real particles, so we can see them. Dilute means less dissolved sugar in the same volume. Concentrated means more.
+
+The grey barrier in the middle represents a membrane: a thin boundary, like the membrane around a living cell. Think of a filter with tiny openings. In our model, the blue water particles can get through, but the gold sugar particles cannot. We call this partially permeable. Watch the blue particles cross the boundary. Osmosis is about water crossing this kind of membrane, not sugar crossing it.
+
+Now compare the two sides. The left has less sugar per volume, so it is more dilute. The right has more sugar, so it is more concentrated. Water particles are constantly moving randomly. They cross in both directions, but overall, more water moves from the dilute side to the concentrated side. The bigger arrow shows this overall, or net, movement. That is osmosis. The water is not choosing where to go, and the cell does not spend energy from respiration to move it.
+
+Here, the solutions have equal concentrations. Keep watching the blue particles. Water has not stopped moving. It still crosses both ways, but the opposing flows balance out overall. That means no net movement of water. Think of equal numbers of people entering and leaving a room: people are moving, but the number in the room stays the same. This is what we mean by equilibrium.
+
+The left shape is a plant cell, with a strong outer wall. The right is an animal cell, without that wall. If the surrounding solution is more dilute than the cell contents, water enters through the cell membrane by osmosis. The plant cell becomes firm, or turgid, because its wall resists expansion. An animal cell can swell and may burst. This explains why water entering potato cells can make a potato piece gain mass.
+
+Now imagine the solution outside a cell is more concentrated than its contents. Before the answer appears, predict: will water enter the cell or leave it? Pause the video if you need more time. Water leaves overall, through the partially permeable cell membrane. The cell loses water and shrinks. A potato piece would lose mass. Remember: osmosis is the net movement of water from a dilute solution to a more concentrated solution through a partially permeable membrane.

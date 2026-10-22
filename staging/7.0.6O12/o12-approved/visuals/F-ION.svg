@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="480" height="310" preserveAspectRatio="xMinYMin meet" viewBox="0 0 480 310" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="F-ION-title F-ION-desc"><title id="F-ION-title">F-ION · Mineral-ion uptake</title><desc id="F-ION-desc">The outside concentration is 0.4 units and the inside root-hair concentration is 2.0 units, using the same arbitrary units. The observed uptake arrow points from outside into the root hair, crossing the cell membrane. No process or energy source is named.</desc>
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="480" height="310"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-310)" style="clip-path: url(#clip)">
+		<g transform="">
+			<polygon points="245 72, 450 72, 450 240, 245 240, 245 194, 119 194, 119 149, 245 149" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 2; fill: rgb(89%,93%,90%); fill-rule: evenodd;"/>
+			<text x="18" y="285" style="font-family: Arial; font-size: 19px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,570) scale(1,-1)">Outside root hair</text>
+			<text x="18" y="259" style="font-family: Arial; font-size: 20px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,518) scale(1,-1)">0.4 units</text>
+			<text x="277" y="285" style="font-family: Arial; font-size: 19px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,570) scale(1,-1)">Inside</text>
+			<text x="277" y="259" style="font-family: Arial; font-size: 20px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,518) scale(1,-1)">2.0 units</text>
+			<path d="M 26,171 L 212,171 Z" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 2.5;"/>
+			<polygon points="212 171, 201.7173 177.186, 201.7173 164.814" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,22%); fill-rule: evenodd;"/>
+			<text x="16" y="118" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,236) scale(1,-1)">Observed ion uptake</text>
+			<text x="102.93457031249997" y="35" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,70) scale(1,-1)">Same arbitrary concentration units</text>
+			<text x="108.93310546874997" y="10" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,20) scale(1,-1)">Boundary shown: cell membrane</text>
+		</g>
+	</g>
+</svg>

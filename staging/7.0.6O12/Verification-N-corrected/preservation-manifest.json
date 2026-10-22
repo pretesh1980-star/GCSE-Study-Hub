@@ -1,0 +1,17 @@
+{
+  "baseline": "Existing unpublished Build 7.0.6N candidate",
+  "changedFiles": [
+    "journey-navigation.js",
+    "design.css",
+    "cell-journey.js",
+    "app.js",
+    "tests/structured-journey.test.cjs",
+    "tests/osmosis-tutor.test.cjs"
+  ],
+  "unchangedFiles": 176,
+  "originalCandidateSha256": "153c3d7163105a3c94d3544bbdf9bd6ddc9a59b8e18e1e340931f27e2963e4e7",
+  "publicRepoWrites": 0,
+  "contentAndAssessmentDataUnchanged": true,
+  "osmosisScriptIdentical": true,
+  "mediaIdentical": true
+}

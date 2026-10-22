@@ -1,0 +1,23 @@
+{
+  "browser": "Codex in-app browser",
+  "origin": "http://127.0.0.1:8940",
+  "passed": [
+    "O8 deep link after reload",
+    "180-second silent playback reaches scene 15 and stops",
+    "quick challenge feedback",
+    "pause and replay",
+    "optional guide and captions",
+    "keyboard Enter playback",
+    "leaving playback returns home",
+    "homepage real zero-record messaging",
+    "390px and 768px no overflow",
+    "768px all film buttons at least 44px",
+    "no browser error or warning logs"
+  ],
+  "pending": [
+    "physical iPhone Safari",
+    "formal screen-reader testing",
+    "audible real-device speech"
+  ],
+  "unavailable": "Chromium/WebKit automated executables missing; no browsers installed for this small build"
+}

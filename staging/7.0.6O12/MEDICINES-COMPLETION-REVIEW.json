@@ -1,0 +1,463 @@
+{
+  "build": "7.0.5W",
+  "method": "Targeted content review of 4.3.1.7/8/9 and 4.6.3.4 using cached AQA 8464 and Q–V standard: teaching/revision, direct practice/application, answers/feedback, skills and shared tier eligibility. No full discovery audit or keyword-based promotion.",
+  "before": {
+    "fullyCovered": 31,
+    "partial": 46,
+    "missing": 1,
+    "higherOnlyAdequate": 0
+  },
+  "after": {
+    "fullyCovered": 35,
+    "partial": 42,
+    "missing": 1,
+    "higherOnlyAdequate": 0
+  },
+  "units": [
+    {
+      "specRef": "4.3.1.7",
+      "title": "Vaccination",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Extended vaccination explanation: small dead/inactive pathogen quantities/antigens stimulate white cells and specific antibodies; rapid later response despite declining antibody levels; prevention versus treatment; large-population coverage and global benefits/access/cost/uptake limits.",
+      "assessment": "q01 unfamiliar antibody-response pattern and misconceptions; q02 uneven global coverage/evaluation. Original specific-response recall and bio2-vaccine retained.",
+      "answersFeedback": "Every new record has model answer, criteria and misconception feedback. Writing uses existing self-assessment; new resistant-percentage question accepts valid percent forms and rejects counts/physical units.",
+      "skillsAndPractical": "WS1.4 global vaccination evaluation with individual/population mechanisms; no detailed schedules or unsupported guarantee.",
+      "tier": "Shared Foundation/Higher requirements; effective Foundation/unsure/Higher verified; original Higher content retained.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Infection & Response|Vaccination and antibiotics"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-infection-response-2-1",
+        "bio2-vaccine",
+        "aqa-medicines-completion-q01",
+        "aqa-medicines-completion-q02"
+      ],
+      "supportRefs": [
+        "Biology|support|diagram-immunity"
+      ],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Infection & Response|Vaccination and antibiotics",
+            "label": "Vaccination and antibiotics",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5W shared vaccination/medicines/resistance extension reviewed; original material retained."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-bio-step-infection-response-2-1",
+            "label": "What is the main purpose of vaccination?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio2-vaccine",
+            "label": "Explain why a vaccinated person may respond faster to later infection by the same pathogen.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-medicines-completion-q01",
+            "label": "A supplied vaccine contains inactive pathogen material. Antibody levels rise and later fall; on exposure to the same pathogen months later, the response is faster. Explain the pattern and correct the claim that protection requires antibodies to stay permanently at their maximum.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5W reviewed shared AQA 8464 vaccination/medicines/resistance question, answer and feedback."
+          },
+          {
+            "id": "aqa-medicines-completion-q02",
+            "label": "Two regions have similar populations but vaccination reaches most people in one and leaves several poorly served communities in the other. Explain possible differences in spread and evaluate expanding global vaccination, including benefits and practical limitations.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5W reviewed shared AQA 8464 vaccination/medicines/resistance question, answer and feedback."
+          }
+        ],
+        "support": [
+          {
+            "id": "Biology|support|diagram-immunity",
+            "label": "Existing revision diagram: immunity",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          }
+        ]
+      }
+    },
+    {
+      "specRef": "4.3.1.8",
+      "title": "Antibiotics and painkillers",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Extended shared medicine comparison: penicillin/susceptible bacteria, different antibiotics for bacteria, resistance qualification, antibiotics not viruses, intracellular viral targets/host harm, painkillers relieve symptoms without killing pathogens.",
+      "assessment": "q03 viral versus antibiotic-susceptible/resistant case and symptom relief; q09 appropriate-use application. Original antibiotic recall and bio2-virus retained.",
+      "answersFeedback": "Every new record has model answer, criteria and misconception feedback. Writing uses existing self-assessment; new resistant-percentage question accepts valid percent forms and rejects counts/physical units.",
+      "skillsAndPractical": "Treatment-function reasoning rather than personal prescribing; resistance mechanism shared with 4.6.3.4 rather than duplicated.",
+      "tier": "Shared Foundation/Higher requirements; effective Foundation/unsure/Higher verified; original Higher content retained.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Infection & Response|Vaccination and antibiotics"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-infection-response-2-0",
+        "bio2-virus",
+        "aqa-medicines-completion-q03",
+        "aqa-medicines-completion-q09"
+      ],
+      "supportRefs": [],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Infection & Response|Vaccination and antibiotics",
+            "label": "Vaccination and antibiotics",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5W shared vaccination/medicines/resistance extension reviewed; original material retained."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-bio-step-infection-response-2-0",
+            "label": "Which treatment works against bacteria but not viruses?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio2-virus",
+            "label": "Why are antibiotics unsuitable for treating a viral infection?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-medicines-completion-q03",
+            "label": "Case A has a confirmed viral infection and pain; case B has a bacterium susceptible to one antibiotic but resistant to another. Compare what an antibiotic and a painkiller can achieve, and explain why safely targeting a virus is difficult.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5W reviewed shared AQA 8464 vaccination/medicines/resistance question, answer and feedback."
+          },
+          {
+            "id": "aqa-medicines-completion-q09",
+            "label": "A hospital proposes relying only on new antibiotics to control a resistant strain such as MRSA. Evaluate this proposal and explain how appropriate prescribing, prescribed-treatment adherence, infection control and agricultural-use restrictions can contribute.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5W reviewed shared AQA 8464 vaccination/medicines/resistance question, answer and feedback."
+          }
+        ],
+        "support": []
+      }
+    },
+    {
+      "specRef": "4.3.1.9",
+      "title": "Discovery and development of drugs",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Extended drug origins, digitalis/foxglove, aspirin/willow, Fleming/Penicillium and synthesis; toxicity/efficacy/dose; cell/tissue/live-animal preclinical work, healthy-volunteer/patient trials, low initial doses and optimum dose; placebo/randomisation/double blinding; reporting and peer scrutiny. Existing Interpreting evidence extended for quantitative benefit/harm limits.",
+      "assessment": "q04 origins/natural-safety misconception and sequence; q05 flawed-trial redesign/reporting/peer review; q06 numerical trial comparison, dose benefit/harm and uncertainty. Existing placebo, double-blind, randomisation and percentage-reduction questions retained.",
+      "answersFeedback": "Every new record has model answer, criteria and misconception feedback. Writing uses existing self-assessment; new resistant-percentage question accepts valid percent forms and rejects counts/physical units.",
+      "skillsAndPractical": "WS1.6 peer review, trial controls/bias/sample/variation, percentage points versus relative change. Illustrative data do not establish a prescription.",
+      "tier": "Shared Foundation/Higher requirements; effective Foundation/unsure/Higher verified; original Higher content retained.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Infection & Response|Developing medicines",
+        "Biology|Infection & Response|Interpreting evidence"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-infection-response-3-0",
+        "aqa-bio-step-infection-response-3-1",
+        "bio2-placebo",
+        "bio2-double-blind",
+        "bio2-trial-percent",
+        "aqa-medicines-completion-q04",
+        "aqa-medicines-completion-q05",
+        "aqa-medicines-completion-q06"
+      ],
+      "supportRefs": [],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Infection & Response|Developing medicines",
+            "label": "Developing medicines",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5W shared vaccination/medicines/resistance extension reviewed; original material retained."
+          },
+          {
+            "id": "Biology|Infection & Response|Interpreting evidence",
+            "label": "Interpreting evidence",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5W shared vaccination/medicines/resistance extension reviewed; original material retained."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-bio-step-infection-response-3-0",
+            "label": "What is tested before a new medicine is widely used?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bio-step-infection-response-3-1",
+            "label": "Why randomise a clinical trial?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio2-placebo",
+            "label": "What is the purpose of a placebo in a suitable clinical trial?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "bio2-double-blind",
+            "label": "Explain how a double-blind trial reduces bias.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "bio2-trial-percent",
+            "label": "A treatment reduces cases from 80 to 20. Calculate the percentage reduction.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-medicines-completion-q04",
+            "label": "A plant chemical is proposed as a medicine. Use the origins of digitalis, aspirin and penicillin to explain why this is plausible but does not prove safety. Outline the sequence from candidate discovery to clinical dose testing.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5W reviewed shared AQA 8464 vaccination/medicines/resistance question, answer and feedback."
+          },
+          {
+            "id": "aqa-medicines-completion-q05",
+            "label": "A developer advertises a drug using an unblinded volunteer comparison: participants chose their group and only successes were reported. Propose improvements involving randomisation, a suitable control, double blinding, reporting and peer review.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5W reviewed shared AQA 8464 vaccination/medicines/resistance question, answer and feedback."
+          },
+          {
+            "id": "aqa-medicines-completion-q06",
+            "label": "Illustrative trial groups each contain 100 people: placebo 30 improved/2 adverse effects; low dose 50 improved/4 adverse effects; high dose 52 improved/18 adverse effects. Evaluate benefit, toxicity and dose choice, and state what further evidence is needed.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5W reviewed shared AQA 8464 vaccination/medicines/resistance question, answer and feedback."
+          }
+        ],
+        "support": []
+      }
+    },
+    {
+      "specRef": "4.6.3.4",
+      "title": "Resistant bacteria",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Mutation/variation before exposure → antibiotic selection pressure → susceptible death/resistant survival → reproduction/inheritance → increasing resistant proportion/spread. MRSA, treatment consequences, appropriate use/adherence, agricultural restrictions, infection control, slow/costly antibiotic development. Existing Inheritance selection explanation reused unchanged.",
+      "assessment": "q07 unfamiliar population causal sequence; q08 resistant percentage with limits; q09 integrated control/new-drug evaluation. Original bio2-resistance retained.",
+      "answersFeedback": "Every new record has model answer, criteria and misconception feedback. Writing uses existing self-assessment; new resistant-percentage question accepts valid percent forms and rejects counts/physical units.",
+      "skillsAndPractical": "Direct resistance/natural-selection evidence, valid percent-only answer handling, no need-driven mutation or guarantee of killing all bacteria. Prescribed-course language supported by cached specification, qualified to follow the plan and updated clinician instructions.",
+      "tier": "Shared Foundation/Higher requirements; effective Foundation/unsure/Higher verified; original Higher content retained.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Infection & Response|Vaccination and antibiotics",
+        "Biology|Infection & Response|Interpreting evidence",
+        "Biology|Inheritance|Selection and evolution"
+      ],
+      "questionRefs": [
+        "bio2-resistance",
+        "aqa-medicines-completion-q07",
+        "aqa-medicines-completion-q08",
+        "aqa-medicines-completion-q09"
+      ],
+      "supportRefs": [],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Infection & Response|Vaccination and antibiotics",
+            "label": "Vaccination and antibiotics",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5W shared vaccination/medicines/resistance extension reviewed; original material retained."
+          },
+          {
+            "id": "Biology|Infection & Response|Interpreting evidence",
+            "label": "Interpreting evidence",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5W shared vaccination/medicines/resistance extension reviewed; original material retained."
+          },
+          {
+            "id": "Biology|Inheritance|Selection and evolution",
+            "label": "Selection and evolution",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          }
+        ],
+        "questions": [
+          {
+            "id": "bio2-resistance",
+            "label": "Explain how antibiotic treatment can increase the proportion of resistant bacteria.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-medicines-completion-q07",
+            "label": "Before an antibiotic is applied, a population contains a few resistant bacteria. After exposure susceptible numbers fall and descendants of survivors dominate. Explain the causal sequence and reject the claim that bacteria deliberately mutate because they need resistance.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5W reviewed shared AQA 8464 vaccination/medicines/resistance question, answer and feedback."
+          },
+          {
+            "id": "aqa-medicines-completion-q08",
+            "label": "A sampled bacterial population contains 40 resistant bacteria among 50 in total. Calculate the percentage resistant.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5W reviewed shared AQA 8464 vaccination/medicines/resistance question, answer and feedback."
+          },
+          {
+            "id": "aqa-medicines-completion-q09",
+            "label": "A hospital proposes relying only on new antibiotics to control a resistant strain such as MRSA. Evaluate this proposal and explain how appropriate prescribing, prescribed-treatment adherence, infection control and agricultural-use restrictions can contribute.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5W reviewed shared AQA 8464 vaccination/medicines/resistance question, answer and feedback."
+          }
+        ],
+        "support": []
+      }
+    }
+  ],
+  "newQuestions": {
+    "total": 9,
+    "writingSelfAssessment": 8,
+    "numericAutoCheck": 1,
+    "multipleChoice": 0
+  },
+  "recordedTierBacklog": 0,
+  "knownUnresolvedTierConcerns": 0,
+  "answerUnitBacklog": 0,
+  "tests": {
+    "focused": 123,
+    "full": 395,
+    "failures": 0
+  },
+  "scopeVerification": "All 63 science pathways compared with V. Only three targeted Infection & Response sections and nine new questions differ; all prior questions and unrelated content preserved."
+}

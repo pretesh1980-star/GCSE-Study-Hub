@@ -1,0 +1,22 @@
+{
+  "baseline": "GCSE-Study-Hub-O10-STAGE4-REFINED-OPEN-THIS.zip",
+  "baseline_sha256": "bfce0973b8441755089f8f1ad9a46577990427301984aed42371968115333c32",
+  "unchanged_files_before_final_evidence_copy": 497,
+  "unchanged_original_js_css_files": 89,
+  "changed_baseline_files_before_final_evidence_copy": [
+    "CURRENT-BUILD.txt",
+    "PROJECT-ROADMAP.md",
+    "Start Preview.command",
+    "index.html",
+    "package.json",
+    "tests/cell-lesson-navigation.test.cjs"
+  ],
+  "missing_baseline_files": [],
+  "new_lesson_files": [
+    "active-transport-tutor.js",
+    "active-transport-assessment.js",
+    "active-transport.css"
+  ],
+  "new_regression_tests": 31,
+  "historical_verification_copy": "Archive/Before-O11/Verification"
+}

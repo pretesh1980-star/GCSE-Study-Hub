@@ -1,0 +1,11 @@
+{
+  "nativeBrowser": "macOS in-app WebKit",
+  "voice": "Daniel en-GB",
+  "liveTalking": true,
+  "mouthAnimation": "hollie-talk",
+  "waveAnimation": "hollie-wave",
+  "pausedTalking": false,
+  "pausedWaveAnimation": "none",
+  "selectorHidden": true,
+  "audibleHumanReview": false
+}

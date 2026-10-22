@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="480" height="228" preserveAspectRatio="xMinYMin meet" viewBox="0 0 480 228" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="F-MASS-TABLE-title F-MASS-TABLE-desc"><title id="F-MASS-TABLE-title">F-MASS-TABLE · Pilot batch for 7a</title><desc id="F-MASS-TABLE-desc">Table. Measurement; Recorded value. Measurement: Sucrose (mol/dm³); Recorded value: 0.10. Measurement: Initial mass / g; Recorded value: 2.40. Measurement: Final mass / g; Recorded value: 2.64.</desc>
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="480" height="228"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-228)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="12" y="206" style="font-family: Arial; font-size: 19px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,412) scale(1,-1)">F-MASS-TABLE · Pilot batch for 7a</text>
+			<rect x="0" y="140" width="240" height="48" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,93%,90%); fill-rule: evenodd;"/>
+			<text x="12" y="163" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,326) scale(1,-1)">Measurement</text>
+			<rect x="240" y="140" width="240" height="48" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,93%,90%); fill-rule: evenodd;"/>
+			<text x="252" y="163" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,326) scale(1,-1)">Recorded value</text>
+			<rect x="0" y="94" width="240" height="46" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="12" y="115" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,230) scale(1,-1)">Sucrose (mol/dm³)</text>
+			<rect x="240" y="94" width="240" height="46" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="252" y="115" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,230) scale(1,-1)">0.10</text>
+			<rect x="0" y="48" width="240" height="46" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="12" y="69" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,138) scale(1,-1)">Initial mass / g</text>
+			<rect x="240" y="48" width="240" height="46" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="252" y="69" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,138) scale(1,-1)">2.40</text>
+			<rect x="0" y="2" width="240" height="46" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="12" y="23" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,46) scale(1,-1)">Final mass / g</text>
+			<rect x="240" y="2" width="240" height="46" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="252" y="23" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,46) scale(1,-1)">2.64</text>
+		</g>
+	</g>
+</svg>

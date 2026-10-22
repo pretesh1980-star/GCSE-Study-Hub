@@ -1,0 +1,139 @@
+{
+  "checks": [
+    {
+      "part": "1. Inside the nucleus",
+      "overflow": false,
+      "tabHeights": [
+        44,
+        44,
+        44
+      ],
+      "touch": true,
+      "width": 1280
+    },
+    {
+      "part": "1. Inside the nucleus",
+      "overflow": false,
+      "tabHeights": [
+        44,
+        44,
+        44
+      ],
+      "touch": true,
+      "width": 768
+    },
+    {
+      "part": "1. Inside the nucleus",
+      "overflow": false,
+      "tabHeights": [
+        44,
+        44,
+        44
+      ],
+      "touch": true,
+      "width": 390
+    },
+    {
+      "part": "1. Inside the nucleus",
+      "overflow": false,
+      "tabHeights": [
+        44,
+        44,
+        44
+      ],
+      "touch": true,
+      "width": 320
+    },
+    {
+      "part": "2. One cell → two",
+      "overflow": false,
+      "tabHeights": [
+        44,
+        44,
+        44
+      ],
+      "touch": true,
+      "width": 1280
+    },
+    {
+      "part": "2. One cell → two",
+      "overflow": false,
+      "tabHeights": [
+        44,
+        44,
+        44
+      ],
+      "touch": true,
+      "width": 768
+    },
+    {
+      "part": "2. One cell → two",
+      "overflow": false,
+      "tabHeights": [
+        44,
+        44,
+        44
+      ],
+      "touch": true,
+      "width": 390
+    },
+    {
+      "part": "2. One cell → two",
+      "overflow": false,
+      "tabHeights": [
+        44,
+        44,
+        44
+      ],
+      "touch": true,
+      "width": 320
+    },
+    {
+      "part": "3. Stem cells & choices",
+      "overflow": false,
+      "tabHeights": [
+        44,
+        44,
+        44
+      ],
+      "touch": true,
+      "width": 1280
+    },
+    {
+      "part": "3. Stem cells & choices",
+      "overflow": false,
+      "tabHeights": [
+        44,
+        44,
+        44
+      ],
+      "touch": true,
+      "width": 768
+    },
+    {
+      "part": "3. Stem cells & choices",
+      "overflow": false,
+      "tabHeights": [
+        44,
+        44,
+        44
+      ],
+      "touch": true,
+      "width": 390
+    },
+    {
+      "part": "3. Stem cells & choices",
+      "overflow": false,
+      "tabHeights": [
+        44,
+        44,
+        44
+      ],
+      "touch": true,
+      "width": 320
+    }
+  ],
+  "errors": [],
+  "physicalIPhone": false,
+  "formalScreenReader": false
+}

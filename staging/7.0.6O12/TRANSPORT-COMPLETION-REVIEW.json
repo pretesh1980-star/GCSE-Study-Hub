@@ -1,0 +1,639 @@
+{
+  "build": "7.0.5R",
+  "method": "Targeted review of four existing units against cached AQA 8464 4.1.3 and RP02 plus established adequacy standard. No full Biology discovery repeated; unit decisions based on actual teaching, targeted assessment/feedback, skills, tier and practical content, not question counts.",
+  "before": {
+    "fullyCovered": 11,
+    "partial": 66,
+    "missing": 1,
+    "higherOnlyAdequate": 0
+  },
+  "after": {
+    "fullyCovered": 15,
+    "partial": 62,
+    "missing": 1,
+    "higherOnlyAdequate": 0
+  },
+  "units": [
+    {
+      "specRef": "4.1.3.1",
+      "title": "Diffusion",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Net diffusion and rate factors retained/extended; oxygen, carbon dioxide and urea-to-plasma/kidney context explicit. Animal lungs/gills/intestine and plant roots/leaves linked to area, short paths and maintained gradients. Existing SA:V examples retained with an equal-volume shape comparison.",
+      "assessment": "New q01 tests movement/rate factors, q02 SA:V calculation/application, q03 comparative exchange surfaces/unfamiliar context and q07 transport comparison; retained bio2-surface and aqa-cell-cube-ratio/exchange-limit remain.",
+      "answersFeedback": "Full model answers and explicit marking criteria with targeted misconception feedback; writing uses honest existing self-assessment. Quantitative questions include units, signs and intermediate calculation explanations.",
+      "skillsAndPractical": "MS1c/5c ratios/area/volume and biological modelling/application are supported. No counter-current-detail requirement added.",
+      "tier": "Shared Foundation/Higher requirements; effective Foundation, unsure and Higher availability tested. Other boards/courses unchanged.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Cell Biology|Diffusion and osmosis",
+        "Biology|Cell Biology|Active transport and exchange",
+        "Biology|Cell Biology|Surface-area-to-volume reasoning"
+      ],
+      "questionRefs": [
+        "aqa-cell-cube-ratio",
+        "aqa-cell-exchange-limit",
+        "bio2-surface",
+        "aqa-transport-completion-q01",
+        "aqa-transport-completion-q02",
+        "aqa-transport-completion-q03",
+        "aqa-transport-completion-q07"
+      ],
+      "supportRefs": [],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Cell Biology|Diffusion and osmosis",
+            "label": "Diffusion and osmosis",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5R: shared transport extension reviewed against AQA 8464 4.1.3 and RP02; original content retained."
+          },
+          {
+            "id": "Biology|Cell Biology|Active transport and exchange",
+            "label": "Active transport and exchange",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5R: shared transport extension reviewed against AQA 8464 4.1.3 and RP02; original content retained."
+          },
+          {
+            "id": "Biology|Cell Biology|Surface-area-to-volume reasoning",
+            "label": "Surface-area-to-volume reasoning",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5R: shared transport extension reviewed against AQA 8464 4.1.3 and RP02; original content retained."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-cell-cube-ratio",
+            "label": "A cube has side length 2 cm. Its area is 24 cm² and volume is 8 cm³. What is SA:V?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: 4.1.3.1: surface-area-to-volume calculations are Foundation eligible"
+          },
+          {
+            "id": "aqa-cell-exchange-limit",
+            "label": "Why is diffusion alone harder for a larger organism?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: 4.1.3.1: surface-area-to-volume calculations are Foundation eligible"
+          },
+          {
+            "id": "bio2-surface",
+            "label": "Explain two ways a thin, folded exchange surface improves diffusion.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-transport-completion-q01",
+            "label": "A respiring cell has less oxygen but more carbon dioxide and urea than the surrounding blood plasma. Predict net movement of each substance, explain why, and explain how temperature and concentration difference affect diffusion rate.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5R: reviewed shared AQA Trilogy membrane-transport/RP02 scope; answer, feedback and units reviewed together."
+          },
+          {
+            "id": "aqa-transport-completion-q02",
+            "label": "Compare two equal-volume model organisms: a cube of side 2 mm and a flat box 1 × 2 × 4 mm. Calculate each surface area, volume and SA:V ratio. Which could exchange materials more readily without a transport system, and why is this only a model?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5R: reviewed shared AQA Trilogy membrane-transport/RP02 scope; answer, feedback and units reviewed together."
+          },
+          {
+            "id": "aqa-transport-completion-q03",
+            "label": "Compare how lungs and fish gills maintain rapid gas exchange. Then explain one exchange adaptation each of the small intestine, a root hair and a leaf. An unfamiliar aquatic animal has thin folded outgrowths: predict their benefit without assuming it has blood.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5R: reviewed shared AQA Trilogy membrane-transport/RP02 scope; answer, feedback and units reviewed together."
+          },
+          {
+            "id": "aqa-transport-completion-q07",
+            "label": "In the intestine glucose concentration is lower in the gut than in blood, yet glucose is absorbed. A root accumulates ions from dilute soil. Compare these processes with oxygen entering a cell and water entering a cell from dilute solution. An unfamiliar alga stops accumulating ions against their gradient when respiration is inhibited: explain the evidence.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5R: reviewed shared AQA Trilogy membrane-transport/RP02 scope; answer, feedback and units reviewed together."
+          }
+        ],
+        "support": []
+      }
+    },
+    {
+      "specRef": "4.1.3.2",
+      "title": "Osmosis",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Water-only movement through partially permeable membranes, dilute/concentrated direction and cellular effects explicit. Positive/negative percentage changes and compound rate examples precede new practice. Axes, units, plotting, interpolation and approximate isotonic/zero-change meaning explained.",
+      "assessment": "Existing osmosis explanations and −20% calculation retained. New q04 rate, q05 percentage/plotting, q06 graph reading, q07 comparison, q09 data evaluation and q10 recall address missing breadth.",
+      "answersFeedback": "Full model answers and explicit marking criteria with targeted misconception feedback; writing uses honest existing self-assessment. Quantitative questions include units, signs and intermediate calculation explanations.",
+      "skillsAndPractical": "MS1a/1c and 4a–4d: percentages, mean uptake rate, graph scales/coordinates/trend/interpolation and reading tolerance. Numeric rate aliases represent valid mass/time equivalents only.",
+      "tier": "Shared Foundation/Higher requirements; effective Foundation, unsure and Higher availability tested. Other boards/courses unchanged.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Cell Biology|Diffusion and osmosis",
+        "Biology|practical|osmosis"
+      ],
+      "questionRefs": [
+        "aqa-cell-water-direction",
+        "aqa-cell-potato-mass",
+        "bio2-osmosis",
+        "bio2-osmosis-percent",
+        "aqa-transport-completion-q04",
+        "aqa-transport-completion-q05",
+        "aqa-transport-completion-q06",
+        "aqa-transport-completion-q07",
+        "aqa-transport-completion-q09",
+        "aqa-transport-completion-q10"
+      ],
+      "supportRefs": [
+        "Biology|practical|osmosis",
+        "Biology|support|diagram-osmosis",
+        "Biology|support|transport-osmosis-graph"
+      ],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Cell Biology|Diffusion and osmosis",
+            "label": "Diffusion and osmosis",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5R: shared transport extension reviewed against AQA 8464 4.1.3 and RP02; original content retained."
+          },
+          {
+            "id": "Biology|practical|osmosis",
+            "label": "Osmosis in plant tissue",
+            "kind": "practical",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5R: shared transport extension reviewed against AQA 8464 4.1.3 and RP02; original content retained."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-cell-water-direction",
+            "label": "In the diagram, which way is the net movement of water?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-cell-potato-mass",
+            "label": "A potato piece loses mass in concentrated sugar solution. Why?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio2-osmosis",
+            "label": "A potato cylinder gains mass in distilled water. Explain why.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "bio2-osmosis-percent",
+            "label": "A plant-tissue sample changes from 2.5 g to 2.0 g. Calculate the percentage change in mass.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-transport-completion-q04",
+            "label": "A blotted plant-tissue sample gains 0.36 g in 30 minutes. Assuming mass gain estimates water uptake, calculate the mean uptake rate in g/min.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5R: reviewed shared AQA Trilogy membrane-transport/RP02 scope; answer, feedback and units reviewed together."
+          },
+          {
+            "id": "aqa-transport-completion-q05",
+            "label": "Each sample initially has mass 2.50 g. At concentrations 0, 2, 4, 6 and 8 g sugar per 100 mL of final solution, final masses are 3.00, 2.80, 2.60, 2.40 and 2.20 g. Calculate all percentage changes, then sketch an appropriate graph on paper before checking. Specify both axes, units and the trend.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5R: reviewed shared AQA Trilogy membrane-transport/RP02 scope; answer, feedback and units reviewed together."
+          },
+          {
+            "id": "aqa-transport-completion-q06",
+            "label": "Use the osmosis graph. Estimate the concentration giving zero percentage mass change. Explain water movement below and above this concentration, what zero means, and one way to improve the estimate.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5R: reviewed shared AQA Trilogy membrane-transport/RP02 scope; answer, feedback and units reviewed together."
+          },
+          {
+            "id": "aqa-transport-completion-q07",
+            "label": "In the intestine glucose concentration is lower in the gut than in blood, yet glucose is absorbed. A root accumulates ions from dilute soil. Compare these processes with oxygen entering a cell and water entering a cell from dilute solution. An unfamiliar alga stops accumulating ions against their gradient when respiration is inhibited: explain the evidence.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5R: reviewed shared AQA Trilogy membrane-transport/RP02 scope; answer, feedback and units reviewed together."
+          },
+          {
+            "id": "aqa-transport-completion-q09",
+            "label": "Repeat percentage changes at one concentration are 12%, 11% and 35%. The 35% sample was recorded as not blotted before final weighing. Evaluate the results, estimate the mean of the two usable results, and propose improvements near the zero-change concentration.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5R: reviewed shared AQA Trilogy membrane-transport/RP02 scope; answer, feedback and units reviewed together."
+          },
+          {
+            "id": "aqa-transport-completion-q10",
+            "label": "Which statement correctly compares plant and animal cells placed in very dilute surroundings?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5R: reviewed shared AQA Trilogy membrane-transport/RP02 scope; answer, feedback and units reviewed together."
+          }
+        ],
+        "support": [
+          {
+            "id": "Biology|practical|osmosis",
+            "label": "Osmosis in plant tissue",
+            "kind": "practical",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5R: shared transport extension reviewed against AQA 8464 4.1.3 and RP02; original content retained."
+          },
+          {
+            "id": "Biology|support|diagram-osmosis",
+            "label": "Existing revision diagram: osmosis",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "Biology|support|transport-osmosis-graph",
+            "label": "RP02 plotted mass-change data",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5R: reviewed shared AQA Trilogy membrane-transport/RP02 scope; answer, feedback and units reviewed together."
+          }
+        ]
+      }
+    },
+    {
+      "specRef": "4.1.3.3",
+      "title": "Active transport",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Against-gradient transport requires respiration energy; root mineral uptake and gut glucose absorption explicit. Diffusion/osmosis/active transport compared by substance, direction, membrane and energy. Biological advantage explained.",
+      "assessment": "Retained aqa-cell-ion-transport, aqa-cell-transport-contrast and bio2-active provide recall/root application. New q07 integrates gut uptake, all three mechanisms and an unfamiliar alga energy-dependence context with explicit marking criteria.",
+      "answersFeedback": "Full model answers and explicit marking criteria with targeted misconception feedback; writing uses honest existing self-assessment. Quantitative questions include units, signs and intermediate calculation explanations.",
+      "skillsAndPractical": "Concentration-gradient reasoning and interpretation of energy evidence assessed; all scope shared Foundation/Higher.",
+      "tier": "Shared Foundation/Higher requirements; effective Foundation, unsure and Higher availability tested. Other boards/courses unchanged.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Cell Biology|Active transport and exchange"
+      ],
+      "questionRefs": [
+        "aqa-cell-ion-transport",
+        "aqa-cell-transport-contrast",
+        "bio2-active",
+        "aqa-transport-completion-q07"
+      ],
+      "supportRefs": [],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Cell Biology|Active transport and exchange",
+            "label": "Active transport and exchange",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5R: shared transport extension reviewed against AQA 8464 4.1.3 and RP02; original content retained."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-cell-ion-transport",
+            "label": "In the diagram, ions move from low to high concentration. What supplies the needed energy?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-cell-transport-contrast",
+            "label": "Which process can move substances against a concentration gradient?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio2-active",
+            "label": "Root cells absorb ions from very dilute soil water. Explain why energy may be needed.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-transport-completion-q07",
+            "label": "In the intestine glucose concentration is lower in the gut than in blood, yet glucose is absorbed. A root accumulates ions from dilute soil. Compare these processes with oxygen entering a cell and water entering a cell from dilute solution. An unfamiliar alga stops accumulating ions against their gradient when respiration is inhibited: explain the evidence.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5R: reviewed shared AQA Trilogy membrane-transport/RP02 scope; answer, feedback and units reviewed together."
+          }
+        ],
+        "support": []
+      }
+    },
+    {
+      "specRef": "RP02",
+      "title": "Osmotic mass change",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Complete mass-based investigation: equal plant tissue preparation, initial/final weighing, concentration range, controlled variables, repeat percentages/means, blotting, plotting, zero crossing, anomalies/improvements and specific safety. Length is supplementary, not a substitute for mass.",
+      "assessment": "New q04 uptake calculation, q05 data-to-graph, q06 zero-crossing interpretation, q08 method/control/safety and q09 anomaly/reliability evaluation, plus retained osmosis/percentage questions.",
+      "answersFeedback": "Full model answers and explicit marking criteria with targeted misconception feedback; writing uses honest existing self-assessment. Quantitative questions include units, signs and intermediate calculation explanations.",
+      "skillsAndPractical": "Trilogy practical number remains 2. AT1/3/5 preparation and measurement support provided; online coverage does not certify physical practical completion.",
+      "tier": "Shared Foundation/Higher requirements; effective Foundation, unsure and Higher availability tested. Other boards/courses unchanged.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|practical|osmosis",
+        "Biology|Cell Biology|Diffusion and osmosis"
+      ],
+      "questionRefs": [
+        "bio2-osmosis",
+        "bio2-osmosis-percent",
+        "aqa-transport-completion-q04",
+        "aqa-transport-completion-q05",
+        "aqa-transport-completion-q06",
+        "aqa-transport-completion-q08",
+        "aqa-transport-completion-q09"
+      ],
+      "supportRefs": [
+        "Biology|practical|osmosis",
+        "Biology|support|practical-Osmosis",
+        "Biology|support|diagram-osmosis",
+        "Biology|support|transport-osmosis-graph"
+      ],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|practical|osmosis",
+            "label": "Osmosis in plant tissue",
+            "kind": "practical",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5R: shared transport extension reviewed against AQA 8464 4.1.3 and RP02; original content retained."
+          },
+          {
+            "id": "Biology|Cell Biology|Diffusion and osmosis",
+            "label": "Diffusion and osmosis",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5R: shared transport extension reviewed against AQA 8464 4.1.3 and RP02; original content retained."
+          }
+        ],
+        "questions": [
+          {
+            "id": "bio2-osmosis",
+            "label": "A potato cylinder gains mass in distilled water. Explain why.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "bio2-osmosis-percent",
+            "label": "A plant-tissue sample changes from 2.5 g to 2.0 g. Calculate the percentage change in mass.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-transport-completion-q04",
+            "label": "A blotted plant-tissue sample gains 0.36 g in 30 minutes. Assuming mass gain estimates water uptake, calculate the mean uptake rate in g/min.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5R: reviewed shared AQA Trilogy membrane-transport/RP02 scope; answer, feedback and units reviewed together."
+          },
+          {
+            "id": "aqa-transport-completion-q05",
+            "label": "Each sample initially has mass 2.50 g. At concentrations 0, 2, 4, 6 and 8 g sugar per 100 mL of final solution, final masses are 3.00, 2.80, 2.60, 2.40 and 2.20 g. Calculate all percentage changes, then sketch an appropriate graph on paper before checking. Specify both axes, units and the trend.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5R: reviewed shared AQA Trilogy membrane-transport/RP02 scope; answer, feedback and units reviewed together."
+          },
+          {
+            "id": "aqa-transport-completion-q06",
+            "label": "Use the osmosis graph. Estimate the concentration giving zero percentage mass change. Explain water movement below and above this concentration, what zero means, and one way to improve the estimate.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5R: reviewed shared AQA Trilogy membrane-transport/RP02 scope; answer, feedback and units reviewed together."
+          },
+          {
+            "id": "aqa-transport-completion-q08",
+            "label": "Plan a fair investigation of how solution concentration affects potato mass. Include sample preparation, initial/final measurements, controlled variables, repeats and safety. Would measuring length alone complete this practical?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5R: reviewed shared AQA Trilogy membrane-transport/RP02 scope; answer, feedback and units reviewed together."
+          },
+          {
+            "id": "aqa-transport-completion-q09",
+            "label": "Repeat percentage changes at one concentration are 12%, 11% and 35%. The 35% sample was recorded as not blotted before final weighing. Evaluate the results, estimate the mean of the two usable results, and propose improvements near the zero-change concentration.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5R: reviewed shared AQA Trilogy membrane-transport/RP02 scope; answer, feedback and units reviewed together."
+          }
+        ],
+        "support": [
+          {
+            "id": "Biology|practical|osmosis",
+            "label": "Osmosis in plant tissue",
+            "kind": "practical",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5R: shared transport extension reviewed against AQA 8464 4.1.3 and RP02; original content retained."
+          },
+          {
+            "id": "Biology|support|practical-Osmosis",
+            "label": "Learning Lab practical design: Osmosis",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "Biology|support|diagram-osmosis",
+            "label": "Existing revision diagram: osmosis",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "Biology|support|transport-osmosis-graph",
+            "label": "RP02 plotted mass-change data",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5R: reviewed shared AQA Trilogy membrane-transport/RP02 scope; answer, feedback and units reviewed together."
+          }
+        ]
+      }
+    }
+  ],
+  "newQuestions": {
+    "total": 10,
+    "writingSelfAssessment": 8,
+    "numericAutoCheck": 1,
+    "multipleChoice": 1
+  },
+  "recordedTierBacklog": 0,
+  "knownUnresolvedTierConcerns": 0,
+  "answerUnitBacklog": 0
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="480" height="235" preserveAspectRatio="xMinYMin meet" viewBox="0 0 480 235" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="H-DRAWING-title H-DRAWING-desc"><title id="H-DRAWING-title">H-DRAWING · Student record</title><desc id="H-DRAWING-desc">An oval-cell drawing has a horizontal measurement line. The recorded displayed length is 4 cm. The student has also written “Actual cell length = 4 cm”. No magnification or calibrated scale is recorded.</desc>
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="480" height="235"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-235)" style="clip-path: url(#clip)">
+		<g transform="">
+			<ellipse cx="240.0" cy="150.0" rx="140.0" ry="48.0" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 2; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<ellipse cx="237.0" cy="151.0" rx="26.0" ry="19.0" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,90%,95%); fill-rule: evenodd;"/>
+			<polyline points="100 98, 100 83, 380 83, 380 98" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd;"/>
+			<path d="M 160,83 L 100,83 Z" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 2.5;"/>
+			<polygon points="100 83, 110.2827 76.81398, 110.2827 89.18602" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,22%); fill-rule: evenodd;"/>
+			<path d="M 320,83 L 380,83 Z" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 2.5;"/>
+			<polygon points="380 83, 369.7173 89.18602, 369.7173 76.81398" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,22%); fill-rule: evenodd;"/>
+			<text x="127.53076171875" y="54" style="font-family: Arial; font-size: 19px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,108) scale(1,-1)">Measured on screen: 4 cm</text>
+			<text x="80.16210937499997" y="18" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,36) scale(1,-1)">Student note: “Actual cell length = 4 cm”</text>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,802 @@
+TAP version 13
+# Subtest: dashboard entry keeps cards and compact supporting information
+ok 1 - dashboard entry keeps cards and compact supporting information
+  ---
+  duration_ms: 148.714125
+  type: 'test'
+  ...
+# Subtest: cells card opens introduction and Library preserves selection
+ok 2 - cells card opens introduction and Library preserves selection
+  ---
+  duration_ms: 64.081625
+  type: 'test'
+  ...
+# Subtest: structures card opens introduction and Library preserves selection
+ok 3 - structures card opens introduction and Library preserves selection
+  ---
+  duration_ms: 65.054291
+  type: 'test'
+  ...
+# Subtest: specialised card opens introduction and Library preserves selection
+ok 4 - specialised card opens introduction and Library preserves selection
+  ---
+  duration_ms: 55.989709
+  type: 'test'
+  ...
+# Subtest: remaining revision milestones offer preserved content and primary action
+ok 5 - remaining revision milestones offer preserved content and primary action
+  ---
+  duration_ms: 85.240209
+  type: 'test'
+  ...
+# Subtest: card and Library retain pending independent answers without granting credit
+ok 6 - card and Library retain pending independent answers without granting credit
+  ---
+  duration_ms: 128.227
+  type: 'test'
+  ...
+# Subtest: navigation preserves completed evidence through reload and tier switching
+ok 7 - navigation preserves completed evidence through reload and tier switching
+  ---
+  duration_ms: 584.863417
+  type: 'test'
+  ...
+# Subtest: destination restore resumes current assessment instead of old answer snapshots
+ok 8 - destination restore resumes current assessment instead of old answer snapshots
+  ---
+  duration_ms: 47.440125
+  type: 'test'
+  ...
+# Subtest: previous tier history destination stays on current tier dashboard
+ok 9 - previous tier history destination stays on current tier dashboard
+  ---
+  duration_ms: 304.661167
+  type: 'test'
+  ...
+# Subtest: other lesson destinations restore their subject and topic
+ok 10 - other lesson destinations restore their subject and topic
+  ---
+  duration_ms: 21.057375
+  type: 'test'
+  ...
+# Subtest: native history records destinations and manually controls restoration scroll
+ok 11 - native history records destinations and manually controls restoration scroll
+  ---
+  duration_ms: 32.008833
+  type: 'test'
+  ...
+# Subtest: reload interactive and Osmosis hash resumes the matching saved destination
+ok 12 - reload interactive and Osmosis hash resumes the matching saved destination
+  ---
+  duration_ms: 58.094375
+  type: 'test'
+  ...
+# Subtest: reload microscope revision destination preserves optional original resources view
+ok 13 - reload microscope revision destination preserves optional original resources view
+  ---
+  duration_ms: 27.155583
+  type: 'test'
+  ...
+# Subtest: discovery opens with prediction and retained video before the science; no technical prerequisites
+ok 14 - discovery opens with prediction and retained video before the science; no technical prerequisites
+  ---
+  duration_ms: 166.214958
+  type: 'test'
+  ...
+# Subtest: returning students can watch or revisit discovery without replacing their saved frontier and drafts
+ok 15 - returning students can watch or revisit discovery without replacing their saved frontier and drafts
+  ---
+  duration_ms: 45.092666
+  type: 'test'
+  ...
+# Subtest: all six stages retain video access; independent assessment hides guided analogies and has no O9 display code
+ok 16 - all six stages retain video access; independent assessment hides guided analogies and has no O9 display code
+  ---
+  duration_ms: 48.647667
+  type: 'test'
+  ...
+# Subtest: reveal compares escaped saved prediction with explanation, persists and earns no mastery
+ok 17 - reveal compares escaped saved prediction with explanation, persists and earns no mastery
+  ---
+  duration_ms: 241.016416
+  type: 'test'
+  ...
+# Subtest: blank reveal gently teaches and allows original membrane stage without inventing a prediction
+ok 18 - blank reveal gently teaches and allows original membrane stage without inventing a prediction
+  ---
+  duration_ms: 42.88125
+  type: 'test'
+  ...
+# Subtest: soaking preserves prediction and presents bidirectional membrane model
+ok 19 - soaking preserves prediction and presents bidirectional membrane model
+  ---
+  duration_ms: 39.507208
+  type: 'test'
+  ...
+# Subtest: reveal cannot expose teaching during pending independent check
+ok 20 - reveal cannot expose teaching during pending independent check
+  ---
+  duration_ms: 39.1985
+  type: 'test'
+  ...
+# Subtest: Stage 4 requires an attempt before feedback and models are revealed
+ok 21 - Stage 4 requires an attempt before feedback and models are revealed
+  ---
+  duration_ms: 161.778875
+  type: 'test'
+  ...
+# Subtest: Stage 4 uses the submitted option, shows a model and leaves free text unmarked
+ok 22 - Stage 4 uses the submitted option, shows a model and leaves free text unmarked
+  ---
+  duration_ms: 67.646792
+  type: 'test'
+  ...
+# Subtest: Stage 4 improved writing retains the original across reload and changed cases
+ok 23 - Stage 4 improved writing retains the original across reload and changed cases
+  ---
+  duration_ms: 75.697708
+  type: 'test'
+  ...
+# Subtest: Stage 5 has no model or marking checklist before complete submission
+ok 24 - Stage 5 has no model or marking checklist before complete submission
+  ---
+  duration_ms: 64.673625
+  type: 'test'
+  ...
+# Subtest: Stage 5 shows actual correct/incorrect answers and signed calculation feedback
+ok 25 - Stage 5 shows actual correct/incorrect answers and signed calculation feedback
+  ---
+  duration_ms: 27.255708
+  type: 'test'
+  ...
+# Subtest: Stage 5 correct results match original scoring and have no free-text score
+ok 26 - Stage 5 correct results match original scoring and have no free-text score
+  ---
+  duration_ms: 42.785375
+  type: 'test'
+  ...
+# Subtest: written submission snapshots remain original when drafts change and repeat history survives
+ok 27 - written submission snapshots remain original when drafts change and repeat history survives
+  ---
+  duration_ms: 79.828875
+  type: 'test'
+  ...
+# Subtest: older results are preserved without inventing original written submissions
+ok 28 - older results are preserved without inventing original written submissions
+  ---
+  duration_ms: 34.051084
+  type: 'test'
+  ...
+# Subtest: Stage 6 approved guide and navigation remain available
+ok 29 - Stage 6 approved guide and navigation remain available
+  ---
+  duration_ms: 51.049125
+  type: 'test'
+  ...
+# Subtest: existing unseen-check mastery and repeat safeguards are unaffected by feedback
+ok 30 - existing unseen-check mastery and repeat safeguards are unaffected by feedback
+  ---
+  duration_ms: 64.996667
+  type: 'test'
+  ...
+# Subtest: feedback is escaped and reveals nothing into an in-flight independent check
+ok 31 - feedback is escaped and reveals nothing into an in-flight independent check
+  ---
+  duration_ms: 49.212292
+  type: 'test'
+  ...
+# Subtest: approved teaching and Remember bodies remain byte-identical to their prior renderers
+ok 32 - approved teaching and Remember bodies remain byte-identical to their prior renderers
+  ---
+  duration_ms: 36.644583
+  type: 'test'
+  ...
+# Subtest: blank practice can traverse every stage without mastery or benchmark completion
+ok 33 - blank practice can traverse every stage without mastery or benchmark completion
+  ---
+  duration_ms: 163.6575
+  type: 'test'
+  ...
+# Subtest: overview and Previous preserve answers and resume the last visited stage
+ok 34 - overview and Previous preserve answers and resume the last visited stage
+  ---
+  duration_ms: 67.407083
+  type: 'test'
+  ...
+# Subtest: stage access cannot bypass an independent check or its unanswered submission guard
+ok 35 - stage access cannot bypass an independent check or its unanswered submission guard
+  ---
+  duration_ms: 52.464583
+  type: 'test'
+  ...
+# Subtest: invalid stage destinations and day-seven flow keep their safeguards
+ok 36 - invalid stage destinations and day-seven flow keep their safeguards
+  ---
+  duration_ms: 32.272916
+  type: 'test'
+  ...
+# Subtest: O9 opens original six-stage Lab, preserves its key and exact old saved record
+ok 37 - O9 opens original six-stage Lab, preserves its key and exact old saved record
+  ---
+  duration_ms: 152.698458
+  type: 'test'
+  ...
+# Subtest: O9 single cell demonstration and graph preserve guided-only evidence
+ok 38 - O9 single cell demonstration and graph preserve guided-only evidence
+  ---
+  duration_ms: 70.337625
+  type: 'test'
+  ...
+# Subtest: two O9 forms are unique with one calculation and no practical methods or other lesson questions
+ok 39 - two O9 forms are unique with one calculation and no practical methods or other lesson questions
+  ---
+  duration_ms: 28.450208
+  type: 'test'
+  ...
+# Subtest: Foundation core excludes plasmolysis test while Higher applies extension; boards and courses scoped
+ok 40 - Foundation core excludes plasmolysis test while Higher applies extension; boards and courses scoped
+  ---
+  duration_ms: 655.343458
+  type: 'test'
+  ...
+# Subtest: guided lab results cannot create independent O9 evidence or inflate topic mastery
+ok 41 - guided lab results cannot create independent O9 evidence or inflate topic mastery
+  ---
+  duration_ms: 32.477833
+  type: 'test'
+  ...
+# Subtest: pending O9 assessment hides teaching, video, hints and answers
+ok 42 - pending O9 assessment hides teaching, video, hints and answers
+  ---
+  duration_ms: 26.261958
+  type: 'test'
+  ...
+# Subtest: O9 independent result changes only O9 section mastery; double submit and editing result cannot rescore
+ok 43 - O9 independent result changes only O9 section mastery; double submit and editing result cannot rescore
+  ---
+  duration_ms: 30.745458
+  type: 'test'
+  ...
+# Subtest: missing, nonfinite and incomplete select-two inputs do not score; valid wrong answers do
+ok 44 - missing, nonfinite and incomplete select-two inputs do not score; valid wrong answers do
+  ---
+  duration_ms: 25.540292
+  type: 'test'
+  ...
+# Subtest: fresh second form can score and repeated forms stay unscored
+ok 45 - fresh second form can score and repeated forms stay unscored
+  ---
+  duration_ms: 26.117333
+  type: 'test'
+  ...
+# Subtest: returning to guidance, leaving or changing tier marks pending check assisted without replacing answers
+ok 46 - returning to guidance, leaving or changing tier marks pending check assisted without replacing answers
+  ---
+  duration_ms: 224.509375
+  type: 'test'
+  ...
+# Subtest: reload resumes saved answers and pending assessment independently
+ok 47 - reload resumes saved answers and pending assessment independently
+  ---
+  duration_ms: 53.288291
+  type: 'test'
+  ...
+# Subtest: tier evidence stays separate and prior O7/O8 markers survive
+ok 48 - tier evidence stays separate and prior O7/O8 markers survive
+  ---
+  duration_ms: 313.588209
+  type: 'test'
+  ...
+# Subtest: invalid saved check is recoverable unscored practice; forged score or seen question cannot count as completion
+ok 49 - invalid saved check is recoverable unscored practice; forged score or seen question cannot count as completion
+  ---
+  duration_ms: 48.810708
+  type: 'test'
+  ...
+# Subtest: cancelled and O9-only reset preserve legacy Lab, O7/O8 and other progress
+ok 50 - cancelled and O9-only reset preserve legacy Lab, O7/O8 and other progress
+  ---
+  duration_ms: 32.178125
+  type: 'test'
+  ...
+# Subtest: outside-help declaration is recorded as assisted practice, never mastery
+ok 51 - outside-help declaration is recorded as assisted practice, never mastery
+  ---
+  duration_ms: 25.551042
+  type: 'test'
+  ...
+# Subtest: redundant quiz and animation handlers are removed; preferred demonstration is unique
+ok 52 - redundant quiz and animation handlers are removed; preferred demonstration is unique
+  ---
+  duration_ms: 164.447792
+  type: 'test'
+  ...
+# Subtest: every existing worked example compares gain/loss/zero before its four calculation steps
+ok 53 - every existing worked example compares gain/loss/zero before its four calculation steps
+  ---
+  duration_ms: 42.166459
+  type: 'test'
+  ...
+# Subtest: guided comparison reveals the calculation with corrective feedback even after a wrong choice
+ok 54 - guided comparison reveals the calculation with corrective feedback even after a wrong choice
+  ---
+  duration_ms: 52.481459
+  type: 'test'
+  ...
+# Subtest: gain, loss and zero comparison choices give the right sign without adding independent questions
+ok 55 - gain, loss and zero comparison choices give the right sign without adding independent questions
+  ---
+  duration_ms: 76.813417
+  type: 'test'
+  ...
+# Subtest: saved old guided answers and obsolete quiz data survive reopening without migration or mastery
+ok 56 - saved old guided answers and obsolete quiz data survive reopening without migration or mastery
+  ---
+  duration_ms: 114.469166
+  type: 'test'
+  ...
+# Subtest: comparison cannot alter pending independent assessment or accept invalid choices
+ok 57 - comparison cannot alter pending independent assessment or accept invalid choices
+  ---
+  duration_ms: 41.882875
+  type: 'test'
+  ...
+# Subtest: original Lab worked example also uses four steps while its saved fields and marking remain
+ok 58 - original Lab worked example also uses four steps while its saved fields and marking remain
+  ---
+  duration_ms: 35.350125
+  type: 'test'
+  ...
+# Subtest: opening old saved O9 work adds demonstration without rewriting lab data
+ok 59 - opening old saved O9 work adds demonstration without rewriting lab data
+  ---
+  duration_ms: 113.711
+  type: 'test'
+  ...
+# Subtest: all three cell demonstrations need no prediction and keep a fixed wall and bidirectional water
+ok 60 - all three cell demonstrations need no prediction and keep a fixed wall and bidirectional water
+  ---
+  duration_ms: 40.092333
+  type: 'test'
+  ...
+# Subtest: cucumber starts equally firm then loses turgor and bends, with a reduced-motion alternative
+ok 61 - cucumber starts equally firm then loses turgor and bends, with a reduced-motion alternative
+  ---
+  duration_ms: 55.966041
+  type: 'test'
+  ...
+# Subtest: graph moves only the indicator and distinguishes interpolation from fixed measurements
+ok 62 - graph moves only the indicator and distinguishes interpolation from fixed measurements
+  ---
+  duration_ms: 35.656208
+  type: 'test'
+  ...
+# Subtest: six requested mass examples and fresh questions have correct signs and biological explanations
+ok 63 - six requested mass examples and fresh questions have correct signs and biological explanations
+  ---
+  duration_ms: 50.701625
+  type: 'test'
+  ...
+# Subtest: numeric answers reject blanks, nonfinite values and multiple guesses, accepting Unicode minus
+ok 64 - numeric answers reject blanks, nonfinite values and multiple guesses, accepting Unicode minus
+  ---
+  duration_ms: 26.735708
+  type: 'test'
+  ...
+# Subtest: supported practice saves hints and sign feedback; edits invalidate answers without mastery
+ok 65 - supported practice saves hints and sign feedback; edits invalidate answers without mastery
+  ---
+  duration_ms: 48.720875
+  type: 'test'
+  ...
+# Subtest: independent calculations require all answers before feedback and repeats stay practice
+ok 66 - independent calculations require all answers before feedback and repeats stay practice
+  ---
+  duration_ms: 30.374875
+  type: 'test'
+  ...
+# Subtest: teaching controls cannot change a pending independent O9 assessment
+ok 67 - teaching controls cannot change a pending independent O9 assessment
+  ---
+  duration_ms: 39.799667
+  type: 'test'
+  ...
+# Subtest: new practice reloads with old explanations and lab results intact
+ok 68 - new practice reloads with old explanations and lab results intact
+  ---
+  duration_ms: 71.181791
+  type: 'test'
+  ...
+# Subtest: original six-mark question and six-point guide remain clearly labelled as learning material
+ok 69 - original six-mark question and six-point guide remain clearly labelled as learning material
+  ---
+  duration_ms: 25.981584
+  type: 'test'
+  ...
+# Subtest: invalid saved indicator values fall back without losing original saved work
+ok 70 - invalid saved indicator values fall back without losing original saved work
+  ---
+  duration_ms: 34.962375
+  type: 'test'
+  ...
+# Subtest: phone sign controls save both supported and fresh negative answers without mastery
+ok 71 - phone sign controls save both supported and fresh negative answers without mastery
+  ---
+  duration_ms: 41.163416
+  type: 'test'
+  ...
+# Subtest: structured assessments total ten and parallel transfer changes context
+ok 72 - structured assessments total ten and parallel transfer changes context
+  ---
+  duration_ms: 3.656375
+  type: 'test'
+  ...
+# Subtest: retention boundary and separate storage preserve legacy progress
+ok 73 - retention boundary and separate storage preserve legacy progress
+  ---
+  duration_ms: 3.322292
+  type: 'test'
+  ...
+# Subtest: corrupt or blocked storage produces a visible warning without destroying other data
+ok 74 - corrupt or blocked storage produces a visible warning without destroying other data
+  ---
+  duration_ms: 3.874792
+  type: 'test'
+  ...
+# Subtest: all four misconception branches have a different aligned recheck
+ok 75 - all four misconception branches have a different aligned recheck
+  ---
+  duration_ms: 3.879917
+  type: 'test'
+  ...
+# Subtest: assessment guidance is hidden before an attempted submission
+ok 76 - assessment guidance is hidden before an attempted submission
+  ---
+  duration_ms: 1.829792
+  type: 'test'
+  ...
+# Subtest: entry is shared tier AQA Cell Biology only
+ok 77 - entry is shared tier AQA Cell Biology only
+  ---
+  duration_ms: 1.131334
+  type: 'test'
+  ...
+# Subtest: equal and unequal model text explicitly keeps bidirectional water movement
+ok 78 - equal and unequal model text explicitly keeps bidirectional water movement
+  ---
+  duration_ms: 1.170541
+  type: 'test'
+  ...
+# Subtest: incomplete prerequisite and misconception stages cannot advance
+ok 79 - incomplete prerequisite and misconception stages cannot advance
+  ---
+  duration_ms: 4.122583
+  type: 'test'
+  ...
+# Subtest: tutor module does not write original state, add bank questions or call paid services
+ok 80 - tutor module does not write original state, add bank questions or call paid services
+  ---
+  duration_ms: 0.601083
+  type: 'test'
+  ...
+# Subtest: actual HTML script order integrates the entry and leaves existing progress intact
+ok 81 - actual HTML script order integrates the entry and leaves existing progress intact
+  ---
+  duration_ms: 119.83075
+  type: 'test'
+  ...
+# Subtest: captioned teaching video appears before any quiz and uses local optional playback
+ok 82 - captioned teaching video appears before any quiz and uses local optional playback
+  ---
+  duration_ms: 0.698208
+  type: 'test'
+  ...
+# Subtest: narrated player explains sound and provides separate visible subtitles without a duplicate native track or muting
+ok 83 - narrated player explains sound and provides separate visible subtitles without a duplicate native track or muting
+  ---
+  duration_ms: 0.535667
+  type: 'test'
+  ...
+# Subtest: blank nonsense malformed and multiple percentages are visible invalid inputs, not wrong attempts
+ok 84 - blank nonsense malformed and multiple percentages are visible invalid inputs, not wrong attempts
+  ---
+  duration_ms: 5.491333
+  type: 'test'
+  ...
+# Subtest: gain wrong attempts progress through three distinct hints and reveal only on third
+ok 85 - gain wrong attempts progress through three distinct hints and reveal only on third
+  ---
+  duration_ms: 0.672209
+  type: 'test'
+  ...
+# Subtest: specific sign, final-mass denominator and missing percentage conversion hints
+ok 86 - specific sign, final-mass denominator and missing percentage conversion hints
+  ---
+  duration_ms: 1.831791
+  type: 'test'
+  ...
+# Subtest: correct formats retain accurate behaviour and explicitly validate worked denominator
+ok 87 - correct formats retain accurate behaviour and explicitly validate worked denominator
+  ---
+  duration_ms: 4.350125
+  type: 'test'
+  ...
+# Subtest: invalid input between wrong attempts does not advance hints or reveal solution
+ok 88 - invalid input between wrong attempts does not advance hints or reveal solution
+  ---
+  duration_ms: 1.064334
+  type: 'test'
+  ...
+# Subtest: supported answer requires unseen independent transfer and never writes bank mastery
+ok 89 - supported answer requires unseen independent transfer and never writes bank mastery
+  ---
+  duration_ms: 1.339792
+  type: 'test'
+  ...
+# Subtest: revealed and hinted transfer cannot establish independent evidence; next sample is unseen
+ok 90 - revealed and hinted transfer cannot establish independent evidence; next sample is unseen
+  ---
+  duration_ms: 2.680542
+  type: 'test'
+  ...
+# Subtest: calculation support and transfer state persist across reload and rendering escapes feedback
+ok 91 - calculation support and transfer state persist across reload and rendering escapes feedback
+  ---
+  duration_ms: 2.644416
+  type: 'test'
+  ...
+# Subtest: stage three cannot be bypassed with unchecked or invalid text
+ok 92 - stage three cannot be bypassed with unchecked or invalid text
+  ---
+  duration_ms: 0.625333
+  type: 'test'
+  ...
+# Subtest: editing a checked answer invalidates progression until it is checked again
+ok 93 - editing a checked answer invalidates progression until it is checked again
+  ---
+  duration_ms: 0.562917
+  type: 'test'
+  ...
+# Subtest: reopen resumes frontier after revisiting and retains checked fresh transfer
+ok 94 - reopen resumes frontier after revisiting and retains checked fresh transfer
+  ---
+  duration_ms: 1.075541
+  type: 'test'
+  ...
+# Subtest: legacy saves migrate without losing stage and restored choices and repairs render
+ok 95 - legacy saves migrate without losing stage and restored choices and repairs render
+  ---
+  duration_ms: 0.918417
+  type: 'test'
+  ...
+# Subtest: input autosaves drafts and failure remains visible across navigation
+ok 96 - input autosaves drafts and failure remains visible across navigation
+  ---
+  duration_ms: 3.625708
+  type: 'test'
+  ...
+# Subtest: RP02 opens as milestone ten with six unlocked stages and distinct physical-practical warning
+ok 97 - RP02 opens as milestone ten with six unlocked stages and distinct physical-practical warning
+  ---
+  duration_ms: 97.217667
+  type: 'test'
+  ...
+# Subtest: method teaches apparatus, reasons, controls, safe preparation and labelled dilution
+ok 98 - method teaches apparatus, reasons, controls, safe preparation and labelled dilution
+  ---
+  duration_ms: 60.11975
+  type: 'test'
+  ...
+# Subtest: simulation requires initial weighing, timing and gentle blotting before recording
+ok 99 - simulation requires initial weighing, timing and gentle blotting before recording
+  ---
+  duration_ms: 28.357
+  type: 'test'
+  ...
+# Subtest: all simulated batches have three positive-mass repeats with controlled parameters and no duplicate rows
+ok 100 - all simulated batches have three positive-mass repeats with controlled parameters and no duplicate rows
+  ---
+  duration_ms: 40.646708
+  type: 'test'
+  ...
+# Subtest: scientific dataset has gains, losses, variation and a plausible estimated crossing
+ok 101 - scientific dataset has gains, losses, variation and a plausible estimated crossing
+  ---
+  duration_ms: 46.730459
+  type: 'test'
+  ...
+# Subtest: analysis reuses O9 signed calculation and actual recorded repeat means
+ok 102 - analysis reuses O9 signed calculation and actual recorded repeat means
+  ---
+  duration_ms: 51.933667
+  type: 'test'
+  ...
+# Subtest: plot placement rejects the wrong mean and updates numerical graph coordinates from data
+ok 103 - plot placement rejects the wrong mean and updates numerical graph coordinates from data
+  ---
+  duration_ms: 39.389459
+  type: 'test'
+  ...
+# Subtest: evaluation repairs realistic errors without changing scores
+ok 104 - evaluation repairs realistic errors without changing scores
+  ---
+  duration_ms: 34.630375
+  type: 'test'
+  ...
+# Subtest: simulation, answers, plots and notes survive reload without writing new storage keys
+ok 105 - simulation, answers, plots and notes survive reload without writing new storage keys
+  ---
+  duration_ms: 68.643833
+  type: 'test'
+  ...
+# Subtest: Foundation/Higher, board and course paths remain separate and legacy O9 progress is retained
+ok 106 - Foundation/Higher, board and course paths remain separate and legacy O9 progress is retained
+  ---
+  duration_ms: 379.505125
+  type: 'test'
+  ...
+# Subtest: independent check has twelve items per fresh form, balanced options and full skills coverage
+ok 107 - independent check has twelve items per fresh form, balanced options and full skills coverage
+  ---
+  duration_ms: 27.140667
+  type: 'test'
+  ...
+# Subtest: no models, correct responses or written rubrics appear before valid submission
+ok 108 - no models, correct responses or written rubrics appear before valid submission
+  ---
+  duration_ms: 25.698333
+  type: 'test'
+  ...
+# Subtest: written answer is required and not automatically marked; numeric formats are strictly validated
+ok 109 - written answer is required and not automatically marked; numeric formats are strictly validated
+  ---
+  duration_ms: 27.808375
+  type: 'test'
+  ...
+# Subtest: actual wrong submitted answers are Review even after opening explanations
+ok 110 - actual wrong submitted answers are Review even after opening explanations
+  ---
+  duration_ms: 27.2475
+  type: 'test'
+  ...
+# Subtest: unseen structured evidence sets only its section and cannot inflate whole-topic mastery
+ok 111 - unseen structured evidence sets only its section and cannot inflate whole-topic mastery
+  ---
+  duration_ms: 26.187375
+  type: 'test'
+  ...
+# Subtest: duplicate submit, edited answers after submit and repeated forms cannot add credit
+ok 112 - duplicate submit, edited answers after submit and repeated forms cannot add credit
+  ---
+  duration_ms: 27.629792
+  type: 'test'
+  ...
+# Subtest: leaving for teaching or navigating away makes pending answers practice; reload alone preserves independence
+ok 113 - leaving for teaching or navigating away makes pending answers practice; reload alone preserves independence
+  ---
+  duration_ms: 55.905583
+  type: 'test'
+  ...
+# Subtest: guided handlers cannot reveal hints during an independent check
+ok 114 - guided handlers cannot reveal hints during an independent check
+  ---
+  duration_ms: 25.92625
+  type: 'test'
+  ...
+# Subtest: saved result and immutable original writing survive reload and repeats
+ok 115 - saved result and immutable original writing survive reload and repeats
+  ---
+  duration_ms: 56.922917
+  type: 'test'
+  ...
+# Subtest: cancelled reset preserves evidence; approved section reset preserves O9 and unrelated mastery
+ok 116 - cancelled reset preserves evidence; approved section reset preserves O9 and unrelated mastery
+  ---
+  duration_ms: 43.203584
+  type: 'test'
+  ...
+# Subtest: malformed saved checks are preserved for recovery and cannot earn new unseen credit
+ok 117 - malformed saved checks are preserved for recovery and cannot earn new unseen credit
+  ---
+  duration_ms: 25.69075
+  type: 'test'
+  ...
+# Subtest: raw written text is escaped in feedback and invalid stage actions are ignored
+ok 118 - raw written text is escaped in feedback and invalid stage actions are ignored
+  ---
+  duration_ms: 26.392167
+  type: 'test'
+  ...
+# Subtest: method narration uses slow device speech and stops when changing stages
+ok 119 - method narration uses slow device speech and stops when changing stages
+  ---
+  duration_ms: 27.181375
+  type: 'test'
+  ...
+# Subtest: simulation illustration follows the actual batch concentration and weighing phase
+ok 120 - simulation illustration follows the actual batch concentration and weighing phase
+  ---
+  duration_ms: 25.456542
+  type: 'test'
+  ...
+# Subtest: practical and plot feedback stay beside controls; rate results stay expanded and clear on edit
+ok 121 - practical and plot feedback stay beside controls; rate results stay expanded and clear on edit
+  ---
+  duration_ms: 28.118084
+  type: 'test'
+  ...
+# Subtest: independent graph uses only its supplied dataset and suppresses guided trend answers
+ok 122 - independent graph uses only its supplied dataset and suppresses guided trend answers
+  ---
+  duration_ms: 26.117334
+  type: 'test'
+  ...
+# Subtest: dashboard labels RP02 structured evidence without implying verified written or physical mastery
+ok 123 - dashboard labels RP02 structured evidence without implying verified written or physical mastery
+  ---
+  duration_ms: 26.428416
+  type: 'test'
+  ...
+# Subtest: numeric sign controls work without a minus key on a phone decimal keyboard
+ok 124 - numeric sign controls work without a minus key on a phone decimal keyboard
+  ---
+  duration_ms: 25.388459
+  type: 'test'
+  ...
+# Subtest: Stage 1 changes by exactly one purpose sentence
+ok 125 - Stage 1 changes by exactly one purpose sentence
+  ---
+  duration_ms: 82.933625
+  type: 'test'
+  ...
+# Subtest: Stage 4 purpose precedes calculations and connects zero change to continued movement
+ok 126 - Stage 4 purpose precedes calculations and connects zero change to continued movement
+  ---
+  duration_ms: 43.651458
+  type: 'test'
+  ...
+# Subtest: graph purpose precedes the existing graph and avoids an intracellular-sugar claim
+ok 127 - graph purpose precedes the existing graph and avoids an intracellular-sugar claim
+  ---
+  duration_ms: 30.64775
+  type: 'test'
+  ...
+# Subtest: approved Stages 2, 3, 5 and 6 remain exactly identical, with no extra quizzes or inputs
+ok 128 - approved Stages 2, 3, 5 and 6 remain exactly identical, with no extra quizzes or inputs
+  ---
+  duration_ms: 42.540625
+  type: 'test'
+  ...
+# Subtest: existing percentages, rate, plotting and zero crossing remain correct
+ok 129 - existing percentages, rate, plotting and zero crossing remain correct
+  ---
+  duration_ms: 47.129792
+  type: 'test'
+  ...
+# Subtest: Hollie visible text and optional slow narration use exactly the same script
+ok 130 - Hollie visible text and optional slow narration use exactly the same script
+  ---
+  duration_ms: 28.886208
+  type: 'test'
+  ...
+# Subtest: purpose supports speech-unavailable devices without altering saved data or granting credit
+ok 131 - purpose supports speech-unavailable devices without altering saved data or granting credit
+  ---
+  duration_ms: 60.488791
+  type: 'test'
+  ...
+# Subtest: purpose guide cannot appear during independent questions or bypass submission safeguards
+ok 132 - purpose guide cannot appear during independent questions or bypass submission safeguards
+  ---
+  duration_ms: 27.392
+  type: 'test'
+  ...
+1..132
+# tests 132
+# suites 0
+# pass 132
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 1944.576584

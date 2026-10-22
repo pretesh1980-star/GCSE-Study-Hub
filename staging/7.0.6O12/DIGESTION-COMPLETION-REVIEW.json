@@ -1,0 +1,535 @@
+{
+  "build": "7.0.5S",
+  "method": "Targeted review of only 4.2.2.1, RP03 and RP04 using the existing cached AQA 8464 evidence and Q/R adequacy standard. Completion based on actual teaching/revision, assessment/feedback, skills, tier and practical support; metadata/question count alone not sufficient.",
+  "numberingCorrection": "The request transposed the practical labels. Official existing specification: RP03 food tests; RP04 effect of pH on amylase. Preserved those correct mappings and completed both requested activities.",
+  "before": {
+    "fullyCovered": 15,
+    "partial": 62,
+    "missing": 1,
+    "higherOnlyAdequate": 0
+  },
+  "after": {
+    "fullyCovered": 18,
+    "partial": 59,
+    "missing": 1,
+    "higherOnlyAdequate": 0
+  },
+  "units": [
+    {
+      "specRef": "4.2.2.1",
+      "title": "The human digestive system",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Existing digestion/enzyme/bile/villus material retained and extended with integrated organ functions, enzymes as protein catalysts, complementary active-site specificity/model limits, temperature/pH and denaturation, production sites, substrates/products, bile storage/release, absorption and metabolic use.",
+      "assessment": "q01 organ/enzyme site-product coverage; q02 protein-catalyst specificity; q03 temperature/pH application; q04 inverse-time calculation; q05 bile delivery application; q07 enzyme-rate graph; q12 absorption/metabolism/egestion. Original protease, high-temperature, bile and villus questions remain.",
+      "answersFeedback": "Every new record has a model answer and targeted criteria/misconceptions; writing uses explicit self-assessment. Rate answer accepts valid inverse-time forms and rejects time, mass/time and unrelated dimensions.",
+      "skillsAndPractical": "MS1a/1c rate calculation and reciprocal-time comparisons, WS1.2 model reasoning and quantitative/qualitative graph interpretation; no chemical symbol equations needed.",
+      "tier": "All targeted requirements are shared Foundation/Higher. Effective Foundation, unsure and Higher access confirmed; original Higher material retained.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Organisation|From cells to organ systems",
+        "Biology|Organisation|Enzymes and digestion",
+        "Biology|Organisation|Bile and the digestive system"
+      ],
+      "questionRefs": [
+        "bio2-lipase",
+        "bio2-denature",
+        "bio2-bile",
+        "bio2-villi",
+        "aqa-bio-step-organisation-1-0",
+        "aqa-bio-step-organisation-1-1",
+        "aqa-bio-step-organisation-2-0",
+        "aqa-bio-step-organisation-2-1",
+        "aqa-digestion-completion-q01",
+        "aqa-digestion-completion-q02",
+        "aqa-digestion-completion-q03",
+        "aqa-digestion-completion-q04",
+        "aqa-digestion-completion-q05",
+        "aqa-digestion-completion-q07",
+        "aqa-digestion-completion-q12"
+      ],
+      "supportRefs": [
+        "Biology|practical|food",
+        "Biology|practical|enzymes",
+        "Biology|support|enzyme-graph",
+        "Biology|support|digestion-ph-graph"
+      ],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Organisation|From cells to organ systems",
+            "label": "From cells to organ systems",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5S reviewed shared digestive-system/food-test/amylase extension; original content retained."
+          },
+          {
+            "id": "Biology|Organisation|Enzymes and digestion",
+            "label": "Enzymes and digestion",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5S reviewed shared digestive-system/food-test/amylase extension; original content retained."
+          },
+          {
+            "id": "Biology|Organisation|Bile and the digestive system",
+            "label": "Bile and the digestive system",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5S reviewed shared digestive-system/food-test/amylase extension; original content retained."
+          }
+        ],
+        "questions": [
+          {
+            "id": "bio2-lipase",
+            "label": "Which enzyme breaks down lipids?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "bio2-denature",
+            "label": "Explain why very high temperature reduces enzyme activity.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "bio2-bile",
+            "label": "Explain how bile helps digestion without being an enzyme.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "bio2-villi",
+            "label": "Explain two adaptations of villi for absorption.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-bio-step-organisation-1-0",
+            "label": "What does protease break down?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bio-step-organisation-1-1",
+            "label": "Why can a very high temperature slow an enzyme?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bio-step-organisation-2-0",
+            "label": "Where is bile made?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bio-step-organisation-2-1",
+            "label": "What does bile do to acidic food from the stomach?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-digestion-completion-q01",
+            "label": "Describe the digestive functions of the mouth/salivary glands, stomach, pancreas and small intestine. For amylase, protease and lipase, state production sites, substrate and products.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5S reviewed shared 4.2.2.1/RP03 food/RP04 amylase content, answers and feedback; correct AQA 8464 numbering preserved."
+          },
+          {
+            "id": "aqa-digestion-completion-q02",
+            "label": "Which statement best explains enzyme specificity in the simplified lock-and-key model?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5S reviewed shared 4.2.2.1/RP03 food/RP04 amylase content, answers and feedback; correct AQA 8464 numbering preserved."
+          },
+          {
+            "id": "aqa-digestion-completion-q03",
+            "label": "An enzyme reacts slowly at low temperature. Another sample was heated far above its optimum and then cooled. Predict the effect of warming the first sample and cooling the second. Explain why a large pH change may also reduce activity.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5S reviewed shared 4.2.2.1/RP03 food/RP04 amylase content, answers and feedback; correct AQA 8464 numbering preserved."
+          },
+          {
+            "id": "aqa-digestion-completion-q04",
+            "label": "The same starch endpoint is reached in 120 seconds. Calculate the relative rate, 1/time, in s⁻¹ to three significant figures.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5S reviewed shared 4.2.2.1/RP03 food/RP04 amylase content, answers and feedback; correct AQA 8464 numbering preserved."
+          },
+          {
+            "id": "aqa-digestion-completion-q05",
+            "label": "Less bile reaches the small intestine, but the amount of lipase is unchanged. Explain why fat digestion may slow. State where bile is made, stored and released, and distinguish emulsification from digestion.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5S reviewed shared 4.2.2.1/RP03 food/RP04 amylase content, answers and feedback; correct AQA 8464 numbering preserved."
+          },
+          {
+            "id": "aqa-digestion-completion-q07",
+            "label": "Use the pH graph. Which tested pH has the highest relative rate? Compare rates at pH 7 and 5 using the endpoint times 60 s and 120 s. Explain the pattern and why it does not establish an exact optimum for every enzyme.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5S reviewed shared 4.2.2.1/RP03 food/RP04 amylase content, answers and feedback; correct AQA 8464 numbering preserved."
+          },
+          {
+            "id": "aqa-digestion-completion-q12",
+            "label": "Explain why a protein-rich meal needs digestion before absorption and how absorbed products can be used by the body. Distinguish this from water absorption and egestion.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5S reviewed shared 4.2.2.1/RP03 food/RP04 amylase content, answers and feedback; correct AQA 8464 numbering preserved."
+          }
+        ],
+        "support": [
+          {
+            "id": "Biology|practical|food",
+            "label": "Food tests",
+            "kind": "practical",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5S reviewed shared digestive-system/food-test/amylase extension; original content retained."
+          },
+          {
+            "id": "Biology|practical|enzymes",
+            "label": "Enzymes and pH",
+            "kind": "practical",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5S reviewed shared digestive-system/food-test/amylase extension; original content retained."
+          },
+          {
+            "id": "Biology|support|enzyme-graph",
+            "label": "Learning Lab enzyme-temperature graph",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "Biology|support|digestion-ph-graph",
+            "label": "RP04 amylase pH/relative-rate graph",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5S reviewed shared 4.2.2.1/RP03 food/RP04 amylase content, answers and feedback; correct AQA 8464 numbering preserved."
+          }
+        ]
+      }
+    },
+    {
+      "specRef": "RP03",
+      "title": "Nutrient identification",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Food tests: comparable separate samples/appropriate extracts, iodine/starch, heated Benedict’s/reducing sugar, Biuret/protein, Sudan III/lipid and retained ethanol-emulsion alternative. Positive/negative observations, water-bath safety, flammability, reagent handling, controls, masked results and reliable interpretation are explicit.",
+      "assessment": "q09 unknown-result interpretation; q10 distinct reagent/method/positive-negative/heating assessment; q11 unfamiliar flawed procedure, controls and safety evaluation. These are direct practical tasks, not generic digestion recall.",
+      "answersFeedback": "Every new record has a model answer and targeted criteria/misconceptions; writing uses explicit self-assessment. Rate answer accepts valid inverse-time forms and rejects time, mass/time and unrelated dimensions.",
+      "skillsAndPractical": "AQA Trilogy required practical 3, AT2 qualitative tests. No exact concentration inferred from uncalibrated colour. Negative means not detected under test conditions.",
+      "tier": "All targeted requirements are shared Foundation/Higher. Effective Foundation, unsure and Higher access confirmed; original Higher material retained.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|practical|food",
+        "Biology|Organisation|Bile and the digestive system"
+      ],
+      "questionRefs": [
+        "aqa-digestion-completion-q09",
+        "aqa-digestion-completion-q10",
+        "aqa-digestion-completion-q11"
+      ],
+      "supportRefs": [
+        "Biology|practical|food"
+      ],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|practical|food",
+            "label": "Food tests",
+            "kind": "practical",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5S reviewed shared digestive-system/food-test/amylase extension; original content retained."
+          },
+          {
+            "id": "Biology|Organisation|Bile and the digestive system",
+            "label": "Bile and the digestive system",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5S reviewed shared digestive-system/food-test/amylase extension; original content retained."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-digestion-completion-q09",
+            "label": "An unknown food gives blue-black with iodine, stays blue after Benedict’s and water-bath heating, turns purple with Biuret and forms a red-stained oil layer with Sudan III. Interpret each result. Could it still contain carbohydrates?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5S reviewed shared 4.2.2.1/RP03 food/RP04 amylase content, answers and feedback; correct AQA 8464 numbering preserved."
+          },
+          {
+            "id": "aqa-digestion-completion-q10",
+            "label": "Describe how to carry out and distinguish the iodine, Benedict’s, Biuret and Sudan III food tests, including positive and negative results and the correct use of heating.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5S reviewed shared 4.2.2.1/RP03 food/RP04 amylase content, answers and feedback; correct AQA 8464 numbering preserved."
+          },
+          {
+            "id": "aqa-digestion-completion-q11",
+            "label": "A student uses one dirty pipette for all tests, filters away an oily layer before testing for lipid, heats ethanol over a flame and calls a dark extract negative when no colour change is obvious. Evaluate and improve this procedure.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5S reviewed shared 4.2.2.1/RP03 food/RP04 amylase content, answers and feedback; correct AQA 8464 numbering preserved."
+          }
+        ],
+        "support": [
+          {
+            "id": "Biology|practical|food",
+            "label": "Food tests",
+            "kind": "practical",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5S reviewed shared digestive-system/food-test/amylase extension; original content retained."
+          }
+        ]
+      }
+    },
+    {
+      "specRef": "RP04",
+      "title": "Amylase and acidity",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Amylase/starch with buffer range; equilibrated water-bath/electric-heater temperature; equal concentrations/volumes; immediate timing; fresh spotting-tile iodine samples every 30 seconds; blue-black/first orange-brown endpoint; repeats, variability, safety, limitations and improvements.",
+      "assessment": "q04 rate calculation; q06 dedicated practical plan; q07 pH/time-rate graph application; q08 sampling-interval uncertainty, repeats/anomaly investigation and safety. Full model answers and specific criteria provided.",
+      "answersFeedback": "Every new record has a model answer and targeted criteria/misconceptions; writing uses explicit self-assessment. Rate answer accepts valid inverse-time forms and rejects time, mass/time and unrelated dimensions.",
+      "skillsAndPractical": "AQA Trilogy required practical 4, AT1/2/5. Rate = 1/time for same starting amount/endpoint; units s⁻¹. Last-positive/first-negative interval prevents false precision; fastest tested pH is not an exact universal optimum.",
+      "tier": "All targeted requirements are shared Foundation/Higher. Effective Foundation, unsure and Higher access confirmed; original Higher material retained.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|practical|enzymes",
+        "Biology|Organisation|Enzymes and digestion"
+      ],
+      "questionRefs": [
+        "aqa-digestion-completion-q04",
+        "aqa-digestion-completion-q06",
+        "aqa-digestion-completion-q07",
+        "aqa-digestion-completion-q08"
+      ],
+      "supportRefs": [
+        "Biology|practical|enzymes",
+        "Biology|support|digestion-ph-graph"
+      ],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|practical|enzymes",
+            "label": "Enzymes and pH",
+            "kind": "practical",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5S reviewed shared digestive-system/food-test/amylase extension; original content retained."
+          },
+          {
+            "id": "Biology|Organisation|Enzymes and digestion",
+            "label": "Enzymes and digestion",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5S reviewed shared digestive-system/food-test/amylase extension; original content retained."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-digestion-completion-q04",
+            "label": "The same starch endpoint is reached in 120 seconds. Calculate the relative rate, 1/time, in s⁻¹ to three significant figures.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5S reviewed shared 4.2.2.1/RP03 food/RP04 amylase content, answers and feedback; correct AQA 8464 numbering preserved."
+          },
+          {
+            "id": "aqa-digestion-completion-q06",
+            "label": "Plan the pH/amylase investigation using buffers, starch, amylase, iodine and a spotting tile. Explain timing, endpoint, temperature control and two other controls.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5S reviewed shared 4.2.2.1/RP03 food/RP04 amylase content, answers and feedback; correct AQA 8464 numbering preserved."
+          },
+          {
+            "id": "aqa-digestion-completion-q07",
+            "label": "Use the pH graph. Which tested pH has the highest relative rate? Compare rates at pH 7 and 5 using the endpoint times 60 s and 120 s. Explain the pattern and why it does not establish an exact optimum for every enzyme.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5S reviewed shared 4.2.2.1/RP03 food/RP04 amylase content, answers and feedback; correct AQA 8464 numbering preserved."
+          },
+          {
+            "id": "aqa-digestion-completion-q08",
+            "label": "In one run iodine is blue-black at 30 s and orange-brown at 60 s. Explain the endpoint limitation. How would you improve reliability and investigate an unusually long repeat without simply discarding it? Include one safety precaution.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5S reviewed shared 4.2.2.1/RP03 food/RP04 amylase content, answers and feedback; correct AQA 8464 numbering preserved."
+          }
+        ],
+        "support": [
+          {
+            "id": "Biology|practical|enzymes",
+            "label": "Enzymes and pH",
+            "kind": "practical",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5S reviewed shared digestive-system/food-test/amylase extension; original content retained."
+          },
+          {
+            "id": "Biology|support|digestion-ph-graph",
+            "label": "RP04 amylase pH/relative-rate graph",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5S reviewed shared 4.2.2.1/RP03 food/RP04 amylase content, answers and feedback; correct AQA 8464 numbering preserved."
+          }
+        ]
+      }
+    }
+  ],
+  "newQuestions": {
+    "total": 12,
+    "writingSelfAssessment": 10,
+    "numericAutoCheck": 1,
+    "multipleChoice": 1
+  },
+  "recordedTierBacklog": 0,
+  "knownUnresolvedTierConcerns": 0,
+  "answerUnitBacklog": 0
+}

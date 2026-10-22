@@ -1,0 +1,24 @@
+✔ exact twelve-milestone order and unique IDs (69.792459ms)
+✔ every source character maps once, with no missing or duplicate canonical entries, both tiers (19.691916ms)
+✔ split lessons map the relevant material to structures, diffusion, osmosis, practical and exchange (13.164ms)
+✔ all milestones have distinct purpose, prior knowledge, next connection and demonstration (44.599542ms)
+✔ particles and respiration prerequisites appear before related teaching (23.1635ms)
+✔ RP01 and RP02 follow theory and expose laboratory method, controls and analysis (24.258875ms)
+✔ final assessment offered before Organisation; no reading-based mastery (44.403417ms)
+✔ Osmosis video and lab entry appear only in Osmosis milestone, without duplicate native captions (42.240542ms)
+✔ navigation preserves mastery, card records, saved tutor answers and choices (36.238875ms)
+✔ reload and Continue learning resume a per-tier milestone without marking complete (226.531958ms)
+✔ corrupt or blocked navigation storage leaves content available (20.211958ms)
+✔ Back restores milestones and library, with safe reload fallback (31.53425ms)
+✔ Back never revives an old gradable quiz or scores it twice (18.744292ms)
+✔ Foundation/Higher question filtering and audited shared content remain intact (45.789291ms)
+✔ new journey scoped to AQA Trilogy; other boards and courses retain their original content (15.357167ms)
+✔ homepage logo and long mobile milestone labels retain accessible markup and wrapping (1.70525ms)
+ℹ tests 16
+ℹ suites 0
+ℹ pass 16
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 734.009292

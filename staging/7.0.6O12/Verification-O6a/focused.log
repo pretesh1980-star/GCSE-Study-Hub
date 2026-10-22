@@ -1,0 +1,82 @@
+TAP version 13
+# Subtest: O6 opens from existing milestone with independent activity state
+ok 1 - O6 opens from existing milestone with independent activity state
+  ---
+  duration_ms: 105.462708
+  type: 'test'
+  ...
+# Subtest: exploration exposes accurate relationships, model limits and nonidentical pairs
+ok 2 - exploration exposes accurate relationships, model limits and nonidentical pairs
+  ---
+  duration_ms: 24.463833
+  type: 'test'
+  ...
+# Subtest: relationship construction rejects misconceptions and allows retries
+ok 3 - relationship construction rejects misconceptions and allows retries
+  ---
+  duration_ms: 22.194833
+  type: 'test'
+  ...
+# Subtest: all exploratory actions and hints award zero credit
+ok 4 - all exploratory actions and hints award zero credit
+  ---
+  duration_ms: 22.958791
+  type: 'test'
+  ...
+# Subtest: gene direct manipulation validates values and retains selected position
+ok 5 - gene direct manipulation validates values and retains selected position
+  ---
+  duration_ms: 23.018625
+  type: 'test'
+  ...
+# Subtest: guided state resumes with unchanged localStorage keys
+ok 6 - guided state resumes with unchanged localStorage keys
+  ---
+  duration_ms: 53.067542
+  type: 'test'
+  ...
+# Subtest: tier separation retains higher state while foundation starts fresh
+ok 7 - tier separation retains higher state while foundation starts fresh
+  ---
+  duration_ms: 284.601917
+  type: 'test'
+  ...
+# Subtest: unsupported board and course cannot mutate O6 state
+ok 8 - unsupported board and course cannot mutate O6 state
+  ---
+  duration_ms: 45.123375
+  type: 'test'
+  ...
+# Subtest: exit disables controls and library retains approved O5 entry
+ok 9 - exit disables controls and library retains approved O5 entry
+  ---
+  duration_ms: 27.779667
+  type: 'test'
+  ...
+# Subtest: corrupt visual fields recover to safe defaults
+ok 10 - corrupt visual fields recover to safe defaults
+  ---
+  duration_ms: 21.477541
+  type: 'test'
+  ...
+# Subtest: keyboard SVG alternatives, live feedback and range label exist
+ok 11 - keyboard SVG alternatives, live feedback and range label exist
+  ---
+  duration_ms: 22.688958
+  type: 'test'
+  ...
+# Subtest: progressive hints are capped and do not change mastery
+ok 12 - progressive hints are capped and do not change mastery
+  ---
+  duration_ms: 20.387042
+  type: 'test'
+  ...
+1..12
+# tests 12
+# suites 0
+# pass 12
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 738.495541

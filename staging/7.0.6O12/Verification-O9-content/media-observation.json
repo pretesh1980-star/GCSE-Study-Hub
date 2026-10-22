@@ -1,0 +1,41 @@
+{
+  "browser": "Codex in-app browser",
+  "observed": [
+    {
+      "file": "osmosis-explainer-clear-subtitles.mp4",
+      "currentTime": 0.026667,
+      "dimensions": [
+        960,
+        720
+      ],
+      "decodedFrames": 26,
+      "sustainedPlaybackVerified": false
+    },
+    {
+      "file": "osmosis-explainer-narrated.mp4",
+      "currentTime": 0,
+      "dimensions": [
+        960,
+        540
+      ],
+      "decodedFrames": 4,
+      "sustainedPlaybackVerified": false
+    },
+    {
+      "file": "osmosis-explainer.mp4",
+      "currentTime": 1.504211,
+      "dimensions": [
+        960,
+        540
+      ],
+      "decodedFrames": 22,
+      "shortPlaybackSampleAdvanced": true
+    }
+  ],
+  "captionSource": {
+    "httpStatus": 200,
+    "webvttHeader": true,
+    "cues": 41
+  },
+  "limits": "Initial decoding is not reliable narrated playback. Audible narration, full-film playback and timed subtitle legibility remain unverified. No media files were replaced."
+}

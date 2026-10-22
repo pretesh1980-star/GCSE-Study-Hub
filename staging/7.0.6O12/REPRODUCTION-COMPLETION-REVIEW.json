@@ -1,0 +1,624 @@
+{
+  "build": "7.0.5Z",
+  "method": "Targeted actual-content review of exactly three existing records against cached AQA 8464; no full Biology audit. Teaching/revision, direct applications, answers/feedback, skills and tier gating reviewed.",
+  "before": {
+    "fullyCovered": 48,
+    "partial": 30,
+    "missing": 0,
+    "higherOnlyAdequateSubset": 1
+  },
+  "after": {
+    "fullyCovered": 51,
+    "partial": 27,
+    "missing": 0,
+    "higherOnlyAdequateSubset": 2
+  },
+  "counting": "Higher-only adequate is a subset of Full, not additive; 51+27+0=78.",
+  "units": [
+    {
+      "specRef": "4.5.3.3",
+      "auditRecordId": "aqa-8464-F-4.5.3.3",
+      "title": "Hormones in human reproduction",
+      "before": "PARTIALLY COVERED",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Existing Reproductive hormones extended with puberty/secondary sex characteristics, ovarian oestrogen, testicular testosterone/sperm, approximate cycle timing and basic pituitary FSH/LH and ovarian hormone roles. Existing Higher Hormones, feedback and fertility extended with FSH/oestrogen/LH/progesterone interactions, stage-dependent inhibition/stimulation and cycle restart. New Higher relative-level table/graph.",
+      "assessment": "Shared q01 role/source and maturation/release application; Higher q05 real plotted model peaks/interaction explanation and q06 absent-LH/cycle-restart prediction. Existing C/P/Y Foundation variants and all old Higher questions preserved.",
+      "answersFeedback": "Every new task has a model answer, criteria and misconception feedback. Percentage marking accepts percent forms and rejects incompatible physical units.",
+      "skillsAndPractical": "Shared basic roles; Higher interactions and hormone-level graphs. Relative units do not imply comparable absolute concentrations. 28-day timing is an approximate model, not universal.",
+      "tier": "Shared, with interactions/graphs for 4.5.3.3 separately gated Higher",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Homeostasis & Response|Reproduction and hormones",
+        "Biology|Homeostasis & Response|Reproductive hormones"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-homeostasis-response-3-0",
+        "aqa-bio-step-homeostasis-response-3-1",
+        "aqa-bio-step-homeostasis-response-9-0",
+        "bio-deep-homeostasis-response-reproduction-and-hormones-summary",
+        "bio-deep-homeostasis-response-reproduction-and-hormones-keyword",
+        "bio-deep-homeostasis-response-reproduction-and-hormones-explain",
+        "bio-deep-homeostasis-response-reproduction-and-hormones-justify",
+        "bio-deep-homeostasis-response-reproduction-and-hormones-improve",
+        "bio-deep-homeostasis-response-reproduction-and-hormones-grade9",
+        "bio-deep-homeostasis-response-reproductive-hormones-summary",
+        "bio-deep-homeostasis-response-reproductive-hormones-keyword",
+        "bio-deep-homeostasis-response-reproductive-hormones-explain",
+        "bio-deep-homeostasis-response-reproductive-hormones-improve",
+        "aqa-reproduction-completion-q01"
+      ],
+      "supportRefs": [],
+      "higherLessonRefs": [
+        "Biology|Homeostasis & Response|Hormones, feedback and fertility",
+        "Biology|support|reproduction-cycle"
+      ],
+      "higherQuestionRefs": [
+        "aqa-bio-step-homeostasis-response-9-1",
+        "bio-deep-homeostasis-response-reproductive-hormones-justify",
+        "bio-deep-homeostasis-response-reproductive-hormones-grade9",
+        "bio2-ovulation",
+        "aqa-reproduction-completion-q05",
+        "aqa-reproduction-completion-q06"
+      ],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Homeostasis & Response|Reproduction and hormones",
+            "label": "Reproduction and hormones",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5Z existing reproductive section extended at original audited tier; earlier Foundation question variants preserved."
+          },
+          {
+            "id": "Biology|Homeostasis & Response|Reproductive hormones",
+            "label": "Reproductive hormones",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5Z existing reproductive section extended at original audited tier; earlier Foundation question variants preserved."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-bio-step-homeostasis-response-3-0",
+            "label": "Which hormone triggers ovulation?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5P: shared 4.5.3.3 hormone-role demand; Foundation variant replaces ADH with FSH and Glucagon with Oestrogen. Higher original preserved; source-checked variant fails closed."
+          },
+          {
+            "id": "aqa-bio-step-homeostasis-response-3-1",
+            "label": "Which hormone helps maintain the uterine lining after ovulation?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bio-step-homeostasis-response-9-0",
+            "label": "Which hormone stimulates egg maturation?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Reproductive hormones reviewed: Foundation hormone roles separated from interaction/timing feedback; existing audited wording reused."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-reproduction-and-hormones-summary",
+            "label": "Which statement best summarises “Reproduction and hormones”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Reproduction and hormones summary: shared audited prompt, answer and feedback retained; excluded/mixed-source hormone distractors separated using existing reviewed Foundation wording. Original Higher question preserved."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-reproduction-and-hormones-keyword",
+            "label": "Which key term is most closely linked to “Reproduction and hormones”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-reproduction-and-hormones-explain",
+            "label": "Explain “Reproduction and hormones” in two linked sentences.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-reproduction-and-hormones-justify",
+            "label": "An ovarian follicle needs to mature. Which hormone helps it grow? A student answers: “FSH.” Explain why that answer is correct.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-reproduction-and-hormones-improve",
+            "label": "A student writes only “FSH”. Improve this into a complete answer about Reproduction and hormones.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-reproduction-and-hormones-grade9",
+            "label": "Write a Grade 8/9 response for this focus: Use hormone names precisely.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-reproductive-hormones-summary",
+            "label": "Which statement best summarises “Reproductive hormones”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Reproductive hormones reviewed: Foundation hormone roles separated from interaction/timing feedback; existing audited wording reused."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-reproductive-hormones-keyword",
+            "label": "Which key term is most closely linked to “Reproductive hormones”?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-reproductive-hormones-explain",
+            "label": "Explain “Reproductive hormones” in two linked sentences.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Reproductive hormones reviewed: Foundation hormone roles separated from interaction/timing feedback; existing audited wording reused."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-reproductive-hormones-improve",
+            "label": "A student writes only “ovulation”. Improve this into a complete answer about Reproductive hormones.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Reproductive hormones reviewed: Foundation hormone roles separated from interaction/timing feedback; existing audited wording reused."
+          },
+          {
+            "id": "aqa-reproduction-completion-q01",
+            "label": "Explain the roles and sources of FSH, LH, oestrogen, progesterone and testosterone. Distinguish egg maturation from ovulation and explain what changes at puberty and why a 28-day cycle is only a model.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5Z targeted review against AQA 8464 4.5.3.3–5; shared roles/contraception and Higher interactions/fertility separated."
+          }
+        ],
+        "support": [],
+        "higherLessons": [
+          {
+            "id": "Biology|Homeostasis & Response|Hormones, feedback and fertility",
+            "label": "Hormones, feedback and fertility",
+            "kind": "lesson",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.5Z existing reproductive section extended at original audited tier; earlier Foundation question variants preserved."
+          },
+          {
+            "id": "Biology|support|reproduction-cycle",
+            "label": "Higher menstrual-cycle hormone graph",
+            "kind": "support",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.5Z targeted review against AQA 8464 4.5.3.3–5; shared roles/contraception and Higher interactions/fertility separated."
+          }
+        ],
+        "higherQuestions": [
+          {
+            "id": "aqa-bio-step-homeostasis-response-9-1",
+            "label": "Which hormone rises after ovulation to help maintain the lining?",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "Reproductive hormones reviewed: Cycle timing/graph or advanced response retained on Higher."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-reproductive-hormones-justify",
+            "label": "A graph shows a sharp LH rise midway through the cycle. What event follows? A student answers: “Ovulation.” Explain why that answer is correct.",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "Reproductive hormones reviewed: Cycle timing/graph or advanced response retained on Higher."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-reproductive-hormones-grade9",
+            "label": "Write a Grade 8/9 response for this focus: Explain timing rather than just listing hormones.",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "Reproductive hormones reviewed: Cycle timing/graph or advanced response retained on Higher."
+          },
+          {
+            "id": "bio2-ovulation",
+            "label": "Which hormone triggers ovulation?",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "Shared ovulation demand but original distractors include ADH and glucagon. Recover unchanged for Higher only; no Foundation release of mixed distractors."
+          },
+          {
+            "id": "aqa-reproduction-completion-q05",
+            "label": "Higher: use the hormone graph/table to identify the LH peak, the preceding oestrogen rise and the later progesterone peak. Explain the FSH–oestrogen–LH sequence and what progesterone does after ovulation.",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.5Z targeted review against AQA 8464 4.5.3.3–5; shared roles/contraception and Higher interactions/fertility separated."
+          },
+          {
+            "id": "aqa-reproduction-completion-q06",
+            "label": "Higher: predict the effect of an absent LH surge and explain why falling progesterone and oestrogen near the end of a non-pregnant model cycle allow another cycle to begin.",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.5Z targeted review against AQA 8464 4.5.3.3–5; shared roles/contraception and Higher interactions/fertility separated."
+          }
+        ]
+      }
+    },
+    {
+      "specRef": "4.5.3.4",
+      "auditRecordId": "aqa-8464-F-4.5.3.4",
+      "title": "Contraception",
+      "before": "PARTIALLY COVERED",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Existing Reproduction and hormones extended with pill/FSH suppression, progesterone-based delivery, barriers, spermicide, intrauterine methods, fertile-time abstinence and sterilisation; correct use/duration/reversibility/side-effects/access/cost/values evaluation. Cached specification mechanism wording retained with narrow NHS-supported qualifications about patch formulation/duration and copper versus hormonal intrauterine devices.",
+      "assessment": "Shared q02 hormonal mechanisms and delivery evaluation; q03 all named non-hormonal mechanisms/comparison; q04 fictional unequal-denominator pregnancy proportions and evidence/personal/social evaluation. These direct mappings replace unrelated ovulation evidence without deleting any questions.",
+      "answersFeedback": "Every new task has a model answer, criteria and misconception feedback. Percentage marking accepts percent forms and rejects incompatible physical units.",
+      "skillsAndPractical": "All shared, including oral contraceptive inhibition of FSH explicitly required in this subsection. WS1.3/1.4: evidence and personal/social/economic values; no universal best choice or current effectiveness statistics.",
+      "tier": "Shared, with interactions/graphs for 4.5.3.3 separately gated Higher",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Homeostasis & Response|Reproduction and hormones"
+      ],
+      "questionRefs": [
+        "aqa-reproduction-completion-q02",
+        "aqa-reproduction-completion-q03",
+        "aqa-reproduction-completion-q04"
+      ],
+      "supportRefs": [],
+      "higherLessonRefs": [],
+      "higherQuestionRefs": [],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Homeostasis & Response|Reproduction and hormones",
+            "label": "Reproduction and hormones",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5Z existing reproductive section extended at original audited tier; earlier Foundation question variants preserved."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-reproduction-completion-q02",
+            "label": "Explain how oral contraceptives and progesterone-based methods prevent pregnancy in the specification model. Compare a daily pill with an implant and correct the claim that every hormonal delivery method lasts for years after one use.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5Z targeted review against AQA 8464 4.5.3.3–5; shared roles/contraception and Higher interactions/fertility separated."
+          },
+          {
+            "id": "aqa-reproduction-completion-q03",
+            "label": "Compare condoms/diaphragms, spermicides, intrauterine devices, avoiding intercourse at fertile times and male/female sterilisation. Give each mechanism and one reason why the methods should not be treated as interchangeable.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5Z targeted review against AQA 8464 4.5.3.3–5; shared roles/contraception and Higher interactions/fertility separated."
+          },
+          {
+            "id": "aqa-reproduction-completion-q04",
+            "label": "Fictional study: method A has 8 pregnancies in 200 users and B has 6 in 300 over the same year. Calculate both pregnancy proportions and evaluate a claim that B must be the right choice for every person.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5Z targeted review against AQA 8464 4.5.3.3–5; shared roles/contraception and Higher interactions/fertility separated."
+          }
+        ],
+        "support": [],
+        "higherLessons": [],
+        "higherQuestions": []
+      }
+    },
+    {
+      "specRef": "4.5.3.5",
+      "auditRecordId": "biologyHigherPoints[specRef=\"4.5.3.5\"]",
+      "title": "Hormones to treat infertility",
+      "before": "PARTIALLY COVERED",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Existing Higher fertility section extended with FSH/LH drugs versus IVF; several eggs, collection, laboratory fertilisation, cell division/embryos and one/two embryo transfer in specification account; microscopy development; benefits, physical/emotional demands, repeat attempts/costs, multiple-birth risks, uncertain success, patient/doctor and social/ethical perspectives.",
+      "assessment": "Higher q07 sequence/drug distinction/microscopy; q08 numerical live-birth-cycle percentage; q09 fictional cohort success and multiple-birth denominators plus risk/equity/ethics evaluation. Eight previously restored questions retained unchanged.",
+      "answersFeedback": "Every new task has a model answer, criteria and misconception feedback. Percentage marking accepts percent forms and rejects incompatible physical units.",
+      "skillsAndPractical": "Entire unit Higher-only. WS1.1 microscopy; WS1.3/1.4 ethics/patient-doctor evaluation. All rates invented and explicitly labelled; no unsupported clinical statistics or personal predictions.",
+      "tier": "Higher only",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Homeostasis & Response|Hormones, feedback and fertility"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-homeostasis-response-10-0",
+        "aqa-bio-step-homeostasis-response-10-1",
+        "bio-deep-homeostasis-response-hormones-feedback-and-fertility-summary",
+        "bio-deep-homeostasis-response-hormones-feedback-and-fertility-keyword",
+        "bio-deep-homeostasis-response-hormones-feedback-and-fertility-explain",
+        "bio-deep-homeostasis-response-hormones-feedback-and-fertility-justify",
+        "bio-deep-homeostasis-response-hormones-feedback-and-fertility-improve",
+        "bio-deep-homeostasis-response-hormones-feedback-and-fertility-grade9",
+        "aqa-reproduction-completion-q07",
+        "aqa-reproduction-completion-q08",
+        "aqa-reproduction-completion-q09"
+      ],
+      "supportRefs": [],
+      "higherLessonRefs": [],
+      "higherQuestionRefs": [],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Homeostasis & Response|Hormones, feedback and fertility",
+            "label": "Hormones, feedback and fertility",
+            "kind": "lesson",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.5Z existing reproductive section extended at original audited tier; earlier Foundation question variants preserved."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-bio-step-homeostasis-response-10-0",
+            "label": "What is one possible risk of fertility hormone treatment?",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-bio-step-homeostasis-response-10-1",
+            "label": "Which hormone directly triggers ovulation?",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-hormones-feedback-and-fertility-summary",
+            "label": "Which statement best summarises “Hormones, feedback and fertility”?",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-hormones-feedback-and-fertility-keyword",
+            "label": "Which key term is most closely linked to “Hormones, feedback and fertility”?",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-hormones-feedback-and-fertility-explain",
+            "label": "Explain “Hormones, feedback and fertility” in two linked sentences.",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-hormones-feedback-and-fertility-justify",
+            "label": "A fertility treatment gives FSH and LH. What is it trying to encourage? A student answers: “Egg maturation and ovulation.” Explain why that answer is correct.",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-hormones-feedback-and-fertility-improve",
+            "label": "A student writes only “FSH”. Improve this into a complete answer about Hormones, feedback and fertility.",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "bio-deep-homeostasis-response-hormones-feedback-and-fertility-grade9",
+            "label": "Write a Grade 8/9 response for this focus: Explain the benefit and a possible risk when evaluating treatment.",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-reproduction-completion-q07",
+            "label": "Higher: distinguish fertility-drug treatment followed by usual fertilisation from IVF. Sequence the IVF stages, explain the roles of FSH/LH and microscopy, and identify what is not guaranteed after transfer.",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.5Z targeted review against AQA 8464 4.5.3.3–5; shared roles/contraception and Higher interactions/fertility separated."
+          },
+          {
+            "id": "aqa-reproduction-completion-q08",
+            "label": "Higher: fictional IVF cohort A has 24 cycles resulting in a live birth out of 80 started cycles. What percentage of started cycles resulted in a live birth?",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.5Z targeted review against AQA 8464 4.5.3.3–5; shared roles/contraception and Higher interactions/fertility separated."
+          },
+          {
+            "id": "aqa-reproduction-completion-q09",
+            "label": "Higher: fictional cohort A has 24 live-birth cycles/80 started cycles, including 1 multiple birth; B has 35/100, including 7 multiple births. Evaluate a claim that the higher success proportion means B is automatically preferable. Include patient/doctor perspectives and two reasons comparisons may be limited.",
+            "kind": "question",
+            "tier": "higher",
+            "current": true,
+            "studentVisible": false,
+            "foundationReady": false,
+            "foundationEvidence": false,
+            "reason": "7.0.5Z targeted review against AQA 8464 4.5.3.3–5; shared roles/contraception and Higher interactions/fertility separated."
+          }
+        ],
+        "support": [],
+        "higherLessons": [],
+        "higherQuestions": []
+      }
+    }
+  ],
+  "newQuestions": {
+    "total": 9,
+    "writingSelfAssessment": 8,
+    "numericAutoCheck": 1,
+    "multipleChoice": 0,
+    "shared": 4,
+    "higherOnly": 5
+  },
+  "recordedTierBacklog": 0,
+  "knownUnresolvedTierConcerns": 0,
+  "answerUnitBacklog": 0,
+  "tests": {
+    "focused": 171,
+    "full": 487,
+    "failures": 0
+  },
+  "scopeVerification": "100 registered pathways compared with Y: every existing question unchanged, only the three target Homeostasis sections and nine new questions differ. All practicals and unrelated sections unchanged. All 75 non-target external and live audit-unit records unchanged.",
+  "mcq": "All 320 variants pass W1 controls; stored map/runtime byte-identical to Y. No new MCQs or altered options.",
+  "sources": {
+    "scope": "Cached work/aqa-704/biology.json: AQA 8464 4.5.3.3–5",
+    "clarifications": [
+      "https://www.nhs.uk/contraception/methods-of-contraception/",
+      "https://www.nhs.uk/contraception/choosing-contraception/how-it-is-used/",
+      "https://www.letstalkaboutit.nhs.uk/contraception/coils",
+      "https://www.nhs.uk/contraception/methods-of-contraception/ius-hormonal-coil/what-is-it/"
+    ]
+  },
+  "limitations": [
+    "Internal coverage judgement, not external accreditation.",
+    "Written answers self-assessed against explicit model/criteria.",
+    "All evaluation rates and hormone graph values illustrative, not current clinical statistics.",
+    "Narrow current terminology qualifications avoid presenting cached contraception simplifications as universal mechanisms.",
+    "Browser skipped; environment unchanged."
+  ]
+}

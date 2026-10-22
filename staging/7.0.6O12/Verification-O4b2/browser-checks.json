@@ -1,0 +1,14 @@
+{
+  "browser": "Codex in-app browser",
+  "responsiveViewport": [
+    390,
+    844
+  ],
+  "documentWidth": 390,
+  "scrollWidth": 390,
+  "pictureSizeExample2": "50 \u00b5m \u00d7 200 = 10 mm",
+  "pictureSizeExample3": "40 \u00b5m \u00d7 500 = 20 mm",
+  "sizeCardRetained": true,
+  "answerAndExampleSurviveReload": true,
+  "physicalDevicesTested": false
+}

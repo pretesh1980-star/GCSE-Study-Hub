@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="480" height="290" preserveAspectRatio="xMinYMin meet" viewBox="0 0 480 290" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="H-GLUCOSE-title H-GLUCOSE-desc"><title id="H-GLUCOSE-title">H-GLUCOSE · Glucose uptake route</title><desc id="H-GLUCOSE-desc">The overall route goes from small-intestine contents through intestinal lining cells to blood. Glucose concentrations are 1.2 units in the intestine and 4.8 units in blood, using the same arbitrary units. Two arrows show the overall uptake direction. This is not one direct gut-to-blood pump; no process or energy requirement is labelled.</desc>
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="480" height="290"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-290)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="15" y="83" width="135" height="145" rx="10" ry="0" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.7; fill: rgb(91%,95%,98%); fill-rule: evenodd;"/>
+			<rect x="177" y="83" width="125" height="145" rx="10" ry="0" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.7; fill: rgb(89%,93%,90%); fill-rule: evenodd;"/>
+			<rect x="329" y="83" width="135" height="145" rx="10" ry="0" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.7; fill: rgb(91%,90%,95%); fill-rule: evenodd;"/>
+			<text x="18.481445312499993" y="201" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,402) scale(1,-1)">Small intestine</text>
+			<text x="44.49707031249999" y="178" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,356) scale(1,-1)">contents</text>
+			<text x="48.98388671874999" y="145" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,290) scale(1,-1)">Glucose</text>
+			<text x="47.97753906249999" y="121" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,242) scale(1,-1)">1.2 units</text>
+			<text x="199.4931640625" y="198" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,396) scale(1,-1)">Intestinal</text>
+			<text x="192.48828125" y="174" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,348) scale(1,-1)">lining cells</text>
+			<text x="371.50732421875" y="201" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,402) scale(1,-1)">Blood</text>
+			<text x="363.98388671875" y="145" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,290) scale(1,-1)">Glucose</text>
+			<text x="362.9775390625" y="121" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,242) scale(1,-1)">4.8 units</text>
+			<path d="M 150,165 L 176,165 Z" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 2.5;"/>
+			<polygon points="176 165, 165.7173 171.186, 165.7173 158.814" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,22%); fill-rule: evenodd;"/>
+			<path d="M 302,165 L 328,165 Z" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 2.5;"/>
+			<polygon points="328 165, 317.7173 171.186, 317.7173 158.814" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,22%); fill-rule: evenodd;"/>
+			<text x="102.93457031249997" y="49" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,98) scale(1,-1)">Same arbitrary concentration units</text>
+			<text x="50.39794921874997" y="22" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,44) scale(1,-1)">Overall route through cells; not one direct pump</text>
+		</g>
+	</g>
+</svg>

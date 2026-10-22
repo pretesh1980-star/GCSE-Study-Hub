@@ -1,0 +1,4 @@
+Build 7.0.6O2c — visual dashboard
+11 October 2026
+111/111 focused; 695/695 regression passed. Unpublished. No O3.
+See BUILD-O2c-REVIEW.md.

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="480" height="290" preserveAspectRatio="xMinYMin meet" viewBox="0 0 480 290" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="F-CILIATED-title F-CILIATED-desc"><title id="F-CILIATED-title">F-CILIATED · Unfamiliar cell</title><desc id="F-CILIATED-desc">A cell has many thin projections along its upper surface. The projections beat to move liquid, as stated in the question. Several internal folded ovals are labelled mitochondria. No energy process or function of mitochondria is printed.</desc>
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="480" height="290"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-290)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="75" y="70" width="330" height="125" rx="25" ry="0" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 2; fill: rgb(89%,93%,90%); fill-rule: evenodd;"/>
+			<polyline points="95 191, 98 221, 92 240" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd;"/>
+			<polyline points="120 191, 123 221, 117 240" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd;"/>
+			<polyline points="145 191, 148 221, 142 240" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd;"/>
+			<polyline points="170 191, 173 221, 167 240" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd;"/>
+			<polyline points="195 191, 198 221, 192 240" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd;"/>
+			<polyline points="220 191, 223 221, 217 240" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd;"/>
+			<polyline points="245 191, 248 221, 242 240" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd;"/>
+			<polyline points="270 191, 273 221, 267 240" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd;"/>
+			<polyline points="295 191, 298 221, 292 240" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd;"/>
+			<polyline points="320 191, 323 221, 317 240" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd;"/>
+			<polyline points="345 191, 348 221, 342 240" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd;"/>
+			<polyline points="370 191, 373 221, 367 240" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd;"/>
+			<polyline points="395 191, 398 221, 392 240" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd;"/>
+			<ellipse cx="147.0" cy="122.0" rx="30.0" ry="23.0" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,90%,95%); fill-rule: evenodd;"/>
+			<ellipse cx="225.0" cy="115.0" rx="22.0" ry="12.0" style="stroke: rgb(14%,47%,47%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<polyline points="213 115, 219 120, 225 110, 235 118" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd;"/>
+			<ellipse cx="280.0" cy="155.0" rx="22.0" ry="12.0" style="stroke: rgb(14%,47%,47%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<polyline points="268 155, 274 160, 280 150, 290 158" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd;"/>
+			<ellipse cx="336.0" cy="110.0" rx="22.0" ry="12.0" style="stroke: rgb(14%,47%,47%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<polyline points="324 110, 330 115, 336 105, 346 113" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd;"/>
+			<text x="32" y="268" style="font-family: Arial; font-size: 19px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,536) scale(1,-1)">Beating projections</text>
+			<polyline points="226 261, 267 240" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd;"/>
+			<text x="268" y="30" style="font-family: Arial; font-size: 19px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,60) scale(1,-1)">Many mitochondria</text>
+			<polyline points="310 49, 330 104" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd;"/>
+			<text x="20" y="9" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,18) scale(1,-1)">Schematic, not to scale</text>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,3 @@
+Start Preview.command: mode 0755; zsh syntax valid; actual --check exits 0 and recognises the running O11 package on port 8941.
+Preview: started using this candidate’s preview-o11.py, bound to 127.0.0.1; identity O11-active-transport-review-2026-10-15.
+ZIP: complete package CRC integrity and executable Start Preview.command attribute checked after creation. Latest alias SHA256 matches versioned ZIP. Approved baseline SHA256 unchanged.

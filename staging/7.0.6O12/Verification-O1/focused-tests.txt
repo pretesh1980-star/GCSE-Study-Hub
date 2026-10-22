@@ -1,0 +1,35 @@
+✔ O1 opens only the first AQA Trilogy milestone and preserves all twelve names (104.63375ms)
+✔ six discovery scenes render and original grading does not change during supported work (22.003709ms)
+✔ scientific definitions, analogy limits and organism examples are accurate (17.295375ms)
+✔ tap sorting supports undo, rejects duplicates and teaches increasing organisation (17.535291ms)
+✔ incorrect sorting uses progressive feedback and can be repaired (17.556375ms)
+✔ practice wrong answers explain misconceptions, hints advance without immediate reveal (17.738291ms)
+✔ fresh check covers four concepts and withholds answers/hints until submission (32.21525ms)
+✔ independent check uses existing +12/-10 grading and canonical subsection records (23.095041ms)
+✔ duplicate submission, reload, retry and repeated bank grading cannot inflate new scores (39.034583ms)
+✔ new check is unseen and exposed/abandoned items do not qualify as fresh (21.769ms)
+✔ returning to teaching during a pending check makes it unscored practice (23.479667ms)
+✔ scores remain separated by Foundation/Higher context (202.219666ms)
+✔ autosave restores reflection, sort, discovered examples, practice hints and pending answers (40.302709ms)
+✔ homepage, hierarchy Back and ordinary navigation leave tutor safely (21.327292ms)
+✔ animation controls, subtitles, still frames and transcript are present without autoplay (17.335416ms)
+✔ CSS provides reduced-motion, keyboard focus, wrapping and touch-size controls (0.851167ms)
+✔ legacy main storage key and Osmosis script/media are unchanged from corrected N (16.759208ms)
+✔ new items have stable unique IDs, unambiguous answer membership and shared tier (43.171ms)
+✔ exhausted fresh forms do not recycle questions for further credit (34.235625ms)
+✔ narration starts only on Play; Pause cancels speech and freezes motion (16.831709ms)
+✔ narration completion advances four phases and stale callbacks cannot restart playback (16.442958ms)
+✔ system reduced motion keeps the current still frame until manually advanced (18.997541ms)
+✔ replay resets phase; skip/home cancels narration and ignores subsequent completion (18.018917ms)
+✔ subtitle and mute preferences persist; mute never requires a voice (33.344834ms)
+✔ new independent choices are not all in the first position (15.99425ms)
+✔ corrupt new lesson state recovers without changing old progress (15.623833ms)
+✔ unavailable or throwing device voice switches to a timed caption fallback (33.271458ms)
+ℹ tests 27
+ℹ suites 0
+ℹ pass 27
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 963.937917

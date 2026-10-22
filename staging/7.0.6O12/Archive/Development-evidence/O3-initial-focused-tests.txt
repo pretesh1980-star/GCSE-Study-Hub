@@ -1,0 +1,21 @@
+✔ O3 launches only in mapped AQA Trilogy milestone and registers both-tier section-only questions (162.087083ms)
+✔ all eight cell models and feature controls work, with missing-adaptation feedback and reflection saving (53.952ms)
+✔ demonstration progresses, pauses, replays, stops on exit and supports reduced-motion still frames (31.289041ms)
+✔ six supported challenges provide progressive clues, specific mistakes and teaching return without scoring (28.162208ms)
+✔ fresh independent check grades actual lesson mastery, protects whole-topic score and completion (31.237625ms)
+✔ wrong outcomes can complete a check without mastery or false Secure labels (22.981125ms)
+✔ teaching during a pending check converts it to supported practice and consumes no grading evidence (23.663875ms)
+✔ partial answers resume after reload; incomplete submit cannot grade, final submit scores once (46.772375ms)
+✔ fresh forms are distinct, exhausted forms cannot award more points and completed evidence survives a new form (24.524625ms)
+✔ Foundation/Higher evidence and pending answers are isolated; historical unrelated progress remains intact (388.62775ms)
+✔ invalid persisted assessment is archived rather than graded or deleting other history (44.409459ms)
+✔ board/course changes stop active demonstration and cannot score the former context (23.211084ms)
+✔ science content distinguishes osmosis, active transport, xylem/phloem and enrichment (14.852917ms)
+ℹ tests 13
+ℹ suites 0
+ℹ pass 13
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 963.133583

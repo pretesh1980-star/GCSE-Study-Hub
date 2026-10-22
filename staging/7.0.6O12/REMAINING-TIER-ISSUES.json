@@ -1,0 +1,363 @@
+[
+  {
+    "id": "8464-chemistry-atomic-structure-explain-4",
+    "subject": "Chemistry",
+    "type": "tier-metadata",
+    "declared": "both",
+    "audited": "mixed",
+    "reason": "Uses audited lesson subsection: Shared periodic groups combined with separate-science transition-metal properties",
+    "metadata": {
+      "id": "8464-chemistry-atomic-structure-explain-4",
+      "kind": "question",
+      "subject": "Chemistry",
+      "topic": "Atomic Structure",
+      "section": "The periodic table",
+      "declaredTier": "both",
+      "tier": "mixed",
+      "reason": "Uses audited lesson subsection: Shared periodic groups combined with separate-science transition-metal properties",
+      "fingerprint": "76d43cc5"
+    }
+  },
+  {
+    "id": "8464-chemistry-bonding-explain-4",
+    "subject": "Chemistry",
+    "type": "tier-metadata",
+    "declared": "both",
+    "audited": "mixed",
+    "reason": "Uses audited lesson subsection: Shared carbon structures combined with separate-science nanoparticles",
+    "metadata": {
+      "id": "8464-chemistry-bonding-explain-4",
+      "kind": "question",
+      "subject": "Chemistry",
+      "topic": "Bonding",
+      "section": "Carbon and nanoparticles",
+      "declaredTier": "both",
+      "tier": "mixed",
+      "reason": "Uses audited lesson subsection: Shared carbon structures combined with separate-science nanoparticles",
+      "fingerprint": "35e49cc4"
+    }
+  },
+  {
+    "id": "8464-chemistry-quantitative-chemistry-explain-3",
+    "subject": "Chemistry",
+    "type": "tier-metadata",
+    "declared": "both",
+    "audited": "mixed",
+    "reason": "Uses audited lesson subsection: Foundation solution concentration combined with separate-science molar gas volumes",
+    "metadata": {
+      "id": "8464-chemistry-quantitative-chemistry-explain-3",
+      "kind": "question",
+      "subject": "Chemistry",
+      "topic": "Quantitative Chemistry",
+      "section": "Concentration and gas volumes",
+      "declaredTier": "both",
+      "tier": "mixed",
+      "reason": "Uses audited lesson subsection: Foundation solution concentration combined with separate-science molar gas volumes",
+      "fingerprint": "a56cff87"
+    }
+  },
+  {
+    "id": "8464-chemistry-chemical-changes-explain-0",
+    "subject": "Chemistry",
+    "type": "tier-metadata",
+    "declared": "both",
+    "audited": "mixed",
+    "reason": "Uses audited lesson subsection: Shared reactivity combined with Higher-only electron redox",
+    "metadata": {
+      "id": "8464-chemistry-chemical-changes-explain-0",
+      "kind": "question",
+      "subject": "Chemistry",
+      "topic": "Chemical Changes",
+      "section": "Reactivity of metals",
+      "declaredTier": "both",
+      "tier": "mixed",
+      "reason": "Uses audited lesson subsection: Shared reactivity combined with Higher-only electron redox",
+      "fingerprint": "c6871edb"
+    }
+  },
+  {
+    "id": "8464-chemistry-chemical-changes-explain-3",
+    "subject": "Chemistry",
+    "type": "tier-metadata",
+    "declared": "both",
+    "audited": "mixed",
+    "reason": "Uses audited lesson subsection: Basic pH combined with Higher-only acid strength and pH concentration factors",
+    "metadata": {
+      "id": "8464-chemistry-chemical-changes-explain-3",
+      "kind": "question",
+      "subject": "Chemistry",
+      "topic": "Chemical Changes",
+      "section": "The pH scale",
+      "declaredTier": "both",
+      "tier": "mixed",
+      "reason": "Uses audited lesson subsection: Basic pH combined with Higher-only acid strength and pH concentration factors",
+      "fingerprint": "3a54aa96"
+    }
+  },
+  {
+    "id": "8464-chemistry-chemical-changes-explain-4",
+    "subject": "Chemistry",
+    "type": "tier-metadata",
+    "declared": "both",
+    "audited": "mixed",
+    "reason": "Uses audited lesson subsection: Shared electrolysis combined with Higher-only electron redox explanations",
+    "metadata": {
+      "id": "8464-chemistry-chemical-changes-explain-4",
+      "kind": "question",
+      "subject": "Chemistry",
+      "topic": "Chemical Changes",
+      "section": "Electrolysis",
+      "declaredTier": "both",
+      "tier": "mixed",
+      "reason": "Uses audited lesson subsection: Shared electrolysis combined with Higher-only electron redox explanations",
+      "fingerprint": "68dbfd37"
+    }
+  },
+  {
+    "id": "8464-chemistry-organic-chemistry-explain-3",
+    "subject": "Chemistry",
+    "type": "tier-metadata",
+    "declared": "both",
+    "audited": "mixed",
+    "reason": "Uses audited lesson subsection: Shared bromine test combined with additional separate-Chemistry alkene detail",
+    "metadata": {
+      "id": "8464-chemistry-organic-chemistry-explain-3",
+      "kind": "question",
+      "subject": "Chemistry",
+      "topic": "Organic Chemistry",
+      "section": "Alkenes",
+      "declaredTier": "both",
+      "tier": "mixed",
+      "reason": "Uses audited lesson subsection: Shared bromine test combined with additional separate-Chemistry alkene detail",
+      "fingerprint": "a0ae5bd5"
+    }
+  },
+  {
+    "id": "8464-chemistry-using-resources-explain-3",
+    "subject": "Chemistry",
+    "type": "tier-metadata",
+    "declared": "both",
+    "audited": "mixed",
+    "reason": "Uses audited lesson subsection: Foundation recycling combined with Higher-only bioleaching/phytomining",
+    "metadata": {
+      "id": "8464-chemistry-using-resources-explain-3",
+      "kind": "question",
+      "subject": "Chemistry",
+      "topic": "Using Resources",
+      "section": "Reduce, reuse and recycle",
+      "declaredTier": "both",
+      "tier": "mixed",
+      "reason": "Uses audited lesson subsection: Foundation recycling combined with Higher-only bioleaching/phytomining",
+      "fingerprint": "3e8fa843"
+    }
+  },
+  {
+    "id": "8464-physics-energy-explain-3",
+    "subject": "Physics",
+    "type": "tier-metadata",
+    "declared": "both",
+    "audited": "mixed",
+    "reason": "Uses audited lesson subsection: Foundation efficiency calculation combined with Higher-only improving efficiency",
+    "metadata": {
+      "id": "8464-physics-energy-explain-3",
+      "kind": "question",
+      "subject": "Physics",
+      "topic": "Energy",
+      "section": "Dissipation and efficiency",
+      "declaredTier": "both",
+      "tier": "mixed",
+      "reason": "Uses audited lesson subsection: Foundation efficiency calculation combined with Higher-only improving efficiency",
+      "fingerprint": "e2bed51f"
+    }
+  },
+  {
+    "id": "8464-physics-electricity-explain-4",
+    "subject": "Physics",
+    "type": "tier-metadata",
+    "declared": "both",
+    "audited": "mixed",
+    "reason": "Uses audited lesson subsection: Shared grid transmission combined with separate-Physics static electricity",
+    "metadata": {
+      "id": "8464-physics-electricity-explain-4",
+      "kind": "question",
+      "subject": "Physics",
+      "topic": "Electricity",
+      "section": "The National Grid",
+      "declaredTier": "both",
+      "tier": "mixed",
+      "reason": "Uses audited lesson subsection: Shared grid transmission combined with separate-Physics static electricity",
+      "fingerprint": "184a43c9"
+    }
+  },
+  {
+    "id": "8464-physics-particle-model-explain-3",
+    "subject": "Physics",
+    "type": "tier-metadata",
+    "declared": "both",
+    "audited": "mixed",
+    "reason": "Uses audited lesson subsection: Shared gas pressure combined with separate-Physics work on gas",
+    "metadata": {
+      "id": "8464-physics-particle-model-explain-3",
+      "kind": "question",
+      "subject": "Physics",
+      "topic": "Particle Model",
+      "section": "Gas pressure",
+      "declaredTier": "both",
+      "tier": "mixed",
+      "reason": "Uses audited lesson subsection: Shared gas pressure combined with separate-Physics work on gas",
+      "fingerprint": "5cbb8ef9"
+    }
+  },
+  {
+    "id": "8464-physics-atomic-structure-explain-2",
+    "subject": "Physics",
+    "type": "tier-metadata",
+    "declared": "both",
+    "audited": "mixed",
+    "reason": "Uses audited lesson subsection: Foundation half-life definition/graphs combined with Higher-only repeated-halving ratio work",
+    "metadata": {
+      "id": "8464-physics-atomic-structure-explain-2",
+      "kind": "question",
+      "subject": "Physics",
+      "topic": "Atomic Structure",
+      "section": "Half-life",
+      "declaredTier": "both",
+      "tier": "mixed",
+      "reason": "Uses audited lesson subsection: Foundation half-life definition/graphs combined with Higher-only repeated-halving ratio work",
+      "fingerprint": "75cebef5"
+    }
+  },
+  {
+    "id": "8464-physics-forces-explain-2",
+    "subject": "Physics",
+    "type": "tier-metadata",
+    "declared": "both",
+    "audited": "mixed",
+    "reason": "Uses audited lesson subsection: Foundation motion graphs combined with Higher-only velocity-time areas",
+    "metadata": {
+      "id": "8464-physics-forces-explain-2",
+      "kind": "question",
+      "subject": "Physics",
+      "topic": "Forces",
+      "section": "Motion graphs",
+      "declaredTier": "both",
+      "tier": "mixed",
+      "reason": "Uses audited lesson subsection: Foundation motion graphs combined with Higher-only velocity-time areas",
+      "fingerprint": "526d6984"
+    }
+  },
+  {
+    "id": "8464-physics-forces-explain-3",
+    "subject": "Physics",
+    "type": "tier-metadata",
+    "declared": "both",
+    "audited": "mixed",
+    "reason": "Uses audited lesson subsection: Foundation Newton laws combined with Higher-only inertia",
+    "metadata": {
+      "id": "8464-physics-forces-explain-3",
+      "kind": "question",
+      "subject": "Physics",
+      "topic": "Forces",
+      "section": "Newton’s laws",
+      "declaredTier": "both",
+      "tier": "mixed",
+      "reason": "Uses audited lesson subsection: Foundation Newton laws combined with Higher-only inertia",
+      "fingerprint": "6cfaf1da"
+    }
+  },
+  {
+    "id": "8464-physics-forces-explain-4",
+    "subject": "Physics",
+    "type": "tier-metadata",
+    "declared": "both",
+    "audited": "mixed",
+    "reason": "Uses audited lesson subsection: Foundation stopping distance combined with Higher-only momentum",
+    "metadata": {
+      "id": "8464-physics-forces-explain-4",
+      "kind": "question",
+      "subject": "Physics",
+      "topic": "Forces",
+      "section": "Stopping and momentum",
+      "declaredTier": "both",
+      "tier": "mixed",
+      "reason": "Uses audited lesson subsection: Foundation stopping distance combined with Higher-only momentum",
+      "fingerprint": "5b26d2c1"
+    }
+  },
+  {
+    "id": "8464-physics-waves-explain-3",
+    "subject": "Physics",
+    "type": "tier-metadata",
+    "declared": "both",
+    "audited": "mixed",
+    "reason": "Uses audited lesson subsection: Foundation EM uses/hazards combined with Higher-only suitability explanations",
+    "metadata": {
+      "id": "8464-physics-waves-explain-3",
+      "kind": "question",
+      "subject": "Physics",
+      "topic": "Waves",
+      "section": "Uses and hazards",
+      "declaredTier": "both",
+      "tier": "mixed",
+      "reason": "Uses audited lesson subsection: Foundation EM uses/hazards combined with Higher-only suitability explanations",
+      "fingerprint": "9b0b0997"
+    }
+  },
+  {
+    "id": "8464-physics-waves-explain-4",
+    "subject": "Physics",
+    "type": "tier-metadata",
+    "declared": "both",
+    "audited": "mixed",
+    "reason": "Uses audited lesson subsection: Foundation ray diagrams combined with Higher-only refraction mechanisms",
+    "metadata": {
+      "id": "8464-physics-waves-explain-4",
+      "kind": "question",
+      "subject": "Physics",
+      "topic": "Waves",
+      "section": "Reflection and refraction",
+      "declaredTier": "both",
+      "tier": "mixed",
+      "reason": "Uses audited lesson subsection: Foundation ray diagrams combined with Higher-only refraction mechanisms",
+      "fingerprint": "4329c38f"
+    }
+  },
+  {
+    "id": "Physics|Magnetism & Electromagnetism|Electromagnetic devices",
+    "subject": "Physics",
+    "type": "tier-metadata",
+    "declared": "unassigned",
+    "audited": "mixed",
+    "reason": "Higher-only motor effects plus separate-Physics loudspeakers",
+    "metadata": {
+      "id": "Physics|Magnetism & Electromagnetism|Electromagnetic devices",
+      "kind": "lesson",
+      "subject": "Physics",
+      "topic": "Magnetism & Electromagnetism",
+      "section": "Electromagnetic devices",
+      "declaredTier": "unassigned",
+      "tier": "mixed",
+      "reason": "Higher-only motor effects plus separate-Physics loudspeakers",
+      "fingerprint": "98ed5bc0"
+    }
+  },
+  {
+    "id": "8464-physics-magnetism-electromagnetism-explain-3",
+    "subject": "Physics",
+    "type": "tier-metadata",
+    "declared": "both",
+    "audited": "mixed",
+    "reason": "Uses audited lesson subsection: Higher-only motor effects plus separate-Physics loudspeakers",
+    "metadata": {
+      "id": "8464-physics-magnetism-electromagnetism-explain-3",
+      "kind": "question",
+      "subject": "Physics",
+      "topic": "Magnetism & Electromagnetism",
+      "section": "Electromagnetic devices",
+      "declaredTier": "both",
+      "tier": "mixed",
+      "reason": "Uses audited lesson subsection: Higher-only motor effects plus separate-Physics loudspeakers",
+      "fingerprint": "76602597"
+    }
+  }
+]

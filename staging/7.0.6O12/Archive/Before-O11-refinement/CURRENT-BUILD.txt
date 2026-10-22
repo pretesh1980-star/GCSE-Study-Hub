@@ -1,0 +1,11 @@
+LATEST REVIEW BUILD: O11 Active Transport
+DATE: 15 October 2026
+BASELINE: approved GCSE-Study-Hub-O10-STAGE4-REFINED-OPEN-THIS.zip; SHA256 bfce0973b8441755089f8f1ad9a46577990427301984aed42371968115333c32
+STATUS: UNPUBLISHED; no GitHub commit or deployment. O1–O10 approved; O11 awaits hands-on approval.
+PREVIEW: http://127.0.0.1:8941/#cell-biology/active
+LAUNCHER: Start Preview.command; extract the complete ZIP first and keep its terminal open.
+FOCUSED: 163/163 passed; 0 failed/skipped/cancelled.
+REGRESSION: 1089/1089 passed; 0 failed/skipped/cancelled.
+SCORING: Fresh unassisted structured forms set only Cell Biology|Active transport · O11 in existing sectionMastery. No whole-topic mastery; writing unmarked.
+REPORTS: O11-development-review.md and O11-curriculum-coverage.md
+STOP: O11 owner review. O12 not started.

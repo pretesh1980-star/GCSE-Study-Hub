@@ -1,0 +1,7 @@
+{
+  "engine": "native macOS in-app WebKit",
+  "keyboard": "ArrowUp changed first radio answer; resulting first item wrong as expected",
+  "outsideHelp": "checked native help checkbox, submitted, result Unscored practice 11/12; no mastery",
+  "screenshot": "O9-preview.png",
+  "deviceTests": "No physical iPhone/iPad, hardware touch or VoiceOver"
+}

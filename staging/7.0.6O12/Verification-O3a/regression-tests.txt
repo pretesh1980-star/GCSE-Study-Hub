@@ -1,0 +1,4360 @@
+TAP version 13
+# Subtest: Bioenergetics question 1 has correct pathway eligibility, mapping, answer and feedback
+ok 1 - Bioenergetics question 1 has correct pathway eligibility, mapping, answer and feedback
+  ---
+  duration_ms: 431.416375
+  type: 'test'
+  ...
+# Subtest: Bioenergetics question 2 has correct pathway eligibility, mapping, answer and feedback
+ok 2 - Bioenergetics question 2 has correct pathway eligibility, mapping, answer and feedback
+  ---
+  duration_ms: 467.57875
+  type: 'test'
+  ...
+# Subtest: Bioenergetics question 3 has correct pathway eligibility, mapping, answer and feedback
+ok 3 - Bioenergetics question 3 has correct pathway eligibility, mapping, answer and feedback
+  ---
+  duration_ms: 401.219792
+  type: 'test'
+  ...
+# Subtest: Bioenergetics question 4 has correct pathway eligibility, mapping, answer and feedback
+ok 4 - Bioenergetics question 4 has correct pathway eligibility, mapping, answer and feedback
+  ---
+  duration_ms: 367.759459
+  type: 'test'
+  ...
+# Subtest: Bioenergetics question 5 has correct pathway eligibility, mapping, answer and feedback
+ok 5 - Bioenergetics question 5 has correct pathway eligibility, mapping, answer and feedback
+  ---
+  duration_ms: 308.916959
+  type: 'test'
+  ...
+# Subtest: Bioenergetics question 6 has correct pathway eligibility, mapping, answer and feedback
+ok 6 - Bioenergetics question 6 has correct pathway eligibility, mapping, answer and feedback
+  ---
+  duration_ms: 393.132958
+  type: 'test'
+  ...
+# Subtest: Bioenergetics question 7 has correct pathway eligibility, mapping, answer and feedback
+ok 7 - Bioenergetics question 7 has correct pathway eligibility, mapping, answer and feedback
+  ---
+  duration_ms: 402.214417
+  type: 'test'
+  ...
+# Subtest: Bioenergetics question 8 has correct pathway eligibility, mapping, answer and feedback
+ok 8 - Bioenergetics question 8 has correct pathway eligibility, mapping, answer and feedback
+  ---
+  duration_ms: 376.765958
+  type: 'test'
+  ...
+# Subtest: Bioenergetics question 9 has correct pathway eligibility, mapping, answer and feedback
+ok 9 - Bioenergetics question 9 has correct pathway eligibility, mapping, answer and feedback
+  ---
+  duration_ms: 375.456541
+  type: 'test'
+  ...
+# Subtest: Bioenergetics question 10 has correct pathway eligibility, mapping, answer and feedback
+ok 10 - Bioenergetics question 10 has correct pathway eligibility, mapping, answer and feedback
+  ---
+  duration_ms: 407.729833
+  type: 'test'
+  ...
+# Subtest: Bioenergetics question 11 has correct pathway eligibility, mapping, answer and feedback
+ok 11 - Bioenergetics question 11 has correct pathway eligibility, mapping, answer and feedback
+  ---
+  duration_ms: 423.500458
+  type: 'test'
+  ...
+# Subtest: Bioenergetics question 12 has correct pathway eligibility, mapping, answer and feedback
+ok 12 - Bioenergetics question 12 has correct pathway eligibility, mapping, answer and feedback
+  ---
+  duration_ms: 375.2175
+  type: 'test'
+  ...
+# Subtest: Photosynthesis teaching and revision are shared and current
+ok 13 - Photosynthesis teaching and revision are shared and current
+  ---
+  duration_ms: 27.603625
+  type: 'test'
+  ...
+# Subtest: Limiting factors teaching and revision are shared and current
+ok 14 - Limiting factors teaching and revision are shared and current
+  ---
+  duration_ms: 28.561875
+  type: 'test'
+  ...
+# Subtest: Aerobic respiration teaching and revision are shared and current
+ok 15 - Aerobic respiration teaching and revision are shared and current
+  ---
+  duration_ms: 25.23125
+  type: 'test'
+  ...
+# Subtest: Anaerobic respiration teaching and revision are shared and current
+ok 16 - Anaerobic respiration teaching and revision are shared and current
+  ---
+  duration_ms: 24.109667
+  type: 'test'
+  ...
+# Subtest: Exercise and metabolism teaching and revision are shared and current
+ok 17 - Exercise and metabolism teaching and revision are shared and current
+  ---
+  duration_ms: 14.721625
+  type: 'test'
+  ...
+# Subtest: Measuring a biological rate teaching and revision are shared and current
+ok 18 - Measuring a biological rate teaching and revision are shared and current
+  ---
+  duration_ms: 33.373625
+  type: 'test'
+  ...
+# Subtest: Higher interacting-factor and recovery teaching remain excluded from Foundation
+ok 19 - Higher interacting-factor and recovery teaching remain excluded from Foundation
+  ---
+  duration_ms: 14.327792
+  type: 'test'
+  ...
+# Subtest: RP05 method, number, quantitative processing and limitations are shared
+ok 20 - RP05 method, number, quantitative processing and limitations are shared
+  ---
+  duration_ms: 20.489584
+  type: 'test'
+  ...
+# Subtest: shared data arithmetic, graph points and Higher controlled comparisons agree
+ok 21 - shared data arithmetic, graph points and Higher controlled comparisons agree
+  ---
+  duration_ms: 10.680417
+  type: 'test'
+  ...
+# Subtest: time marking preserves valid alternatives and rejects wrong physical units
+ok 22 - time marking preserves valid alternatives and rejects wrong physical units
+  ---
+  duration_ms: 24.404375
+  type: 'test'
+  ...
+# Subtest: new written applications use model-answer feedback and criteria
+ok 23 - new written applications use model-answer feedback and criteria
+  ---
+  duration_ms: 12.90375
+  type: 'test'
+  ...
+# Subtest: existing rate and Higher inverse-square questions are retained
+ok 24 - existing rate and Higher inverse-square questions are retained
+  ---
+  duration_ms: 84.537167
+  type: 'test'
+  ...
+# Subtest: seven complete units have current evidence and zero Biology issues
+ok 25 - seven complete units have current evidence and zero Biology issues
+  ---
+  duration_ms: 254.586792
+  type: 'test'
+  ...
+# Subtest: changed question and shared lesson fail closed until re-audited
+ok 26 - changed question and shared lesson fail closed until re-audited
+  ---
+  duration_ms: 283.583208
+  type: 'test'
+  ...
+# Subtest: new wrapper leaves unrelated topics and non-Trilogy pathways unchanged
+ok 27 - new wrapper leaves unrelated topics and non-Trilogy pathways unchanged
+  ---
+  duration_ms: 11.438417
+  type: 'test'
+  ...
+# Subtest: lesson and practice rendering connect the appropriate graph without Higher leakage
+ok 28 - lesson and practice rendering connect the appropriate graph without Higher leakage
+  ---
+  duration_ms: 259.613
+  type: 'test'
+  ...
+# Subtest: Higher evidence and shared extract are current without relabelling mixed originals
+ok 29 - Higher evidence and shared extract are current without relabelling mixed originals
+  ---
+  duration_ms: 314.426041
+  type: 'test'
+  ...
+# Subtest: T1 appears as an eligible extension in existing lessons and Foundation recall
+ok 30 - T1 appears as an eligible extension in existing lessons and Foundation recall
+  ---
+  duration_ms: 80.502375
+  type: 'test'
+  ...
+# Subtest: T2 appears as an eligible extension in existing lessons and Foundation recall
+ok 31 - T2 appears as an eligible extension in existing lessons and Foundation recall
+  ---
+  duration_ms: 21.712375
+  type: 'test'
+  ...
+# Subtest: T3 appears as an eligible extension in existing lessons and Foundation recall
+ok 32 - T3 appears as an eligible extension in existing lessons and Foundation recall
+  ---
+  duration_ms: 28.728083
+  type: 'test'
+  ...
+# Subtest: T4 appears as an eligible extension in existing lessons and Foundation recall
+ok 33 - T4 appears as an eligible extension in existing lessons and Foundation recall
+  ---
+  duration_ms: 27.944958
+  type: 'test'
+  ...
+# Subtest: T5 appears as an eligible extension in existing lessons and Foundation recall
+ok 34 - T5 appears as an eligible extension in existing lessons and Foundation recall
+  ---
+  duration_ms: 22.129208
+  type: 'test'
+  ...
+# Subtest: T6 appears as an eligible extension in existing lessons and Foundation recall
+ok 35 - T6 appears as an eligible extension in existing lessons and Foundation recall
+  ---
+  duration_ms: 24.789083
+  type: 'test'
+  ...
+# Subtest: q01 is uniquely available in both tiers with audited answers, feedback and exact specification links
+ok 36 - q01 is uniquely available in both tiers with audited answers, feedback and exact specification links
+  ---
+  duration_ms: 390.653542
+  type: 'test'
+  ...
+# Subtest: q02 is uniquely available in both tiers with audited answers, feedback and exact specification links
+ok 37 - q02 is uniquely available in both tiers with audited answers, feedback and exact specification links
+  ---
+  duration_ms: 540.898125
+  type: 'test'
+  ...
+# Subtest: q03 is uniquely available in both tiers with audited answers, feedback and exact specification links
+ok 38 - q03 is uniquely available in both tiers with audited answers, feedback and exact specification links
+  ---
+  duration_ms: 363.702792
+  type: 'test'
+  ...
+# Subtest: q04 is uniquely available in both tiers with audited answers, feedback and exact specification links
+ok 39 - q04 is uniquely available in both tiers with audited answers, feedback and exact specification links
+  ---
+  duration_ms: 446.817291
+  type: 'test'
+  ...
+# Subtest: q05 is uniquely available in both tiers with audited answers, feedback and exact specification links
+ok 40 - q05 is uniquely available in both tiers with audited answers, feedback and exact specification links
+  ---
+  duration_ms: 437.209667
+  type: 'test'
+  ...
+# Subtest: q06 is uniquely available in both tiers with audited answers, feedback and exact specification links
+ok 41 - q06 is uniquely available in both tiers with audited answers, feedback and exact specification links
+  ---
+  duration_ms: 438.006083
+  type: 'test'
+  ...
+# Subtest: q07 is uniquely available in both tiers with audited answers, feedback and exact specification links
+ok 42 - q07 is uniquely available in both tiers with audited answers, feedback and exact specification links
+  ---
+  duration_ms: 413.279542
+  type: 'test'
+  ...
+# Subtest: q08 is uniquely available in both tiers with audited answers, feedback and exact specification links
+ok 43 - q08 is uniquely available in both tiers with audited answers, feedback and exact specification links
+  ---
+  duration_ms: 400.951083
+  type: 'test'
+  ...
+# Subtest: q09 is uniquely available in both tiers with audited answers, feedback and exact specification links
+ok 44 - q09 is uniquely available in both tiers with audited answers, feedback and exact specification links
+  ---
+  duration_ms: 340.890292
+  type: 'test'
+  ...
+# Subtest: q10 is uniquely available in both tiers with audited answers, feedback and exact specification links
+ok 45 - q10 is uniquely available in both tiers with audited answers, feedback and exact specification links
+  ---
+  duration_ms: 371.448542
+  type: 'test'
+  ...
+# Subtest: q11 is uniquely available in both tiers with audited answers, feedback and exact specification links
+ok 46 - q11 is uniquely available in both tiers with audited answers, feedback and exact specification links
+  ---
+  duration_ms: 429.688792
+  type: 'test'
+  ...
+# Subtest: q12 is uniquely available in both tiers with audited answers, feedback and exact specification links
+ok 47 - q12 is uniquely available in both tiers with audited answers, feedback and exact specification links
+  ---
+  duration_ms: 361.137458
+  type: 'test'
+  ...
+# Subtest: q13 is uniquely available in both tiers with audited answers, feedback and exact specification links
+ok 48 - q13 is uniquely available in both tiers with audited answers, feedback and exact specification links
+  ---
+  duration_ms: 372.95025
+  type: 'test'
+  ...
+# Subtest: q14 is uniquely available in both tiers with audited answers, feedback and exact specification links
+ok 49 - q14 is uniquely available in both tiers with audited answers, feedback and exact specification links
+  ---
+  duration_ms: 343.911541
+  type: 'test'
+  ...
+# Subtest: q15 is uniquely available in both tiers with audited answers, feedback and exact specification links
+ok 50 - q15 is uniquely available in both tiers with audited answers, feedback and exact specification links
+  ---
+  duration_ms: 400.950917
+  type: 'test'
+  ...
+# Subtest: q16 is uniquely available in both tiers with audited answers, feedback and exact specification links
+ok 51 - q16 is uniquely available in both tiers with audited answers, feedback and exact specification links
+  ---
+  duration_ms: 354.647458
+  type: 'test'
+  ...
+# Subtest: q17 is uniquely available in both tiers with audited answers, feedback and exact specification links
+ok 52 - q17 is uniquely available in both tiers with audited answers, feedback and exact specification links
+  ---
+  duration_ms: 392.333208
+  type: 'test'
+  ...
+# Subtest: q18 is uniquely available in both tiers with audited answers, feedback and exact specification links
+ok 53 - q18 is uniquely available in both tiers with audited answers, feedback and exact specification links
+  ---
+  duration_ms: 383.768125
+  type: 'test'
+  ...
+# Subtest: r01 is uniquely available in both tiers with audited answers, feedback and exact specification links
+ok 54 - r01 is uniquely available in both tiers with audited answers, feedback and exact specification links
+  ---
+  duration_ms: 322.775875
+  type: 'test'
+  ...
+# Subtest: recovered R01 uses the actual retained source prompt with dimensionless feedback
+ok 55 - recovered R01 uses the actual retained source prompt with dimensionless feedback
+  ---
+  duration_ms: 14.6205
+  type: 'test'
+  ...
+# Subtest: real short-answer checker accepts valid conversions and rejects incompatible units and magnitudes
+ok 56 - real short-answer checker accepts valid conversions and rejects incompatible units and magnitudes
+  ---
+  duration_ms: 11.35325
+  type: 'test'
+  ...
+# Subtest: writing questions show model answers and marking feedback through existing self-assessment
+ok 57 - writing questions show model answers and marking feedback through existing self-assessment
+  ---
+  duration_ms: 12.552291
+  type: 'test'
+  ...
+# Subtest: new diagrams render in lesson and question journey with correct shared scale and Inheritance navigation
+ok 58 - new diagrams render in lesson and question journey with correct shared scale and Inheritance navigation
+  ---
+  duration_ms: 200.179666
+  type: 'test'
+  ...
+# Subtest: RP01 covers plant and animal observation, safe preparation, drawing and calibrated scale
+ok 59 - RP01 covers plant and animal observation, safe preparation, drawing and calibrated scale
+  ---
+  duration_ms: 289.804041
+  type: 'test'
+  ...
+# Subtest: all nine individually reviewed units have current complete evidence; stale support cannot remain Full
+ok 60 - all nine individually reviewed units have current complete evidence; stale support cannot remain Full
+  ---
+  duration_ms: 596.2005
+  type: 'test'
+  ...
+# Subtest: changed lesson or question evidence fails closed instead of exposing unaudited Foundation additions
+ok 61 - changed lesson or question evidence fails closed instead of exposing unaudited Foundation additions
+  ---
+  duration_ms: 71.347417
+  type: 'test'
+  ...
+# Subtest: extensions are absent from other boards/courses and canonical packs stay unchanged
+ok 62 - extensions are absent from other boards/courses and canonical packs stay unchanged
+  ---
+  duration_ms: 321.881959
+  type: 'test'
+  ...
+# Subtest: heart sequence and pacemakers is taught once and shared across tiers
+ok 63 - heart sequence and pacemakers is taught once and shared across tiers
+  ---
+  duration_ms: 74.663708
+  type: 'test'
+  ...
+# Subtest: vessel adaptations is taught once and shared across tiers
+ok 64 - vessel adaptations is taught once and shared across tiers
+  ---
+  duration_ms: 47.283209
+  type: 'test'
+  ...
+# Subtest: blood components is taught once and shared across tiers
+ok 65 - blood components is taught once and shared across tiers
+  ---
+  duration_ms: 31.768667
+  type: 'test'
+  ...
+# Subtest: lungs and health interactions is taught once and shared across tiers
+ok 66 - lungs and health interactions is taught once and shared across tiers
+  ---
+  duration_ms: 60.786167
+  type: 'test'
+  ...
+# Subtest: treatment trade-offs is taught once and shared across tiers
+ok 67 - treatment trade-offs is taught once and shared across tiers
+  ---
+  duration_ms: 35.8105
+  type: 'test'
+  ...
+# Subtest: lifestyle scope is taught once and shared across tiers
+ok 68 - lifestyle scope is taught once and shared across tiers
+  ---
+  duration_ms: 30.209125
+  type: 'test'
+  ...
+# Subtest: circulation question 1 has unique shared eligibility, direct mapping and complete feedback
+ok 69 - circulation question 1 has unique shared eligibility, direct mapping and complete feedback
+  ---
+  duration_ms: 436.045958
+  type: 'test'
+  ...
+# Subtest: circulation question 2 has unique shared eligibility, direct mapping and complete feedback
+ok 70 - circulation question 2 has unique shared eligibility, direct mapping and complete feedback
+  ---
+  duration_ms: 396.717708
+  type: 'test'
+  ...
+# Subtest: circulation question 3 has unique shared eligibility, direct mapping and complete feedback
+ok 71 - circulation question 3 has unique shared eligibility, direct mapping and complete feedback
+  ---
+  duration_ms: 408.801958
+  type: 'test'
+  ...
+# Subtest: circulation question 4 has unique shared eligibility, direct mapping and complete feedback
+ok 72 - circulation question 4 has unique shared eligibility, direct mapping and complete feedback
+  ---
+  duration_ms: 436.745583
+  type: 'test'
+  ...
+# Subtest: circulation question 5 has unique shared eligibility, direct mapping and complete feedback
+ok 73 - circulation question 5 has unique shared eligibility, direct mapping and complete feedback
+  ---
+  duration_ms: 452.431542
+  type: 'test'
+  ...
+# Subtest: circulation question 6 has unique shared eligibility, direct mapping and complete feedback
+ok 74 - circulation question 6 has unique shared eligibility, direct mapping and complete feedback
+  ---
+  duration_ms: 440.587417
+  type: 'test'
+  ...
+# Subtest: circulation question 7 has unique shared eligibility, direct mapping and complete feedback
+ok 75 - circulation question 7 has unique shared eligibility, direct mapping and complete feedback
+  ---
+  duration_ms: 375.184042
+  type: 'test'
+  ...
+# Subtest: circulation question 8 has unique shared eligibility, direct mapping and complete feedback
+ok 76 - circulation question 8 has unique shared eligibility, direct mapping and complete feedback
+  ---
+  duration_ms: 332.685083
+  type: 'test'
+  ...
+# Subtest: circulation question 9 has unique shared eligibility, direct mapping and complete feedback
+ok 77 - circulation question 9 has unique shared eligibility, direct mapping and complete feedback
+  ---
+  duration_ms: 393.696875
+  type: 'test'
+  ...
+# Subtest: circulation question 10 has unique shared eligibility, direct mapping and complete feedback
+ok 78 - circulation question 10 has unique shared eligibility, direct mapping and complete feedback
+  ---
+  duration_ms: 314.965209
+  type: 'test'
+  ...
+# Subtest: circulation question 11 has unique shared eligibility, direct mapping and complete feedback
+ok 79 - circulation question 11 has unique shared eligibility, direct mapping and complete feedback
+  ---
+  duration_ms: 361.843834
+  type: 'test'
+  ...
+# Subtest: circulation question 12 has unique shared eligibility, direct mapping and complete feedback
+ok 80 - circulation question 12 has unique shared eligibility, direct mapping and complete feedback
+  ---
+  duration_ms: 378.489208
+  type: 'test'
+  ...
+# Subtest: circulation question 13 has unique shared eligibility, direct mapping and complete feedback
+ok 81 - circulation question 13 has unique shared eligibility, direct mapping and complete feedback
+  ---
+  duration_ms: 340.68375
+  type: 'test'
+  ...
+# Subtest: circulation question 14 has unique shared eligibility, direct mapping and complete feedback
+ok 82 - circulation question 14 has unique shared eligibility, direct mapping and complete feedback
+  ---
+  duration_ms: 310.109209
+  type: 'test'
+  ...
+# Subtest: circulation question 15 has unique shared eligibility, direct mapping and complete feedback
+ok 83 - circulation question 15 has unique shared eligibility, direct mapping and complete feedback
+  ---
+  duration_ms: 361.139375
+  type: 'test'
+  ...
+# Subtest: circulation question 16 has unique shared eligibility, direct mapping and complete feedback
+ok 84 - circulation question 16 has unique shared eligibility, direct mapping and complete feedback
+  ---
+  duration_ms: 445.946291
+  type: 'test'
+  ...
+# Subtest: circulation question 17 has unique shared eligibility, direct mapping and complete feedback
+ok 85 - circulation question 17 has unique shared eligibility, direct mapping and complete feedback
+  ---
+  duration_ms: 401.677333
+  type: 'test'
+  ...
+# Subtest: circulation question 18 has unique shared eligibility, direct mapping and complete feedback
+ok 86 - circulation question 18 has unique shared eligibility, direct mapping and complete feedback
+  ---
+  duration_ms: 390.237959
+  type: 'test'
+  ...
+# Subtest: blood-flow calculation accepts equivalent volume/time units and rejects incompatible units
+ok 87 - blood-flow calculation accepts equivalent volume/time units and rejects incompatible units
+  ---
+  duration_ms: 14.091958
+  type: 'test'
+  ...
+# Subtest: relative increase is 50 percent, not 5 percentage points or a physical unit
+ok 88 - relative increase is 50 percent, not 5 percentage points or a physical unit
+  ---
+  duration_ms: 28.082917
+  type: 'test'
+  ...
+# Subtest: frequency, histogram and scatter tasks use correct numbers and chart conventions
+ok 89 - frequency, histogram and scatter tasks use correct numbers and chart conventions
+  ---
+  duration_ms: 16.361959
+  type: 'test'
+  ...
+# Subtest: sampling and causation feedback distinguishes selection bias from sample size
+ok 90 - sampling and causation feedback distinguishes selection bias from sample size
+  ---
+  duration_ms: 10.959
+  type: 'test'
+  ...
+# Subtest: heart/blood diagrams carry correct routes and identification evidence without colour-only dependence
+ok 91 - heart/blood diagrams carry correct routes and identification evidence without colour-only dependence
+  ---
+  duration_ms: 10.720333
+  type: 'test'
+  ...
+# Subtest: integrated treatment response reaches model-answer self-assessment with risks and limits
+ok 92 - integrated treatment response reaches model-answer self-assessment with risks and limits
+  ---
+  duration_ms: 30.467292
+  type: 'test'
+  ...
+# Subtest: five units meet complete criteria; zero Biology issues and the 78-unit total remain
+ok 93 - five units meet complete criteria; zero Biology issues and the 78-unit total remain
+  ---
+  duration_ms: 291.3905
+  type: 'test'
+  ...
+# Subtest: stale teaching, answers and data fail closed under existing tier and audit architecture
+ok 94 - stale teaching, answers and data fail closed under existing tier and audit architecture
+  ---
+  duration_ms: 898.122084
+  type: 'test'
+  ...
+# Subtest: new resources are connected to the existing lesson without changing other Biology pathways
+ok 95 - new resources are connected to the existing lesson without changing other Biology pathways
+  ---
+  duration_ms: 255.580125
+  type: 'test'
+  ...
+# Subtest: coordination application 1 eligibility, mapping, answer and feedback
+ok 96 - coordination application 1 eligibility, mapping, answer and feedback
+  ---
+  duration_ms: 662.437833
+  type: 'test'
+  ...
+# Subtest: coordination application 2 eligibility, mapping, answer and feedback
+ok 97 - coordination application 2 eligibility, mapping, answer and feedback
+  ---
+  duration_ms: 303.660916
+  type: 'test'
+  ...
+# Subtest: coordination application 3 eligibility, mapping, answer and feedback
+ok 98 - coordination application 3 eligibility, mapping, answer and feedback
+  ---
+  duration_ms: 343.342708
+  type: 'test'
+  ...
+# Subtest: coordination application 4 eligibility, mapping, answer and feedback
+ok 99 - coordination application 4 eligibility, mapping, answer and feedback
+  ---
+  duration_ms: 396.214083
+  type: 'test'
+  ...
+# Subtest: coordination application 5 eligibility, mapping, answer and feedback
+ok 100 - coordination application 5 eligibility, mapping, answer and feedback
+  ---
+  duration_ms: 349.294291
+  type: 'test'
+  ...
+# Subtest: coordination application 6 eligibility, mapping, answer and feedback
+ok 101 - coordination application 6 eligibility, mapping, answer and feedback
+  ---
+  duration_ms: 405.562875
+  type: 'test'
+  ...
+# Subtest: coordination application 7 eligibility, mapping, answer and feedback
+ok 102 - coordination application 7 eligibility, mapping, answer and feedback
+  ---
+  duration_ms: 421.989208
+  type: 'test'
+  ...
+# Subtest: coordination application 8 eligibility, mapping, answer and feedback
+ok 103 - coordination application 8 eligibility, mapping, answer and feedback
+  ---
+  duration_ms: 370.920459
+  type: 'test'
+  ...
+# Subtest: coordination application 9 eligibility, mapping, answer and feedback
+ok 104 - coordination application 9 eligibility, mapping, answer and feedback
+  ---
+  duration_ms: 414.515209
+  type: 'test'
+  ...
+# Subtest: coordination application 10 eligibility, mapping, answer and feedback
+ok 105 - coordination application 10 eligibility, mapping, answer and feedback
+  ---
+  duration_ms: 423.587875
+  type: 'test'
+  ...
+# Subtest: coordination application 11 eligibility, mapping, answer and feedback
+ok 106 - coordination application 11 eligibility, mapping, answer and feedback
+  ---
+  duration_ms: 366.967959
+  type: 'test'
+  ...
+# Subtest: coordination application 12 eligibility, mapping, answer and feedback
+ok 107 - coordination application 12 eligibility, mapping, answer and feedback
+  ---
+  duration_ms: 371.240041
+  type: 'test'
+  ...
+# Subtest: Keeping conditions stable shared teaching and revision are present
+ok 108 - Keeping conditions stable shared teaching and revision are present
+  ---
+  duration_ms: 26.10575
+  type: 'test'
+  ...
+# Subtest: Reflexes and the nervous system shared teaching and revision are present
+ok 109 - Reflexes and the nervous system shared teaching and revision are present
+  ---
+  duration_ms: 22.612292
+  type: 'test'
+  ...
+# Subtest: The endocrine system shared teaching and revision are present
+ok 110 - The endocrine system shared teaching and revision are present
+  ---
+  duration_ms: 29.405459
+  type: 'test'
+  ...
+# Subtest: Blood glucose shared teaching and revision are present
+ok 111 - Blood glucose shared teaching and revision are present
+  ---
+  duration_ms: 32.766792
+  type: 'test'
+  ...
+# Subtest: Reaction-time investigations shared teaching and revision are present
+ok 112 - Reaction-time investigations shared teaching and revision are present
+  ---
+  duration_ms: 26.320042
+  type: 'test'
+  ...
+# Subtest: Foundation lessons, cards and questions exclude Higher endocrine terms including the legacy distractor
+ok 113 - Foundation lessons, cards and questions exclude Higher endocrine terms including the legacy distractor
+  ---
+  duration_ms: 244.780416
+  type: 'test'
+  ...
+# Subtest: Higher retains original endocrine wording and gains specific hormonal cycles
+ok 114 - Higher retains original endocrine wording and gains specific hormonal cycles
+  ---
+  duration_ms: 10.83775
+  type: 'test'
+  ...
+# Subtest: RP06 exact identity and method cover variables, safe practice and evaluation
+ok 115 - RP06 exact identity and method cover variables, safe practice and evaluation
+  ---
+  duration_ms: 16.91575
+  type: 'test'
+  ...
+# Subtest: reaction lookup, means and chart match and use time units
+ok 116 - reaction lookup, means and chart match and use time units
+  ---
+  duration_ms: 23.888291
+  type: 'test'
+  ...
+# Subtest: mean-time marking accepts equivalent units and rejects distance or wrong scale
+ok 117 - mean-time marking accepts equivalent units and rejects distance or wrong scale
+  ---
+  duration_ms: 15.2235
+  type: 'test'
+  ...
+# Subtest: glucose graph data match comparison answer without a diagnostic claim
+ok 118 - glucose graph data match comparison answer without a diagnostic claim
+  ---
+  duration_ms: 22.8815
+  type: 'test'
+  ...
+# Subtest: all six gland locations and separate reproductive insets are connected
+ok 119 - all six gland locations and separate reproductive insets are connected
+  ---
+  duration_ms: 14.76475
+  type: 'test'
+  ...
+# Subtest: feedback diagrams and lesson resources only render to the correct tier
+ok 120 - feedback diagrams and lesson resources only render to the correct tier
+  ---
+  duration_ms: 192.434792
+  type: 'test'
+  ...
+# Subtest: all new written applications expose model answers and criteria
+ok 121 - all new written applications expose model answers and criteria
+  ---
+  duration_ms: 20.914583
+  type: 'test'
+  ...
+# Subtest: five shared and one Higher-only records are complete with coherent 78-unit accounting
+ok 122 - five shared and one Higher-only records are complete with coherent 78-unit accounting
+  ---
+  duration_ms: 284.659084
+  type: 'test'
+  ...
+# Subtest: stale shared endocrine extract and question fail closed
+ok 123 - stale shared endocrine extract and question fail closed
+  ---
+  duration_ms: 349.075375
+  type: 'test'
+  ...
+# Subtest: Higher completeness fails closed for stale answers, missing lessons, or wrong-tier metadata
+ok 124 - Higher completeness fails closed for stale answers, missing lessons, or wrong-tier metadata
+  ---
+  duration_ms: 1530.124792
+  type: 'test'
+  ...
+# Subtest: Y wrapper before Z preserves unrelated sections and non-Trilogy pathways
+ok 125 - Y wrapper before Z preserves unrelated sections and non-Trilogy pathways
+  ---
+  duration_ms: 41.382
+  type: 'test'
+  ...
+# Subtest: inherited adrenaline distractor changes only Foundation option, preserving Higher and failing closed on source changes
+ok 126 - inherited adrenaline distractor changes only Foundation option, preserving Higher and failing closed on source changes
+  ---
+  duration_ms: 330.791958
+  type: 'test'
+  ...
+# Subtest: organs and absorption has shared-tier teaching and safe Foundation revision
+ok 127 - organs and absorption has shared-tier teaching and safe Foundation revision
+  ---
+  duration_ms: 98.310334
+  type: 'test'
+  ...
+# Subtest: enzyme action has shared-tier teaching and safe Foundation revision
+ok 128 - enzyme action has shared-tier teaching and safe Foundation revision
+  ---
+  duration_ms: 31.454875
+  type: 'test'
+  ...
+# Subtest: enzyme production and products has shared-tier teaching and safe Foundation revision
+ok 129 - enzyme production and products has shared-tier teaching and safe Foundation revision
+  ---
+  duration_ms: 47.571042
+  type: 'test'
+  ...
+# Subtest: bile has shared-tier teaching and safe Foundation revision
+ok 130 - bile has shared-tier teaching and safe Foundation revision
+  ---
+  duration_ms: 24.342583
+  type: 'test'
+  ...
+# Subtest: digestion q1 is unique, shared and directly mapped with answers/feedback
+ok 131 - digestion q1 is unique, shared and directly mapped with answers/feedback
+  ---
+  duration_ms: 372.316042
+  type: 'test'
+  ...
+# Subtest: digestion q2 is unique, shared and directly mapped with answers/feedback
+ok 132 - digestion q2 is unique, shared and directly mapped with answers/feedback
+  ---
+  duration_ms: 359.975125
+  type: 'test'
+  ...
+# Subtest: digestion q3 is unique, shared and directly mapped with answers/feedback
+ok 133 - digestion q3 is unique, shared and directly mapped with answers/feedback
+  ---
+  duration_ms: 385.510375
+  type: 'test'
+  ...
+# Subtest: digestion q4 is unique, shared and directly mapped with answers/feedback
+ok 134 - digestion q4 is unique, shared and directly mapped with answers/feedback
+  ---
+  duration_ms: 553.936292
+  type: 'test'
+  ...
+# Subtest: digestion q5 is unique, shared and directly mapped with answers/feedback
+ok 135 - digestion q5 is unique, shared and directly mapped with answers/feedback
+  ---
+  duration_ms: 457.978417
+  type: 'test'
+  ...
+# Subtest: digestion q6 is unique, shared and directly mapped with answers/feedback
+ok 136 - digestion q6 is unique, shared and directly mapped with answers/feedback
+  ---
+  duration_ms: 424.67675
+  type: 'test'
+  ...
+# Subtest: digestion q7 is unique, shared and directly mapped with answers/feedback
+ok 137 - digestion q7 is unique, shared and directly mapped with answers/feedback
+  ---
+  duration_ms: 346.207458
+  type: 'test'
+  ...
+# Subtest: digestion q8 is unique, shared and directly mapped with answers/feedback
+ok 138 - digestion q8 is unique, shared and directly mapped with answers/feedback
+  ---
+  duration_ms: 339.7145
+  type: 'test'
+  ...
+# Subtest: digestion q9 is unique, shared and directly mapped with answers/feedback
+ok 139 - digestion q9 is unique, shared and directly mapped with answers/feedback
+  ---
+  duration_ms: 388.312042
+  type: 'test'
+  ...
+# Subtest: digestion q10 is unique, shared and directly mapped with answers/feedback
+ok 140 - digestion q10 is unique, shared and directly mapped with answers/feedback
+  ---
+  duration_ms: 387.894458
+  type: 'test'
+  ...
+# Subtest: digestion q11 is unique, shared and directly mapped with answers/feedback
+ok 141 - digestion q11 is unique, shared and directly mapped with answers/feedback
+  ---
+  duration_ms: 382.843375
+  type: 'test'
+  ...
+# Subtest: digestion q12 is unique, shared and directly mapped with answers/feedback
+ok 142 - digestion q12 is unique, shared and directly mapped with answers/feedback
+  ---
+  duration_ms: 385.292709
+  type: 'test'
+  ...
+# Subtest: official Trilogy RP03 is food tests with methods, positive/negative results and safe controls
+ok 143 - official Trilogy RP03 is food tests with methods, positive/negative results and safe controls
+  ---
+  duration_ms: 295.433375
+  type: 'test'
+  ...
+# Subtest: official Trilogy RP04 amylase method retains 30-second sampling and controlled temperature
+ok 144 - official Trilogy RP04 amylase method retains 30-second sampling and controlled temperature
+  ---
+  duration_ms: 397.285375
+  type: 'test'
+  ...
+# Subtest: relative-rate marking accepts inverse-time equivalents and rejects incompatible dimensions or magnitudes
+ok 145 - relative-rate marking accepts inverse-time equivalents and rejects incompatible dimensions or magnitudes
+  ---
+  duration_ms: 21.410166
+  type: 'test'
+  ...
+# Subtest: pH graph is mathematically inverse time, with the fastest tested point distinguished from a universal optimum
+ok 146 - pH graph is mathematically inverse time, with the fastest tested point distinguished from a universal optimum
+  ---
+  duration_ms: 18.667167
+  type: 'test'
+  ...
+# Subtest: dedicated practical writing feedback is shown through existing self-assessment
+ok 147 - dedicated practical writing feedback is shown through existing self-assessment
+  ---
+  duration_ms: 18.357541
+  type: 'test'
+  ...
+# Subtest: three targeted units are current and complete, with the 78-unit framework and zero Biology issues preserved
+ok 148 - three targeted units are current and complete, with the 78-unit framework and zero Biology issues preserved
+  ---
+  duration_ms: 262.379959
+  type: 'test'
+  ...
+# Subtest: stale lesson/question/graph evidence fails closed
+ok 149 - stale lesson/question/graph evidence fails closed
+  ---
+  duration_ms: 334.212209
+  type: 'test'
+  ...
+# Subtest: Organisation reuses the unchanged Lab temperature plot and adds pH graph without changing other-pathway lessons
+ok 150 - Organisation reuses the unchanged Lab temperature plot and adds pH graph without changing other-pathway lessons
+  ---
+  duration_ms: 299.6185
+  type: 'test'
+  ...
+# Subtest: Ecology field component reaches learners with current teaching and self-assessment: foundation
+ok 151 - Ecology field component reaches learners with current teaching and self-assessment: foundation
+  ---
+  duration_ms: 570.100917
+  type: 'test'
+  ...
+# Subtest: Ecology field component reaches learners with current teaching and self-assessment: unsure
+ok 152 - Ecology field component reaches learners with current teaching and self-assessment: unsure
+  ---
+  duration_ms: 581.673041
+  type: 'test'
+  ...
+# Subtest: Ecology field component reaches learners with current teaching and self-assessment: higher
+ok 153 - Ecology field component reaches learners with current teaching and self-assessment: higher
+  ---
+  duration_ms: 35.361209
+  type: 'test'
+  ...
+# Subtest: field sampling arithmetic and graph checks use valid data with units
+ok 154 - field sampling arithmetic and graph checks use valid data with units
+  ---
+  duration_ms: 10.967792
+  type: 'test'
+  ...
+# Subtest: six field units complete; Biology tier and unit backlogs remain zero
+ok 155 - six field units complete; Biology tier and unit backlogs remain zero
+  ---
+  duration_ms: 309.166667
+  type: 'test'
+  ...
+# Subtest: changed ecology question or shared extract cannot retain Full or Foundation visibility
+ok 156 - changed ecology question or shared extract cannot retain Full or Foundation visibility
+  ---
+  duration_ms: 715.35625
+  type: 'test'
+  ...
+# Subtest: all 100 pathways retain every old question and all unrelated lessons
+ok 157 - all 100 pathways retain every old question and all unrelated lessons
+  ---
+  duration_ms: 310.891625
+  type: 'test'
+  ...
+# Subtest: materials and impacts teaching and answer feedback reach eligible learners: foundation
+ok 158 - materials and impacts teaching and answer feedback reach eligible learners: foundation
+  ---
+  duration_ms: 667.473417
+  type: 'test'
+  ...
+# Subtest: materials and impacts teaching and answer feedback reach eligible learners: unsure
+ok 159 - materials and impacts teaching and answer feedback reach eligible learners: unsure
+  ---
+  duration_ms: 639.44775
+  type: 'test'
+  ...
+# Subtest: materials and impacts teaching and answer feedback reach eligible learners: higher
+ok 160 - materials and impacts teaching and answer feedback reach eligible learners: higher
+  ---
+  duration_ms: 33.160042
+  type: 'test'
+  ...
+# Subtest: all 78 units have current tier-correct teaching, direct practice and support
+ok 161 - all 78 units have current tier-correct teaching, direct practice and support
+  ---
+  duration_ms: 321.684
+  type: 'test'
+  ...
+# Subtest: cycle arrows distinguish carbon gas, minerals and water processes; graph points and peaks are exact
+ok 162 - cycle arrows distinguish carbon gas, minerals and water processes; graph points and peaks are exact
+  ---
+  duration_ms: 35.38525
+  type: 'test'
+  ...
+# Subtest: conservation maths and climate evidence avoid false equivalence
+ok 163 - conservation maths and climate evidence avoid false equivalence
+  ---
+  duration_ms: 50.260375
+  type: 'test'
+  ...
+# Subtest: changed model answer or shared extract downgrades relevant completed units
+ok 164 - changed model answer or shared extract downgrades relevant completed units
+  ---
+  duration_ms: 663.814084
+  type: 'test'
+  ...
+# Subtest: diagram support is displayed in existing Ecology lesson and question rendering
+ok 165 - diagram support is displayed in existing Ecology lesson and question rendering
+  ---
+  duration_ms: 32.462959
+  type: 'test'
+  ...
+# Subtest: evolution task 1 is mapped and preserved for all eligible tiers with model feedback
+ok 166 - evolution task 1 is mapped and preserved for all eligible tiers with model feedback
+  ---
+  duration_ms: 385.397708
+  type: 'test'
+  ...
+# Subtest: evolution task 2 is mapped and preserved for all eligible tiers with model feedback
+ok 167 - evolution task 2 is mapped and preserved for all eligible tiers with model feedback
+  ---
+  duration_ms: 402.391209
+  type: 'test'
+  ...
+# Subtest: evolution task 3 is mapped and preserved for all eligible tiers with model feedback
+ok 168 - evolution task 3 is mapped and preserved for all eligible tiers with model feedback
+  ---
+  duration_ms: 298.341417
+  type: 'test'
+  ...
+# Subtest: evolution task 4 is mapped and preserved for all eligible tiers with model feedback
+ok 169 - evolution task 4 is mapped and preserved for all eligible tiers with model feedback
+  ---
+  duration_ms: 325.564417
+  type: 'test'
+  ...
+# Subtest: evolution task 5 is mapped and preserved for all eligible tiers with model feedback
+ok 170 - evolution task 5 is mapped and preserved for all eligible tiers with model feedback
+  ---
+  duration_ms: 384.253917
+  type: 'test'
+  ...
+# Subtest: evolution task 6 is mapped and preserved for all eligible tiers with model feedback
+ok 171 - evolution task 6 is mapped and preserved for all eligible tiers with model feedback
+  ---
+  duration_ms: 370.762458
+  type: 'test'
+  ...
+# Subtest: evolution task 7 is mapped and preserved for all eligible tiers with model feedback
+ok 172 - evolution task 7 is mapped and preserved for all eligible tiers with model feedback
+  ---
+  duration_ms: 371.939209
+  type: 'test'
+  ...
+# Subtest: evolution task 8 is mapped and preserved for all eligible tiers with model feedback
+ok 173 - evolution task 8 is mapped and preserved for all eligible tiers with model feedback
+  ---
+  duration_ms: 360.914958
+  type: 'test'
+  ...
+# Subtest: shared teaching and revision preserve original sections and expose the extensions
+ok 174 - shared teaching and revision preserve original sections and expose the extensions
+  ---
+  duration_ms: 34.910333
+  type: 'test'
+  ...
+# Subtest: natural selection links inherited variants to reproduction and species criterion without directed mutation
+ok 175 - natural selection links inherited variants to reproduction and species criterion without directed mutation
+  ---
+  duration_ms: 27.4845
+  type: 'test'
+  ...
+# Subtest: evolution evidence uses three distinct lines and preserves recovered resistance practice
+ok 176 - evolution evidence uses three distinct lines and preserves recovered resistance practice
+  ---
+  duration_ms: 221.719459
+  type: 'test'
+  ...
+# Subtest: fossil formation and gaps distinguish preservation, replacement and traces
+ok 177 - fossil formation and gaps distinguish preservation, replacement and traces
+  ---
+  duration_ms: 16.267583
+  type: 'test'
+  ...
+# Subtest: fossil table interpretation follows ages and avoids unjustified ancestry
+ok 178 - fossil table interpretation follows ages and avoids unjustified ancestry
+  ---
+  duration_ms: 22.818292
+  type: 'test'
+  ...
+# Subtest: extinction explanation connects every supplied pressure and global definition
+ok 179 - extinction explanation connects every supplied pressure and global definition
+  ---
+  duration_ms: 13.3295
+  type: 'test'
+  ...
+# Subtest: classification hierarchy, binomial and domains are correct and evidence driven
+ok 180 - classification hierarchy, binomial and domains are correct and evidence driven
+  ---
+  duration_ms: 10.436875
+  type: 'test'
+  ...
+# Subtest: tree interpretation recognises shared ancestors and missing time scale
+ok 181 - tree interpretation recognises shared ancestors and missing time scale
+  ---
+  duration_ms: 15.242958
+  type: 'test'
+  ...
+# Subtest: all five complete records have current shared teaching and practice; Biology backlogs zero
+ok 182 - all five complete records have current shared teaching and practice; Biology backlogs zero
+  ---
+  duration_ms: 328.188334
+  type: 'test'
+  ...
+# Subtest: stale evolution evidence fails closed for Foundation and cannot retain Full
+ok 183 - stale evolution evidence fails closed for Foundation and cannot retain Full
+  ---
+  duration_ms: 345.650125
+  type: 'test'
+  ...
+# Subtest: all registered pathways preserve original questions and unrelated lessons
+ok 184 - all registered pathways preserve original questions and unrelated lessons
+  ---
+  duration_ms: 251.638916
+  type: 'test'
+  ...
+# Subtest: pathogen groups and routes teaching is shared and retained in Foundation revision
+ok 185 - pathogen groups and routes teaching is shared and retained in Foundation revision
+  ---
+  duration_ms: 55.590459
+  type: 'test'
+  ...
+# Subtest: measles teaching is shared and retained in Foundation revision
+ok 186 - measles teaching is shared and retained in Foundation revision
+  ---
+  duration_ms: 32.2685
+  type: 'test'
+  ...
+# Subtest: HIV teaching is shared and retained in Foundation revision
+ok 187 - HIV teaching is shared and retained in Foundation revision
+  ---
+  duration_ms: 22.528458
+  type: 'test'
+  ...
+# Subtest: TMV teaching is shared and retained in Foundation revision
+ok 188 - TMV teaching is shared and retained in Foundation revision
+  ---
+  duration_ms: 31.7865
+  type: 'test'
+  ...
+# Subtest: salmonella teaching is shared and retained in Foundation revision
+ok 189 - salmonella teaching is shared and retained in Foundation revision
+  ---
+  duration_ms: 23.661875
+  type: 'test'
+  ...
+# Subtest: gonorrhoea teaching is shared and retained in Foundation revision
+ok 190 - gonorrhoea teaching is shared and retained in Foundation revision
+  ---
+  duration_ms: 33.53075
+  type: 'test'
+  ...
+# Subtest: rose black spot teaching is shared and retained in Foundation revision
+ok 191 - rose black spot teaching is shared and retained in Foundation revision
+  ---
+  duration_ms: 19.894917
+  type: 'test'
+  ...
+# Subtest: malaria teaching is shared and retained in Foundation revision
+ok 192 - malaria teaching is shared and retained in Foundation revision
+  ---
+  duration_ms: 22.903292
+  type: 'test'
+  ...
+# Subtest: non-specific defences teaching is shared and retained in Foundation revision
+ok 193 - non-specific defences teaching is shared and retained in Foundation revision
+  ---
+  duration_ms: 35.159333
+  type: 'test'
+  ...
+# Subtest: immune roles teaching is shared and retained in Foundation revision
+ok 194 - immune roles teaching is shared and retained in Foundation revision
+  ---
+  duration_ms: 22.856792
+  type: 'test'
+  ...
+# Subtest: infection application 1 has unique shared eligibility, answers and direct mapping
+ok 195 - infection application 1 has unique shared eligibility, answers and direct mapping
+  ---
+  duration_ms: 339.167125
+  type: 'test'
+  ...
+# Subtest: infection application 2 has unique shared eligibility, answers and direct mapping
+ok 196 - infection application 2 has unique shared eligibility, answers and direct mapping
+  ---
+  duration_ms: 340.999542
+  type: 'test'
+  ...
+# Subtest: infection application 3 has unique shared eligibility, answers and direct mapping
+ok 197 - infection application 3 has unique shared eligibility, answers and direct mapping
+  ---
+  duration_ms: 387.341
+  type: 'test'
+  ...
+# Subtest: infection application 4 has unique shared eligibility, answers and direct mapping
+ok 198 - infection application 4 has unique shared eligibility, answers and direct mapping
+  ---
+  duration_ms: 424.554708
+  type: 'test'
+  ...
+# Subtest: infection application 5 has unique shared eligibility, answers and direct mapping
+ok 199 - infection application 5 has unique shared eligibility, answers and direct mapping
+  ---
+  duration_ms: 364.520916
+  type: 'test'
+  ...
+# Subtest: infection application 6 has unique shared eligibility, answers and direct mapping
+ok 200 - infection application 6 has unique shared eligibility, answers and direct mapping
+  ---
+  duration_ms: 415.656541
+  type: 'test'
+  ...
+# Subtest: infection application 7 has unique shared eligibility, answers and direct mapping
+ok 201 - infection application 7 has unique shared eligibility, answers and direct mapping
+  ---
+  duration_ms: 426.452041
+  type: 'test'
+  ...
+# Subtest: infection application 8 has unique shared eligibility, answers and direct mapping
+ok 202 - infection application 8 has unique shared eligibility, answers and direct mapping
+  ---
+  duration_ms: 520.373541
+  type: 'test'
+  ...
+# Subtest: infection application 9 has unique shared eligibility, answers and direct mapping
+ok 203 - infection application 9 has unique shared eligibility, answers and direct mapping
+  ---
+  duration_ms: 379.393209
+  type: 'test'
+  ...
+# Subtest: infection application 10 has unique shared eligibility, answers and direct mapping
+ok 204 - infection application 10 has unique shared eligibility, answers and direct mapping
+  ---
+  duration_ms: 377.762084
+  type: 'test'
+  ...
+# Subtest: infection application 11 has unique shared eligibility, answers and direct mapping
+ok 205 - infection application 11 has unique shared eligibility, answers and direct mapping
+  ---
+  duration_ms: 373.378625
+  type: 'test'
+  ...
+# Subtest: cross-disease applications distinguish pathogen, vector, damage and control rather than template recall
+ok 206 - cross-disease applications distinguish pathogen, vector, damage and control rather than template recall
+  ---
+  duration_ms: 10.135917
+  type: 'test'
+  ...
+# Subtest: named-disease feedback retains clinical limits and resistance qualification
+ok 207 - named-disease feedback retains clinical limits and resistance qualification
+  ---
+  duration_ms: 17.572083
+  type: 'test'
+  ...
+# Subtest: fungal data comparison supports a qualified conclusion and not complete prevention
+ok 208 - fungal data comparison supports a qualified conclusion and not complete prevention
+  ---
+  duration_ms: 11.260959
+  type: 'test'
+  ...
+# Subtest: natural-defence application separates mucus clearance, specificity, engulfment and toxin neutralisation
+ok 209 - natural-defence application separates mucus clearance, specificity, engulfment and toxin neutralisation
+  ---
+  duration_ms: 15.961875
+  type: 'test'
+  ...
+# Subtest: six units complete with current evidence and zero Biology issues
+ok 210 - six units complete with current evidence and zero Biology issues
+  ---
+  duration_ms: 278.022958
+  type: 'test'
+  ...
+# Subtest: stale disease teaching and answers fail closed
+ok 211 - stale disease teaching and answers fail closed
+  ---
+  duration_ms: 326.826041
+  type: 'test'
+  ...
+# Subtest: V infection wrapper preserves its unrelated sections before the W medicines extension
+ok 212 - V infection wrapper preserves its unrelated sections before the W medicines extension
+  ---
+  duration_ms: 41.59675
+  type: 'test'
+  ...
+# Subtest: inheritance application 1 has current mapping, answer/feedback and correct pathway
+ok 213 - inheritance application 1 has current mapping, answer/feedback and correct pathway
+  ---
+  duration_ms: 344.828875
+  type: 'test'
+  ...
+# Subtest: inheritance application 2 has current mapping, answer/feedback and correct pathway
+ok 214 - inheritance application 2 has current mapping, answer/feedback and correct pathway
+  ---
+  duration_ms: 397.933
+  type: 'test'
+  ...
+# Subtest: inheritance application 3 has current mapping, answer/feedback and correct pathway
+ok 215 - inheritance application 3 has current mapping, answer/feedback and correct pathway
+  ---
+  duration_ms: 378.901542
+  type: 'test'
+  ...
+# Subtest: inheritance application 4 has current mapping, answer/feedback and correct pathway
+ok 216 - inheritance application 4 has current mapping, answer/feedback and correct pathway
+  ---
+  duration_ms: 392.423166
+  type: 'test'
+  ...
+# Subtest: inheritance application 5 has current mapping, answer/feedback and correct pathway
+ok 217 - inheritance application 5 has current mapping, answer/feedback and correct pathway
+  ---
+  duration_ms: 360.811084
+  type: 'test'
+  ...
+# Subtest: inheritance application 6 has current mapping, answer/feedback and correct pathway
+ok 218 - inheritance application 6 has current mapping, answer/feedback and correct pathway
+  ---
+  duration_ms: 491.761291
+  type: 'test'
+  ...
+# Subtest: inheritance application 7 has current mapping, answer/feedback and correct pathway
+ok 219 - inheritance application 7 has current mapping, answer/feedback and correct pathway
+  ---
+  duration_ms: 381.37475
+  type: 'test'
+  ...
+# Subtest: inheritance application 8 has current mapping, answer/feedback and correct pathway
+ok 220 - inheritance application 8 has current mapping, answer/feedback and correct pathway
+  ---
+  duration_ms: 371.815208
+  type: 'test'
+  ...
+# Subtest: inheritance application 9 has current mapping, answer/feedback and correct pathway
+ok 221 - inheritance application 9 has current mapping, answer/feedback and correct pathway
+  ---
+  duration_ms: 373.038583
+  type: 'test'
+  ...
+# Subtest: inheritance application 10 has current mapping, answer/feedback and correct pathway
+ok 222 - inheritance application 10 has current mapping, answer/feedback and correct pathway
+  ---
+  duration_ms: 350.627167
+  type: 'test'
+  ...
+# Subtest: inheritance application 11 has current mapping, answer/feedback and correct pathway
+ok 223 - inheritance application 11 has current mapping, answer/feedback and correct pathway
+  ---
+  duration_ms: 256.595083
+  type: 'test'
+  ...
+# Subtest: inheritance application 12 has current mapping, answer/feedback and correct pathway
+ok 224 - inheritance application 12 has current mapping, answer/feedback and correct pathway
+  ---
+  duration_ms: 306.835334
+  type: 'test'
+  ...
+# Subtest: inheritance application 13 has current mapping, answer/feedback and correct pathway
+ok 225 - inheritance application 13 has current mapping, answer/feedback and correct pathway
+  ---
+  duration_ms: 494.211291
+  type: 'test'
+  ...
+# Subtest: inheritance application 14 has current mapping, answer/feedback and correct pathway
+ok 226 - inheritance application 14 has current mapping, answer/feedback and correct pathway
+  ---
+  duration_ms: 419.891458
+  type: 'test'
+  ...
+# Subtest: DNA, genes and chromosomes shared teaching and revision provide targeted coverage
+ok 227 - DNA, genes and chromosomes shared teaching and revision provide targeted coverage
+  ---
+  duration_ms: 26.612042
+  type: 'test'
+  ...
+# Subtest: Sexual and asexual reproduction shared teaching and revision provide targeted coverage
+ok 228 - Sexual and asexual reproduction shared teaching and revision provide targeted coverage
+  ---
+  duration_ms: 36.329125
+  type: 'test'
+  ...
+# Subtest: Genetic crosses shared teaching and revision provide targeted coverage
+ok 229 - Genetic crosses shared teaching and revision provide targeted coverage
+  ---
+  duration_ms: 72.030917
+  type: 'test'
+  ...
+# Subtest: Inherited disorders and screening shared teaching and revision provide targeted coverage
+ok 230 - Inherited disorders and screening shared teaching and revision provide targeted coverage
+  ---
+  duration_ms: 35.716708
+  type: 'test'
+  ...
+# Subtest: Sex chromosomes and inheritance shared teaching and revision provide targeted coverage
+ok 231 - Sex chromosomes and inheritance shared teaching and revision provide targeted coverage
+  ---
+  duration_ms: 41.227
+  type: 'test'
+  ...
+# Subtest: Variation and mutation shared teaching and revision provide targeted coverage
+ok 232 - Variation and mutation shared teaching and revision provide targeted coverage
+  ---
+  duration_ms: 20.834417
+  type: 'test'
+  ...
+# Subtest: Selective breeding and genetic engineering shared teaching and revision provide targeted coverage
+ok 233 - Selective breeding and genetic engineering shared teaching and revision provide targeted coverage
+  ---
+  duration_ms: 31.102583
+  type: 'test'
+  ...
+# Subtest: Foundation retains completion/probability/family trees and shared sex cross, but excludes Higher construction and vectors
+ok 234 - Foundation retains completion/probability/family trees and shared sex cross, but excludes Higher construction and vectors
+  ---
+  duration_ms: 374.071792
+  type: 'test'
+  ...
+# Subtest: meiosis overview has correct divisions, gamete numbers and fertilisation arithmetic without named-stage demand
+ok 235 - meiosis overview has correct divisions, gamete numbers and fertilisation arithmetic without named-stage demand
+  ---
+  duration_ms: 18.898875
+  type: 'test'
+  ...
+# Subtest: shared supplied cross and Higher constructed cross produce correct genotypes and ratios
+ok 236 - shared supplied cross and Higher constructed cross produce correct genotypes and ratios
+  ---
+  duration_ms: 13.150459
+  type: 'test'
+  ...
+# Subtest: pedigree interpretation and screening distinguish carriers, uncertainty and ethical judgement
+ok 237 - pedigree interpretation and screening distinguish carriers, uncertainty and ethical judgement
+  ---
+  duration_ms: 23.43275
+  type: 'test'
+  ...
+# Subtest: shared sex model gives 22+1 pairs, half gamete chromosome number and independent 1:1 outcome
+ok 238 - shared sex model gives 22+1 pairs, half gamete chromosome number and independent 1:1 outcome
+  ---
+  duration_ms: 16.581084
+  type: 'test'
+  ...
+# Subtest: percentage marking accepts valid probability-as-percent forms and rejects incompatible units
+ok 239 - percentage marking accepts valid probability-as-percent forms and rejects incompatible units
+  ---
+  duration_ms: 11.348833
+  type: 'test'
+  ...
+# Subtest: variation data and mutation interpretation support genes, environment and interaction
+ok 240 - variation data and mutation interpretation support genes, environment and interaction
+  ---
+  duration_ms: 36.968041
+  type: 'test'
+  ...
+# Subtest: breeding and shared engineering applications include specific benefits, risks and process distinction
+ok 241 - breeding and shared engineering applications include specific benefits, risks and process distinction
+  ---
+  duration_ms: 11.126416
+  type: 'test'
+  ...
+# Subtest: Higher engineering sequence includes enzymes, vectors, delivery, early stage and evidence-led evaluation
+ok 242 - Higher engineering sequence includes enzymes, vectors, delivery, early stage and evidence-led evaluation
+  ---
+  duration_ms: 11.030875
+  type: 'test'
+  ...
+# Subtest: shared templates render in lesson/practice and all new writing tasks expose model criteria
+ok 243 - shared templates render in lesson/practice and all new writing tasks expose model criteria
+  ---
+  duration_ms: 212.331
+  type: 'test'
+  ...
+# Subtest: all nine records are covered with current evidence and zero Biology backlogs
+ok 244 - all nine records are covered with current evidence and zero Biology backlogs
+  ---
+  duration_ms: 335.2605
+  type: 'test'
+  ...
+# Subtest: stale shared lesson, question and resource evidence fail closed
+ok 245 - stale shared lesson, question and resource evidence fail closed
+  ---
+  duration_ms: 949.162125
+  type: 'test'
+  ...
+# Subtest: original mixed DNA section and non-Trilogy pathways remain unchanged
+ok 246 - original mixed DNA section and non-Trilogy pathways remain unchanged
+  ---
+  duration_ms: 73.105333
+  type: 'test'
+  ...
+# Subtest: legacy hormone question changes exactly two Foundation distractors and keeps the learning objective
+ok 247 - legacy hormone question changes exactly two Foundation distractors and keeps the learning objective
+  ---
+  duration_ms: 122.110833
+  type: 'test'
+  ...
+# Subtest: legacy question Higher and separate-course originals remain unchanged
+ok 248 - legacy question Higher and separate-course originals remain unchanged
+  ---
+  duration_ms: 16.9605
+  type: 'test'
+  ...
+# Subtest: repaired hormone variants reach practice and module tests with independent progress unchanged
+ok 249 - repaired hormone variants reach practice and module tests with independent progress unchanged
+  ---
+  duration_ms: 213.288542
+  type: 'test'
+  ...
+# Subtest: legacy tier concern is resolved separately from unchanged historic backlog and fails closed on source drift
+ok 250 - legacy tier concern is resolved separately from unchanged historic backlog and fails closed on source drift
+  ---
+  duration_ms: 1029.077083
+  type: 'test'
+  ...
+# Subtest: vaccine mechanism and memory is shared and present in Foundation revision
+ok 251 - vaccine mechanism and memory is shared and present in Foundation revision
+  ---
+  duration_ms: 59.886417
+  type: 'test'
+  ...
+# Subtest: population protection and limits is shared and present in Foundation revision
+ok 252 - population protection and limits is shared and present in Foundation revision
+  ---
+  duration_ms: 27.329583
+  type: 'test'
+  ...
+# Subtest: medicine comparison is shared and present in Foundation revision
+ok 253 - medicine comparison is shared and present in Foundation revision
+  ---
+  duration_ms: 21.399542
+  type: 'test'
+  ...
+# Subtest: origins and testing is shared and present in Foundation revision
+ok 254 - origins and testing is shared and present in Foundation revision
+  ---
+  duration_ms: 19.470625
+  type: 'test'
+  ...
+# Subtest: trial design and scrutiny is shared and present in Foundation revision
+ok 255 - trial design and scrutiny is shared and present in Foundation revision
+  ---
+  duration_ms: 17.276416
+  type: 'test'
+  ...
+# Subtest: selection and controls is shared and present in Foundation revision
+ok 256 - selection and controls is shared and present in Foundation revision
+  ---
+  duration_ms: 24.855167
+  type: 'test'
+  ...
+# Subtest: medicines application 1 is shared, unique and directly mapped with feedback
+ok 257 - medicines application 1 is shared, unique and directly mapped with feedback
+  ---
+  duration_ms: 404.107916
+  type: 'test'
+  ...
+# Subtest: medicines application 2 is shared, unique and directly mapped with feedback
+ok 258 - medicines application 2 is shared, unique and directly mapped with feedback
+  ---
+  duration_ms: 366.815542
+  type: 'test'
+  ...
+# Subtest: medicines application 3 is shared, unique and directly mapped with feedback
+ok 259 - medicines application 3 is shared, unique and directly mapped with feedback
+  ---
+  duration_ms: 335.508792
+  type: 'test'
+  ...
+# Subtest: medicines application 4 is shared, unique and directly mapped with feedback
+ok 260 - medicines application 4 is shared, unique and directly mapped with feedback
+  ---
+  duration_ms: 333.53775
+  type: 'test'
+  ...
+# Subtest: medicines application 5 is shared, unique and directly mapped with feedback
+ok 261 - medicines application 5 is shared, unique and directly mapped with feedback
+  ---
+  duration_ms: 359.419917
+  type: 'test'
+  ...
+# Subtest: medicines application 6 is shared, unique and directly mapped with feedback
+ok 262 - medicines application 6 is shared, unique and directly mapped with feedback
+  ---
+  duration_ms: 432.493833
+  type: 'test'
+  ...
+# Subtest: medicines application 7 is shared, unique and directly mapped with feedback
+ok 263 - medicines application 7 is shared, unique and directly mapped with feedback
+  ---
+  duration_ms: 341.857458
+  type: 'test'
+  ...
+# Subtest: medicines application 8 is shared, unique and directly mapped with feedback
+ok 264 - medicines application 8 is shared, unique and directly mapped with feedback
+  ---
+  duration_ms: 339.426041
+  type: 'test'
+  ...
+# Subtest: medicines application 9 is shared, unique and directly mapped with feedback
+ok 265 - medicines application 9 is shared, unique and directly mapped with feedback
+  ---
+  duration_ms: 430.188166
+  type: 'test'
+  ...
+# Subtest: vaccination questions require secondary response and population evaluation with limits
+ok 266 - vaccination questions require secondary response and population evaluation with limits
+  ---
+  duration_ms: 23.012292
+  type: 'test'
+  ...
+# Subtest: drug origin, clinical sequence and peer review are directly assessed
+ok 267 - drug origin, clinical sequence and peer review are directly assessed
+  ---
+  duration_ms: 15.169875
+  type: 'test'
+  ...
+# Subtest: trial data uses percentage points and balanced dose judgement rather than net-count invention
+ok 268 - trial data uses percentage points and balanced dose judgement rather than net-count invention
+  ---
+  duration_ms: 38.730667
+  type: 'test'
+  ...
+# Subtest: resistant percentage accepts correct percent forms and rejects counts and physical units
+ok 269 - resistant percentage accepts correct percent forms and rejects counts and physical units
+  ---
+  duration_ms: 20.448042
+  type: 'test'
+  ...
+# Subtest: resistance is mutation then selection/reproduction, with qualified course wording
+ok 270 - resistance is mutation then selection/reproduction, with qualified course wording
+  ---
+  duration_ms: 15.446792
+  type: 'test'
+  ...
+# Subtest: trial evaluation uses existing model-answer self-assessment
+ok 271 - trial evaluation uses existing model-answer self-assessment
+  ---
+  duration_ms: 16.052666
+  type: 'test'
+  ...
+# Subtest: four units complete with current evidence, original selection reuse and zero Biology issues
+ok 272 - four units complete with current evidence, original selection reuse and zero Biology issues
+  ---
+  duration_ms: 235.787167
+  type: 'test'
+  ...
+# Subtest: stale medicines lesson/answer evidence fails closed
+ok 273 - stale medicines lesson/answer evidence fails closed
+  ---
+  duration_ms: 481.062875
+  type: 'test'
+  ...
+# Subtest: previous infection content and other pathways are unchanged by medicines wrapper
+ok 274 - previous infection content and other pathways are unchanged by medicines wrapper
+  ---
+  duration_ms: 95.3475
+  type: 'test'
+  ...
+# Subtest: leaf tissue functions is shared across tiers and present in Foundation revision
+ok 275 - leaf tissue functions is shared across tiers and present in Foundation revision
+  ---
+  duration_ms: 74.24825
+  type: 'test'
+  ...
+# Subtest: transport distinctions is shared across tiers and present in Foundation revision
+ok 276 - transport distinctions is shared across tiers and present in Foundation revision
+  ---
+  duration_ms: 28.837792
+  type: 'test'
+  ...
+# Subtest: environmental factors is shared across tiers and present in Foundation revision
+ok 277 - environmental factors is shared across tiers and present in Foundation revision
+  ---
+  duration_ms: 33.940333
+  type: 'test'
+  ...
+# Subtest: investigation and sampling is shared across tiers and present in Foundation revision
+ok 278 - investigation and sampling is shared across tiers and present in Foundation revision
+  ---
+  duration_ms: 24.684792
+  type: 'test'
+  ...
+# Subtest: plant question 1 has unique shared eligibility and direct evidence mapping
+ok 279 - plant question 1 has unique shared eligibility and direct evidence mapping
+  ---
+  duration_ms: 357.6515
+  type: 'test'
+  ...
+# Subtest: plant question 2 has unique shared eligibility and direct evidence mapping
+ok 280 - plant question 2 has unique shared eligibility and direct evidence mapping
+  ---
+  duration_ms: 355.812458
+  type: 'test'
+  ...
+# Subtest: plant question 3 has unique shared eligibility and direct evidence mapping
+ok 281 - plant question 3 has unique shared eligibility and direct evidence mapping
+  ---
+  duration_ms: 409.267791
+  type: 'test'
+  ...
+# Subtest: plant question 4 has unique shared eligibility and direct evidence mapping
+ok 282 - plant question 4 has unique shared eligibility and direct evidence mapping
+  ---
+  duration_ms: 413.995583
+  type: 'test'
+  ...
+# Subtest: plant question 5 has unique shared eligibility and direct evidence mapping
+ok 283 - plant question 5 has unique shared eligibility and direct evidence mapping
+  ---
+  duration_ms: 387.170958
+  type: 'test'
+  ...
+# Subtest: plant question 6 has unique shared eligibility and direct evidence mapping
+ok 284 - plant question 6 has unique shared eligibility and direct evidence mapping
+  ---
+  duration_ms: 418.477541
+  type: 'test'
+  ...
+# Subtest: plant question 7 has unique shared eligibility and direct evidence mapping
+ok 285 - plant question 7 has unique shared eligibility and direct evidence mapping
+  ---
+  duration_ms: 506.655792
+  type: 'test'
+  ...
+# Subtest: plant question 8 has unique shared eligibility and direct evidence mapping
+ok 286 - plant question 8 has unique shared eligibility and direct evidence mapping
+  ---
+  duration_ms: 437.005792
+  type: 'test'
+  ...
+# Subtest: plant question 9 has unique shared eligibility and direct evidence mapping
+ok 287 - plant question 9 has unique shared eligibility and direct evidence mapping
+  ---
+  duration_ms: 454.993125
+  type: 'test'
+  ...
+# Subtest: volume rate uses radius squared and accepts only compatible equivalents
+ok 288 - volume rate uses radius squared and accepts only compatible equivalents
+  ---
+  duration_ms: 23.361166
+  type: 'test'
+  ...
+# Subtest: stomatal density is mean count per area, not a doubled guard-cell count
+ok 289 - stomatal density is mean count per area, not a doubled guard-cell count
+  ---
+  duration_ms: 22.921584
+  type: 'test'
+  ...
+# Subtest: humidity graph calculates means from repeat distances and preserves rate units
+ok 290 - humidity graph calculates means from repeat distances and preserves rate units
+  ---
+  duration_ms: 12.301542
+  type: 'test'
+  ...
+# Subtest: potometer feedback includes controls, leak limits and uptake versus loss
+ok 291 - potometer feedback includes controls, leak limits and uptake versus loss
+  ---
+  duration_ms: 21.212916
+  type: 'test'
+  ...
+# Subtest: leaf visual reuses existing art and acknowledges simplified vein and guard-cell detail
+ok 292 - leaf visual reuses existing art and acknowledges simplified vein and guard-cell detail
+  ---
+  duration_ms: 15.040417
+  type: 'test'
+  ...
+# Subtest: sampling and unfamiliar application use calibrated area and conditional predictions
+ok 293 - sampling and unfamiliar application use calibrated area and conditional predictions
+  ---
+  duration_ms: 10.363334
+  type: 'test'
+  ...
+# Subtest: both units complete with current evidence and unchanged zero Biology backlogs
+ok 294 - both units complete with current evidence and unchanged zero Biology backlogs
+  ---
+  duration_ms: 331.925
+  type: 'test'
+  ...
+# Subtest: stale plant teaching, question and data fail closed
+ok 295 - stale plant teaching, question and data fail closed
+  ---
+  duration_ms: 364.7655
+  type: 'test'
+  ...
+# Subtest: plant resource is connected and other Biology pathways unchanged
+ok 296 - plant resource is connected and other Biology pathways unchanged
+  ---
+  duration_ms: 267.764417
+  type: 'test'
+  ...
+# Subtest: reproduction question 1 has correct eligibility, mapping, answer and feedback
+ok 297 - reproduction question 1 has correct eligibility, mapping, answer and feedback
+  ---
+  duration_ms: 346.678625
+  type: 'test'
+  ...
+# Subtest: reproduction question 2 has correct eligibility, mapping, answer and feedback
+ok 298 - reproduction question 2 has correct eligibility, mapping, answer and feedback
+  ---
+  duration_ms: 369.55025
+  type: 'test'
+  ...
+# Subtest: reproduction question 3 has correct eligibility, mapping, answer and feedback
+ok 299 - reproduction question 3 has correct eligibility, mapping, answer and feedback
+  ---
+  duration_ms: 399.176708
+  type: 'test'
+  ...
+# Subtest: reproduction question 4 has correct eligibility, mapping, answer and feedback
+ok 300 - reproduction question 4 has correct eligibility, mapping, answer and feedback
+  ---
+  duration_ms: 382.719916
+  type: 'test'
+  ...
+# Subtest: reproduction question 5 has correct eligibility, mapping, answer and feedback
+ok 301 - reproduction question 5 has correct eligibility, mapping, answer and feedback
+  ---
+  duration_ms: 363.15925
+  type: 'test'
+  ...
+# Subtest: reproduction question 6 has correct eligibility, mapping, answer and feedback
+ok 302 - reproduction question 6 has correct eligibility, mapping, answer and feedback
+  ---
+  duration_ms: 356.527958
+  type: 'test'
+  ...
+# Subtest: reproduction question 7 has correct eligibility, mapping, answer and feedback
+ok 303 - reproduction question 7 has correct eligibility, mapping, answer and feedback
+  ---
+  duration_ms: 408.2815
+  type: 'test'
+  ...
+# Subtest: reproduction question 8 has correct eligibility, mapping, answer and feedback
+ok 304 - reproduction question 8 has correct eligibility, mapping, answer and feedback
+  ---
+  duration_ms: 464.226792
+  type: 'test'
+  ...
+# Subtest: reproduction question 9 has correct eligibility, mapping, answer and feedback
+ok 305 - reproduction question 9 has correct eligibility, mapping, answer and feedback
+  ---
+  duration_ms: 518.389083
+  type: 'test'
+  ...
+# Subtest: Reproductive hormones shared lesson/revision contains required teaching
+ok 306 - Reproductive hormones shared lesson/revision contains required teaching
+  ---
+  duration_ms: 38.129292
+  type: 'test'
+  ...
+# Subtest: Reproduction and hormones shared lesson/revision contains required teaching
+ok 307 - Reproduction and hormones shared lesson/revision contains required teaching
+  ---
+  duration_ms: 41.093958
+  type: 'test'
+  ...
+# Subtest: Foundation excludes detailed cycle interactions and fertility while retaining shared contraceptive inhibition
+ok 308 - Foundation excludes detailed cycle interactions and fertility while retaining shared contraceptive inhibition
+  ---
+  duration_ms: 101.39675
+  type: 'test'
+  ...
+# Subtest: Higher interactions and IVF teaching cover sequence and limits
+ok 309 - Higher interactions and IVF teaching cover sequence and limits
+  ---
+  duration_ms: 17.856625
+  type: 'test'
+  ...
+# Subtest: Higher cycle graph matches peaks, relative units and interaction answer
+ok 310 - Higher cycle graph matches peaks, relative units and interaction answer
+  ---
+  duration_ms: 16.307792
+  type: 'test'
+  ...
+# Subtest: Higher graph is connected to lesson and practice and excluded from Foundation rendering
+ok 311 - Higher graph is connected to lesson and practice and excluded from Foundation rendering
+  ---
+  duration_ms: 242.436875
+  type: 'test'
+  ...
+# Subtest: contraception evaluation uses correct denominators and qualified mechanisms
+ok 312 - contraception evaluation uses correct denominators and qualified mechanisms
+  ---
+  duration_ms: 13.784792
+  type: 'test'
+  ...
+# Subtest: fertility calculations use live-birth cycles and distinguish multiple-birth denominator
+ok 313 - fertility calculations use live-birth cycles and distinguish multiple-birth denominator
+  ---
+  duration_ms: 39.18375
+  type: 'test'
+  ...
+# Subtest: fertility percentage marking accepts percent forms but rejects incompatible units
+ok 314 - fertility percentage marking accepts percent forms but rejects incompatible units
+  ---
+  duration_ms: 27.464125
+  type: 'test'
+  ...
+# Subtest: new written questions retain model-answer self-assessment and criteria
+ok 315 - new written questions retain model-answer self-assessment and criteria
+  ---
+  duration_ms: 30.14
+  type: 'test'
+  ...
+# Subtest: three complete records have current eligible evidence and coherent Biology totals
+ok 316 - three complete records have current eligible evidence and coherent Biology totals
+  ---
+  duration_ms: 327.977417
+  type: 'test'
+  ...
+# Subtest: stale shared question and Higher fertility evidence lose approval
+ok 317 - stale shared question and Higher fertility evidence lose approval
+  ---
+  duration_ms: 640.285708
+  type: 'test'
+  ...
+# Subtest: non-target Homeostasis sections and every non-Trilogy Biology pathway remain unchanged
+ok 318 - non-target Homeostasis sections and every non-Trilogy Biology pathway remain unchanged
+  ---
+  duration_ms: 52.309167
+  type: 'test'
+  ...
+# Subtest: all 61 standalone repairs have current audited mappings and preserve source text
+ok 319 - all 61 standalone repairs have current audited mappings and preserve source text
+  ---
+  duration_ms: 200.481625
+  type: 'test'
+  ...
+# Subtest: Higher fertility lesson and eight questions restored verbatim and excluded from Foundation
+ok 320 - Higher fertility lesson and eight questions restored verbatim and excluded from Foundation
+  ---
+  duration_ms: 125.309625
+  type: 'test'
+  ...
+# Subtest: seven writing feedback strings restored exactly from existing source tuples
+ok 321 - seven writing feedback strings restored exactly from existing source tuples
+  ---
+  duration_ms: 296.377042
+  type: 'test'
+  ...
+# Subtest: all seven practical references use Trilogy numbering without changing separate Biology
+ok 322 - all seven practical references use Trilogy numbering without changing separate Biology
+  ---
+  duration_ms: 54.068917
+  type: 'test'
+  ...
+# Subtest: glucagon evidence remains Higher only and chromosome material is referenced without duplication
+ok 323 - glucagon evidence remains Higher only and chromosome material is referenced without duplication
+  ---
+  duration_ms: 638.22225
+  type: 'test'
+  ...
+# Subtest: 21 existing support activities are mapped and stale evidence is detected
+ok 324 - 21 existing support activities are mapped and stale evidence is detected
+  ---
+  duration_ms: 766.603208
+  type: 'test'
+  ...
+# Subtest: shared basic gene coding is restored with safe Foundation feedback and unchanged Higher text
+ok 325 - shared basic gene coding is restored with safe Foundation feedback and unchanged Higher text
+  ---
+  duration_ms: 174.824
+  type: 'test'
+  ...
+# Subtest: 78-unit audit records one missing-to-partial change, no inflated full coverage or Biology backlog
+ok 326 - 78-unit audit records one missing-to-partial change, no inflated full coverage or Biology backlog
+  ---
+  duration_ms: 312.51275
+  type: 'test'
+  ...
+# Subtest: all original Biology question IDs remain available and Chemistry/Physics all pathways match N
+ok 327 - all original Biology question IDs remain available and Chemistry/Physics all pathways match N
+  ---
+  duration_ms: 106.295042
+  type: 'test'
+  ...
+# Subtest: diffusion is taught in existing shared-tier lessons and safe recall
+ok 328 - diffusion is taught in existing shared-tier lessons and safe recall
+  ---
+  duration_ms: 66.695916
+  type: 'test'
+  ...
+# Subtest: quantitative osmosis is taught in existing shared-tier lessons and safe recall
+ok 329 - quantitative osmosis is taught in existing shared-tier lessons and safe recall
+  ---
+  duration_ms: 29.672375
+  type: 'test'
+  ...
+# Subtest: active transport and exchange is taught in existing shared-tier lessons and safe recall
+ok 330 - active transport and exchange is taught in existing shared-tier lessons and safe recall
+  ---
+  duration_ms: 21.194542
+  type: 'test'
+  ...
+# Subtest: surface-area reasoning is taught in existing shared-tier lessons and safe recall
+ok 331 - surface-area reasoning is taught in existing shared-tier lessons and safe recall
+  ---
+  duration_ms: 20.386667
+  type: 'test'
+  ...
+# Subtest: transport q1 is unique, shared and mapped with answers/feedback
+ok 332 - transport q1 is unique, shared and mapped with answers/feedback
+  ---
+  duration_ms: 413.414542
+  type: 'test'
+  ...
+# Subtest: transport q2 is unique, shared and mapped with answers/feedback
+ok 333 - transport q2 is unique, shared and mapped with answers/feedback
+  ---
+  duration_ms: 381.273625
+  type: 'test'
+  ...
+# Subtest: transport q3 is unique, shared and mapped with answers/feedback
+ok 334 - transport q3 is unique, shared and mapped with answers/feedback
+  ---
+  duration_ms: 403.477625
+  type: 'test'
+  ...
+# Subtest: transport q4 is unique, shared and mapped with answers/feedback
+ok 335 - transport q4 is unique, shared and mapped with answers/feedback
+  ---
+  duration_ms: 389.561084
+  type: 'test'
+  ...
+# Subtest: transport q5 is unique, shared and mapped with answers/feedback
+ok 336 - transport q5 is unique, shared and mapped with answers/feedback
+  ---
+  duration_ms: 419.760292
+  type: 'test'
+  ...
+# Subtest: transport q6 is unique, shared and mapped with answers/feedback
+ok 337 - transport q6 is unique, shared and mapped with answers/feedback
+  ---
+  duration_ms: 473.346333
+  type: 'test'
+  ...
+# Subtest: transport q7 is unique, shared and mapped with answers/feedback
+ok 338 - transport q7 is unique, shared and mapped with answers/feedback
+  ---
+  duration_ms: 464.630834
+  type: 'test'
+  ...
+# Subtest: transport q8 is unique, shared and mapped with answers/feedback
+ok 339 - transport q8 is unique, shared and mapped with answers/feedback
+  ---
+  duration_ms: 402.924959
+  type: 'test'
+  ...
+# Subtest: transport q9 is unique, shared and mapped with answers/feedback
+ok 340 - transport q9 is unique, shared and mapped with answers/feedback
+  ---
+  duration_ms: 400.597959
+  type: 'test'
+  ...
+# Subtest: transport q10 is unique, shared and mapped with answers/feedback
+ok 341 - transport q10 is unique, shared and mapped with answers/feedback
+  ---
+  duration_ms: 430.850375
+  type: 'test'
+  ...
+# Subtest: rate marking accepts equivalent mass/time units and rejects masses, percentages and wrong magnitude
+ok 342 - rate marking accepts equivalent mass/time units and rejects masses, percentages and wrong magnitude
+  ---
+  duration_ms: 16.758792
+  type: 'test'
+  ...
+# Subtest: mass-change dataset, plot coordinates and interpolated zero crossing agree mathematically
+ok 343 - mass-change dataset, plot coordinates and interpolated zero crossing agree mathematically
+  ---
+  duration_ms: 21.447834
+  type: 'test'
+  ...
+# Subtest: RP02 keeps Trilogy numbering and adds complete mass-based method, controls, repeats, safety and evaluation
+ok 344 - RP02 keeps Trilogy numbering and adds complete mass-based method, controls, repeats, safety and evaluation
+  ---
+  duration_ms: 13.734459
+  type: 'test'
+  ...
+# Subtest: four individual completion decisions preserve the 78-unit framework and zero Biology backlogs
+ok 345 - four individual completion decisions preserve the 78-unit framework and zero Biology backlogs
+  ---
+  duration_ms: 329.461042
+  type: 'test'
+  ...
+# Subtest: unreviewed changes fail closed and stale graph evidence cannot retain Full osmosis coverage
+ok 346 - unreviewed changes fail closed and stale graph evidence cannot retain Full osmosis coverage
+  ---
+  duration_ms: 337.97525
+  type: 'test'
+  ...
+# Subtest: graph works in existing lesson/question rendering and all old content is retained
+ok 347 - graph works in existing lesson/question rendering and all old content is retained
+  ---
+  duration_ms: 327.077208
+  type: 'test'
+  ...
+# Subtest: other courses and boards retain the pre-transport resolver output
+ok 348 - other courses and boards retain the pre-transport resolver output
+  ---
+  duration_ms: 57.7145
+  type: 'test'
+  ...
+# Subtest: dashboard entry keeps cards and compact supporting information
+ok 349 - dashboard entry keeps cards and compact supporting information
+  ---
+  duration_ms: 75.166667
+  type: 'test'
+  ...
+# Subtest: cells card opens introduction and Library preserves selection
+ok 350 - cells card opens introduction and Library preserves selection
+  ---
+  duration_ms: 42.878792
+  type: 'test'
+  ...
+# Subtest: structures card opens introduction and Library preserves selection
+ok 351 - structures card opens introduction and Library preserves selection
+  ---
+  duration_ms: 46.327708
+  type: 'test'
+  ...
+# Subtest: specialised card opens introduction and Library preserves selection
+ok 352 - specialised card opens introduction and Library preserves selection
+  ---
+  duration_ms: 33.343083
+  type: 'test'
+  ...
+# Subtest: all later milestones offer preserved revision content and primary action
+ok 353 - all later milestones offer preserved revision content and primary action
+  ---
+  duration_ms: 99.029833
+  type: 'test'
+  ...
+# Subtest: card and Library retain pending independent answers without granting credit
+ok 354 - card and Library retain pending independent answers without granting credit
+  ---
+  duration_ms: 91.45475
+  type: 'test'
+  ...
+# Subtest: navigation preserves completed evidence through reload and tier switching
+ok 355 - navigation preserves completed evidence through reload and tier switching
+  ---
+  duration_ms: 650.7115
+  type: 'test'
+  ...
+# Subtest: destination restore resumes current assessment instead of old answer snapshots
+ok 356 - destination restore resumes current assessment instead of old answer snapshots
+  ---
+  duration_ms: 78.126084
+  type: 'test'
+  ...
+# Subtest: previous tier history destination stays on current tier dashboard
+ok 357 - previous tier history destination stays on current tier dashboard
+  ---
+  duration_ms: 474.892916
+  type: 'test'
+  ...
+# Subtest: other lesson destinations restore their subject and topic
+ok 358 - other lesson destinations restore their subject and topic
+  ---
+  duration_ms: 108.790667
+  type: 'test'
+  ...
+# Subtest: native history records destinations and manually controls restoration scroll
+ok 359 - native history records destinations and manually controls restoration scroll
+  ---
+  duration_ms: 62.57175
+  type: 'test'
+  ...
+# Subtest: reload interactive and Osmosis hash resumes the matching saved destination
+ok 360 - reload interactive and Osmosis hash resumes the matching saved destination
+  ---
+  duration_ms: 100.965917
+  type: 'test'
+  ...
+# Subtest: O2 entry is restricted to second AQA Trilogy milestone and other pathways remain unchanged
+ok 361 - O2 entry is restricted to second AQA Trilogy milestone and other pathways remain unchanged
+  ---
+  duration_ms: 118.324083
+  type: 'test'
+  ...
+# Subtest: the twelve milestone definitions and old teaching source remain intact
+ok 362 - the twelve milestone definitions and old teaching source remain intact
+  ---
+  duration_ms: 44.779167
+  type: 'test'
+  ...
+# Subtest: all three interactive diagrams render their correct structure lists and keyboard hotspots
+ok 363 - all three interactive diagrams render their correct structure lists and keyboard hotspots
+  ---
+  duration_ms: 78.406833
+  type: 'test'
+  ...
+# Subtest: plant and animal diagrams share nucleus, membrane, cytoplasm, mitochondria and ribosomes
+ok 364 - plant and animal diagrams share nucleus, membrane, cytoplasm, mitochondria and ribosomes
+  ---
+  duration_ms: 35.556458
+  type: 'test'
+  ...
+# Subtest: bacteria have no nucleus, mitochondria or chloroplasts; plasmids are optional
+ok 365 - bacteria have no nucleus, mitochondria or chloroplasts; plasmids are optional
+  ---
+  duration_ms: 41.283083
+  type: 'test'
+  ...
+# Subtest: models correctly distinguish cellulose wall, membrane, cell sap and photosynthesis exceptions
+ok 366 - models correctly distinguish cellulose wall, membrane, cell sap and photosynthesis exceptions
+  ---
+  duration_ms: 49.162
+  type: 'test'
+  ...
+# Subtest: discoveries, selected cell and selected structure survive reload without scoring
+ok 367 - discoveries, selected cell and selected structure survive reload without scoring
+  ---
+  duration_ms: 95.023667
+  type: 'test'
+  ...
+# Subtest: missions provide misconception feedback, progressive clues and retries without credit
+ok 368 - missions provide misconception feedback, progressive clues and retries without credit
+  ---
+  duration_ms: 53.234083
+  type: 'test'
+  ...
+# Subtest: all mission options, including plant respiration and no-nucleus bacteria, behave correctly
+ok 369 - all mission options, including plant respiration and no-nucleus bacteria, behave correctly
+  ---
+  duration_ms: 45.229541
+  type: 'test'
+  ...
+# Subtest: six fresh independent questions cover all three domains and withhold hints and explanations
+ok 370 - six fresh independent questions cover all three domains and withhold hints and explanations
+  ---
+  duration_ms: 60.861917
+  type: 'test'
+  ...
+# Subtest: incomplete or invalid answers cannot submit or earn credit
+ok 371 - incomplete or invalid answers cannot submit or earn credit
+  ---
+  duration_ms: 34.435167
+  type: 'test'
+  ...
+# Subtest: correct independent work scores the existing subsection only and preserves legitimate mastery
+ok 372 - correct independent work scores the existing subsection only and preserves legitimate mastery
+  ---
+  duration_ms: 35.181708
+  type: 'test'
+  ...
+# Subtest: two complete fresh checks cannot independently secure whole-topic mastery
+ok 373 - two complete fresh checks cannot independently secure whole-topic mastery
+  ---
+  duration_ms: 42.98325
+  type: 'test'
+  ...
+# Subtest: duplicate submission, repeating bank items and exhausted forms cannot inflate progress
+ok 374 - duplicate submission, repeating bank items and exhausted forms cannot inflate progress
+  ---
+  duration_ms: 42.67975
+  type: 'test'
+  ...
+# Subtest: incorrect independent answers receive feedback and existing -10 rule without whole-topic penalty
+ok 375 - incorrect independent answers receive feedback and existing -10 rule without whole-topic penalty
+  ---
+  duration_ms: 53.413458
+  type: 'test'
+  ...
+# Subtest: partial answers and completed evidence restore after reload without duplicate scoring
+ok 376 - partial answers and completed evidence restore after reload without duplicate scoring
+  ---
+  duration_ms: 145.380042
+  type: 'test'
+  ...
+# Subtest: revisiting teaching during an independent check turns it into unscored practice
+ok 377 - revisiting teaching during an independent check turns it into unscored practice
+  ---
+  duration_ms: 24.230167
+  type: 'test'
+  ...
+# Subtest: Foundation and Higher discoveries, answers and scores stay separate
+ok 378 - Foundation and Higher discoveries, answers and scores stay separate
+  ---
+  duration_ms: 771.655375
+  type: 'test'
+  ...
+# Subtest: whole-topic values and unrelated saved evidence are not changed merely by opening O2
+ok 379 - whole-topic values and unrelated saved evidence are not changed merely by opening O2
+  ---
+  duration_ms: 36.9275
+  type: 'test'
+  ...
+# Subtest: Back and homepage navigation exit O2 reliably and preserve discoveries
+ok 380 - Back and homepage navigation exit O2 reliably and preserve discoveries
+  ---
+  duration_ms: 81.202833
+  type: 'test'
+  ...
+# Subtest: assessment bank has unique IDs, plausible distinct options and rotating answer positions
+ok 381 - assessment bank has unique IDs, plausible distinct options and rotating answer positions
+  ---
+  duration_ms: 22.251458
+  type: 'test'
+  ...
+# Subtest: O1 combined Play/Pause updates label and tracker follows automatic progression
+ok 382 - O1 combined Play/Pause updates label and tracker follows automatic progression
+  ---
+  duration_ms: 54.9765
+  type: 'test'
+  ...
+# Subtest: intro secondary controls remain accessible and main controls have no separate Pause button
+ok 383 - intro secondary controls remain accessible and main controls have no separate Pause button
+  ---
+  duration_ms: 35.907458
+  type: 'test'
+  ...
+# Subtest: diagram and lesson layout includes touch targets, responsive columns and reduced-motion support
+ok 384 - diagram and lesson layout includes touch targets, responsive columns and reduced-motion support
+  ---
+  duration_ms: 0.3505
+  type: 'test'
+  ...
+# Subtest: a current assessment resumes instead of exposing and replacing another fresh form
+ok 385 - a current assessment resumes instead of exposing and replacing another fresh form
+  ---
+  duration_ms: 34.201917
+  type: 'test'
+  ...
+# Subtest: malformed lesson state recovers while keeping damaged assessment evidence and legitimate progress
+ok 386 - malformed lesson state recovers while keeping damaged assessment evidence and legitimate progress
+  ---
+  duration_ms: 35.334416
+  type: 'test'
+  ...
+# Subtest: plant ribosomes are drawn in cytoplasm outside the permanent vacuole and nucleus
+ok 387 - plant ribosomes are drawn in cytoplasm outside the permanent vacuole and nucleus
+  ---
+  duration_ms: 25.794417
+  type: 'test'
+  ...
+# Subtest: each supported mystery offers its matching diagram and returns with answers and clues saved
+ok 388 - each supported mystery offers its matching diagram and returns with answers and clues saved
+  ---
+  duration_ms: 29.670292
+  type: 'test'
+  ...
+# Subtest: independent checks do not expose the supported diagram shortcut
+ok 389 - independent checks do not expose the supported diagram shortcut
+  ---
+  duration_ms: 64.280792
+  type: 'test'
+  ...
+# Subtest: slower narration is the default; valid pace preferences persist separately per tier
+ok 390 - slower narration is the default; valid pace preferences persist separately per tier
+  ---
+  duration_ms: 417.040375
+  type: 'test'
+  ...
+# Subtest: speech uses selected pace and changing pace restarts the view without awarding mastery
+ok 391 - speech uses selected pace and changing pace restarts the view without awarding mastery
+  ---
+  duration_ms: 33.788916
+  type: 'test'
+  ...
+# Subtest: estimated caption and silent-stage timing are slowed alongside narration
+ok 392 - estimated caption and silent-stage timing are slowed alongside narration
+  ---
+  duration_ms: 28.476375
+  type: 'test'
+  ...
+# Subtest: pause overrides the later camera animation shorthand as well as depth and entry movement
+ok 393 - pause overrides the later camera animation shorthand as well as depth and entry movement
+  ---
+  duration_ms: 0.121792
+  type: 'test'
+  ...
+# Subtest: O1 opens only the first AQA Trilogy milestone and preserves all twelve names
+ok 394 - O1 opens only the first AQA Trilogy milestone and preserves all twelve names
+  ---
+  duration_ms: 81.204167
+  type: 'test'
+  ...
+# Subtest: six discovery scenes render and original grading does not change during supported work
+ok 395 - six discovery scenes render and original grading does not change during supported work
+  ---
+  duration_ms: 24.299
+  type: 'test'
+  ...
+# Subtest: scientific definitions, analogy limits and organism examples are accurate
+ok 396 - scientific definitions, analogy limits and organism examples are accurate
+  ---
+  duration_ms: 24.441792
+  type: 'test'
+  ...
+# Subtest: tap sorting supports undo, rejects duplicates and teaches increasing organisation
+ok 397 - tap sorting supports undo, rejects duplicates and teaches increasing organisation
+  ---
+  duration_ms: 23.662208
+  type: 'test'
+  ...
+# Subtest: incorrect sorting uses progressive feedback and can be repaired
+ok 398 - incorrect sorting uses progressive feedback and can be repaired
+  ---
+  duration_ms: 27.881958
+  type: 'test'
+  ...
+# Subtest: practice wrong answers explain misconceptions, hints advance without immediate reveal
+ok 399 - practice wrong answers explain misconceptions, hints advance without immediate reveal
+  ---
+  duration_ms: 64.629209
+  type: 'test'
+  ...
+# Subtest: fresh check covers four concepts and withholds answers/hints until submission
+ok 400 - fresh check covers four concepts and withholds answers/hints until submission
+  ---
+  duration_ms: 31.926334
+  type: 'test'
+  ...
+# Subtest: independent check uses existing +12/-10 only in its introductory subsection
+ok 401 - independent check uses existing +12/-10 only in its introductory subsection
+  ---
+  duration_ms: 44.804291
+  type: 'test'
+  ...
+# Subtest: duplicate submission, reload, retry and repeated bank grading cannot inflate new scores
+ok 402 - duplicate submission, reload, retry and repeated bank grading cannot inflate new scores
+  ---
+  duration_ms: 83.857375
+  type: 'test'
+  ...
+# Subtest: new check is unseen and exposed/abandoned items do not qualify as fresh
+ok 403 - new check is unseen and exposed/abandoned items do not qualify as fresh
+  ---
+  duration_ms: 58.716125
+  type: 'test'
+  ...
+# Subtest: returning to teaching during a pending check makes it unscored practice
+ok 404 - returning to teaching during a pending check makes it unscored practice
+  ---
+  duration_ms: 61.623542
+  type: 'test'
+  ...
+# Subtest: scores remain separated by Foundation/Higher context
+ok 405 - scores remain separated by Foundation/Higher context
+  ---
+  duration_ms: 415.512583
+  type: 'test'
+  ...
+# Subtest: autosave restores reflection, sort, discovered examples, practice hints and pending answers
+ok 406 - autosave restores reflection, sort, discovered examples, practice hints and pending answers
+  ---
+  duration_ms: 78.173541
+  type: 'test'
+  ...
+# Subtest: homepage, hierarchy Back and ordinary navigation leave tutor safely
+ok 407 - homepage, hierarchy Back and ordinary navigation leave tutor safely
+  ---
+  duration_ms: 27.342708
+  type: 'test'
+  ...
+# Subtest: animation controls, subtitles, still frames and transcript are present without autoplay
+ok 408 - animation controls, subtitles, still frames and transcript are present without autoplay
+  ---
+  duration_ms: 39.752125
+  type: 'test'
+  ...
+# Subtest: CSS provides reduced-motion, keyboard focus, wrapping and touch-size controls
+ok 409 - CSS provides reduced-motion, keyboard focus, wrapping and touch-size controls
+  ---
+  duration_ms: 0.33425
+  type: 'test'
+  ...
+# Subtest: legacy storage key and protected navigation/Osmosis/curriculum files are unchanged
+ok 410 - legacy storage key and protected navigation/Osmosis/curriculum files are unchanged
+  ---
+  duration_ms: 39.254292
+  type: 'test'
+  ...
+# Subtest: new items have stable unique IDs, unambiguous answer membership and shared tier
+ok 411 - new items have stable unique IDs, unambiguous answer membership and shared tier
+  ---
+  duration_ms: 105.144833
+  type: 'test'
+  ...
+# Subtest: exhausted fresh forms do not recycle questions for further credit
+ok 412 - exhausted fresh forms do not recycle questions for further credit
+  ---
+  duration_ms: 91.853333
+  type: 'test'
+  ...
+# Subtest: narration starts only on Play; Pause cancels speech and freezes motion
+ok 413 - narration starts only on Play; Pause cancels speech and freezes motion
+  ---
+  duration_ms: 25.979292
+  type: 'test'
+  ...
+# Subtest: narration completion advances four phases and stale callbacks cannot restart playback
+ok 414 - narration completion advances four phases and stale callbacks cannot restart playback
+  ---
+  duration_ms: 42.149459
+  type: 'test'
+  ...
+# Subtest: system reduced motion keeps the current still frame until manually advanced
+ok 415 - system reduced motion keeps the current still frame until manually advanced
+  ---
+  duration_ms: 35.49925
+  type: 'test'
+  ...
+# Subtest: replay resets phase; skip/home cancels narration and ignores subsequent completion
+ok 416 - replay resets phase; skip/home cancels narration and ignores subsequent completion
+  ---
+  duration_ms: 47.968
+  type: 'test'
+  ...
+# Subtest: subtitle and mute preferences persist; mute never requires a voice
+ok 417 - subtitle and mute preferences persist; mute never requires a voice
+  ---
+  duration_ms: 65.999458
+  type: 'test'
+  ...
+# Subtest: new independent choices are not all in the first position
+ok 418 - new independent choices are not all in the first position
+  ---
+  duration_ms: 21.90875
+  type: 'test'
+  ...
+# Subtest: corrupt new lesson state recovers without changing old progress
+ok 419 - corrupt new lesson state recovers without changing old progress
+  ---
+  duration_ms: 21.643958
+  type: 'test'
+  ...
+# Subtest: unavailable or throwing device voice switches to a timed caption fallback
+ok 420 - unavailable or throwing device voice switches to a timed caption fallback
+  ---
+  duration_ms: 70.298458
+  type: 'test'
+  ...
+# Subtest: sixteen independent correct answers secure only What are cells?, never whole Cell Biology
+ok 421 - sixteen independent correct answers secure only What are cells?, never whole Cell Biology
+  ---
+  duration_ms: 145.340458
+  type: 'test'
+  ...
+# Subtest: repeating introductory bank items and checks leaves legitimate wider mastery unchanged
+ok 422 - repeating introductory bank items and checks leaves legitimate wider mastery unchanged
+  ---
+  duration_ms: 44.007084
+  type: 'test'
+  ...
+# Subtest: migration removes eight legacy O1 awards from topic Secure and retains all evidence
+ok 423 - migration removes eight legacy O1 awards from topic Secure and retains all evidence
+  ---
+  duration_ms: 66.301209
+  type: 'test'
+  ...
+# Subtest: unclamped legacy recovery keeps legitimate topic/subsection progress and unrelated evidence intact
+ok 424 - unclamped legacy recovery keeps legitimate topic/subsection progress and unrelated evidence intact
+  ---
+  duration_ms: 49.610666
+  type: 'test'
+  ...
+# Subtest: capped legacy recovery retains original scores and clearly discloses conservative uncertainty
+ok 425 - capped legacy recovery retains original scores and clearly discloses conservative uncertainty
+  ---
+  duration_ms: 52.763417
+  type: 'test'
+  ...
+# Subtest: known uncapped legacy penalties are restored exactly without changing mistakes or attempts
+ok 426 - known uncapped legacy penalties are restored exactly without changing mistakes or attempts
+  ---
+  duration_ms: 48.339208
+  type: 'test'
+  ...
+# Subtest: new scoped scores are not mistaken for legacy contamination on reload
+ok 427 - new scoped scores are not mistaken for legacy contamination on reload
+  ---
+  duration_ms: 87.523958
+  type: 'test'
+  ...
+# Subtest: clean records remain identical; Foundation recovery is isolated from Higher
+ok 428 - clean records remain identical; Foundation recovery is isolated from Higher
+  ---
+  duration_ms: 453.876625
+  type: 'test'
+  ...
+# Subtest: completed and pending legacy assessment answers retain their original question snapshots
+ok 429 - completed and pending legacy assessment answers retain their original question snapshots
+  ---
+  duration_ms: 155.981958
+  type: 'test'
+  ...
+# Subtest: importing an old backup repairs contamination immediately and keeps unrelated local records
+ok 430 - importing an old backup repairs contamination immediately and keeps unrelated local records
+  ---
+  duration_ms: 54.020833
+  type: 'test'
+  ...
+# Subtest: ordinary wider questions still award topic mastery; section scope is reusable for future lessons
+ok 431 - ordinary wider questions still award topic mastery; section scope is reusable for future lessons
+  ---
+  duration_ms: 32.057958
+  type: 'test'
+  ...
+# Subtest: all sixteen revised independent items use plausible lesson-level misconceptions and valid feedback
+ok 432 - all sixteen revised independent items use plausible lesson-level misconceptions and valid feedback
+  ---
+  duration_ms: 19.786042
+  type: 'test'
+  ...
+# Subtest: caption chunks are short, speech boundaries synchronise them and full narration remains accessible
+ok 433 - caption chunks are short, speech boundaries synchronise them and full narration remains accessible
+  ---
+  duration_ms: 58.662333
+  type: 'test'
+  ...
+# Subtest: silent caption timing advances segments and stale timers cannot affect a later scene
+ok 434 - silent caption timing advances segments and stale timers cannot affect a later scene
+  ---
+  duration_ms: 46.751834
+  type: 'test'
+  ...
+# Subtest: mobile Skip introduction gets a complete full-width label without changing navigation
+ok 435 - mobile Skip introduction gets a complete full-width label without changing navigation
+  ---
+  duration_ms: 33.972666
+  type: 'test'
+  ...
+# Subtest: mixed uncapped introductory outcomes restore the legitimate starting score exactly
+ok 436 - mixed uncapped introductory outcomes restore the legitimate starting score exactly
+  ---
+  duration_ms: 55.093542
+  type: 'test'
+  ...
+# Subtest: interleaved legitimate answers prevent unsafe penalty refunds; recovery retains the original and all evidence
+ok 437 - interleaved legitimate answers prevent unsafe penalty refunds; recovery retains the original and all evidence
+  ---
+  duration_ms: 60.168875
+  type: 'test'
+  ...
+# Subtest: mixed outcomes with identical timestamps use conservative recovery rather than guessing their order
+ok 438 - mixed outcomes with identical timestamps use conservative recovery rather than guessing their order
+  ---
+  duration_ms: 47.295333
+  type: 'test'
+  ...
+# Subtest: legacy inverse recovery never exceeds the legitimate baseline across 6464 capped outcome histories
+ok 439 - legacy inverse recovery never exceeds the legitimate baseline across 6464 capped outcome histories
+  ---
+  duration_ms: 98.5785
+  type: 'test'
+  ...
+# Subtest: later awards from reopening old O1 are repaired once while preserving the first recovery archive
+ok 440 - later awards from reopening old O1 are repaired once while preserving the first recovery archive
+  ---
+  duration_ms: 115.381
+  type: 'test'
+  ...
+# Subtest: standalone admin runs without student state or storage and inventories every registered pathway
+ok 441 - standalone admin runs without student state or storage and inventories every registered pathway
+  ---
+  duration_ms: 604.259916
+  type: 'test'
+  ...
+# Subtest: course and tier report results use the same live resolvers as the app
+ok 442 - course and tier report results use the same live resolvers as the app
+  ---
+  duration_ms: 675.634959
+  type: 'test'
+  ...
+# Subtest: metadata edits automatically update missing and partial classifications
+ok 443 - metadata edits automatically update missing and partial classifications
+  ---
+  duration_ms: 520.600791
+  type: 'test'
+  ...
+# Subtest: Foundation and Synergy warnings are visible without claiming complete coverage
+ok 444 - Foundation and Synergy warnings are visible without claiming complete coverage
+  ---
+  duration_ms: 488.108792
+  type: 'test'
+  ...
+# Subtest: admin filters identify board tier course gaps and empty combinations
+ok 445 - admin filters identify board tier course gaps and empty combinations
+  ---
+  duration_ms: 529.044792
+  type: 'test'
+  ...
+# Subtest: report does not mutate curriculum metadata
+ok 446 - report does not mutate curriculum metadata
+  ---
+  duration_ms: 787.073875
+  type: 'test'
+  ...
+# Subtest: missing status filter includes partially populated pathways with missing topics
+ok 447 - missing status filter includes partially populated pathways with missing topics
+  ---
+  duration_ms: 471.06025
+  type: 'test'
+  ...
+# Subtest: Foundation and unconfirmed Trilogy only receive current audited shared questions
+ok 448 - Foundation and unconfirmed Trilogy only receive current audited shared questions
+  ---
+  duration_ms: 140.996959
+  type: 'test'
+  ...
+# Subtest: Foundation mixed lessons keep existing shared clauses while Higher retains full text
+ok 449 - Foundation mixed lessons keep existing shared clauses while Higher retains full text
+  ---
+  duration_ms: 14.166709
+  type: 'test'
+  ...
+# Subtest: Higher and all non-target pathways remain identical to their original resolvers
+ok 450 - Higher and all non-target pathways remain identical to their original resolvers
+  ---
+  duration_ms: 73.166375
+  type: 'test'
+  ...
+# Subtest: Foundation recall cards cannot inherit Higher-only back text or visual labels
+ok 451 - Foundation recall cards cannot inherit Higher-only back text or visual labels
+  ---
+  duration_ms: 187.284625
+  type: 'test'
+  ...
+# Subtest: Known higher distractors and explanations are blocked as well as correct answers
+ok 452 - Known higher distractors and explanations are blocked as well as correct answers
+  ---
+  duration_ms: 73.39875
+  type: 'test'
+  ...
+# Subtest: restored shared section retains independent progress and card rating across tiers
+ok 453 - restored shared section retains independent progress and card rating across tiers
+  ---
+  duration_ms: 303.465583
+  type: 'test'
+  ...
+# Subtest: module tests, subsection sessions and Learning Lab share the Foundation question gate
+ok 454 - module tests, subsection sessions and Learning Lab share the Foundation question gate
+  ---
+  duration_ms: 248.573167
+  type: 'test'
+  ...
+# Subtest: stale lesson and question evidence fail closed for Foundation
+ok 455 - stale lesson and question evidence fail closed for Foundation
+  ---
+  duration_ms: 18.746708
+  type: 'test'
+  ...
+# Subtest: saved Higher feedback cannot be shown through the Foundation lesson handoff
+ok 456 - saved Higher feedback cannot be shown through the Foundation lesson handoff
+  ---
+  duration_ms: 29.888458
+  type: 'test'
+  ...
+# Subtest: cleanup accounts for the additional resolved endocrine lesson and leaves all 17 unit issues unchanged
+ok 457 - cleanup accounts for the additional resolved endocrine lesson and leaves all 17 unit issues unchanged
+  ---
+  duration_ms: 871.54175
+  type: 'test'
+  ...
+# Subtest: Blood glucose restores five insulin questions with safe answers options and feedback
+ok 458 - Blood glucose restores five insulin questions with safe answers options and feedback
+  ---
+  duration_ms: 106.753375
+  type: 'test'
+  ...
+# Subtest: Blood glucose Higher retains all original text with corrected eligibility
+ok 459 - Blood glucose Higher retains all original text with corrected eligibility
+  ---
+  duration_ms: 32.175916
+  type: 'test'
+  ...
+# Subtest: Blood glucose variants fail closed when source distractors change
+ok 460 - Blood glucose variants fail closed when source distractors change
+  ---
+  duration_ms: 95.869083
+  type: 'test'
+  ...
+# Subtest: Blood glucose section practice and module tests receive separated feedback
+ok 461 - Blood glucose section practice and module tests receive separated feedback
+  ---
+  duration_ms: 598.460833
+  type: 'test'
+  ...
+# Subtest: Reproductive hormone Foundation variants teach audited roles without interactions or timing
+ok 462 - Reproductive hormone Foundation variants teach audited roles without interactions or timing
+  ---
+  duration_ms: 144.986875
+  type: 'test'
+  ...
+# Subtest: Reproductive hormone Higher content and non-target pathways are preserved
+ok 463 - Reproductive hormone Higher content and non-target pathways are preserved
+  ---
+  duration_ms: 51.575458
+  type: 'test'
+  ...
+# Subtest: Reproductive hormone source feedback and options changes invalidate Foundation variants
+ok 464 - Reproductive hormone source feedback and options changes invalidate Foundation variants
+  ---
+  duration_ms: 129.574708
+  type: 'test'
+  ...
+# Subtest: Reproductive hormone practice shares eligible feedback and diagnostic resolves exactly seven
+ok 465 - Reproductive hormone practice shares eligible feedback and diagnostic resolves exactly seven
+  ---
+  duration_ms: 574.023458
+  type: 'test'
+  ...
+# Subtest: Keeping conditions stable changes only the unsafe Foundation distractor
+ok 466 - Keeping conditions stable changes only the unsafe Foundation distractor
+  ---
+  duration_ms: 79.273959
+  type: 'test'
+  ...
+# Subtest: Keeping conditions stable Higher and non-target pathways retain their original question
+ok 467 - Keeping conditions stable Higher and non-target pathways retain their original question
+  ---
+  duration_ms: 14.247708
+  type: 'test'
+  ...
+# Subtest: Keeping conditions stable source changes fail closed and audit records one resolution
+ok 468 - Keeping conditions stable source changes fail closed and audit records one resolution
+  ---
+  duration_ms: 386.157333
+  type: 'test'
+  ...
+# Subtest: Keeping conditions stable practice receives the separated option
+ok 469 - Keeping conditions stable practice receives the separated option
+  ---
+  duration_ms: 125.177
+  type: 'test'
+  ...
+# Subtest: Pathogens summary replaces only the excluded Foundation distractor
+ok 470 - Pathogens summary replaces only the excluded Foundation distractor
+  ---
+  duration_ms: 70.244042
+  type: 'test'
+  ...
+# Subtest: Pathogens summary preserves original Higher and other-pathway material
+ok 471 - Pathogens summary preserves original Higher and other-pathway material
+  ---
+  duration_ms: 13.309084
+  type: 'test'
+  ...
+# Subtest: Pathogens summary evidence changes fail closed and audit resolves exactly one hold
+ok 472 - Pathogens summary evidence changes fail closed and audit resolves exactly one hold
+  ---
+  duration_ms: 1172.631083
+  type: 'test'
+  ...
+# Subtest: Pathogens summary practice uses only the separated Foundation version
+ok 473 - Pathogens summary practice uses only the separated Foundation version
+  ---
+  duration_ms: 127.240833
+  type: 'test'
+  ...
+# Subtest: Defences summary replaces only the excluded Foundation distractor
+ok 474 - Defences summary replaces only the excluded Foundation distractor
+  ---
+  duration_ms: 68.493333
+  type: 'test'
+  ...
+# Subtest: Defences summary preserves original Higher and other-pathway material
+ok 475 - Defences summary preserves original Higher and other-pathway material
+  ---
+  duration_ms: 14.114875
+  type: 'test'
+  ...
+# Subtest: Defences summary evidence changes fail closed and audit resolves exactly one hold
+ok 476 - Defences summary evidence changes fail closed and audit resolves exactly one hold
+  ---
+  duration_ms: 1118.325083
+  type: 'test'
+  ...
+# Subtest: Defences summary practice uses only the separated Foundation version
+ok 477 - Defences summary practice uses only the separated Foundation version
+  ---
+  duration_ms: 116.851125
+  type: 'test'
+  ...
+# Subtest: Batch G safe summary and preserved Higher: infection-response-developing-medicines
+ok 478 - Batch G safe summary and preserved Higher: infection-response-developing-medicines
+  ---
+  duration_ms: 202.519541
+  type: 'test'
+  ...
+# Subtest: Batch G safe summary and preserved Higher: infection-response-interpreting-evidence
+ok 479 - Batch G safe summary and preserved Higher: infection-response-interpreting-evidence
+  ---
+  duration_ms: 208.330125
+  type: 'test'
+  ...
+# Subtest: Batch G safe summary and preserved Higher: bioenergetics-photosynthesis
+ok 480 - Batch G safe summary and preserved Higher: bioenergetics-photosynthesis
+  ---
+  duration_ms: 206.749458
+  type: 'test'
+  ...
+# Subtest: Batch G safe summary and preserved Higher: bioenergetics-aerobic-respiration
+ok 481 - Batch G safe summary and preserved Higher: bioenergetics-aerobic-respiration
+  ---
+  duration_ms: 200.658542
+  type: 'test'
+  ...
+# Subtest: Batch G safe summary and preserved Higher: bioenergetics-anaerobic-respiration
+ok 482 - Batch G safe summary and preserved Higher: bioenergetics-anaerobic-respiration
+  ---
+  duration_ms: 208.520416
+  type: 'test'
+  ...
+# Subtest: Batch G safe summary and preserved Higher: bioenergetics-exercise-and-metabolism
+ok 483 - Batch G safe summary and preserved Higher: bioenergetics-exercise-and-metabolism
+  ---
+  duration_ms: 205.993458
+  type: 'test'
+  ...
+# Subtest: Batch G safe summary and preserved Higher: bioenergetics-measuring-a-biological-rate
+ok 484 - Batch G safe summary and preserved Higher: bioenergetics-measuring-a-biological-rate
+  ---
+  duration_ms: 208.91075
+  type: 'test'
+  ...
+# Subtest: Batch G safe summary and preserved Higher: homeostasis-response-reflexes-and-the-nervous-system
+ok 485 - Batch G safe summary and preserved Higher: homeostasis-response-reflexes-and-the-nervous-system
+  ---
+  duration_ms: 201.673292
+  type: 'test'
+  ...
+# Subtest: Batch G resolves exactly eight existing holds and preserves 17 unit issues
+ok 486 - Batch G resolves exactly eight existing holds and preserves 17 unit issues
+  ---
+  duration_ms: 478.734583
+  type: 'test'
+  ...
+# Subtest: Batch H safe summary and preserved Higher: homeostasis-response-reproduction-and-hormones
+ok 487 - Batch H safe summary and preserved Higher: homeostasis-response-reproduction-and-hormones
+  ---
+  duration_ms: 201.99125
+  type: 'test'
+  ...
+# Subtest: Batch H safe summary and preserved Higher: homeostasis-response-reaction-time-investigations
+ok 488 - Batch H safe summary and preserved Higher: homeostasis-response-reaction-time-investigations
+  ---
+  duration_ms: 203.501625
+  type: 'test'
+  ...
+# Subtest: Batch H safe summary and preserved Higher: homeostasis-response-the-endocrine-system
+ok 489 - Batch H safe summary and preserved Higher: homeostasis-response-the-endocrine-system
+  ---
+  duration_ms: 198.879833
+  type: 'test'
+  ...
+# Subtest: Batch H resolves exactly three existing holds and preserves 17 unit issues
+ok 490 - Batch H resolves exactly three existing holds and preserves 17 unit issues
+  ---
+  duration_ms: 483.228875
+  type: 'test'
+  ...
+# Subtest: Batch I safe summary and preserved Higher: inheritance-sexual-and-asexual-reproduction
+ok 491 - Batch I safe summary and preserved Higher: inheritance-sexual-and-asexual-reproduction
+  ---
+  duration_ms: 206.508958
+  type: 'test'
+  ...
+# Subtest: Batch I safe summary and preserved Higher: inheritance-genetic-crosses
+ok 492 - Batch I safe summary and preserved Higher: inheritance-genetic-crosses
+  ---
+  duration_ms: 202.613833
+  type: 'test'
+  ...
+# Subtest: Batch I safe summary and preserved Higher: inheritance-variation-and-mutation
+ok 493 - Batch I safe summary and preserved Higher: inheritance-variation-and-mutation
+  ---
+  duration_ms: 200.581209
+  type: 'test'
+  ...
+# Subtest: Batch I safe summary and preserved Higher: inheritance-evidence-and-classification
+ok 494 - Batch I safe summary and preserved Higher: inheritance-evidence-and-classification
+  ---
+  duration_ms: 199.611334
+  type: 'test'
+  ...
+# Subtest: Batch I resolves exactly four existing holds and preserves 17 unit issues
+ok 495 - Batch I resolves exactly four existing holds and preserves 17 unit issues
+  ---
+  duration_ms: 482.75725
+  type: 'test'
+  ...
+# Subtest: Batch J safe summary and preserved Higher: inheritance-selective-breeding-and-genetic-engineering
+ok 496 - Batch J safe summary and preserved Higher: inheritance-selective-breeding-and-genetic-engineering
+  ---
+  duration_ms: 201.29025
+  type: 'test'
+  ...
+# Subtest: Batch J safe summary and preserved Higher: ecology-communities-and-ecosystems
+ok 497 - Batch J safe summary and preserved Higher: ecology-communities-and-ecosystems
+  ---
+  duration_ms: 215.893375
+  type: 'test'
+  ...
+# Subtest: Batch J safe summary and preserved Higher: ecology-competition-and-adaptation
+ok 498 - Batch J safe summary and preserved Higher: ecology-competition-and-adaptation
+  ---
+  duration_ms: 219.25325
+  type: 'test'
+  ...
+# Subtest: Batch J resolves exactly three existing holds and preserves 17 unit issues
+ok 499 - Batch J resolves exactly three existing holds and preserves 17 unit issues
+  ---
+  duration_ms: 488.778625
+  type: 'test'
+  ...
+# Subtest: Ecology K unchanged eligibility and pathway safety: bio-deep-ecology-sampling-and-fieldwork-summary
+ok 500 - Ecology K unchanged eligibility and pathway safety: bio-deep-ecology-sampling-and-fieldwork-summary
+  ---
+  duration_ms: 204.012125
+  type: 'test'
+  ...
+# Subtest: Ecology K unchanged eligibility and pathway safety: bio-deep-ecology-evaluating-interventions-summary
+ok 501 - Ecology K unchanged eligibility and pathway safety: bio-deep-ecology-evaluating-interventions-summary
+  ---
+  duration_ms: 206.053
+  type: 'test'
+  ...
+# Subtest: Ecology K unchanged eligibility and pathway safety: bio-deep-ecology-human-impacts-and-biodiversity-summary
+ok 502 - Ecology K unchanged eligibility and pathway safety: bio-deep-ecology-human-impacts-and-biodiversity-summary
+  ---
+  duration_ms: 201.71675
+  type: 'test'
+  ...
+# Subtest: Ecology K unchanged eligibility and pathway safety: aqa-bio-step-ecology-2-0
+ok 503 - Ecology K unchanged eligibility and pathway safety: aqa-bio-step-ecology-2-0
+  ---
+  duration_ms: 203.455333
+  type: 'test'
+  ...
+# Subtest: Ecology K unchanged eligibility and pathway safety: aqa-bio-step-ecology-2-1
+ok 504 - Ecology K unchanged eligibility and pathway safety: aqa-bio-step-ecology-2-1
+  ---
+  duration_ms: 277.334709
+  type: 'test'
+  ...
+# Subtest: Ecology K unchanged eligibility and pathway safety: bio-deep-ecology-food-chains-and-biomass-summary
+ok 505 - Ecology K unchanged eligibility and pathway safety: bio-deep-ecology-food-chains-and-biomass-summary
+  ---
+  duration_ms: 213.179083
+  type: 'test'
+  ...
+# Subtest: Ecology K unchanged eligibility and pathway safety: bio-deep-ecology-food-chains-and-biomass-keyword
+ok 506 - Ecology K unchanged eligibility and pathway safety: bio-deep-ecology-food-chains-and-biomass-keyword
+  ---
+  duration_ms: 213.040875
+  type: 'test'
+  ...
+# Subtest: Ecology K unchanged eligibility and pathway safety: bio-deep-ecology-food-chains-and-biomass-justify
+ok 507 - Ecology K unchanged eligibility and pathway safety: bio-deep-ecology-food-chains-and-biomass-justify
+  ---
+  duration_ms: 223.800709
+  type: 'test'
+  ...
+# Subtest: Ecology K resolves exactly eight unique holds including five original mixed records
+ok 508 - Ecology K resolves exactly eight unique holds including five original mixed records
+  ---
+  duration_ms: 501.304084
+  type: 'test'
+  ...
+# Subtest: Ecology L reviewed separation: bio-deep-ecology-food-chains-and-biomass-explain
+ok 509 - Ecology L reviewed separation: bio-deep-ecology-food-chains-and-biomass-explain
+  ---
+  duration_ms: 203.327625
+  type: 'test'
+  ...
+# Subtest: Ecology L reviewed separation: bio-deep-ecology-food-chains-and-biomass-improve
+ok 510 - Ecology L reviewed separation: bio-deep-ecology-food-chains-and-biomass-improve
+  ---
+  duration_ms: 204.903291
+  type: 'test'
+  ...
+# Subtest: Ecology L reviewed separation: bio-deep-ecology-food-chains-and-biomass-grade9
+ok 511 - Ecology L reviewed separation: bio-deep-ecology-food-chains-and-biomass-grade9
+  ---
+  duration_ms: 199.759791
+  type: 'test'
+  ...
+# Subtest: Ecology L reviewed separation: aqa-bio-step-ecology-5-0
+ok 512 - Ecology L reviewed separation: aqa-bio-step-ecology-5-0
+  ---
+  duration_ms: 201.905334
+  type: 'test'
+  ...
+# Subtest: Ecology L reviewed separation: bio-deep-ecology-biodiversity-and-food-security-keyword
+ok 513 - Ecology L reviewed separation: bio-deep-ecology-biodiversity-and-food-security-keyword
+  ---
+  duration_ms: 200.504667
+  type: 'test'
+  ...
+# Subtest: Ecology L reviewed separation: bio-deep-ecology-biodiversity-and-food-security-summary
+ok 514 - Ecology L reviewed separation: bio-deep-ecology-biodiversity-and-food-security-summary
+  ---
+  duration_ms: 201.986083
+  type: 'test'
+  ...
+# Subtest: Ecology L reviewed separation: bio-deep-ecology-biodiversity-and-food-security-justify
+ok 515 - Ecology L reviewed separation: bio-deep-ecology-biodiversity-and-food-security-justify
+  ---
+  duration_ms: 205.255417
+  type: 'test'
+  ...
+# Subtest: Ecology L reviewed separation: bio-deep-ecology-biodiversity-and-food-security-improve
+ok 516 - Ecology L reviewed separation: bio-deep-ecology-biodiversity-and-food-security-improve
+  ---
+  duration_ms: 199.127917
+  type: 'test'
+  ...
+# Subtest: Ecology L counts eight resolutions without changing unit backlog
+ok 517 - Ecology L counts eight resolutions without changing unit backlog
+  ---
+  duration_ms: 495.185334
+  type: 'test'
+  ...
+# Subtest: Biology M reviewed separation: aqa-bio-step-ecology-5-1
+ok 518 - Biology M reviewed separation: aqa-bio-step-ecology-5-1
+  ---
+  duration_ms: 200.397042
+  type: 'test'
+  ...
+# Subtest: Biology M reviewed separation: bio-deep-ecology-biodiversity-and-food-security-explain
+ok 519 - Biology M reviewed separation: bio-deep-ecology-biodiversity-and-food-security-explain
+  ---
+  duration_ms: 203.848583
+  type: 'test'
+  ...
+# Subtest: Biology M reviewed separation: bio-deep-ecology-biodiversity-and-food-security-grade9
+ok 520 - Biology M reviewed separation: bio-deep-ecology-biodiversity-and-food-security-grade9
+  ---
+  duration_ms: 200.077667
+  type: 'test'
+  ...
+# Subtest: Biology M reviewed separation: aqa-bio-step-bioenergetics-1-0
+ok 521 - Biology M reviewed separation: aqa-bio-step-bioenergetics-1-0
+  ---
+  duration_ms: 202.289458
+  type: 'test'
+  ...
+# Subtest: Biology M reviewed separation: aqa-bio-step-bioenergetics-1-1
+ok 522 - Biology M reviewed separation: aqa-bio-step-bioenergetics-1-1
+  ---
+  duration_ms: 200.242667
+  type: 'test'
+  ...
+# Subtest: Biology M reviewed separation: bio-deep-bioenergetics-limiting-factors-summary
+ok 523 - Biology M reviewed separation: bio-deep-bioenergetics-limiting-factors-summary
+  ---
+  duration_ms: 204.66825
+  type: 'test'
+  ...
+# Subtest: Biology M reviewed separation: bio-deep-bioenergetics-limiting-factors-keyword
+ok 524 - Biology M reviewed separation: bio-deep-bioenergetics-limiting-factors-keyword
+  ---
+  duration_ms: 234.167083
+  type: 'test'
+  ...
+# Subtest: Biology M reviewed separation: bio-deep-bioenergetics-limiting-factors-explain
+ok 525 - Biology M reviewed separation: bio-deep-bioenergetics-limiting-factors-explain
+  ---
+  duration_ms: 206.4355
+  type: 'test'
+  ...
+# Subtest: Biology M counts eight resolutions without changing unit backlog
+ok 526 - Biology M counts eight resolutions without changing unit backlog
+  ---
+  duration_ms: 493.832167
+  type: 'test'
+  ...
+# Subtest: Biology N reviewed separation: bio-deep-bioenergetics-limiting-factors-justify
+ok 527 - Biology N reviewed separation: bio-deep-bioenergetics-limiting-factors-justify
+  ---
+  duration_ms: 200.668792
+  type: 'test'
+  ...
+# Subtest: Biology N reviewed separation: bio-deep-bioenergetics-limiting-factors-improve
+ok 528 - Biology N reviewed separation: bio-deep-bioenergetics-limiting-factors-improve
+  ---
+  duration_ms: 203.212375
+  type: 'test'
+  ...
+# Subtest: Biology N reviewed separation: bio-deep-bioenergetics-limiting-factors-grade9
+ok 529 - Biology N reviewed separation: bio-deep-bioenergetics-limiting-factors-grade9
+  ---
+  duration_ms: 199.14675
+  type: 'test'
+  ...
+# Subtest: Biology N counts three resolutions without changing unit backlog
+ok 530 - Biology N counts three resolutions without changing unit backlog
+  ---
+  duration_ms: 493.345292
+  type: 'test'
+  ...
+# Subtest: Biology consolidation has no recorded tier or answer-unit backlog
+ok 531 - Biology consolidation has no recorded tier or answer-unit backlog
+  ---
+  duration_ms: 501.432791
+  type: 'test'
+  ...
+# Subtest: one feedback API supports unseen gain loss and zero-change cases without a page or storage
+ok 532 - one feedback API supports unseen gain loss and zero-change cases without a page or storage
+  ---
+  duration_ms: 3.533958
+  type: 'test'
+  ...
+# Subtest: invalid text consumes no hint and gives no current answer; caller evidence is immutable
+ok 533 - invalid text consumes no hint and gives no current answer; caller evidence is immutable
+  ---
+  duration_ms: 1.793625
+  type: 'test'
+  ...
+# Subtest: progressive support and assistance survive an invalid response and later success
+ok 534 - progressive support and assistance survive an invalid response and later success
+  ---
+  duration_ms: 1.59175
+  type: 'test'
+  ...
+# Subtest: rounding tolerance and syntax remain strict
+ok 535 - rounding tolerance and syntax remain strict
+  ---
+  duration_ms: 0.5205
+  type: 'test'
+  ...
+# Subtest: every reachable four-option variant has a current stored presentation order
+ok 536 - every reachable four-option variant has a current stored presentation order
+  ---
+  duration_ms: 223.898667
+  type: 'test'
+  ...
+# Subtest: global, subject, bank, pathway, topic and section distributions pass documented tolerances
+ok 537 - global, subject, bank, pathway, topic and section distributions pass documented tolerances
+  ---
+  duration_ms: 210.917958
+  type: 'test'
+  ...
+# Subtest: quality check rejects biased sets and pathological runs/cycles, not tiny sets
+ok 538 - quality check rejects biased sets and pathological runs/cycles, not tiny sets
+  ---
+  duration_ms: 251.007416
+  type: 'test'
+  ...
+# Subtest: all variants preserve stems, distractors, answer, feedback, identity and mappings exactly
+ok 539 - all variants preserve stems, distractors, answer, feedback, identity and mappings exactly
+  ---
+  duration_ms: 250.784167
+  type: 'test'
+  ...
+# Subtest: unknown or invalid records fall back without mutation and fail manifest coverage until reviewed
+ok 540 - unknown or invalid records fall back without mutation and fail manifest coverage until reviewed
+  ---
+  duration_ms: 212.637458
+  type: 'test'
+  ...
+# Subtest: correct and each incorrect visible option mark correctly for all 320 variants; feedback and scores agree
+ok 541 - correct and each incorrect visible option mark correctly for all 320 variants; feedback and scores agree
+  ---
+  duration_ms: 673.205417
+  type: 'test'
+  ...
+# Subtest: progression, retry and saved pathway scores survive reordered presentation
+ok 542 - progression, retry and saved pathway scores survive reordered presentation
+  ---
+  duration_ms: 23.2085
+  type: 'test'
+  ...
+# Subtest: all quiz entry points use stored orders including Learning Lab and section practice
+ok 543 - all quiz entry points use stored orders including Learning Lab and section practice
+  ---
+  duration_ms: 25.085125
+  type: 'test'
+  ...
+# Subtest: source audit, Biology classifications and technical backlogs remain unchanged
+ok 544 - source audit, Biology classifications and technical backlogs remain unchanged
+  ---
+  duration_ms: 783.39425
+  type: 'test'
+  ...
+# Subtest: stored presentation module uses no runtime randomness and only modifies cloned option arrays
+ok 545 - stored presentation module uses no runtime randomness and only modifies cloned option arrays
+  ---
+  duration_ms: 230.707042
+  type: 'test'
+  ...
+# Subtest: structured assessments total ten and parallel transfer changes context
+ok 546 - structured assessments total ten and parallel transfer changes context
+  ---
+  duration_ms: 2.231083
+  type: 'test'
+  ...
+# Subtest: retention boundary and separate storage preserve legacy progress
+ok 547 - retention boundary and separate storage preserve legacy progress
+  ---
+  duration_ms: 1.020917
+  type: 'test'
+  ...
+# Subtest: corrupt or blocked storage produces a visible warning without destroying other data
+ok 548 - corrupt or blocked storage produces a visible warning without destroying other data
+  ---
+  duration_ms: 2.078083
+  type: 'test'
+  ...
+# Subtest: all four misconception branches have a different aligned recheck
+ok 549 - all four misconception branches have a different aligned recheck
+  ---
+  duration_ms: 1.615334
+  type: 'test'
+  ...
+# Subtest: assessment guidance is hidden before an attempted submission
+ok 550 - assessment guidance is hidden before an attempted submission
+  ---
+  duration_ms: 1.776792
+  type: 'test'
+  ...
+# Subtest: entry is shared tier AQA Cell Biology only
+ok 551 - entry is shared tier AQA Cell Biology only
+  ---
+  duration_ms: 0.528459
+  type: 'test'
+  ...
+# Subtest: equal and unequal model text explicitly keeps bidirectional water movement
+ok 552 - equal and unequal model text explicitly keeps bidirectional water movement
+  ---
+  duration_ms: 0.477833
+  type: 'test'
+  ...
+# Subtest: incomplete prerequisite and misconception stages cannot advance
+ok 553 - incomplete prerequisite and misconception stages cannot advance
+  ---
+  duration_ms: 0.714667
+  type: 'test'
+  ...
+# Subtest: tutor module does not write original state, add bank questions or call paid services
+ok 554 - tutor module does not write original state, add bank questions or call paid services
+  ---
+  duration_ms: 0.255125
+  type: 'test'
+  ...
+# Subtest: actual HTML script order integrates the entry and leaves existing progress intact
+ok 555 - actual HTML script order integrates the entry and leaves existing progress intact
+  ---
+  duration_ms: 76.577917
+  type: 'test'
+  ...
+# Subtest: captioned teaching video appears before any quiz and uses local optional playback
+ok 556 - captioned teaching video appears before any quiz and uses local optional playback
+  ---
+  duration_ms: 1.435584
+  type: 'test'
+  ...
+# Subtest: narrated player explains sound and provides separate visible subtitles without a duplicate native track or muting
+ok 557 - narrated player explains sound and provides separate visible subtitles without a duplicate native track or muting
+  ---
+  duration_ms: 2.4025
+  type: 'test'
+  ...
+# Subtest: blank nonsense malformed and multiple percentages are visible invalid inputs, not wrong attempts
+ok 558 - blank nonsense malformed and multiple percentages are visible invalid inputs, not wrong attempts
+  ---
+  duration_ms: 8.996334
+  type: 'test'
+  ...
+# Subtest: gain wrong attempts progress through three distinct hints and reveal only on third
+ok 559 - gain wrong attempts progress through three distinct hints and reveal only on third
+  ---
+  duration_ms: 0.655834
+  type: 'test'
+  ...
+# Subtest: specific sign, final-mass denominator and missing percentage conversion hints
+ok 560 - specific sign, final-mass denominator and missing percentage conversion hints
+  ---
+  duration_ms: 1.941959
+  type: 'test'
+  ...
+# Subtest: correct formats retain accurate behaviour and explicitly validate worked denominator
+ok 561 - correct formats retain accurate behaviour and explicitly validate worked denominator
+  ---
+  duration_ms: 2.4295
+  type: 'test'
+  ...
+# Subtest: invalid input between wrong attempts does not advance hints or reveal solution
+ok 562 - invalid input between wrong attempts does not advance hints or reveal solution
+  ---
+  duration_ms: 0.438333
+  type: 'test'
+  ...
+# Subtest: supported answer requires unseen independent transfer and never writes bank mastery
+ok 563 - supported answer requires unseen independent transfer and never writes bank mastery
+  ---
+  duration_ms: 0.540292
+  type: 'test'
+  ...
+# Subtest: revealed and hinted transfer cannot establish independent evidence; next sample is unseen
+ok 564 - revealed and hinted transfer cannot establish independent evidence; next sample is unseen
+  ---
+  duration_ms: 0.58825
+  type: 'test'
+  ...
+# Subtest: calculation support and transfer state persist across reload and rendering escapes feedback
+ok 565 - calculation support and transfer state persist across reload and rendering escapes feedback
+  ---
+  duration_ms: 0.88875
+  type: 'test'
+  ...
+# Subtest: stage three cannot be bypassed with unchecked or invalid text
+ok 566 - stage three cannot be bypassed with unchecked or invalid text
+  ---
+  duration_ms: 0.466042
+  type: 'test'
+  ...
+# Subtest: editing a checked answer invalidates progression until it is checked again
+ok 567 - editing a checked answer invalidates progression until it is checked again
+  ---
+  duration_ms: 0.444625
+  type: 'test'
+  ...
+# Subtest: reopen resumes frontier after revisiting and retains checked fresh transfer
+ok 568 - reopen resumes frontier after revisiting and retains checked fresh transfer
+  ---
+  duration_ms: 0.863625
+  type: 'test'
+  ...
+# Subtest: legacy saves migrate without losing stage and restored choices and repairs render
+ok 569 - legacy saves migrate without losing stage and restored choices and repairs render
+  ---
+  duration_ms: 1.218083
+  type: 'test'
+  ...
+# Subtest: input autosaves drafts and failure remains visible across navigation
+ok 570 - input autosaves drafts and failure remains visible across navigation
+  ---
+  duration_ms: 0.564334
+  type: 'test'
+  ...
+# Subtest: Foundation denominator matches source leaf index and contains all 21 practicals exactly once
+ok 571 - Foundation denominator matches source leaf index and contains all 21 practicals exactly once
+  ---
+  duration_ms: 433.267375
+  type: 'test'
+  ...
+# Subtest: every audit link resolves to unchanged content and has standardised tier metadata
+ok 572 - every audit link resolves to unchanged content and has standardised tier metadata
+  ---
+  duration_ms: 453.439791
+  type: 'test'
+  ...
+# Subtest: audited shared material is restored to Foundation while historical metadata remains visible
+ok 573 - audited shared material is restored to Foundation while historical metadata remains visible
+  ---
+  duration_ms: 559.371625
+  type: 'test'
+  ...
+# Subtest: mixed-source Foundation scopes identify exclusions and inherited Higher headings stay excluded
+ok 574 - mixed-source Foundation scopes identify exclusions and inherited Higher headings stay excluded
+  ---
+  duration_ms: 593.464167
+  type: 'test'
+  ...
+# Subtest: Covered requires current safe lessons and questions plus explicit complete review
+ok 575 - Covered requires current safe lessons and questions plus explicit complete review
+  ---
+  duration_ms: 909.242458
+  type: 'test'
+  ...
+# Subtest: stale evidence is invalidated rather than retaining full credit
+ok 576 - stale evidence is invalidated rather than retaining full credit
+  ---
+  duration_ms: 659.4575
+  type: 'test'
+  ...
+# Subtest: no coverage credit from Higher-only or unreviewed evidence
+ok 577 - no coverage credit from Higher-only or unreviewed evidence
+  ---
+  duration_ms: 475.797208
+  type: 'test'
+  ...
+# Subtest: practical mappings use the correct content rather than similarly placed topic slots
+ok 578 - practical mappings use the correct content rather than similarly placed topic slots
+  ---
+  duration_ms: 288.408042
+  type: 'test'
+  ...
+# Subtest: admin evidence filters and science totals are coherent
+ok 579 - admin evidence filters and science totals are coherent
+  ---
+  duration_ms: 296.383667
+  type: 'test'
+  ...
+# Subtest: audit generation does not alter content or existing registered-pathway report
+ok 580 - audit generation does not alter content or existing registered-pathway report
+  ---
+  duration_ms: 826.419667
+  type: 'test'
+  ...
+# Subtest: Biology supplementary Higher rows use computed completion and evidence filters
+ok 581 - Biology supplementary Higher rows use computed completion and evidence filters
+  ---
+  duration_ms: 292.949791
+  type: 'test'
+  ...
+# Subtest: O3 launches only in mapped AQA Trilogy milestone and registers both-tier section-only questions
+ok 582 - O3 launches only in mapped AQA Trilogy milestone and registers both-tier section-only questions
+  ---
+  duration_ms: 145.537292
+  type: 'test'
+  ...
+# Subtest: all eight cell models and feature controls work, with missing-adaptation feedback and reflection saving
+ok 583 - all eight cell models and feature controls work, with missing-adaptation feedback and reflection saving
+  ---
+  duration_ms: 100.995292
+  type: 'test'
+  ...
+# Subtest: demonstration progresses, pauses, replays, stops on exit and supports reduced-motion still frames
+ok 584 - demonstration progresses, pauses, replays, stops on exit and supports reduced-motion still frames
+  ---
+  duration_ms: 56.763375
+  type: 'test'
+  ...
+# Subtest: six supported challenges provide progressive clues, specific mistakes and teaching return without scoring
+ok 585 - six supported challenges provide progressive clues, specific mistakes and teaching return without scoring
+  ---
+  duration_ms: 64.795084
+  type: 'test'
+  ...
+# Subtest: fresh independent check grades actual lesson mastery, protects whole-topic score and completion
+ok 586 - fresh independent check grades actual lesson mastery, protects whole-topic score and completion
+  ---
+  duration_ms: 37.7605
+  type: 'test'
+  ...
+# Subtest: wrong outcomes can complete a check without mastery or false Secure labels
+ok 587 - wrong outcomes can complete a check without mastery or false Secure labels
+  ---
+  duration_ms: 33.824167
+  type: 'test'
+  ...
+# Subtest: teaching during a pending check converts it to supported practice and consumes no grading evidence
+ok 588 - teaching during a pending check converts it to supported practice and consumes no grading evidence
+  ---
+  duration_ms: 29.555167
+  type: 'test'
+  ...
+# Subtest: partial answers resume after reload; incomplete submit cannot grade, final submit scores once
+ok 589 - partial answers resume after reload; incomplete submit cannot grade, final submit scores once
+  ---
+  duration_ms: 112.811333
+  type: 'test'
+  ...
+# Subtest: fresh forms are distinct, exhausted forms cannot award more points and completed evidence survives a new form
+ok 590 - fresh forms are distinct, exhausted forms cannot award more points and completed evidence survives a new form
+  ---
+  duration_ms: 61.466792
+  type: 'test'
+  ...
+# Subtest: Foundation/Higher evidence and pending answers are isolated; historical unrelated progress remains intact
+ok 591 - Foundation/Higher evidence and pending answers are isolated; historical unrelated progress remains intact
+  ---
+  duration_ms: 890.385291
+  type: 'test'
+  ...
+# Subtest: invalid persisted assessment is archived rather than graded or deleting other history
+ok 592 - invalid persisted assessment is archived rather than graded or deleting other history
+  ---
+  duration_ms: 90.314167
+  type: 'test'
+  ...
+# Subtest: board/course changes stop active demonstration and cannot score the former context
+ok 593 - board/course changes stop active demonstration and cannot score the former context
+  ---
+  duration_ms: 43.685083
+  type: 'test'
+  ...
+# Subtest: science content distinguishes osmosis, active transport, xylem/phloem and enrichment
+ok 594 - science content distinguishes osmosis, active transport, xylem/phloem and enrichment
+  ---
+  duration_ms: 45.749916
+  type: 'test'
+  ...
+# Subtest: pending check after reload remains independent only while teaching and other lessons are not opened
+ok 595 - pending check after reload remains independent only while teaching and other lessons are not opened
+  ---
+  duration_ms: 156.231917
+  type: 'test'
+  ...
+# Subtest: direct repeated grading of an O3 question cannot inflate lesson or whole-topic mastery
+ok 596 - direct repeated grading of an O3 question cannot inflate lesson or whole-topic mastery
+  ---
+  duration_ms: 59.829417
+  type: 'test'
+  ...
+# Subtest: O3 questions exposed through general practice are not reused as fresh independent questions
+ok 597 - O3 questions exposed through general practice are not reused as fresh independent questions
+  ---
+  duration_ms: 45.784458
+  type: 'test'
+  ...
+# Subtest: existing progress export validation and import preserve the new lesson record field
+ok 598 - existing progress export validation and import preserve the new lesson record field
+  ---
+  duration_ms: 73.442292
+  type: 'test'
+  ...
+# Subtest: general O3 question feedback opens the matching specialised teaching without changing its recorded score
+ok 599 - general O3 question feedback opens the matching specialised teaching without changing its recorded score
+  ---
+  duration_ms: 53.39425
+  type: 'test'
+  ...
+# Subtest: migrates Build 4 to common core once and preserves original data
+ok 600 - migrates Build 4 to common core once and preserves original data
+  ---
+  duration_ms: 99.5455
+  type: 'test'
+  ...
+# Subtest: board and tier records stay separate and switching back restores mastery
+ok 601 - board and tier records stay separate and switching back restores mastery
+  ---
+  duration_ms: 43.166334
+  type: 'test'
+  ...
+# Subtest: mistakes only include failed questions in selected pathway; retry clears them
+ok 602 - mistakes only include failed questions in selected pathway; retry clears them
+  ---
+  duration_ms: 28.311875
+  type: 'test'
+  ...
+# Subtest: empty topic never falls back to unrelated questions
+ok 603 - empty topic never falls back to unrelated questions
+  ---
+  duration_ms: 17.318
+  type: 'test'
+  ...
+# Subtest: tier filter excludes Higher content until confirmed
+ok 604 - tier filter excludes Higher content until confirmed
+  ---
+  duration_ms: 13.822541
+  type: 'test'
+  ...
+# Subtest: all question topics exist in their pack and all registered packs resolve
+ok 605 - all question topics exist in their pack and all registered packs resolve
+  ---
+  duration_ms: 19.980958
+  type: 'test'
+  ...
+# Subtest: short answers use full matches and cannot score twice
+ok 606 - short answers use full matches and cannot score twice
+  ---
+  duration_ms: 19.084958
+  type: 'test'
+  ...
+# Subtest: written responses require explicit self assessment
+ok 607 - written responses require explicit self assessment
+  ---
+  duration_ms: 10.56675
+  type: 'test'
+  ...
+# Subtest: module test attempts are scoped and do not inflate mastery
+ok 608 - module test attempts are scoped and do not inflate mastery
+  ---
+  duration_ms: 42.406083
+  type: 'test'
+  ...
+# Subtest: 5/8/12 sessions are bounded and adaptive length responds to mastery
+ok 609 - 5/8/12 sessions are bounded and adaptive length responds to mastery
+  ---
+  duration_ms: 201.702792
+  type: 'test'
+  ...
+# Subtest: corrupt stored JSON recovers without deleting legacy data
+ok 610 - corrupt stored JSON recovers without deleting legacy data
+  ---
+  duration_ms: 21.470167
+  type: 'test'
+  ...
+# Subtest: invalid V5 data is retained for recovery instead of crashing
+ok 611 - invalid V5 data is retained for recovery instead of crashing
+  ---
+  duration_ms: 21.657375
+  type: 'test'
+  ...
+# Subtest: valid backups restore saved scores; invalid backups leave state unchanged
+ok 612 - valid backups restore saved scores; invalid backups leave state unchanged
+  ---
+  duration_ms: 20.66475
+  type: 'test'
+  ...
+# Subtest: navigation cancels active sessions so later clicks cannot affect a new pathway
+ok 613 - navigation cancels active sessions so later clicks cannot affect a new pathway
+  ---
+  duration_ms: 31.908666
+  type: 'test'
+  ...
+# Subtest: every Biology module has substantive lessons, questions and module tests
+ok 614 - every Biology module has substantive lessons, questions and module tests
+  ---
+  duration_ms: 18.786625
+  type: 'test'
+  ...
+# Subtest: Higher Biology sections and questions are excluded below Higher
+ok 615 - Higher Biology sections and questions are excluded below Higher
+  ---
+  duration_ms: 25.218
+  type: 'test'
+  ...
+# Subtest: Biology question IDs are unique and existing question IDs survive
+ok 616 - Biology question IDs are unique and existing question IDs survive
+  ---
+  duration_ms: 17.932541
+  type: 'test'
+  ...
+# Subtest: Edexcel enzymes and cell control practice follow Edexcel topic organisation
+ok 617 - Edexcel enzymes and cell control practice follow Edexcel topic organisation
+  ---
+  duration_ms: 17.758292
+  type: 'test'
+  ...
+# Subtest: AQA practical set and Edexcel core practical set are distinct
+ok 618 - AQA practical set and Edexcel core practical set are distinct
+  ---
+  duration_ms: 15.366666
+  type: 'test'
+  ...
+# Subtest: fresh courses start on AQA and the all-AQA action preserves other progress
+ok 619 - fresh courses start on AQA and the all-AQA action preserves other progress
+  ---
+  duration_ms: 28.4595
+  type: 'test'
+  ...
+# Subtest: AQA Maths has visual lessons, topic practice, and Higher filtering
+ok 620 - AQA Maths has visual lessons, topic practice, and Higher filtering
+  ---
+  duration_ms: 17.169125
+  type: 'test'
+  ...
+# Subtest: correct-answer feedback is warm and explains the answer
+ok 621 - correct-answer feedback is warm and explains the answer
+  ---
+  duration_ms: 27.290209
+  type: 'test'
+  ...
+# Subtest: AQA tier boundaries retain Foundation maths and add Higher topics
+ok 622 - AQA tier boundaries retain Foundation maths and add Higher topics
+  ---
+  duration_ms: 20.534125
+  type: 'test'
+  ...
+# Subtest: AQA Maths question IDs are unique across the selected tier
+ok 623 - AQA Maths question IDs are unique across the selected tier
+  ---
+  duration_ms: 13.092375
+  type: 'test'
+  ...
+# Subtest: quick lessons lead with three short points and hide long reading
+ok 624 - quick lessons lead with three short points and hide long reading
+  ---
+  duration_ms: 15.287583
+  type: 'test'
+  ...
+# Subtest: video loads only after a valid play click
+ok 625 - video loads only after a valid play click
+  ---
+  duration_ms: 15.804667
+  type: 'test'
+  ...
+# Subtest: AQA Maths has a broad practice bank and three worked examples per module
+ok 626 - AQA Maths has a broad practice bank and three worked examples per module
+  ---
+  duration_ms: 16.727375
+  type: 'test'
+  ...
+# Subtest: a topic session prioritises questions not used in the last session
+ok 627 - a topic session prioritises questions not used in the last session
+  ---
+  duration_ms: 28.939834
+  type: 'test'
+  ...
+# Subtest: revision cards reveal on request and Higher cards follow the tier
+ok 628 - revision cards reveal on request and Higher cards follow the tier
+  ---
+  duration_ms: 25.89425
+  type: 'test'
+  ...
+# Subtest: module tests stay short as practice banks grow
+ok 629 - module tests stay short as practice banks grow
+  ---
+  duration_ms: 30.543875
+  type: 'test'
+  ...
+# Subtest: every AQA Biology lesson subsection has its own labelled visual card
+ok 630 - every AQA Biology lesson subsection has its own labelled visual card
+  ---
+  duration_ms: 17.359458
+  type: 'test'
+  ...
+# Subtest: AQA Biology cards follow tier selection and appear with visuals in the lesson
+ok 631 - AQA Biology cards follow tier selection and appear with visuals in the lesson
+  ---
+  duration_ms: 166.58425
+  type: 'test'
+  ...
+# Subtest: AQA Cell Biology has at least eight subsection questions and a worked example per step
+ok 632 - AQA Cell Biology has at least eight subsection questions and a worked example per step
+  ---
+  duration_ms: 28.231666
+  type: 'test'
+  ...
+# Subtest: Biology label diagrams support placement, checking and reset
+ok 633 - Biology label diagrams support placement, checking and reset
+  ---
+  duration_ms: 20.050417
+  type: 'test'
+  ...
+# Subtest: tricky Biology cards persist by board and tier without changing mastery
+ok 634 - tricky Biology cards persist by board and tier without changing mastery
+  ---
+  duration_ms: 121.553792
+  type: 'test'
+  ...
+# Subtest: all 67 AQA Biology subsections have one worked example and at least eight matching questions
+ok 635 - all 67 AQA Biology subsections have one worked example and at least eight matching questions
+  ---
+  duration_ms: 27.568208
+  type: 'test'
+  ...
+# Subtest: new Biology answers vary position and subsection practice returns to its lesson
+ok 636 - new Biology answers vary position and subsection practice returns to its lesson
+  ---
+  duration_ms: 35.080917
+  type: 'test'
+  ...
+# Subtest: shared AQA Biology additions have cards, examples, mixed questions and no other-board leakage
+ok 637 - shared AQA Biology additions have cards, examples, mixed questions and no other-board leakage
+  ---
+  duration_ms: 31.059041
+  type: 'test'
+  ...
+# Subtest: existing AQA Biology saved progress survives added shared-core steps
+ok 638 - existing AQA Biology saved progress survives added shared-core steps
+  ---
+  duration_ms: 56.138834
+  type: 'test'
+  ...
+# Subtest: science course choice persists and keeps mastery separate across views
+ok 639 - science course choice persists and keeps mastery separate across views
+  ---
+  duration_ms: 53.078917
+  type: 'test'
+  ...
+# Subtest: Trilogy and Synergy show distinct paper guides
+ok 640 - Trilogy and Synergy show distinct paper guides
+  ---
+  duration_ms: 39.557291
+  type: 'test'
+  ...
+# Subtest: selected combined view filters separate Biology preview content and quiz questions
+ok 641 - selected combined view filters separate Biology preview content and quiz questions
+  ---
+  duration_ms: 55.204125
+  type: 'test'
+  ...
+# Subtest: older Build 5 saves load with an unconfirmed science course
+ok 642 - older Build 5 saves load with an unconfirmed science course
+  ---
+  duration_ms: 29.671417
+  type: 'test'
+  ...
+# Subtest: Trilogy maps all 24 official subject topics to the correct papers
+ok 643 - Trilogy maps all 24 official subject topics to the correct papers
+  ---
+  duration_ms: 28.949208
+  type: 'test'
+  ...
+# Subtest: every Trilogy Chemistry and Physics module has five lesson steps and practice
+ok 644 - every Trilogy Chemistry and Physics module has five lesson steps and practice
+  ---
+  duration_ms: 25.762584
+  type: 'test'
+  ...
+# Subtest: Trilogy practical map contains 21 activities across the three sciences
+ok 645 - Trilogy practical map contains 21 activities across the three sciences
+  ---
+  duration_ms: 29.748459
+  type: 'test'
+  ...
+# Subtest: Trilogy Chemistry and Physics lessons render visuals and revision cards
+ok 646 - Trilogy Chemistry and Physics lessons render visuals and revision cards
+  ---
+  duration_ms: 18.948375
+  type: 'test'
+  ...
+# Subtest: fresh confirmed Trilogy science starts on Higher tier
+ok 647 - fresh confirmed Trilogy science starts on Higher tier
+  ---
+  duration_ms: 33.962792
+  type: 'test'
+  ...
+# Subtest: Learning Lab exposes every planned learning method
+ok 648 - Learning Lab exposes every planned learning method
+  ---
+  duration_ms: 39.103417
+  type: 'test'
+  ...
+# Subtest: Learning Lab subject selector persists and changes every quiz pool
+ok 649 - Learning Lab subject selector persists and changes every quiz pool
+  ---
+  duration_ms: 30.638209
+  type: 'test'
+  ...
+# Subtest: Biology Learning Lab uses Biology-specific calculations, practicals, graphs and matches
+ok 650 - Biology Learning Lab uses Biology-specific calculations, practicals, graphs and matches
+  ---
+  duration_ms: 52.464
+  type: 'test'
+  ...
+# Subtest: Learning Lab revision plan and weak-topic teaching stay in the selected subject
+ok 651 - Learning Lab revision plan and weak-topic teaching stay in the selected subject
+  ---
+  duration_ms: 32.640208
+  type: 'test'
+  ...
+# Subtest: quiz confidence and spaced repetition are saved after grading
+ok 652 - quiz confidence and spaced repetition are saved after grading
+  ---
+  duration_ms: 36.880583
+  type: 'test'
+  ...
+# Subtest: diagnostic and mixed-topic sessions stay inside the selected Learning Lab subject
+ok 653 - diagnostic and mixed-topic sessions stay inside the selected Learning Lab subject
+  ---
+  duration_ms: 30.622042
+  type: 'test'
+  ...
+# Subtest: hint ladder and command word support do not answer or score a question
+ok 654 - hint ladder and command word support do not answer or score a question
+  ---
+  duration_ms: 27.171083
+  type: 'test'
+  ...
+# Subtest: equation, practical, matching and data activities render as interactive practice
+ok 655 - equation, practical, matching and data activities render as interactive practice
+  ---
+  duration_ms: 140.753875
+  type: 'test'
+  ...
+# Subtest: timed exam starts an eight-question session with a deadline
+ok 656 - timed exam starts an eight-question session with a deadline
+  ---
+  duration_ms: 16.972916
+  type: 'test'
+  ...
+# Subtest: Learning Lab points and streak update without direct mastery inflation
+ok 657 - Learning Lab points and streak update without direct mastery inflation
+  ---
+  duration_ms: 10.84475
+  type: 'test'
+  ...
+# Subtest: wrong answers show a short Quick Fix instead of the full lesson
+ok 658 - wrong answers show a short Quick Fix instead of the full lesson
+  ---
+  duration_ms: 15.632291
+  type: 'test'
+  ...
+# Subtest: Quick Fix offers an immediate retry of the same question
+ok 659 - Quick Fix offers an immediate retry of the same question
+  ---
+  duration_ms: 15.311875
+  type: 'test'
+  ...
+# Subtest: correct-answer feedback stays compact
+ok 660 - correct-answer feedback stays compact
+  ---
+  duration_ms: 17.372542
+  type: 'test'
+  ...
+# Subtest: wrong-answer Quick Fix includes a concise Grade 8/9 upgrade
+ok 661 - wrong-answer Quick Fix includes a concise Grade 8/9 upgrade
+  ---
+  duration_ms: 19.595333
+  type: 'test'
+  ...
+# Subtest: full lesson handoff opens the exact topic from wrong-answer feedback
+ok 662 - full lesson handoff opens the exact topic from wrong-answer feedback
+  ---
+  duration_ms: 16.415042
+  type: 'test'
+  ...
+# Subtest: Grade 8/9 support gives a ready-made answer rather than another instruction
+ok 663 - Grade 8/9 support gives a ready-made answer rather than another instruction
+  ---
+  duration_ms: 10.979667
+  type: 'test'
+  ...
+# Subtest: full lesson destination survives rerender and reload
+ok 664 - full lesson destination survives rerender and reload
+  ---
+  duration_ms: 27.242542
+  type: 'test'
+  ...
+# Subtest: full lesson control is a clear button with a direct saved handoff
+ok 665 - full lesson control is a clear button with a direct saved handoff
+  ---
+  duration_ms: 11.026833
+  type: 'test'
+  ...
+# Subtest: hint ladder levels are distinct and specific to the question
+ok 666 - hint ladder levels are distinct and specific to the question
+  ---
+  duration_ms: 11.297084
+  type: 'test'
+  ...
+# Subtest: different questions receive different first and second hints
+ok 667 - different questions receive different first and second hints
+  ---
+  duration_ms: 15.0585
+  type: 'test'
+  ...
+# Subtest: wrong Biology answer opens its exact subsection explanation above the topic lesson
+ok 668 - wrong Biology answer opens its exact subsection explanation above the topic lesson
+  ---
+  duration_ms: 15.307542
+  type: 'test'
+  ...
+# Subtest: Biology subsection practice contains five unique questions from the same topic
+ok 669 - Biology subsection practice contains five unique questions from the same topic
+  ---
+  duration_ms: 11.586
+  type: 'test'
+  ...
+# Subtest: Progress centre offers an individual reset for every subject
+ok 670 - Progress centre offers an individual reset for every subject
+  ---
+  duration_ms: 12.587084
+  type: 'test'
+  ...
+# Subtest: resetting Biology removes only Biology records across pathways
+ok 671 - resetting Biology removes only Biology records across pathways
+  ---
+  duration_ms: 17.200834
+  type: 'test'
+  ...
+# Subtest: focused Biology lesson launches a working five-question check
+ok 672 - focused Biology lesson launches a working five-question check
+  ---
+  duration_ms: 16.066
+  type: 'test'
+  ...
+# Subtest: correct Biology answers include a question-specific Grade 8/9 explanation
+ok 673 - correct Biology answers include a question-specific Grade 8/9 explanation
+  ---
+  duration_ms: 18.940125
+  type: 'test'
+  ...
+# Subtest: every Higher AQA Biology subsection has a deep mixed question bank
+ok 674 - every Higher AQA Biology subsection has a deep mixed question bank
+  ---
+  duration_ms: 13.082375
+  type: 'test'
+  ...
+# Subtest: Cell Biology now has at least 64 subsection-linked questions
+ok 675 - Cell Biology now has at least 64 subsection-linked questions
+  ---
+  duration_ms: 12.601708
+  type: 'test'
+  ...
+# Subtest: Biology section practice rotates unseen questions within that exact subsection
+ok 676 - Biology section practice rotates unseen questions within that exact subsection
+  ---
+  duration_ms: 13.287959
+  type: 'test'
+  ...
+# Subtest: resetting one Biology subsection preserves neighbouring subsection progress
+ok 677 - resetting one Biology subsection preserves neighbouring subsection progress
+  ---
+  duration_ms: 16.268417
+  type: 'test'
+  ...
+# Subtest: Progress centre exposes Biology topic and subsection resets
+ok 678 - Progress centre exposes Biology topic and subsection resets
+  ---
+  duration_ms: 12.175833
+  type: 'test'
+  ...
+# Subtest: Cell Biology lesson visibly exposes its full bank and multiple session sizes
+ok 679 - Cell Biology lesson visibly exposes its full bank and multiple session sizes
+  ---
+  duration_ms: 29.21675
+  type: 'test'
+  ...
+# Subtest: topic question bank launches 5, 10, 20 and all-question sessions
+ok 680 - topic question bank launches 5, 10, 20 and all-question sessions
+  ---
+  duration_ms: 20.957334
+  type: 'test'
+  ...
+# Subtest: completed Cell Biology questions move behind unseen questions next session
+ok 681 - completed Cell Biology questions move behind unseen questions next session
+  ---
+  duration_ms: 19.635167
+  type: 'test'
+  ...
+# Subtest: Biology audit maps every Trilogy Biology area and all seven required practicals
+ok 682 - Biology audit maps every Trilogy Biology area and all seven required practicals
+  ---
+  duration_ms: 10.975625
+  type: 'test'
+  ...
+# Subtest: official paper library covers every subject and uses AQA resource links
+ok 683 - official paper library covers every subject and uses AQA resource links
+  ---
+  duration_ms: 12.754792
+  type: 'test'
+  ...
+# Subtest: question bank panel uses a full-width aligned grid
+ok 684 - question bank panel uses a full-width aligned grid
+  ---
+  duration_ms: 0.141458
+  type: 'test'
+  ...
+# Subtest: past papers follow board choices and do not supply AQA links for other boards
+ok 685 - past papers follow board choices and do not supply AQA links for other boards
+  ---
+  duration_ms: 12.768458
+  type: 'test'
+  ...
+# Subtest: past papers respect science course and tier without changing saved progress
+ok 686 - past papers respect science course and tier without changing saved progress
+  ---
+  duration_ms: 96.855
+  type: 'test'
+  ...
+# Subtest: revision topic ordering follows each saved board and common core
+ok 687 - revision topic ordering follows each saved board and common core
+  ---
+  duration_ms: 18.975584
+  type: 'test'
+  ...
+# Subtest: revision lessons and cards enforce audited tier eligibility
+ok 688 - revision lessons and cards enforce audited tier eligibility
+  ---
+  duration_ms: 144.0335
+  type: 'test'
+  ...
+# Subtest: topic tier metadata is respected without changing pack order or progress
+ok 689 - topic tier metadata is respected without changing pack order or progress
+  ---
+  duration_ms: 19.186167
+  type: 'test'
+  ...
+# Subtest: switching board inside a lesson clears old feedback and returns unavailable topics to the library
+ok 690 - switching board inside a lesson clears old feedback and returns unavailable topics to the library
+  ---
+  duration_ms: 11.911583
+  type: 'test'
+  ...
+# Subtest: science course topic lists and preview labels follow the saved course
+ok 691 - science course topic lists and preview labels follow the saved course
+  ---
+  duration_ms: 14.939667
+  type: 'test'
+  ...
+# Subtest: revision pathway progress survives board tier and course round trips and reload
+ok 692 - revision pathway progress survives board tier and course round trips and reload
+  ---
+  duration_ms: 1062.862042
+  type: 'test'
+  ...
+# Subtest: admin report leaves live student selections and saved progress unchanged
+ok 693 - admin report leaves live student selections and saved progress unchanged
+  ---
+  duration_ms: 129.855542
+  type: 'test'
+  ...
+# Subtest: specification audit preserves saved student choices and progress
+ok 694 - specification audit preserves saved student choices and progress
+  ---
+  duration_ms: 185.959125
+  type: 'test'
+  ...
+# Subtest: exact twelve-milestone order and unique IDs
+ok 695 - exact twelve-milestone order and unique IDs
+  ---
+  duration_ms: 72.508583
+  type: 'test'
+  ...
+# Subtest: every source character maps once, with no missing or duplicate canonical entries, both tiers
+ok 696 - every source character maps once, with no missing or duplicate canonical entries, both tiers
+  ---
+  duration_ms: 29.16475
+  type: 'test'
+  ...
+# Subtest: split lessons map the relevant material to structures, diffusion, osmosis, practical and exchange
+ok 697 - split lessons map the relevant material to structures, diffusion, osmosis, practical and exchange
+  ---
+  duration_ms: 26.838875
+  type: 'test'
+  ...
+# Subtest: all milestones have distinct purpose, prior knowledge, next connection and demonstration
+ok 698 - all milestones have distinct purpose, prior knowledge, next connection and demonstration
+  ---
+  duration_ms: 98.989
+  type: 'test'
+  ...
+# Subtest: particles and respiration prerequisites appear before related teaching
+ok 699 - particles and respiration prerequisites appear before related teaching
+  ---
+  duration_ms: 44.676417
+  type: 'test'
+  ...
+# Subtest: RP01 and RP02 follow theory and expose laboratory method, controls and analysis
+ok 700 - RP01 and RP02 follow theory and expose laboratory method, controls and analysis
+  ---
+  duration_ms: 51.327208
+  type: 'test'
+  ...
+# Subtest: final assessment offered before Organisation; no reading-based mastery
+ok 701 - final assessment offered before Organisation; no reading-based mastery
+  ---
+  duration_ms: 94.198375
+  type: 'test'
+  ...
+# Subtest: Osmosis video and lab entry appear only in Osmosis milestone, without duplicate native captions
+ok 702 - Osmosis video and lab entry appear only in Osmosis milestone, without duplicate native captions
+  ---
+  duration_ms: 107.664792
+  type: 'test'
+  ...
+# Subtest: navigation preserves mastery, card records, saved tutor answers and choices
+ok 703 - navigation preserves mastery, card records, saved tutor answers and choices
+  ---
+  duration_ms: 69.5815
+  type: 'test'
+  ...
+# Subtest: reload and Continue learning resume a per-tier milestone without marking complete
+ok 704 - reload and Continue learning resume a per-tier milestone without marking complete
+  ---
+  duration_ms: 483.924292
+  type: 'test'
+  ...
+# Subtest: corrupt or blocked navigation storage leaves content available
+ok 705 - corrupt or blocked navigation storage leaves content available
+  ---
+  duration_ms: 54.707125
+  type: 'test'
+  ...
+# Subtest: Back restores milestones and library, with safe reload fallback
+ok 706 - Back restores milestones and library, with safe reload fallback
+  ---
+  duration_ms: 76.092917
+  type: 'test'
+  ...
+# Subtest: Back never revives an old gradable quiz or scores it twice
+ok 707 - Back never revives an old gradable quiz or scores it twice
+  ---
+  duration_ms: 40.813625
+  type: 'test'
+  ...
+# Subtest: Foundation/Higher question filtering and audited shared content remain intact
+ok 708 - Foundation/Higher question filtering and audited shared content remain intact
+  ---
+  duration_ms: 101.818083
+  type: 'test'
+  ...
+# Subtest: new journey scoped to AQA Trilogy; other boards and courses retain their original content
+ok 709 - new journey scoped to AQA Trilogy; other boards and courses retain their original content
+  ---
+  duration_ms: 56.460708
+  type: 'test'
+  ...
+# Subtest: homepage logo and long mobile milestone labels retain accessible markup and wrapping
+ok 710 - homepage logo and long mobile milestone labels retain accessible markup and wrapping
+  ---
+  duration_ms: 1.145208
+  type: 'test'
+  ...
+# Subtest: dashboard has twelve unlocked milestones, actual current selection and no fabricated achievements
+ok 711 - dashboard has twelve unlocked milestones, actual current selection and no fabricated achievements
+  ---
+  duration_ms: 127.963583
+  type: 'test'
+  ...
+# Subtest: saved check completion and mastery are distinct; practice and visiting do not count
+ok 712 - saved check completion and mastery are distinct; practice and visiting do not count
+  ---
+  duration_ms: 87.240834
+  type: 'test'
+  ...
+# Subtest: completion persists when a fresh attempt begins and across reload without scoring twice
+ok 713 - completion persists when a fresh attempt begins and across reload without scoring twice
+  ---
+  duration_ms: 96.32725
+  type: 'test'
+  ...
+# Subtest: old completed check is displayed without resetting or rewriting its evidence
+ok 714 - old completed check is displayed without resetting or rewriting its evidence
+  ---
+  duration_ms: 133.165958
+  type: 'test'
+  ...
+# Subtest: Foundation and Higher dashboard evidence remains isolated
+ok 715 - Foundation and Higher dashboard evidence remains isolated
+  ---
+  duration_ms: 351.322458
+  type: 'test'
+  ...
+# Subtest: sequence feedback sits immediately beneath sequence, survives reload, and preserves supported scoring
+ok 716 - sequence feedback sits immediately beneath sequence, survives reload, and preserves supported scoring
+  ---
+  duration_ms: 49.210625
+  type: 'test'
+  ...
+# Subtest: incorrect sequences get progressive hints without ever dumping the solution
+ok 717 - incorrect sequences get progressive hints without ever dumping the solution
+  ---
+  duration_ms: 24.894708
+  type: 'test'
+  ...
+# Subtest: independent result identifies mistakes and actual mastery without premature answers
+ok 718 - independent result identifies mistakes and actual mastery without premature answers
+  ---
+  duration_ms: 51.448958
+  type: 'test'
+  ...
+# Subtest: supported result is never counted as independent completion or mastery
+ok 719 - supported result is never counted as independent completion or mastery
+  ---
+  duration_ms: 58.416834
+  type: 'test'
+  ...
+# Subtest: O2 independent completion remains separate from supported missions and whole topic
+ok 720 - O2 independent completion remains separate from supported missions and whole topic
+  ---
+  duration_ms: 71.025542
+  type: 'test'
+  ...
+# Subtest: dashboard Start routes to saved interactive scenes and later revision content
+ok 721 - dashboard Start routes to saved interactive scenes and later revision content
+  ---
+  duration_ms: 58.94825
+  type: 'test'
+  ...
+# Subtest: four presentation chapters preserve all twelve canonical IDs and their order
+ok 722 - four presentation chapters preserve all twelve canonical IDs and their order
+  ---
+  duration_ms: 81.3525
+  type: 'test'
+  ...
+# Subtest: all card actions retain navigation and current selection after reload
+ok 723 - all card actions retain navigation and current selection after reload
+  ---
+  duration_ms: 121.1255
+  type: 'test'
+  ...
+# Subtest: cards display actual saved score and no inferred completion for shared-bank milestones
+ok 724 - cards display actual saved score and no inferred completion for shared-bank milestones
+  ---
+  duration_ms: 32.785541
+  type: 'test'
+  ...
+# Subtest: dashboard remains presentation only and does not alter historical answers or Osmosis records
+ok 725 - dashboard remains presentation only and does not alter historical answers or Osmosis records
+  ---
+  duration_ms: 86.859667
+  type: 'test'
+  ...
+1..725
+# tests 725
+# suites 0
+# pass 725
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 34014.924417

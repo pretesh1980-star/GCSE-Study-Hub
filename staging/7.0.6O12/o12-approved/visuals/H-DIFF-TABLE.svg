@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="480" height="182" preserveAspectRatio="xMinYMin meet" viewBox="0 0 480 182" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="H-DIFF-TABLE-title H-DIFF-TABLE-desc"><title id="H-DIFF-TABLE-title">H-DIFF-TABLE · Rates / units/min</title><desc id="H-DIFF-TABLE-desc">Table. Temp / °C; Trial 1; Trial 2; Trial 3. Temp / °C: 15; Trial 1: 0.24; Trial 2: 0.26; Trial 3: 0.25. Temp / °C: 25; Trial 1: 0.44; Trial 2: 0.46; Trial 3: 0.45.</desc>
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="480" height="182"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-182)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="12" y="160" style="font-family: Arial; font-size: 19px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,320) scale(1,-1)">H-DIFF-TABLE · Rates / units/min</text>
+			<rect x="0" y="94" width="120" height="48" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,93%,90%); fill-rule: evenodd;"/>
+			<text x="12" y="117" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,234) scale(1,-1)">Temp / °C</text>
+			<rect x="120" y="94" width="120" height="48" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,93%,90%); fill-rule: evenodd;"/>
+			<text x="132" y="117" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,234) scale(1,-1)">Trial 1</text>
+			<rect x="240" y="94" width="120" height="48" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,93%,90%); fill-rule: evenodd;"/>
+			<text x="252" y="117" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,234) scale(1,-1)">Trial 2</text>
+			<rect x="360" y="94" width="120" height="48" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,93%,90%); fill-rule: evenodd;"/>
+			<text x="372" y="117" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,234) scale(1,-1)">Trial 3</text>
+			<rect x="0" y="48" width="120" height="46" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="12" y="69" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,138) scale(1,-1)">15</text>
+			<rect x="120" y="48" width="120" height="46" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="132" y="69" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,138) scale(1,-1)">0.24</text>
+			<rect x="240" y="48" width="120" height="46" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="252" y="69" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,138) scale(1,-1)">0.26</text>
+			<rect x="360" y="48" width="120" height="46" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="372" y="69" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,138) scale(1,-1)">0.25</text>
+			<rect x="0" y="2" width="120" height="46" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="12" y="23" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,46) scale(1,-1)">25</text>
+			<rect x="120" y="2" width="120" height="46" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="132" y="23" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,46) scale(1,-1)">0.44</text>
+			<rect x="240" y="2" width="120" height="46" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="252" y="23" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,46) scale(1,-1)">0.46</text>
+			<rect x="360" y="2" width="120" height="46" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="372" y="23" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,46) scale(1,-1)">0.45</text>
+		</g>
+	</g>
+</svg>

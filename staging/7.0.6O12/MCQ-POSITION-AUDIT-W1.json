@@ -1,0 +1,5376 @@
+{
+  "build": "7.0.5W1",
+  "baseline": "7.0.5W",
+  "scope": "All reachable four-string-option, exactly-one-matching-answer MCQs across all 100 registered pathways. Shared variants counted once using subject, ID, stem, answer, unordered options and explanation. Different Foundation/Higher content variants count separately. Lab investigation dropdowns and written tests are not single-answer four-option MCQs.",
+  "total": 319,
+  "uniqueQuestionIds": 290,
+  "pathways": 100,
+  "excludedFourOptionRecords": 0,
+  "before": [
+    {
+      "position": "A",
+      "count": 109,
+      "percent": 34.17
+    },
+    {
+      "position": "B",
+      "count": 81,
+      "percent": 25.39
+    },
+    {
+      "position": "C",
+      "count": 68,
+      "percent": 21.32
+    },
+    {
+      "position": "D",
+      "count": 61,
+      "percent": 19.12
+    }
+  ],
+  "after": [
+    {
+      "position": "A",
+      "count": 72,
+      "percent": 22.57
+    },
+    {
+      "position": "B",
+      "count": 91,
+      "percent": 28.53
+    },
+    {
+      "position": "C",
+      "count": 68,
+      "percent": 21.32
+    },
+    {
+      "position": "D",
+      "count": 88,
+      "percent": 27.59
+    }
+  ],
+  "changedVariants": 227,
+  "changedQuestionIds": 213,
+  "subjects": [
+    {
+      "subject": "Biology",
+      "total": 306,
+      "before": [
+        98,
+        80,
+        67,
+        61
+      ],
+      "after": [
+        69,
+        89,
+        64,
+        84
+      ]
+    },
+    {
+      "subject": "Chemistry",
+      "total": 3,
+      "before": [
+        2,
+        0,
+        1,
+        0
+      ],
+      "after": [
+        1,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "subject": "Physics",
+      "total": 2,
+      "before": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "after": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "subject": "Maths",
+      "total": 8,
+      "before": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "after": [
+        2,
+        2,
+        1,
+        3
+      ]
+    }
+  ],
+  "banks": [
+    {
+      "name": "Biology|build4-",
+      "total": 2,
+      "before": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "after": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "Biology|bio2-",
+      "total": 10,
+      "before": [
+        0,
+        7,
+        3,
+        0
+      ],
+      "after": [
+        2,
+        3,
+        3,
+        2
+      ]
+    },
+    {
+      "name": "Biology|aqa-cell-",
+      "total": 16,
+      "before": [
+        16,
+        0,
+        0,
+        0
+      ],
+      "after": [
+        3,
+        5,
+        4,
+        4
+      ]
+    },
+    {
+      "name": "Biology|aqa-bio-step-",
+      "total": 109,
+      "before": [
+        27,
+        30,
+        26,
+        26
+      ],
+      "after": [
+        23,
+        31,
+        23,
+        32
+      ]
+    },
+    {
+      "name": "Biology|aqa-shared-gap-",
+      "total": 7,
+      "before": [
+        2,
+        2,
+        2,
+        1
+      ],
+      "after": [
+        2,
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "name": "Biology|bio-deep-",
+      "total": 158,
+      "before": [
+        47,
+        41,
+        36,
+        34
+      ],
+      "after": [
+        38,
+        47,
+        30,
+        43
+      ]
+    },
+    {
+      "name": "Biology|other",
+      "total": 2,
+      "before": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "after": [
+        1,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Biology|aqa-digestion-completion-",
+      "total": 1,
+      "before": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "after": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Biology|aqa-circulation-completion-",
+      "total": 1,
+      "before": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "after": [
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "name": "Chemistry|build4-",
+      "total": 2,
+      "before": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "after": [
+        1,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "Chemistry|other",
+      "total": 1,
+      "before": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "after": [
+        0,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "Physics|build4-",
+      "total": 2,
+      "before": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "after": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "Maths|other",
+      "total": 8,
+      "before": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "after": [
+        2,
+        2,
+        1,
+        3
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "name": "global",
+      "total": 319,
+      "before": [
+        109,
+        81,
+        68,
+        61
+      ],
+      "after": [
+        72,
+        91,
+        68,
+        88
+      ]
+    },
+    {
+      "name": "subject Biology",
+      "total": 306,
+      "before": [
+        98,
+        80,
+        67,
+        61
+      ],
+      "after": [
+        69,
+        89,
+        64,
+        84
+      ]
+    },
+    {
+      "name": "subject Maths",
+      "total": 8,
+      "before": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "after": [
+        2,
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "name": "bank Biology|bio2-",
+      "total": 10,
+      "before": [
+        0,
+        7,
+        3,
+        0
+      ],
+      "after": [
+        2,
+        3,
+        3,
+        2
+      ]
+    },
+    {
+      "name": "bank Biology|aqa-cell-",
+      "total": 16,
+      "before": [
+        16,
+        0,
+        0,
+        0
+      ],
+      "after": [
+        3,
+        5,
+        4,
+        4
+      ]
+    },
+    {
+      "name": "bank Biology|aqa-bio-step-",
+      "total": 109,
+      "before": [
+        27,
+        30,
+        26,
+        26
+      ],
+      "after": [
+        23,
+        31,
+        23,
+        32
+      ]
+    },
+    {
+      "name": "bank Biology|bio-deep-",
+      "total": 158,
+      "before": [
+        47,
+        41,
+        36,
+        34
+      ],
+      "after": [
+        38,
+        47,
+        30,
+        43
+      ]
+    },
+    {
+      "name": "Biology|common|foundation|none",
+      "total": 12,
+      "before": [
+        2,
+        7,
+        3,
+        0
+      ],
+      "after": [
+        2,
+        3,
+        4,
+        3
+      ]
+    },
+    {
+      "name": "Biology|aqa|foundation|unsure",
+      "total": 233,
+      "before": [
+        68,
+        64,
+        55,
+        46
+      ],
+      "after": [
+        54,
+        68,
+        52,
+        59
+      ]
+    },
+    {
+      "name": "Biology|aqa|foundation|unsure|Cell Biology",
+      "total": 30,
+      "before": [
+        18,
+        5,
+        4,
+        3
+      ],
+      "after": [
+        4,
+        7,
+        12,
+        7
+      ]
+    },
+    {
+      "name": "Biology|aqa|foundation|unsure|Infection & Response",
+      "total": 30,
+      "before": [
+        7,
+        8,
+        8,
+        7
+      ],
+      "after": [
+        8,
+        11,
+        4,
+        7
+      ]
+    },
+    {
+      "name": "Biology|aqa|foundation|unsure|Organisation",
+      "total": 35,
+      "before": [
+        12,
+        12,
+        5,
+        6
+      ],
+      "after": [
+        8,
+        11,
+        8,
+        8
+      ]
+    },
+    {
+      "name": "Biology|aqa|foundation|unsure|Bioenergetics",
+      "total": 25,
+      "before": [
+        8,
+        8,
+        5,
+        4
+      ],
+      "after": [
+        5,
+        9,
+        4,
+        7
+      ]
+    },
+    {
+      "name": "Biology|aqa|foundation|unsure|Homeostasis & Response",
+      "total": 42,
+      "before": [
+        7,
+        12,
+        13,
+        10
+      ],
+      "after": [
+        9,
+        12,
+        8,
+        13
+      ]
+    },
+    {
+      "name": "Biology|aqa|foundation|unsure|Inheritance",
+      "total": 39,
+      "before": [
+        8,
+        10,
+        11,
+        10
+      ],
+      "after": [
+        13,
+        8,
+        8,
+        10
+      ]
+    },
+    {
+      "name": "Biology|aqa|foundation|unsure|Ecology",
+      "total": 32,
+      "before": [
+        8,
+        9,
+        9,
+        6
+      ],
+      "after": [
+        7,
+        10,
+        8,
+        7
+      ]
+    },
+    {
+      "name": "Biology|aqa|foundation|trilogy",
+      "total": 220,
+      "before": [
+        71,
+        58,
+        48,
+        43
+      ],
+      "after": [
+        51,
+        66,
+        46,
+        57
+      ]
+    },
+    {
+      "name": "Biology|aqa|foundation|trilogy|Cell Biology",
+      "total": 35,
+      "before": [
+        21,
+        5,
+        5,
+        4
+      ],
+      "after": [
+        6,
+        7,
+        12,
+        10
+      ]
+    },
+    {
+      "name": "Biology|aqa|foundation|trilogy|Organisation",
+      "total": 41,
+      "before": [
+        15,
+        12,
+        6,
+        8
+      ],
+      "after": [
+        8,
+        16,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Biology|aqa|foundation|trilogy|Infection & Response",
+      "total": 26,
+      "before": [
+        5,
+        7,
+        8,
+        6
+      ],
+      "after": [
+        7,
+        8,
+        4,
+        7
+      ]
+    },
+    {
+      "name": "Biology|aqa|foundation|trilogy|Bioenergetics",
+      "total": 24,
+      "before": [
+        8,
+        8,
+        4,
+        4
+      ],
+      "after": [
+        7,
+        9,
+        3,
+        5
+      ]
+    },
+    {
+      "name": "Biology|aqa|foundation|trilogy|Homeostasis & Response",
+      "total": 27,
+      "before": [
+        6,
+        8,
+        7,
+        6
+      ],
+      "after": [
+        7,
+        7,
+        4,
+        9
+      ]
+    },
+    {
+      "name": "Biology|aqa|foundation|trilogy|Inheritance",
+      "total": 36,
+      "before": [
+        8,
+        9,
+        10,
+        9
+      ],
+      "after": [
+        10,
+        7,
+        8,
+        11
+      ]
+    },
+    {
+      "name": "Biology|aqa|foundation|trilogy|Ecology",
+      "total": 31,
+      "before": [
+        8,
+        9,
+        8,
+        6
+      ],
+      "after": [
+        6,
+        12,
+        7,
+        6
+      ]
+    },
+    {
+      "name": "Biology|aqa|foundation|synergy",
+      "total": 201,
+      "before": [
+        60,
+        53,
+        48,
+        40
+      ],
+      "after": [
+        47,
+        59,
+        45,
+        50
+      ]
+    },
+    {
+      "name": "Biology|aqa|foundation|synergy|Cell Biology",
+      "total": 28,
+      "before": [
+        17,
+        4,
+        4,
+        3
+      ],
+      "after": [
+        4,
+        7,
+        10,
+        7
+      ]
+    },
+    {
+      "name": "Biology|aqa|foundation|synergy|Organisation",
+      "total": 33,
+      "before": [
+        12,
+        10,
+        5,
+        6
+      ],
+      "after": [
+        8,
+        10,
+        7,
+        8
+      ]
+    },
+    {
+      "name": "Biology|aqa|foundation|synergy|Infection & Response",
+      "total": 24,
+      "before": [
+        4,
+        6,
+        8,
+        6
+      ],
+      "after": [
+        6,
+        8,
+        4,
+        6
+      ]
+    },
+    {
+      "name": "Biology|aqa|foundation|synergy|Bioenergetics",
+      "total": 24,
+      "before": [
+        8,
+        8,
+        4,
+        4
+      ],
+      "after": [
+        5,
+        9,
+        3,
+        7
+      ]
+    },
+    {
+      "name": "Biology|aqa|foundation|synergy|Homeostasis & Response",
+      "total": 27,
+      "before": [
+        4,
+        8,
+        9,
+        6
+      ],
+      "after": [
+        7,
+        8,
+        6,
+        6
+      ]
+    },
+    {
+      "name": "Biology|aqa|foundation|synergy|Inheritance",
+      "total": 34,
+      "before": [
+        7,
+        8,
+        10,
+        9
+      ],
+      "after": [
+        10,
+        8,
+        7,
+        9
+      ]
+    },
+    {
+      "name": "Biology|aqa|foundation|synergy|Ecology",
+      "total": 31,
+      "before": [
+        8,
+        9,
+        8,
+        6
+      ],
+      "after": [
+        7,
+        9,
+        8,
+        7
+      ]
+    },
+    {
+      "name": "Biology|aqa|higher|unsure",
+      "total": 273,
+      "before": [
+        82,
+        73,
+        62,
+        56
+      ],
+      "after": [
+        61,
+        78,
+        60,
+        74
+      ]
+    },
+    {
+      "name": "Biology|aqa|higher|unsure|Cell Biology",
+      "total": 34,
+      "before": [
+        20,
+        5,
+        5,
+        4
+      ],
+      "after": [
+        5,
+        7,
+        12,
+        10
+      ]
+    },
+    {
+      "name": "Biology|aqa|higher|unsure|Infection & Response",
+      "total": 34,
+      "before": [
+        8,
+        9,
+        9,
+        8
+      ],
+      "after": [
+        9,
+        11,
+        5,
+        9
+      ]
+    },
+    {
+      "name": "Biology|aqa|higher|unsure|Organisation",
+      "total": 39,
+      "before": [
+        13,
+        12,
+        6,
+        8
+      ],
+      "after": [
+        8,
+        15,
+        8,
+        8
+      ]
+    },
+    {
+      "name": "Biology|aqa|higher|unsure|Bioenergetics",
+      "total": 29,
+      "before": [
+        8,
+        9,
+        7,
+        5
+      ],
+      "after": [
+        6,
+        9,
+        5,
+        9
+      ]
+    },
+    {
+      "name": "Biology|aqa|higher|unsure|Homeostasis & Response",
+      "total": 58,
+      "before": [
+        14,
+        17,
+        14,
+        13
+      ],
+      "after": [
+        12,
+        16,
+        12,
+        18
+      ]
+    },
+    {
+      "name": "Biology|aqa|higher|unsure|Inheritance",
+      "total": 43,
+      "before": [
+        10,
+        12,
+        11,
+        10
+      ],
+      "after": [
+        13,
+        9,
+        9,
+        12
+      ]
+    },
+    {
+      "name": "Biology|aqa|higher|unsure|Ecology",
+      "total": 36,
+      "before": [
+        9,
+        9,
+        10,
+        8
+      ],
+      "after": [
+        8,
+        11,
+        9,
+        8
+      ]
+    },
+    {
+      "name": "Biology|aqa|higher|trilogy",
+      "total": 240,
+      "before": [
+        73,
+        66,
+        56,
+        45
+      ],
+      "after": [
+        53,
+        71,
+        52,
+        64
+      ]
+    },
+    {
+      "name": "Biology|aqa|higher|trilogy|Infection & Response",
+      "total": 26,
+      "before": [
+        5,
+        7,
+        8,
+        6
+      ],
+      "after": [
+        7,
+        8,
+        4,
+        7
+      ]
+    },
+    {
+      "name": "Biology|aqa|higher|trilogy|Homeostasis & Response",
+      "total": 38,
+      "before": [
+        7,
+        13,
+        11,
+        7
+      ],
+      "after": [
+        9,
+        12,
+        7,
+        10
+      ]
+    },
+    {
+      "name": "Biology|aqa|higher|trilogy|Inheritance",
+      "total": 39,
+      "before": [
+        9,
+        11,
+        10,
+        9
+      ],
+      "after": [
+        10,
+        9,
+        8,
+        12
+      ]
+    },
+    {
+      "name": "Biology|aqa|higher|synergy",
+      "total": 221,
+      "before": [
+        67,
+        58,
+        52,
+        44
+      ],
+      "after": [
+        50,
+        66,
+        47,
+        58
+      ]
+    },
+    {
+      "name": "Biology|aqa|higher|synergy|Cell Biology",
+      "total": 32,
+      "before": [
+        19,
+        4,
+        5,
+        4
+      ],
+      "after": [
+        5,
+        7,
+        10,
+        10
+      ]
+    },
+    {
+      "name": "Biology|aqa|higher|synergy|Organisation",
+      "total": 37,
+      "before": [
+        13,
+        10,
+        6,
+        8
+      ],
+      "after": [
+        8,
+        14,
+        7,
+        8
+      ]
+    },
+    {
+      "name": "Biology|aqa|higher|synergy|Bioenergetics",
+      "total": 28,
+      "before": [
+        8,
+        9,
+        6,
+        5
+      ],
+      "after": [
+        6,
+        9,
+        4,
+        9
+      ]
+    },
+    {
+      "name": "Biology|aqa|higher|synergy|Homeostasis & Response",
+      "total": 31,
+      "before": [
+        6,
+        10,
+        9,
+        6
+      ],
+      "after": [
+        8,
+        10,
+        6,
+        7
+      ]
+    },
+    {
+      "name": "Biology|aqa|higher|synergy|Inheritance",
+      "total": 38,
+      "before": [
+        9,
+        10,
+        10,
+        9
+      ],
+      "after": [
+        10,
+        9,
+        8,
+        11
+      ]
+    },
+    {
+      "name": "Biology|ocr|foundation|none",
+      "total": 13,
+      "before": [
+        3,
+        7,
+        3,
+        0
+      ],
+      "after": [
+        2,
+        4,
+        4,
+        3
+      ]
+    }
+  ],
+  "sequences": [
+    {
+      "name": "Biology|aqa|unsure|separate|Cell Biology",
+      "total": 30,
+      "beforeLongestRun": 14,
+      "afterLongestRun": 3
+    },
+    {
+      "name": "Biology|aqa|unsure|separate|Infection & Response",
+      "total": 30,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 3
+    },
+    {
+      "name": "Biology|aqa|unsure|separate|Organisation",
+      "total": 35,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 3
+    },
+    {
+      "name": "Biology|aqa|unsure|separate|Bioenergetics",
+      "total": 25,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 3
+    },
+    {
+      "name": "Biology|aqa|unsure|separate|Homeostasis & Response",
+      "total": 42,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 4
+    },
+    {
+      "name": "Biology|aqa|unsure|separate|Inheritance",
+      "total": 39,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 2
+    },
+    {
+      "name": "Biology|aqa|unsure|separate|Ecology",
+      "total": 32,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 3
+    },
+    {
+      "name": "Biology|aqa|unsure|trilogy|Cell Biology",
+      "total": 35,
+      "beforeLongestRun": 16,
+      "afterLongestRun": 2
+    },
+    {
+      "name": "Biology|aqa|unsure|trilogy|Cell Biology",
+      "total": 35,
+      "beforeLongestRun": 14,
+      "afterLongestRun": 2
+    },
+    {
+      "name": "Biology|aqa|unsure|trilogy|Organisation",
+      "total": 41,
+      "beforeLongestRun": 3,
+      "afterLongestRun": 3
+    },
+    {
+      "name": "Biology|aqa|unsure|trilogy|Organisation",
+      "total": 41,
+      "beforeLongestRun": 3,
+      "afterLongestRun": 3
+    },
+    {
+      "name": "Biology|aqa|unsure|trilogy|Infection & Response",
+      "total": 26,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 2
+    },
+    {
+      "name": "Biology|aqa|unsure|trilogy|Bioenergetics",
+      "total": 24,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 4
+    },
+    {
+      "name": "Biology|aqa|unsure|trilogy|Homeostasis & Response",
+      "total": 27,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 2
+    },
+    {
+      "name": "Biology|aqa|unsure|trilogy|Inheritance",
+      "total": 36,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 2
+    },
+    {
+      "name": "Biology|aqa|unsure|trilogy|Inheritance",
+      "total": 36,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 2
+    },
+    {
+      "name": "Biology|aqa|unsure|trilogy|Ecology",
+      "total": 31,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 3
+    },
+    {
+      "name": "Biology|aqa|unsure|synergy|Cell Biology",
+      "total": 28,
+      "beforeLongestRun": 14,
+      "afterLongestRun": 2
+    },
+    {
+      "name": "Biology|aqa|unsure|synergy|Organisation",
+      "total": 33,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 3
+    },
+    {
+      "name": "Biology|aqa|unsure|synergy|Infection & Response",
+      "total": 24,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 3
+    },
+    {
+      "name": "Biology|aqa|unsure|synergy|Bioenergetics",
+      "total": 24,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 3
+    },
+    {
+      "name": "Biology|aqa|unsure|synergy|Homeostasis & Response",
+      "total": 27,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 4
+    },
+    {
+      "name": "Biology|aqa|unsure|synergy|Inheritance",
+      "total": 34,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 2
+    },
+    {
+      "name": "Biology|aqa|unsure|synergy|Ecology",
+      "total": 31,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 3
+    },
+    {
+      "name": "Biology|aqa|higher|separate|Cell Biology",
+      "total": 34,
+      "beforeLongestRun": 16,
+      "afterLongestRun": 3
+    },
+    {
+      "name": "Biology|aqa|higher|separate|Cell Biology",
+      "total": 34,
+      "beforeLongestRun": 14,
+      "afterLongestRun": 3
+    },
+    {
+      "name": "Biology|aqa|higher|separate|Infection & Response",
+      "total": 34,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 3
+    },
+    {
+      "name": "Biology|aqa|higher|separate|Infection & Response",
+      "total": 34,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 3
+    },
+    {
+      "name": "Biology|aqa|higher|separate|Organisation",
+      "total": 39,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 3
+    },
+    {
+      "name": "Biology|aqa|higher|separate|Organisation",
+      "total": 39,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 3
+    },
+    {
+      "name": "Biology|aqa|higher|separate|Bioenergetics",
+      "total": 29,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 3
+    },
+    {
+      "name": "Biology|aqa|higher|separate|Bioenergetics",
+      "total": 29,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 3
+    },
+    {
+      "name": "Biology|aqa|higher|separate|Homeostasis & Response",
+      "total": 58,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 4
+    },
+    {
+      "name": "Biology|aqa|higher|separate|Homeostasis & Response",
+      "total": 58,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 4
+    },
+    {
+      "name": "Biology|aqa|higher|separate|Inheritance",
+      "total": 43,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 3
+    },
+    {
+      "name": "Biology|aqa|higher|separate|Inheritance",
+      "total": 43,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 2
+    },
+    {
+      "name": "Biology|aqa|higher|separate|Ecology",
+      "total": 36,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 3
+    },
+    {
+      "name": "Biology|aqa|higher|separate|Ecology",
+      "total": 36,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 3
+    },
+    {
+      "name": "Biology|aqa|higher|trilogy|Infection & Response",
+      "total": 26,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 3
+    },
+    {
+      "name": "Biology|aqa|higher|trilogy|Bioenergetics",
+      "total": 29,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 3
+    },
+    {
+      "name": "Biology|aqa|higher|trilogy|Bioenergetics",
+      "total": 29,
+      "beforeLongestRun": 3,
+      "afterLongestRun": 3
+    },
+    {
+      "name": "Biology|aqa|higher|trilogy|Homeostasis & Response",
+      "total": 38,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 4
+    },
+    {
+      "name": "Biology|aqa|higher|trilogy|Homeostasis & Response",
+      "total": 38,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 4
+    },
+    {
+      "name": "Biology|aqa|higher|trilogy|Inheritance",
+      "total": 39,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 4
+    },
+    {
+      "name": "Biology|aqa|higher|trilogy|Inheritance",
+      "total": 39,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 3
+    },
+    {
+      "name": "Biology|aqa|higher|trilogy|Ecology",
+      "total": 32,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 3
+    },
+    {
+      "name": "Biology|aqa|higher|synergy|Cell Biology",
+      "total": 32,
+      "beforeLongestRun": 16,
+      "afterLongestRun": 2
+    },
+    {
+      "name": "Biology|aqa|higher|synergy|Cell Biology",
+      "total": 32,
+      "beforeLongestRun": 14,
+      "afterLongestRun": 2
+    },
+    {
+      "name": "Biology|aqa|higher|synergy|Organisation",
+      "total": 37,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 3
+    },
+    {
+      "name": "Biology|aqa|higher|synergy|Organisation",
+      "total": 37,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 3
+    },
+    {
+      "name": "Biology|aqa|higher|synergy|Bioenergetics",
+      "total": 28,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 3
+    },
+    {
+      "name": "Biology|aqa|higher|synergy|Bioenergetics",
+      "total": 28,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 3
+    },
+    {
+      "name": "Biology|aqa|higher|synergy|Homeostasis & Response",
+      "total": 31,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 4
+    },
+    {
+      "name": "Biology|aqa|higher|synergy|Homeostasis & Response",
+      "total": 31,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 4
+    },
+    {
+      "name": "Biology|aqa|higher|synergy|Inheritance",
+      "total": 38,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 4
+    },
+    {
+      "name": "Biology|aqa|higher|synergy|Inheritance",
+      "total": 38,
+      "beforeLongestRun": 2,
+      "afterLongestRun": 2
+    }
+  ],
+  "checks": {
+    "meaningfulSets": 51,
+    "orderedSequences": 56,
+    "failures": []
+  },
+  "method": "Offline deterministic SHA-256 seed search (seed 363), stored full-content-key option orders. Preserve distractor relative order, insert correct answer at selected position. questionPool applies validated cloned arrays after tier filtering. No runtime randomness, no raw curriculum/audit content edits.",
+  "biology": {
+    "before": [
+      35,
+      42,
+      1,
+      0
+    ],
+    "after": [
+      35,
+      42,
+      1,
+      0
+    ],
+    "tierBacklog": 0,
+    "knownConcerns": 0,
+    "answerUnitBacklog": 0
+  },
+  "tests": {
+    "focused": 189,
+    "full": 405,
+    "failures": 0
+  },
+  "changes": [
+    {
+      "subject": "Biology",
+      "id": "build4-0",
+      "stem": "Which structure controls the activities of an animal cell?",
+      "before": [
+        "Nucleus",
+        "Cell wall",
+        "Chloroplast",
+        "Vacuole"
+      ],
+      "after": [
+        "Cell wall",
+        "Chloroplast",
+        "Nucleus",
+        "Vacuole"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "build4-1",
+      "stem": "What is a pathogen?",
+      "before": [
+        "A disease-causing microorganism",
+        "A type of antibody",
+        "A body organ",
+        "A vitamin"
+      ],
+      "after": [
+        "A type of antibody",
+        "A body organ",
+        "A vitamin",
+        "A disease-causing microorganism"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio2-ribosome",
+      "stem": "Which cell structure makes proteins?",
+      "before": [
+        "Mitochondria",
+        "Ribosomes",
+        "Vacuoles",
+        "Cell walls"
+      ],
+      "after": [
+        "Mitochondria",
+        "Vacuoles",
+        "Ribosomes",
+        "Cell walls"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio2-valve",
+      "stem": "What is the function of heart valves?",
+      "before": [
+        "Make oxygen",
+        "Prevent backflow of blood",
+        "Produce red blood cells",
+        "Digest fats"
+      ],
+      "after": [
+        "Make oxygen",
+        "Produce red blood cells",
+        "Prevent backflow of blood",
+        "Digest fats"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio2-placebo",
+      "stem": "What is the purpose of a placebo in a suitable clinical trial?",
+      "before": [
+        "Guarantee a cure",
+        "Provide a comparison for effects unrelated to the active medicine",
+        "Replace random allocation",
+        "Increase the dose"
+      ],
+      "after": [
+        "Provide a comparison for effects unrelated to the active medicine",
+        "Guarantee a cure",
+        "Replace random allocation",
+        "Increase the dose"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio2-effector",
+      "stem": "Which structure can act as an effector?",
+      "before": [
+        "A light ray",
+        "A muscle",
+        "A stimulus",
+        "An impulse"
+      ],
+      "after": [
+        "A light ray",
+        "A stimulus",
+        "An impulse",
+        "A muscle"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio2-insulin",
+      "stem": "Which organ releases insulin?",
+      "before": [
+        "Liver",
+        "Kidney",
+        "Pancreas",
+        "Lung"
+      ],
+      "after": [
+        "Pancreas",
+        "Liver",
+        "Kidney",
+        "Lung"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio2-allele",
+      "stem": "What is an allele?",
+      "before": [
+        "A whole organism",
+        "A version of a gene",
+        "A type of organ",
+        "A cell membrane"
+      ],
+      "after": [
+        "A whole organism",
+        "A type of organ",
+        "A cell membrane",
+        "A version of a gene"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio2-abiotic",
+      "stem": "Which is an abiotic factor?",
+      "before": [
+        "Predators",
+        "Competition",
+        "Temperature",
+        "Disease organisms"
+      ],
+      "after": [
+        "Predators",
+        "Temperature",
+        "Competition",
+        "Disease organisms"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-cell-nucleus-label",
+      "stem": "On the cell diagram, what does A point to?",
+      "before": [
+        "Nucleus",
+        "Cell membrane",
+        "Ribosome",
+        "Cytoplasm"
+      ],
+      "after": [
+        "Cell membrane",
+        "Ribosome",
+        "Nucleus",
+        "Cytoplasm"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-cell-protein-maker",
+      "stem": "Which part directly assembles proteins?",
+      "before": [
+        "Ribosomes",
+        "Nucleus",
+        "Cell membrane",
+        "Vacuole"
+      ],
+      "after": [
+        "Nucleus",
+        "Cell membrane",
+        "Vacuole",
+        "Ribosomes"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-cell-image-magnification",
+      "stem": "A cell image is 20 mm wide and the real cell is 0.05 mm wide. What is the magnification?",
+      "before": [
+        "×400",
+        "×4",
+        "×40",
+        "×1000"
+      ],
+      "after": [
+        "×4",
+        "×400",
+        "×40",
+        "×1000"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-cell-micro-sequence",
+      "stem": "Which sequence gives a sensible way to view a new specimen?",
+      "before": [
+        "Low power → focus → higher power",
+        "Higher power → remove slide → focus",
+        "Stain → highest power → remove slide",
+        "Focus without a slide → high power"
+      ],
+      "after": [
+        "Higher power → remove slide → focus",
+        "Stain → highest power → remove slide",
+        "Focus without a slide → high power",
+        "Low power → focus → higher power"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-cell-water-direction",
+      "stem": "In the diagram, which way is the net movement of water?",
+      "before": [
+        "From dilute to concentrated",
+        "From concentrated to dilute",
+        "No movement at all",
+        "Only from left to right because of gravity"
+      ],
+      "after": [
+        "From concentrated to dilute",
+        "No movement at all",
+        "Only from left to right because of gravity",
+        "From dilute to concentrated"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-cell-potato-mass",
+      "stem": "A potato piece loses mass in concentrated sugar solution. Why?",
+      "before": [
+        "Water leaves its cells by osmosis",
+        "Sugar makes new potato cells",
+        "Water enters by active transport",
+        "The potato photosynthesises"
+      ],
+      "after": [
+        "Sugar makes new potato cells",
+        "Water leaves its cells by osmosis",
+        "Water enters by active transport",
+        "The potato photosynthesises"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-cell-ion-transport",
+      "stem": "In the diagram, ions move from low to high concentration. What supplies the needed energy?",
+      "before": [
+        "Respiration",
+        "Diffusion",
+        "Osmosis",
+        "Magnification"
+      ],
+      "after": [
+        "Diffusion",
+        "Osmosis",
+        "Respiration",
+        "Magnification"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-cell-transport-contrast",
+      "stem": "Which process can move substances against a concentration gradient?",
+      "before": [
+        "Active transport",
+        "Diffusion",
+        "Osmosis",
+        "Evaporation"
+      ],
+      "after": [
+        "Diffusion",
+        "Active transport",
+        "Osmosis",
+        "Evaporation"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-cell-mitosis-sequence",
+      "stem": "Which order describes mitosis for growth?",
+      "before": [
+        "Copy DNA → divide → two identical cells",
+        "Divide → lose DNA → one cell",
+        "Specialise → no DNA → two cells",
+        "Join two gametes → clone"
+      ],
+      "after": [
+        "Divide → lose DNA → one cell",
+        "Copy DNA → divide → two identical cells",
+        "Specialise → no DNA → two cells",
+        "Join two gametes → clone"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-cell-stem-potential",
+      "stem": "Why are stem cells useful for repair?",
+      "before": [
+        "They can become specialised cells",
+        "They have no DNA",
+        "They never divide",
+        "They make antibodies"
+      ],
+      "after": [
+        "They have no DNA",
+        "They never divide",
+        "They can become specialised cells",
+        "They make antibodies"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-cell-scope-order",
+      "stem": "What is the best first step when using a light microscope?",
+      "before": [
+        "Start with the lowest-power objective",
+        "Start at maximum power",
+        "Remove the eyepiece",
+        "Guess the magnification"
+      ],
+      "after": [
+        "Start at maximum power",
+        "Remove the eyepiece",
+        "Start with the lowest-power objective",
+        "Guess the magnification"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-cell-drawing-label",
+      "stem": "Which is best for a biological drawing?",
+      "before": [
+        "Clear outlines and straight label lines",
+        "Heavy shading and no labels",
+        "Colour only with no scale",
+        "An imagined structure not visible"
+      ],
+      "after": [
+        "Heavy shading and no labels",
+        "Clear outlines and straight label lines",
+        "Colour only with no scale",
+        "An imagined structure not visible"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-organisation-0-0",
+      "stem": "Which level is made from several tissues?",
+      "before": [
+        "Organ",
+        "Cell",
+        "Population",
+        "Gene"
+      ],
+      "after": [
+        "Cell",
+        "Organ",
+        "Population",
+        "Gene"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-organisation-0-1",
+      "stem": "Which sequence goes from smallest to largest?",
+      "before": [
+        "Organ → cell → tissue → system",
+        "Cell → tissue → organ → organ system",
+        "Tissue → cell → system → organ",
+        "Cell → organ system → tissue → organ"
+      ],
+      "after": [
+        "Cell → tissue → organ → organ system",
+        "Organ → cell → tissue → system",
+        "Tissue → cell → system → organ",
+        "Cell → organ system → tissue → organ"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-organisation-1-0",
+      "stem": "What does protease break down?",
+      "before": [
+        "Lipids",
+        "Proteins",
+        "Starch",
+        "Water"
+      ],
+      "after": [
+        "Lipids",
+        "Starch",
+        "Water",
+        "Proteins"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-organisation-2-0",
+      "stem": "Where is bile made?",
+      "before": [
+        "Stomach",
+        "Pancreas",
+        "Liver",
+        "Kidney"
+      ],
+      "after": [
+        "Liver",
+        "Stomach",
+        "Pancreas",
+        "Kidney"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-organisation-3-0",
+      "stem": "Which side pumps oxygenated blood to the body?",
+      "before": [
+        "Right side",
+        "Both sides equally",
+        "Neither side",
+        "Left side"
+      ],
+      "after": [
+        "Right side",
+        "Left side",
+        "Both sides equally",
+        "Neither side"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-organisation-3-1",
+      "stem": "What do valves in the heart prevent?",
+      "before": [
+        "Backflow of blood",
+        "Gas exchange",
+        "Blood-cell production",
+        "Digestion"
+      ],
+      "after": [
+        "Gas exchange",
+        "Backflow of blood",
+        "Blood-cell production",
+        "Digestion"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-organisation-5-0",
+      "stem": "Which tissue carries water and mineral ions upward?",
+      "before": [
+        "Phloem",
+        "Xylem",
+        "Epidermis",
+        "Meristem"
+      ],
+      "after": [
+        "Phloem",
+        "Epidermis",
+        "Meristem",
+        "Xylem"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-infection-response-0-1",
+      "stem": "Which action can reduce waterborne spread?",
+      "before": [
+        "Share cups",
+        "Treat drinking water",
+        "Stop handwashing",
+        "Increase contamination"
+      ],
+      "after": [
+        "Share cups",
+        "Stop handwashing",
+        "Increase contamination",
+        "Treat drinking water"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-infection-response-1-1",
+      "stem": "What does an antibody bind to?",
+      "before": [
+        "Any food molecule",
+        "Oxygen",
+        "A matching antigen",
+        "A red blood cell only"
+      ],
+      "after": [
+        "A matching antigen",
+        "Any food molecule",
+        "Oxygen",
+        "A red blood cell only"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-infection-response-2-1",
+      "stem": "What is the main purpose of vaccination?",
+      "before": [
+        "Kill every pathogen instantly",
+        "Replace white blood cells",
+        "Change blood type",
+        "Prepare a specific immune response"
+      ],
+      "after": [
+        "Kill every pathogen instantly",
+        "Prepare a specific immune response",
+        "Replace white blood cells",
+        "Change blood type"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-infection-response-3-0",
+      "stem": "What is tested before a new medicine is widely used?",
+      "before": [
+        "Colour alone",
+        "Advertising appeal",
+        "Only the name",
+        "Safety and effectiveness"
+      ],
+      "after": [
+        "Safety and effectiveness",
+        "Colour alone",
+        "Advertising appeal",
+        "Only the name"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-infection-response-4-0",
+      "stem": "Which is a physical plant defence?",
+      "before": [
+        "Cell wall",
+        "Insulin",
+        "Antibiotic tablet",
+        "Haemoglobin"
+      ],
+      "after": [
+        "Insulin",
+        "Cell wall",
+        "Antibiotic tablet",
+        "Haemoglobin"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-infection-response-5-0",
+      "stem": "What improves reliability?",
+      "before": [
+        "Changing every variable",
+        "Repeated measurements",
+        "One result only",
+        "Ignoring anomalies"
+      ],
+      "after": [
+        "Changing every variable",
+        "One result only",
+        "Repeated measurements",
+        "Ignoring anomalies"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-infection-response-5-1",
+      "stem": "Which statement is a fair conclusion?",
+      "before": [
+        "One based on hope",
+        "One that ignores controls",
+        "One supported by the measured results",
+        "One that always claims proof"
+      ],
+      "after": [
+        "One based on hope",
+        "One supported by the measured results",
+        "One that ignores controls",
+        "One that always claims proof"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-infection-response-6-0",
+      "stem": "What is a vector?",
+      "before": [
+        "A type of antibody",
+        "A medicine",
+        "An organism that transmits a pathogen",
+        "A tissue"
+      ],
+      "after": [
+        "A type of antibody",
+        "A medicine",
+        "A tissue",
+        "An organism that transmits a pathogen"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-infection-response-6-1",
+      "stem": "Which route best matches measles spread?",
+      "before": [
+        "Only inherited DNA",
+        "Only mineral uptake",
+        "Osmosis",
+        "Airborne droplets"
+      ],
+      "after": [
+        "Only inherited DNA",
+        "Airborne droplets",
+        "Only mineral uptake",
+        "Osmosis"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-bioenergetics-0-0",
+      "stem": "Which gas is taken in for photosynthesis?",
+      "before": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen only",
+        "Hydrogen"
+      ],
+      "after": [
+        "Oxygen",
+        "Nitrogen only",
+        "Hydrogen",
+        "Carbon dioxide"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-bioenergetics-1-0",
+      "stem": "What is a limiting factor?",
+      "before": [
+        "The largest leaf",
+        "The factor in shortest effective supply",
+        "Any product of the reaction",
+        "A factor that never changes"
+      ],
+      "after": [
+        "The largest leaf",
+        "Any product of the reaction",
+        "A factor that never changes",
+        "The factor in shortest effective supply"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-bioenergetics-1-1",
+      "stem": "Why can increasing light stop raising photosynthesis rate?",
+      "before": [
+        "Chlorophyll vanishes instantly",
+        "Glucose turns into light",
+        "A different factor becomes limiting",
+        "The graph must always fall"
+      ],
+      "after": [
+        "Chlorophyll vanishes instantly",
+        "Glucose turns into light",
+        "The graph must always fall",
+        "A different factor becomes limiting"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-bioenergetics-2-0",
+      "stem": "Which are reactants in aerobic respiration?",
+      "before": [
+        "Carbon dioxide and water",
+        "Lactic acid and glucose",
+        "Glucose and oxygen",
+        "Oxygen and bile"
+      ],
+      "after": [
+        "Glucose and oxygen",
+        "Carbon dioxide and water",
+        "Lactic acid and glucose",
+        "Oxygen and bile"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-bioenergetics-2-1",
+      "stem": "Which products form in aerobic respiration?",
+      "before": [
+        "Only glucose",
+        "Only lactic acid",
+        "Chlorophyll and oxygen",
+        "Carbon dioxide and water"
+      ],
+      "after": [
+        "Carbon dioxide and water",
+        "Only glucose",
+        "Only lactic acid",
+        "Chlorophyll and oxygen"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-bioenergetics-3-0",
+      "stem": "Compared with aerobic respiration, anaerobic respiration releases...",
+      "before": [
+        "More energy from each glucose",
+        "Exactly the same energy",
+        "No energy at all",
+        "Less energy"
+      ],
+      "after": [
+        "More energy from each glucose",
+        "Exactly the same energy",
+        "Less energy",
+        "No energy at all"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-bioenergetics-3-1",
+      "stem": "What happens after hard exercise to help repay oxygen debt?",
+      "before": [
+        "Breathing remains fast for a while",
+        "Breathing stops",
+        "The heart stops",
+        "Glucose becomes chlorophyll"
+      ],
+      "after": [
+        "Breathing stops",
+        "Breathing remains fast for a while",
+        "The heart stops",
+        "Glucose becomes chlorophyll"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-bioenergetics-4-0",
+      "stem": "What rises when muscles need more energy during exercise?",
+      "before": [
+        "Breathing and heart rates",
+        "Only hair growth",
+        "Only pupil colour",
+        "DNA length"
+      ],
+      "after": [
+        "Only hair growth",
+        "Breathing and heart rates",
+        "Only pupil colour",
+        "DNA length"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-bioenergetics-5-0",
+      "stem": "How is a simple rate calculated?",
+      "before": [
+        "Time ÷ amount of change",
+        "Amount of change ÷ time",
+        "Change × starting mass",
+        "Mean + range"
+      ],
+      "after": [
+        "Time ÷ amount of change",
+        "Change × starting mass",
+        "Mean + range",
+        "Amount of change ÷ time"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-bioenergetics-5-1",
+      "stem": "Why repeat rate measurements?",
+      "before": [
+        "To change all variables",
+        "To guarantee identical results",
+        "To spot anomalies and improve reliability",
+        "To avoid using units"
+      ],
+      "after": [
+        "To spot anomalies and improve reliability",
+        "To change all variables",
+        "To guarantee identical results",
+        "To avoid using units"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-homeostasis-response-1-0",
+      "stem": "Which neurone carries impulses to an effector?",
+      "before": [
+        "Sensory neurone",
+        "Motor neurone",
+        "Red blood cell",
+        "Phloem cell"
+      ],
+      "after": [
+        "Motor neurone",
+        "Sensory neurone",
+        "Red blood cell",
+        "Phloem cell"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-homeostasis-response-2-0",
+      "stem": "Which hormone raises low blood glucose?",
+      "before": [
+        "Insulin",
+        "ADH",
+        "Glucagon",
+        "LH"
+      ],
+      "after": [
+        "Insulin",
+        "Glucagon",
+        "ADH",
+        "LH"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-homeostasis-response-3-0",
+      "stem": "Which hormone triggers ovulation?",
+      "before": [
+        "ADH",
+        "Insulin",
+        "Glucagon",
+        "LH"
+      ],
+      "after": [
+        "ADH",
+        "LH",
+        "Insulin",
+        "Glucagon"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-homeostasis-response-4-0",
+      "stem": "What is a response of a shoot to light called?",
+      "before": [
+        "Phototropism",
+        "Transpiration",
+        "Osmosis",
+        "Mitosis"
+      ],
+      "after": [
+        "Transpiration",
+        "Osmosis",
+        "Phototropism",
+        "Mitosis"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-homeostasis-response-4-1",
+      "stem": "What causes the bend in a growing shoot?",
+      "before": [
+        "The whole plant walking",
+        "Unequal cell elongation",
+        "Unequal chromosome number",
+        "Antibody production"
+      ],
+      "after": [
+        "The whole plant walking",
+        "Unequal chromosome number",
+        "Antibody production",
+        "Unequal cell elongation"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-homeostasis-response-6-0",
+      "stem": "What happens to skin blood vessels when the body is too hot?",
+      "before": [
+        "They become xylem",
+        "They close permanently",
+        "They dilate",
+        "They make insulin"
+      ],
+      "after": [
+        "They dilate",
+        "They become xylem",
+        "They close permanently",
+        "They make insulin"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-homeostasis-response-7-0",
+      "stem": "What carries impulses from retina to brain?",
+      "before": [
+        "Iris",
+        "Lens",
+        "Cornea",
+        "Optic nerve"
+      ],
+      "after": [
+        "Iris",
+        "Lens",
+        "Optic nerve",
+        "Cornea"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-homeostasis-response-7-1",
+      "stem": "What changes pupil size to control light entry?",
+      "before": [
+        "Iris",
+        "Retina",
+        "Optic nerve",
+        "Sclera only"
+      ],
+      "after": [
+        "Retina",
+        "Optic nerve",
+        "Sclera only",
+        "Iris"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-homeostasis-response-9-0",
+      "stem": "Which hormone stimulates egg maturation?",
+      "before": [
+        "ADH",
+        "FSH",
+        "Glucagon",
+        "Insulin"
+      ],
+      "after": [
+        "ADH",
+        "Glucagon",
+        "FSH",
+        "Insulin"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-homeostasis-response-9-1",
+      "stem": "Which hormone rises after ovulation to help maintain the lining?",
+      "before": [
+        "Amylase",
+        "Bile",
+        "Progesterone",
+        "Lipase"
+      ],
+      "after": [
+        "Amylase",
+        "Bile",
+        "Lipase",
+        "Progesterone"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-inheritance-0-0",
+      "stem": "Where are chromosomes usually found in an animal cell?",
+      "before": [
+        "Nucleus",
+        "Cell membrane",
+        "Cytoplasm only",
+        "Ribosome"
+      ],
+      "after": [
+        "Cell membrane",
+        "Cytoplasm only",
+        "Nucleus",
+        "Ribosome"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-inheritance-0-1",
+      "stem": "What is an allele?",
+      "before": [
+        "A type of organ",
+        "A version of a gene",
+        "A whole ecosystem",
+        "A digestive enzyme"
+      ],
+      "after": [
+        "A version of a gene",
+        "A type of organ",
+        "A whole ecosystem",
+        "A digestive enzyme"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-inheritance-1-1",
+      "stem": "Why does sexual reproduction often increase variation?",
+      "before": [
+        "It copies one parent exactly",
+        "It removes all mutations",
+        "It combines alleles from two parents",
+        "It changes every gene on purpose"
+      ],
+      "after": [
+        "It copies one parent exactly",
+        "It removes all mutations",
+        "It changes every gene on purpose",
+        "It combines alleles from two parents"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-inheritance-3-0",
+      "stem": "What is a mutation?",
+      "before": [
+        "A change in weather",
+        "A type of tissue",
+        "A food source",
+        "A change in DNA"
+      ],
+      "after": [
+        "A change in DNA",
+        "A change in weather",
+        "A type of tissue",
+        "A food source"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-inheritance-3-1",
+      "stem": "Which can cause variation in a population?",
+      "before": [
+        "Genes and environment",
+        "Only one gene in every case",
+        "Only temperature",
+        "Only inherited DNA with no environmental effect"
+      ],
+      "after": [
+        "Only one gene in every case",
+        "Genes and environment",
+        "Only temperature",
+        "Only inherited DNA with no environmental effect"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-inheritance-4-1",
+      "stem": "Natural selection changes a population over...",
+      "before": [
+        "One moment in every case",
+        "Many generations",
+        "Only one cell division",
+        "A single heartbeat"
+      ],
+      "after": [
+        "One moment in every case",
+        "Only one cell division",
+        "Many generations",
+        "A single heartbeat"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-inheritance-5-0",
+      "stem": "Which method directly inserts a chosen gene?",
+      "before": [
+        "Selective breeding alone",
+        "Genetic engineering",
+        "Random sampling",
+        "Osmosis"
+      ],
+      "after": [
+        "Selective breeding alone",
+        "Random sampling",
+        "Osmosis",
+        "Genetic engineering"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-inheritance-5-1",
+      "stem": "Which is a possible risk of repeated selective breeding?",
+      "before": [
+        "Guaranteed resistance to every disease",
+        "No inherited traits",
+        "Reduced genetic diversity",
+        "Immediate new species every time"
+      ],
+      "after": [
+        "Guaranteed resistance to every disease",
+        "No inherited traits",
+        "Immediate new species every time",
+        "Reduced genetic diversity"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-inheritance-6-0",
+      "stem": "What evidence can help modern classification?",
+      "before": [
+        "Only the animal’s name",
+        "Only the date it was found",
+        "DNA sequences",
+        "Only body mass"
+      ],
+      "after": [
+        "Only the animal’s name",
+        "DNA sequences",
+        "Only the date it was found",
+        "Only body mass"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-inheritance-7-0",
+      "stem": "Which is evidence for evolution?",
+      "before": [
+        "A single unsupported opinion",
+        "A temporary tan",
+        "A learned trick alone",
+        "Fossils"
+      ],
+      "after": [
+        "A single unsupported opinion",
+        "A temporary tan",
+        "Fossils",
+        "A learned trick alone"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-ecology-0-0",
+      "stem": "What does an ecosystem include besides its living community?",
+      "before": [
+        "The physical environment",
+        "Only one gene",
+        "Only a single cell",
+        "Only predators"
+      ],
+      "after": [
+        "Only one gene",
+        "Only a single cell",
+        "The physical environment",
+        "Only predators"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-ecology-0-1",
+      "stem": "What is a population?",
+      "before": [
+        "All habitats on Earth",
+        "Members of one species in an area",
+        "All species in an area",
+        "One food chain only"
+      ],
+      "after": [
+        "All habitats on Earth",
+        "All species in an area",
+        "Members of one species in an area",
+        "One food chain only"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-ecology-1-1",
+      "stem": "What is an adaptation?",
+      "before": [
+        "Any random event",
+        "A type of organ system",
+        "A feature that improves survival in a habitat",
+        "A learned exam answer"
+      ],
+      "after": [
+        "Any random event",
+        "A feature that improves survival in a habitat",
+        "A type of organ system",
+        "A learned exam answer"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-ecology-2-0",
+      "stem": "Which organism is the producer in a food chain?",
+      "before": [
+        "A carnivore",
+        "A decomposer only",
+        "A photosynthetic plant",
+        "A top predator"
+      ],
+      "after": [
+        "A carnivore",
+        "A photosynthetic plant",
+        "A decomposer only",
+        "A top predator"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-ecology-3-1",
+      "stem": "Which process adds carbon dioxide to the air?",
+      "before": [
+        "Respiration",
+        "Photosynthesis only",
+        "Osmosis",
+        "Translocation"
+      ],
+      "after": [
+        "Photosynthesis only",
+        "Respiration",
+        "Osmosis",
+        "Translocation"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-ecology-4-0",
+      "stem": "What is a transect useful for?",
+      "before": [
+        "Tracking distribution along a line",
+        "Measuring blood glucose",
+        "Viewing chromosomes",
+        "Testing reflexes"
+      ],
+      "after": [
+        "Measuring blood glucose",
+        "Viewing chromosomes",
+        "Tracking distribution along a line",
+        "Testing reflexes"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-ecology-4-1",
+      "stem": "Why place quadrats randomly for an abundance estimate?",
+      "before": [
+        "To guarantee equal counts",
+        "To reduce selection bias",
+        "To change the species",
+        "To avoid repeats"
+      ],
+      "after": [
+        "To guarantee equal counts",
+        "To change the species",
+        "To reduce selection bias",
+        "To avoid repeats"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-ecology-5-0",
+      "stem": "What does biodiversity describe?",
+      "before": [
+        "Only crop yield",
+        "Variety of living organisms",
+        "Only soil pH",
+        "Only one population size"
+      ],
+      "after": [
+        "Only crop yield",
+        "Only soil pH",
+        "Variety of living organisms",
+        "Only one population size"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-ecology-5-1",
+      "stem": "Which may improve food security?",
+      "before": [
+        "Destroying every pollinator",
+        "Losing fertile soil",
+        "Reliable crop supply",
+        "Increasing disease without control"
+      ],
+      "after": [
+        "Destroying every pollinator",
+        "Losing fertile soil",
+        "Increasing disease without control",
+        "Reliable crop supply"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-ecology-6-0",
+      "stem": "What should support an evaluation?",
+      "before": [
+        "One slogan only",
+        "A guess without results",
+        "Relevant data and reasons",
+        "Only the price tag"
+      ],
+      "after": [
+        "One slogan only",
+        "Relevant data and reasons",
+        "A guess without results",
+        "Only the price tag"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-ecology-6-1",
+      "stem": "Why might an intervention need monitoring?",
+      "before": [
+        "It guarantees success forever",
+        "It removes all uncertainty",
+        "It stops every other species changing",
+        "Effects can change over time"
+      ],
+      "after": [
+        "Effects can change over time",
+        "It guarantees success forever",
+        "It removes all uncertainty",
+        "It stops every other species changing"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-shared-gap-0-0",
+      "stem": "A tumour that remains contained in one area is called…",
+      "before": [
+        "Benign",
+        "Malignant",
+        "Metastatic",
+        "Infectious"
+      ],
+      "after": [
+        "Malignant",
+        "Benign",
+        "Metastatic",
+        "Infectious"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-shared-gap-1-0",
+      "stem": "Which treatment holds a narrowed coronary artery open?",
+      "before": [
+        "Statin",
+        "Stent",
+        "Insulin",
+        "Antibiotic"
+      ],
+      "after": [
+        "Stent",
+        "Statin",
+        "Insulin",
+        "Antibiotic"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-shared-gap-3-0",
+      "stem": "Which gland is often called the master gland?",
+      "before": [
+        "Pancreas",
+        "Adrenal",
+        "Ovary",
+        "Pituitary"
+      ],
+      "after": [
+        "Pancreas",
+        "Adrenal",
+        "Pituitary",
+        "Ovary"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-shared-gap-4-0",
+      "stem": "Which condition is caused by a recessive allele in the AQA examples?",
+      "before": [
+        "Cystic fibrosis",
+        "Polydactyly",
+        "Malaria",
+        "Scurvy"
+      ],
+      "after": [
+        "Polydactyly",
+        "Malaria",
+        "Scurvy",
+        "Cystic fibrosis"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-shared-gap-5-0",
+      "stem": "Which sex chromosome can a human egg carry?",
+      "before": [
+        "Y",
+        "X",
+        "X or Y",
+        "Neither"
+      ],
+      "after": [
+        "X",
+        "Y",
+        "X or Y",
+        "Neither"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-cell-biology-bacteria-and-specialised-cells-summary",
+      "stem": "Which statement best summarises “Bacteria and specialised cells”?",
+      "before": [
+        "Diffusion moves particles down a concentration gradient; osmosis moves water through a partially permeable membrane.",
+        "Bacteria have no nucleus; specialised animal and plant cells have features suited to their job.",
+        "Cell parts have jobs: the nucleus holds DNA, ribosomes make proteins, and the membrane controls entry and exit.",
+        "Magnification tells you how many times bigger an image is than the real object."
+      ],
+      "after": [
+        "Diffusion moves particles down a concentration gradient; osmosis moves water through a partially permeable membrane.",
+        "Cell parts have jobs: the nucleus holds DNA, ribosomes make proteins, and the membrane controls entry and exit.",
+        "Bacteria have no nucleus; specialised animal and plant cells have features suited to their job.",
+        "Magnification tells you how many times bigger an image is than the real object."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-cell-biology-bacteria-and-specialised-cells-keyword",
+      "stem": "Which key term is most closely linked to “Bacteria and specialised cells”?",
+      "before": [
+        "ribosomes",
+        "magnification",
+        "prokaryote",
+        "nucleus"
+      ],
+      "after": [
+        "ribosomes",
+        "magnification",
+        "nucleus",
+        "prokaryote"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-cell-biology-microscopes-and-scale-summary",
+      "stem": "Which statement best summarises “Microscopes and scale”?",
+      "before": [
+        "Prepare a thin specimen, start on low power, focus, then draw only what you can see.",
+        "Magnification tells you how many times bigger an image is than the real object.",
+        "Active transport uses energy to move substances against their concentration gradient.",
+        "Mitosis makes two genetically identical cells; stem cells can develop into specialised cells."
+      ],
+      "after": [
+        "Prepare a thin specimen, start on low power, focus, then draw only what you can see.",
+        "Active transport uses energy to move substances against their concentration gradient.",
+        "Mitosis makes two genetically identical cells; stem cells can develop into specialised cells.",
+        "Magnification tells you how many times bigger an image is than the real object."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-cell-biology-diffusion-and-osmosis-summary",
+      "stem": "Which statement best summarises “Diffusion and osmosis”?",
+      "before": [
+        "Diffusion moves particles down a concentration gradient; osmosis moves water through a partially permeable membrane.",
+        "Bacteria have no nucleus; specialised animal and plant cells have features suited to their job.",
+        "Magnification tells you how many times bigger an image is than the real object.",
+        "Active transport uses energy to move substances against their concentration gradient."
+      ],
+      "after": [
+        "Bacteria have no nucleus; specialised animal and plant cells have features suited to their job.",
+        "Magnification tells you how many times bigger an image is than the real object.",
+        "Diffusion moves particles down a concentration gradient; osmosis moves water through a partially permeable membrane.",
+        "Active transport uses energy to move substances against their concentration gradient."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-cell-biology-active-transport-and-exchange-summary",
+      "stem": "Which statement best summarises “Active transport and exchange”?",
+      "before": [
+        "Magnification tells you how many times bigger an image is than the real object.",
+        "Diffusion moves particles down a concentration gradient; osmosis moves water through a partially permeable membrane.",
+        "Mitosis makes two genetically identical cells; stem cells can develop into specialised cells.",
+        "Active transport uses energy to move substances against their concentration gradient."
+      ],
+      "after": [
+        "Magnification tells you how many times bigger an image is than the real object.",
+        "Diffusion moves particles down a concentration gradient; osmosis moves water through a partially permeable membrane.",
+        "Active transport uses energy to move substances against their concentration gradient.",
+        "Mitosis makes two genetically identical cells; stem cells can develop into specialised cells."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-cell-biology-division-and-stem-cells-summary",
+      "stem": "Which statement best summarises “Division and stem cells”?",
+      "before": [
+        "Magnification tells you how many times bigger an image is than the real object.",
+        "Diffusion moves particles down a concentration gradient; osmosis moves water through a partially permeable membrane.",
+        "Mitosis makes two genetically identical cells; stem cells can develop into specialised cells.",
+        "Bacteria have no nucleus; specialised animal and plant cells have features suited to their job."
+      ],
+      "after": [
+        "Magnification tells you how many times bigger an image is than the real object.",
+        "Diffusion moves particles down a concentration gradient; osmosis moves water through a partially permeable membrane.",
+        "Bacteria have no nucleus; specialised animal and plant cells have features suited to their job.",
+        "Mitosis makes two genetically identical cells; stem cells can develop into specialised cells."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-cell-biology-division-and-stem-cells-keyword",
+      "stem": "Which key term is most closely linked to “Division and stem cells”?",
+      "before": [
+        "nucleus",
+        "ribosomes",
+        "prokaryote",
+        "mitosis"
+      ],
+      "after": [
+        "nucleus",
+        "ribosomes",
+        "mitosis",
+        "prokaryote"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-organisation-from-cells-to-organ-systems-keyword",
+      "stem": "Which key term is most closely linked to “From cells to organ systems”?",
+      "before": [
+        "bile",
+        "tissue",
+        "enzyme",
+        "active site"
+      ],
+      "after": [
+        "bile",
+        "enzyme",
+        "tissue",
+        "active site"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-organisation-enzymes-and-digestion-summary",
+      "stem": "Which statement best summarises “Enzymes and digestion”?",
+      "before": [
+        "Similar cells form tissues; tissues form organs; organs work together in systems.",
+        "Bile neutralises stomach acid and emulsifies fats, giving lipase more surface to work on.",
+        "The right side pumps blood to the lungs; the left side pumps oxygenated blood to the body.",
+        "Enzymes speed up digestion by breaking large food molecules into smaller soluble ones."
+      ],
+      "after": [
+        "Similar cells form tissues; tissues form organs; organs work together in systems.",
+        "Bile neutralises stomach acid and emulsifies fats, giving lipase more surface to work on.",
+        "Enzymes speed up digestion by breaking large food molecules into smaller soluble ones.",
+        "The right side pumps blood to the lungs; the left side pumps oxygenated blood to the body."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-organisation-enzymes-and-digestion-keyword",
+      "stem": "Which key term is most closely linked to “Enzymes and digestion”?",
+      "before": [
+        "enzyme",
+        "tissue",
+        "organ",
+        "bile"
+      ],
+      "after": [
+        "tissue",
+        "enzyme",
+        "organ",
+        "bile"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-organisation-bile-and-the-digestive-system-summary",
+      "stem": "Which statement best summarises “Bile and the digestive system”?",
+      "before": [
+        "Alveoli exchange gases quickly because they have thin walls, a large area and a good blood supply.",
+        "Xylem carries water and minerals upward; phloem moves dissolved sugars around the plant.",
+        "Bile neutralises stomach acid and emulsifies fats, giving lipase more surface to work on.",
+        "The right side pumps blood to the lungs; the left side pumps oxygenated blood to the body."
+      ],
+      "after": [
+        "Alveoli exchange gases quickly because they have thin walls, a large area and a good blood supply.",
+        "Xylem carries water and minerals upward; phloem moves dissolved sugars around the plant.",
+        "The right side pumps blood to the lungs; the left side pumps oxygenated blood to the body.",
+        "Bile neutralises stomach acid and emulsifies fats, giving lipase more surface to work on."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-organisation-the-heart-and-blood-summary",
+      "stem": "Which statement best summarises “The heart and blood”?",
+      "before": [
+        "The right side pumps blood to the lungs; the left side pumps oxygenated blood to the body.",
+        "A steep concentration gradient increases diffusion; blood flow and ventilation help keep it steep.",
+        "Cancer involves uncontrolled cell division; malignant tumours invade and can spread, while benign tumours stay contained.",
+        "Stents open narrowed arteries; statins lower cholesterol; valves or transplants address different problems."
+      ],
+      "after": [
+        "A steep concentration gradient increases diffusion; blood flow and ventilation help keep it steep.",
+        "Cancer involves uncontrolled cell division; malignant tumours invade and can spread, while benign tumours stay contained.",
+        "Stents open narrowed arteries; statins lower cholesterol; valves or transplants address different problems.",
+        "The right side pumps blood to the lungs; the left side pumps oxygenated blood to the body."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-organisation-the-heart-and-blood-keyword",
+      "stem": "Which key term is most closely linked to “The heart and blood”?",
+      "before": [
+        "enzyme",
+        "artery",
+        "tissue",
+        "organ"
+      ],
+      "after": [
+        "enzyme",
+        "tissue",
+        "artery",
+        "organ"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-organisation-gas-exchange-and-health-summary",
+      "stem": "Which statement best summarises “Gas exchange and health”?",
+      "before": [
+        "Xylem carries water and minerals upward; phloem moves dissolved sugars around the plant.",
+        "A steep concentration gradient increases diffusion; blood flow and ventilation help keep it steep.",
+        "Cancer involves uncontrolled cell division; malignant tumours invade and can spread, while benign tumours stay contained.",
+        "Alveoli exchange gases quickly because they have thin walls, a large area and a good blood supply."
+      ],
+      "after": [
+        "Alveoli exchange gases quickly because they have thin walls, a large area and a good blood supply.",
+        "Xylem carries water and minerals upward; phloem moves dissolved sugars around the plant.",
+        "A steep concentration gradient increases diffusion; blood flow and ventilation help keep it steep.",
+        "Cancer involves uncontrolled cell division; malignant tumours invade and can spread, while benign tumours stay contained."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-organisation-gas-exchange-and-health-keyword",
+      "stem": "Which key term is most closely linked to “Gas exchange and health”?",
+      "before": [
+        "alveolus",
+        "tissue",
+        "organ",
+        "enzyme"
+      ],
+      "after": [
+        "tissue",
+        "alveolus",
+        "organ",
+        "enzyme"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-organisation-transport-in-plants-summary",
+      "stem": "Which statement best summarises “Transport in plants”?",
+      "before": [
+        "Cancer involves uncontrolled cell division; malignant tumours invade and can spread, while benign tumours stay contained.",
+        "Stents open narrowed arteries; statins lower cholesterol; valves or transplants address different problems.",
+        "Palisade cells absorb light; spongy tissue has air spaces; xylem brings water; phloem moves sugar.",
+        "Xylem carries water and minerals upward; phloem moves dissolved sugars around the plant."
+      ],
+      "after": [
+        "Xylem carries water and minerals upward; phloem moves dissolved sugars around the plant.",
+        "Cancer involves uncontrolled cell division; malignant tumours invade and can spread, while benign tumours stay contained.",
+        "Stents open narrowed arteries; statins lower cholesterol; valves or transplants address different problems.",
+        "Palisade cells absorb light; spongy tissue has air spaces; xylem brings water; phloem moves sugar."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-organisation-transport-in-plants-keyword",
+      "stem": "Which key term is most closely linked to “Transport in plants”?",
+      "before": [
+        "xylem",
+        "tissue",
+        "organ",
+        "enzyme"
+      ],
+      "after": [
+        "tissue",
+        "xylem",
+        "organ",
+        "enzyme"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-organisation-cancer-and-risk-factors-summary",
+      "stem": "Which statement best summarises “Cancer and risk factors”?",
+      "before": [
+        "Cancer involves uncontrolled cell division; malignant tumours invade and can spread, while benign tumours stay contained.",
+        "Alveoli exchange gases quickly because they have thin walls, a large area and a good blood supply.",
+        "Xylem carries water and minerals upward; phloem moves dissolved sugars around the plant.",
+        "A steep concentration gradient increases diffusion; blood flow and ventilation help keep it steep."
+      ],
+      "after": [
+        "Alveoli exchange gases quickly because they have thin walls, a large area and a good blood supply.",
+        "Xylem carries water and minerals upward; phloem moves dissolved sugars around the plant.",
+        "A steep concentration gradient increases diffusion; blood flow and ventilation help keep it steep.",
+        "Cancer involves uncontrolled cell division; malignant tumours invade and can spread, while benign tumours stay contained."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-organisation-treating-cardiovascular-disease-keyword",
+      "stem": "Which key term is most closely linked to “Treating cardiovascular disease”?",
+      "before": [
+        "enzyme",
+        "stent",
+        "tissue",
+        "organ"
+      ],
+      "after": [
+        "enzyme",
+        "tissue",
+        "stent",
+        "organ"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-organisation-leaf-tissues-and-their-jobs-summary",
+      "stem": "Which statement best summarises “Leaf tissues and their jobs”?",
+      "before": [
+        "Palisade cells absorb light; spongy tissue has air spaces; xylem brings water; phloem moves sugar.",
+        "Bile neutralises stomach acid and emulsifies fats, giving lipase more surface to work on.",
+        "The right side pumps blood to the lungs; the left side pumps oxygenated blood to the body.",
+        "Alveoli exchange gases quickly because they have thin walls, a large area and a good blood supply."
+      ],
+      "after": [
+        "Bile neutralises stomach acid and emulsifies fats, giving lipase more surface to work on.",
+        "The right side pumps blood to the lungs; the left side pumps oxygenated blood to the body.",
+        "Alveoli exchange gases quickly because they have thin walls, a large area and a good blood supply.",
+        "Palisade cells absorb light; spongy tissue has air spaces; xylem brings water; phloem moves sugar."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-infection-response-defences-and-immunity-summary",
+      "stem": "Which statement best summarises “Defences and immunity”?",
+      "before": [
+        "Skin and mucus block pathogens; white blood cells destroy them and produce antibodies.",
+        "Plants can detect and resist pathogens using barriers and chemical defences.",
+        "A claim is stronger when the method is fair, the sample is large and results can be repeated.",
+        "Different pathogens spread in different ways, so prevention depends on the disease."
+      ],
+      "after": [
+        "Plants can detect and resist pathogens using barriers and chemical defences.",
+        "Skin and mucus block pathogens; white blood cells destroy them and produce antibodies.",
+        "A claim is stronger when the method is fair, the sample is large and results can be repeated.",
+        "Different pathogens spread in different ways, so prevention depends on the disease."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-infection-response-vaccination-and-antibiotics-summary",
+      "stem": "Which statement best summarises “Vaccination and antibiotics”?",
+      "before": [
+        "New medicines are tested for safety, dose and effectiveness before wide use.",
+        "Vaccines prepare the immune system; antibiotics kill bacteria, not viruses.",
+        "Pathogens cause infectious disease and can spread through air, water or direct contact.",
+        "Skin and mucus block pathogens; white blood cells destroy them and produce antibodies."
+      ],
+      "after": [
+        "New medicines are tested for safety, dose and effectiveness before wide use.",
+        "Pathogens cause infectious disease and can spread through air, water or direct contact.",
+        "Skin and mucus block pathogens; white blood cells destroy them and produce antibodies.",
+        "Vaccines prepare the immune system; antibiotics kill bacteria, not viruses."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-infection-response-vaccination-and-antibiotics-keyword",
+      "stem": "Which key term is most closely linked to “Vaccination and antibiotics”?",
+      "before": [
+        "transmission",
+        "antibody",
+        "vaccine",
+        "pathogen"
+      ],
+      "after": [
+        "transmission",
+        "antibody",
+        "pathogen",
+        "vaccine"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-infection-response-developing-medicines-summary",
+      "stem": "Which statement best summarises “Developing medicines”?",
+      "before": [
+        "Pathogens cause infectious disease and can spread through air, water or direct contact.",
+        "New medicines are tested for safety, dose and effectiveness before wide use.",
+        "Different pathogens spread in different ways, so prevention depends on the disease.",
+        "Monoclonal antibodies bind one specific antigen and can be used in tests or targeted treatments."
+      ],
+      "after": [
+        "Pathogens cause infectious disease and can spread through air, water or direct contact.",
+        "Different pathogens spread in different ways, so prevention depends on the disease.",
+        "Monoclonal antibodies bind one specific antigen and can be used in tests or targeted treatments.",
+        "New medicines are tested for safety, dose and effectiveness before wide use."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-infection-response-developing-medicines-keyword",
+      "stem": "Which key term is most closely linked to “Developing medicines”?",
+      "before": [
+        "transmission",
+        "antibody",
+        "clinical trial",
+        "pathogen"
+      ],
+      "after": [
+        "transmission",
+        "clinical trial",
+        "antibody",
+        "pathogen"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-infection-response-plant-disease-and-defence-summary",
+      "stem": "Which statement best summarises “Plant disease and defence”?",
+      "before": [
+        "Monoclonal antibodies bind one specific antigen and can be used in tests or targeted treatments.",
+        "Pathogens cause infectious disease and can spread through air, water or direct contact.",
+        "Skin and mucus block pathogens; white blood cells destroy them and produce antibodies.",
+        "Plants can detect and resist pathogens using barriers and chemical defences."
+      ],
+      "after": [
+        "Monoclonal antibodies bind one specific antigen and can be used in tests or targeted treatments.",
+        "Plants can detect and resist pathogens using barriers and chemical defences.",
+        "Pathogens cause infectious disease and can spread through air, water or direct contact.",
+        "Skin and mucus block pathogens; white blood cells destroy them and produce antibodies."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-infection-response-interpreting-evidence-summary",
+      "stem": "Which statement best summarises “Interpreting evidence”?",
+      "before": [
+        "Vaccines prepare the immune system; antibiotics kill bacteria, not viruses.",
+        "New medicines are tested for safety, dose and effectiveness before wide use.",
+        "Plants can detect and resist pathogens using barriers and chemical defences.",
+        "A claim is stronger when the method is fair, the sample is large and results can be repeated."
+      ],
+      "after": [
+        "Vaccines prepare the immune system; antibiotics kill bacteria, not viruses.",
+        "A claim is stronger when the method is fair, the sample is large and results can be repeated.",
+        "New medicines are tested for safety, dose and effectiveness before wide use.",
+        "Plants can detect and resist pathogens using barriers and chemical defences."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-infection-response-disease-examples-summary",
+      "stem": "Which statement best summarises “Disease examples”?",
+      "before": [
+        "Skin and mucus block pathogens; white blood cells destroy them and produce antibodies.",
+        "Vaccines prepare the immune system; antibiotics kill bacteria, not viruses.",
+        "Different pathogens spread in different ways, so prevention depends on the disease.",
+        "Pathogens cause infectious disease and can spread through air, water or direct contact."
+      ],
+      "after": [
+        "Different pathogens spread in different ways, so prevention depends on the disease.",
+        "Skin and mucus block pathogens; white blood cells destroy them and produce antibodies.",
+        "Vaccines prepare the immune system; antibiotics kill bacteria, not viruses.",
+        "Pathogens cause infectious disease and can spread through air, water or direct contact."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-infection-response-disease-examples-keyword",
+      "stem": "Which key term is most closely linked to “Disease examples”?",
+      "before": [
+        "transmission",
+        "antibody",
+        "No biological effect",
+        "pathogen"
+      ],
+      "after": [
+        "transmission",
+        "antibody",
+        "pathogen",
+        "No biological effect"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-bioenergetics-photosynthesis-summary",
+      "stem": "Which statement best summarises “Photosynthesis”?",
+      "before": [
+        "Plants use light energy to turn carbon dioxide and water into glucose and oxygen.",
+        "Measure a change over time, keep other factors constant, and repeat readings.",
+        "Improving one factor stops helping when another factor becomes limiting.",
+        "The slowest available input limits photosynthesis: light, carbon dioxide or temperature."
+      ],
+      "after": [
+        "Measure a change over time, keep other factors constant, and repeat readings.",
+        "Improving one factor stops helping when another factor becomes limiting.",
+        "The slowest available input limits photosynthesis: light, carbon dioxide or temperature.",
+        "Plants use light energy to turn carbon dioxide and water into glucose and oxygen."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-bioenergetics-photosynthesis-keyword",
+      "stem": "Which key term is most closely linked to “Photosynthesis”?",
+      "before": [
+        "aerobic",
+        "photosynthesis",
+        "limiting factor",
+        "rate"
+      ],
+      "after": [
+        "photosynthesis",
+        "aerobic",
+        "limiting factor",
+        "rate"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-bioenergetics-limiting-factors-summary",
+      "stem": "Which statement best summarises “Limiting factors”?",
+      "before": [
+        "The slowest available input limits photosynthesis: light, carbon dioxide or temperature.",
+        "Improving one factor stops helping when another factor becomes limiting.",
+        "Plants use light energy to turn carbon dioxide and water into glucose and oxygen.",
+        "With oxygen, cells release energy from glucose and make carbon dioxide and water."
+      ],
+      "after": [
+        "Improving one factor stops helping when another factor becomes limiting.",
+        "The slowest available input limits photosynthesis: light, carbon dioxide or temperature.",
+        "Plants use light energy to turn carbon dioxide and water into glucose and oxygen.",
+        "With oxygen, cells release energy from glucose and make carbon dioxide and water."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-bioenergetics-limiting-factors-keyword",
+      "stem": "Which key term is most closely linked to “Limiting factors”?",
+      "before": [
+        "aerobic",
+        "limiting factor",
+        "photosynthesis",
+        "chlorophyll"
+      ],
+      "after": [
+        "aerobic",
+        "photosynthesis",
+        "limiting factor",
+        "chlorophyll"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-bioenergetics-aerobic-respiration-summary",
+      "stem": "Which statement best summarises “Aerobic respiration”?",
+      "before": [
+        "With oxygen, cells release energy from glucose and make carbon dioxide and water.",
+        "Exercise raises energy demand, so breathing and heart rate increase to deliver more oxygen and glucose.",
+        "Measure a change over time, keep other factors constant, and repeat readings.",
+        "Improving one factor stops helping when another factor becomes limiting."
+      ],
+      "after": [
+        "Exercise raises energy demand, so breathing and heart rate increase to deliver more oxygen and glucose.",
+        "Measure a change over time, keep other factors constant, and repeat readings.",
+        "Improving one factor stops helping when another factor becomes limiting.",
+        "With oxygen, cells release energy from glucose and make carbon dioxide and water."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-bioenergetics-anaerobic-respiration-summary",
+      "stem": "Which statement best summarises “Anaerobic respiration”?",
+      "before": [
+        "Measure a change over time, keep other factors constant, and repeat readings.",
+        "Improving one factor stops helping when another factor becomes limiting.",
+        "Plants use light energy to turn carbon dioxide and water into glucose and oxygen.",
+        "Without enough oxygen, muscles release less energy and produce lactic acid."
+      ],
+      "after": [
+        "Measure a change over time, keep other factors constant, and repeat readings.",
+        "Without enough oxygen, muscles release less energy and produce lactic acid.",
+        "Improving one factor stops helping when another factor becomes limiting.",
+        "Plants use light energy to turn carbon dioxide and water into glucose and oxygen."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-bioenergetics-anaerobic-respiration-keyword",
+      "stem": "Which key term is most closely linked to “Anaerobic respiration”?",
+      "before": [
+        "anaerobic",
+        "photosynthesis",
+        "chlorophyll",
+        "limiting factor"
+      ],
+      "after": [
+        "photosynthesis",
+        "anaerobic",
+        "chlorophyll",
+        "limiting factor"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-bioenergetics-exercise-and-metabolism-summary",
+      "stem": "Which statement best summarises “Exercise and metabolism”?",
+      "before": [
+        "Improving one factor stops helping when another factor becomes limiting.",
+        "Plants use light energy to turn carbon dioxide and water into glucose and oxygen.",
+        "Exercise raises energy demand, so breathing and heart rate increase to deliver more oxygen and glucose.",
+        "Measure a change over time, keep other factors constant, and repeat readings."
+      ],
+      "after": [
+        "Exercise raises energy demand, so breathing and heart rate increase to deliver more oxygen and glucose.",
+        "Improving one factor stops helping when another factor becomes limiting.",
+        "Plants use light energy to turn carbon dioxide and water into glucose and oxygen.",
+        "Measure a change over time, keep other factors constant, and repeat readings."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-bioenergetics-measuring-a-biological-rate-summary",
+      "stem": "Which statement best summarises “Measuring a biological rate”?",
+      "before": [
+        "Measure a change over time, keep other factors constant, and repeat readings.",
+        "The slowest available input limits photosynthesis: light, carbon dioxide or temperature.",
+        "With oxygen, cells release energy from glucose and make carbon dioxide and water.",
+        "Without enough oxygen, muscles release less energy and produce lactic acid."
+      ],
+      "after": [
+        "The slowest available input limits photosynthesis: light, carbon dioxide or temperature.",
+        "With oxygen, cells release energy from glucose and make carbon dioxide and water.",
+        "Measure a change over time, keep other factors constant, and repeat readings.",
+        "Without enough oxygen, muscles release less energy and produce lactic acid."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-homeostasis-response-keeping-conditions-stable-summary",
+      "stem": "Which statement best summarises “Keeping conditions stable”?",
+      "before": [
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "Insulin lowers high blood glucose; glucagon raises low blood glucose.",
+        "Homeostasis keeps internal conditions near an optimum using receptors, coordination centres and effectors.",
+        "A gland releases a hormone into blood; the hormone travels to a target organ."
+      ],
+      "after": [
+        "Homeostasis keeps internal conditions near an optimum using receptors, coordination centres and effectors.",
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "Insulin lowers high blood glucose; glucagon raises low blood glucose.",
+        "A gland releases a hormone into blood; the hormone travels to a target organ."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-homeostasis-response-keeping-conditions-stable-keyword",
+      "stem": "Which key term is most closely linked to “Keeping conditions stable”?",
+      "before": [
+        "reflex arc",
+        "neurone",
+        "insulin",
+        "homeostasis"
+      ],
+      "after": [
+        "homeostasis",
+        "reflex arc",
+        "neurone",
+        "insulin"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-homeostasis-response-reflexes-and-the-nervous-system-summary",
+      "stem": "Which statement best summarises “Reflexes and the nervous system”?",
+      "before": [
+        "Change one factor, measure reaction time, repeat and compare means.",
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "FSH matures an egg; LH triggers ovulation; oestrogen and progesterone control the uterine lining.",
+        "Shoots grow towards light; roots respond to gravity. Auxin changes growth on opposite sides."
+      ],
+      "after": [
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "Change one factor, measure reaction time, repeat and compare means.",
+        "FSH matures an egg; LH triggers ovulation; oestrogen and progesterone control the uterine lining.",
+        "Shoots grow towards light; roots respond to gravity. Auxin changes growth on opposite sides."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-homeostasis-response-reflexes-and-the-nervous-system-keyword",
+      "stem": "Which key term is most closely linked to “Reflexes and the nervous system”?",
+      "before": [
+        "effector",
+        "insulin",
+        "reflex arc",
+        "homeostasis"
+      ],
+      "after": [
+        "reflex arc",
+        "effector",
+        "insulin",
+        "homeostasis"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-homeostasis-response-blood-glucose-keyword",
+      "stem": "Which key term is most closely linked to “Blood glucose”?",
+      "before": [
+        "effector",
+        "reflex arc",
+        "insulin",
+        "homeostasis"
+      ],
+      "after": [
+        "effector",
+        "reflex arc",
+        "homeostasis",
+        "insulin"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-homeostasis-response-reproduction-and-hormones-summary",
+      "stem": "Which statement best summarises “Reproduction and hormones”?",
+      "before": [
+        "FSH matures an egg; LH triggers ovulation; oestrogen and progesterone control the uterine lining.",
+        "ADH changes how much water the kidneys reabsorb: more ADH means more reabsorption.",
+        "Plant hormones can change growth and are used to control weeds, rooting and fruit ripening.",
+        "A gland releases a hormone into blood; the hormone travels to a target organ."
+      ],
+      "after": [
+        "ADH changes how much water the kidneys reabsorb: more ADH means more reabsorption.",
+        "FSH matures an egg; LH triggers ovulation; oestrogen and progesterone control the uterine lining.",
+        "Plant hormones can change growth and are used to control weeds, rooting and fruit ripening.",
+        "A gland releases a hormone into blood; the hormone travels to a target organ."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-homeostasis-response-plant-responses-summary",
+      "stem": "Which statement best summarises “Plant responses”?",
+      "before": [
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "Insulin lowers high blood glucose; glucagon raises low blood glucose.",
+        "Shoots grow towards light; roots respond to gravity. Auxin changes growth on opposite sides.",
+        "Homeostasis keeps internal conditions near an optimum using receptors, coordination centres and effectors."
+      ],
+      "after": [
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "Shoots grow towards light; roots respond to gravity. Auxin changes growth on opposite sides.",
+        "Insulin lowers high blood glucose; glucagon raises low blood glucose.",
+        "Homeostasis keeps internal conditions near an optimum using receptors, coordination centres and effectors."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-homeostasis-response-reaction-time-investigations-keyword",
+      "stem": "Which key term is most closely linked to “Reaction-time investigations”?",
+      "before": [
+        "reaction time",
+        "homeostasis",
+        "effector",
+        "reflex arc"
+      ],
+      "after": [
+        "homeostasis",
+        "reaction time",
+        "effector",
+        "reflex arc"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-homeostasis-response-temperature-and-water-balance-summary",
+      "stem": "Which statement best summarises “Temperature and water balance”?",
+      "before": [
+        "FSH matures an egg; LH triggers ovulation; oestrogen and progesterone control the uterine lining.",
+        "Sweating and skin blood flow help control temperature; kidneys adjust how much water leaves in urine.",
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "Insulin lowers high blood glucose; glucagon raises low blood glucose."
+      ],
+      "after": [
+        "FSH matures an egg; LH triggers ovulation; oestrogen and progesterone control the uterine lining.",
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "Insulin lowers high blood glucose; glucagon raises low blood glucose.",
+        "Sweating and skin blood flow help control temperature; kidneys adjust how much water leaves in urine."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-homeostasis-response-temperature-and-water-balance-keyword",
+      "stem": "Which key term is most closely linked to “Temperature and water balance”?",
+      "before": [
+        "effector",
+        "reflex arc",
+        "thermoregulation",
+        "homeostasis"
+      ],
+      "after": [
+        "effector",
+        "thermoregulation",
+        "reflex arc",
+        "homeostasis"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-homeostasis-response-the-eye-summary",
+      "stem": "Which statement best summarises “The eye”?",
+      "before": [
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "Insulin lowers high blood glucose; glucagon raises low blood glucose.",
+        "FSH matures an egg; LH triggers ovulation; oestrogen and progesterone control the uterine lining.",
+        "The cornea and lens focus light on the retina; the optic nerve carries signals to the brain."
+      ],
+      "after": [
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "The cornea and lens focus light on the retina; the optic nerve carries signals to the brain.",
+        "Insulin lowers high blood glucose; glucagon raises low blood glucose.",
+        "FSH matures an egg; LH triggers ovulation; oestrogen and progesterone control the uterine lining."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-homeostasis-response-the-eye-keyword",
+      "stem": "Which key term is most closely linked to “The eye”?",
+      "before": [
+        "retina",
+        "homeostasis",
+        "effector",
+        "reflex arc"
+      ],
+      "after": [
+        "homeostasis",
+        "effector",
+        "reflex arc",
+        "retina"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-homeostasis-response-the-endocrine-system-summary",
+      "stem": "Which statement best summarises “The endocrine system”?",
+      "before": [
+        "Shoots grow towards light; roots respond to gravity. Auxin changes growth on opposite sides.",
+        "A gland releases a hormone into blood; the hormone travels to a target organ.",
+        "Insulin lowers high blood glucose; glucagon raises low blood glucose.",
+        "FSH matures an egg; LH triggers ovulation; oestrogen and progesterone control the uterine lining."
+      ],
+      "after": [
+        "Shoots grow towards light; roots respond to gravity. Auxin changes growth on opposite sides.",
+        "Insulin lowers high blood glucose; glucagon raises low blood glucose.",
+        "FSH matures an egg; LH triggers ovulation; oestrogen and progesterone control the uterine lining.",
+        "A gland releases a hormone into blood; the hormone travels to a target organ."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-inheritance-dna-genes-and-chromosomes-summary",
+      "stem": "Which statement best summarises “DNA, genes and chromosomes”?",
+      "before": [
+        "Helpful inherited traits can become more common over many generations through natural selection.",
+        "Selective breeding chooses parents with desired traits; genetic engineering changes DNA directly.",
+        "Classification groups organisms by shared features and evolutionary relationships.",
+        "DNA carries genetic instructions; genes are sections of DNA found on chromosomes."
+      ],
+      "after": [
+        "DNA carries genetic instructions; genes are sections of DNA found on chromosomes.",
+        "Helpful inherited traits can become more common over many generations through natural selection.",
+        "Selective breeding chooses parents with desired traits; genetic engineering changes DNA directly.",
+        "Classification groups organisms by shared features and evolutionary relationships."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-inheritance-dna-genes-and-chromosomes-keyword",
+      "stem": "Which key term is most closely linked to “DNA, genes and chromosomes”?",
+      "before": [
+        "DNA",
+        "gamete",
+        "clone",
+        "allele"
+      ],
+      "after": [
+        "gamete",
+        "clone",
+        "DNA",
+        "allele"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-inheritance-sexual-and-asexual-reproduction-summary",
+      "stem": "Which statement best summarises “Sexual and asexual reproduction”?",
+      "before": [
+        "Classification groups organisms by shared features and evolutionary relationships.",
+        "Fossils and genetic similarities help show how species have changed over time.",
+        "Sexual reproduction combines gametes and creates variation; asexual reproduction makes clones.",
+        "Selective breeding chooses parents with desired traits; genetic engineering changes DNA directly."
+      ],
+      "after": [
+        "Sexual reproduction combines gametes and creates variation; asexual reproduction makes clones.",
+        "Classification groups organisms by shared features and evolutionary relationships.",
+        "Fossils and genetic similarities help show how species have changed over time.",
+        "Selective breeding chooses parents with desired traits; genetic engineering changes DNA directly."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-inheritance-sexual-and-asexual-reproduction-keyword",
+      "stem": "Which key term is most closely linked to “Sexual and asexual reproduction”?",
+      "before": [
+        "DNA",
+        "gene",
+        "allele",
+        "gamete"
+      ],
+      "after": [
+        "DNA",
+        "gamete",
+        "gene",
+        "allele"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-inheritance-genetic-crosses-keyword",
+      "stem": "Which key term is most closely linked to “Genetic crosses”?",
+      "before": [
+        "gene",
+        "gamete",
+        "allele",
+        "DNA"
+      ],
+      "after": [
+        "gene",
+        "gamete",
+        "DNA",
+        "allele"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-inheritance-variation-and-mutation-summary",
+      "stem": "Which statement best summarises “Variation and mutation”?",
+      "before": [
+        "Polydactyly is dominant; cystic fibrosis is recessive, so two recessive alleles are needed for the condition.",
+        "Eggs carry X; sperm carry X or Y, giving an approximately 1:1 XX to XY outcome.",
+        "Variation comes from genes and environment; mutations are changes in DNA.",
+        "The order of DNA bases codes for amino acids; amino-acid order affects protein shape."
+      ],
+      "after": [
+        "Variation comes from genes and environment; mutations are changes in DNA.",
+        "Polydactyly is dominant; cystic fibrosis is recessive, so two recessive alleles are needed for the condition.",
+        "Eggs carry X; sperm carry X or Y, giving an approximately 1:1 XX to XY outcome.",
+        "The order of DNA bases codes for amino acids; amino-acid order affects protein shape."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-inheritance-variation-and-mutation-keyword",
+      "stem": "Which key term is most closely linked to “Variation and mutation”?",
+      "before": [
+        "DNA",
+        "gene",
+        "gamete",
+        "mutation"
+      ],
+      "after": [
+        "mutation",
+        "DNA",
+        "gene",
+        "gamete"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-inheritance-selection-and-evolution-summary",
+      "stem": "Which statement best summarises “Selection and evolution”?",
+      "before": [
+        "Polydactyly is dominant; cystic fibrosis is recessive, so two recessive alleles are needed for the condition.",
+        "Eggs carry X; sperm carry X or Y, giving an approximately 1:1 XX to XY outcome.",
+        "DNA carries genetic instructions; genes are sections of DNA found on chromosomes.",
+        "Helpful inherited traits can become more common over many generations through natural selection."
+      ],
+      "after": [
+        "Polydactyly is dominant; cystic fibrosis is recessive, so two recessive alleles are needed for the condition.",
+        "Eggs carry X; sperm carry X or Y, giving an approximately 1:1 XX to XY outcome.",
+        "Helpful inherited traits can become more common over many generations through natural selection.",
+        "DNA carries genetic instructions; genes are sections of DNA found on chromosomes."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-inheritance-selection-and-evolution-keyword",
+      "stem": "Which key term is most closely linked to “Selection and evolution”?",
+      "before": [
+        "natural selection",
+        "DNA",
+        "gene",
+        "gamete"
+      ],
+      "after": [
+        "DNA",
+        "natural selection",
+        "gene",
+        "gamete"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-inheritance-selective-breeding-and-genetic-engineering-keyword",
+      "stem": "Which key term is most closely linked to “Selective breeding and genetic engineering”?",
+      "before": [
+        "gamete",
+        "selective breeding",
+        "DNA",
+        "gene"
+      ],
+      "after": [
+        "selective breeding",
+        "gamete",
+        "DNA",
+        "gene"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-inheritance-evidence-and-classification-summary",
+      "stem": "Which statement best summarises “Evidence and classification”?",
+      "before": [
+        "Polydactyly is dominant; cystic fibrosis is recessive, so two recessive alleles are needed for the condition.",
+        "Classification groups organisms by shared features and evolutionary relationships.",
+        "Fossils and genetic similarities help show how species have changed over time.",
+        "The order of DNA bases codes for amino acids; amino-acid order affects protein shape."
+      ],
+      "after": [
+        "Polydactyly is dominant; cystic fibrosis is recessive, so two recessive alleles are needed for the condition.",
+        "Fossils and genetic similarities help show how species have changed over time.",
+        "Classification groups organisms by shared features and evolutionary relationships.",
+        "The order of DNA bases codes for amino acids; amino-acid order affects protein shape."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-inheritance-evolution-and-its-evidence-summary",
+      "stem": "Which statement best summarises “Evolution and its evidence”?",
+      "before": [
+        "Eggs carry X; sperm carry X or Y, giving an approximately 1:1 XX to XY outcome.",
+        "Fossils and genetic similarities help show how species have changed over time.",
+        "The order of DNA bases codes for amino acids; amino-acid order affects protein shape.",
+        "Polydactyly is dominant; cystic fibrosis is recessive, so two recessive alleles are needed for the condition."
+      ],
+      "after": [
+        "Fossils and genetic similarities help show how species have changed over time.",
+        "Eggs carry X; sperm carry X or Y, giving an approximately 1:1 XX to XY outcome.",
+        "The order of DNA bases codes for amino acids; amino-acid order affects protein shape.",
+        "Polydactyly is dominant; cystic fibrosis is recessive, so two recessive alleles are needed for the condition."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-inheritance-evolution-and-its-evidence-keyword",
+      "stem": "Which key term is most closely linked to “Evolution and its evidence”?",
+      "before": [
+        "gene",
+        "gamete",
+        "fossil",
+        "DNA"
+      ],
+      "after": [
+        "fossil",
+        "gene",
+        "gamete",
+        "DNA"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-inheritance-inherited-disorders-and-screening-summary",
+      "stem": "Which statement best summarises “Inherited disorders and screening”?",
+      "before": [
+        "Variation comes from genes and environment; mutations are changes in DNA.",
+        "Helpful inherited traits can become more common over many generations through natural selection.",
+        "Polydactyly is dominant; cystic fibrosis is recessive, so two recessive alleles are needed for the condition.",
+        "Each parent passes on one allele; a Punnett square shows possible offspring genotypes."
+      ],
+      "after": [
+        "Variation comes from genes and environment; mutations are changes in DNA.",
+        "Polydactyly is dominant; cystic fibrosis is recessive, so two recessive alleles are needed for the condition.",
+        "Helpful inherited traits can become more common over many generations through natural selection.",
+        "Each parent passes on one allele; a Punnett square shows possible offspring genotypes."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-inheritance-sex-chromosomes-and-inheritance-summary",
+      "stem": "Which statement best summarises “Sex chromosomes and inheritance”?",
+      "before": [
+        "Sexual reproduction combines gametes and creates variation; asexual reproduction makes clones.",
+        "Each parent passes on one allele; a Punnett square shows possible offspring genotypes.",
+        "Eggs carry X; sperm carry X or Y, giving an approximately 1:1 XX to XY outcome.",
+        "DNA carries genetic instructions; genes are sections of DNA found on chromosomes."
+      ],
+      "after": [
+        "Sexual reproduction combines gametes and creates variation; asexual reproduction makes clones.",
+        "Each parent passes on one allele; a Punnett square shows possible offspring genotypes.",
+        "DNA carries genetic instructions; genes are sections of DNA found on chromosomes.",
+        "Eggs carry X; sperm carry X or Y, giving an approximately 1:1 XX to XY outcome."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-inheritance-sex-chromosomes-and-inheritance-keyword",
+      "stem": "Which key term is most closely linked to “Sex chromosomes and inheritance”?",
+      "before": [
+        "DNA",
+        "gene",
+        "gamete",
+        "chromosome"
+      ],
+      "after": [
+        "DNA",
+        "chromosome",
+        "gene",
+        "gamete"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-ecology-communities-and-ecosystems-keyword",
+      "stem": "Which key term is most closely linked to “Communities and ecosystems”?",
+      "before": [
+        "producer",
+        "population",
+        "competition",
+        "adaptation"
+      ],
+      "after": [
+        "producer",
+        "competition",
+        "population",
+        "adaptation"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-ecology-competition-and-adaptation-summary",
+      "stem": "Which statement best summarises “Competition and adaptation”?",
+      "before": [
+        "Organisms compete for limited resources; adaptations improve survival in an environment.",
+        "Compare benefits, costs and evidence before judging a conservation or farming action.",
+        "Only some biomass passes to the next level; much is lost in waste, respiration and uneaten parts.",
+        "Human activity can reduce habitats; conservation choices should compare biodiversity gains with costs and other impacts."
+      ],
+      "after": [
+        "Compare benefits, costs and evidence before judging a conservation or farming action.",
+        "Only some biomass passes to the next level; much is lost in waste, respiration and uneaten parts.",
+        "Organisms compete for limited resources; adaptations improve survival in an environment.",
+        "Human activity can reduce habitats; conservation choices should compare biodiversity gains with costs and other impacts."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-ecology-food-chains-and-biomass-summary",
+      "stem": "Which statement best summarises “Food chains and biomass”?",
+      "before": [
+        "Organisms compete for limited resources; adaptations improve survival in an environment.",
+        "Arrows show the direction of biomass transfer, from food to the organism that eats it.",
+        "Human activity can reduce habitats; conservation choices should compare biodiversity gains with costs and other impacts.",
+        "A community is all the populations living together; an ecosystem includes them and their environment."
+      ],
+      "after": [
+        "Arrows show the direction of biomass transfer, from food to the organism that eats it.",
+        "Organisms compete for limited resources; adaptations improve survival in an environment.",
+        "Human activity can reduce habitats; conservation choices should compare biodiversity gains with costs and other impacts.",
+        "A community is all the populations living together; an ecosystem includes them and their environment."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-ecology-food-chains-and-biomass-keyword",
+      "stem": "Which key term is most closely linked to “Food chains and biomass”?",
+      "before": [
+        "ecosystem",
+        "competition",
+        "producer",
+        "population"
+      ],
+      "after": [
+        "producer",
+        "ecosystem",
+        "competition",
+        "population"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-ecology-carbon-water-and-decay-summary",
+      "stem": "Which statement best summarises “Carbon, water and decay”?",
+      "before": [
+        "Human activity can reduce habitats; conservation choices should compare biodiversity gains with costs and other impacts.",
+        "A community is all the populations living together; an ecosystem includes them and their environment.",
+        "Organisms compete for limited resources; adaptations improve survival in an environment.",
+        "Materials cycle between organisms and the environment; decomposers return nutrients."
+      ],
+      "after": [
+        "Materials cycle between organisms and the environment; decomposers return nutrients.",
+        "Human activity can reduce habitats; conservation choices should compare biodiversity gains with costs and other impacts.",
+        "A community is all the populations living together; an ecosystem includes them and their environment.",
+        "Organisms compete for limited resources; adaptations improve survival in an environment."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-ecology-carbon-water-and-decay-keyword",
+      "stem": "Which key term is most closely linked to “Carbon, water and decay”?",
+      "before": [
+        "decomposer",
+        "population",
+        "ecosystem",
+        "competition"
+      ],
+      "after": [
+        "population",
+        "decomposer",
+        "ecosystem",
+        "competition"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-ecology-sampling-and-fieldwork-summary",
+      "stem": "Which statement best summarises “Sampling and fieldwork”?",
+      "before": [
+        "Quadrats estimate abundance; transects show how distribution changes across an area.",
+        "Organisms compete for limited resources; adaptations improve survival in an environment.",
+        "Arrows show the direction of biomass transfer, from food to the organism that eats it.",
+        "Materials cycle between organisms and the environment; decomposers return nutrients."
+      ],
+      "after": [
+        "Organisms compete for limited resources; adaptations improve survival in an environment.",
+        "Arrows show the direction of biomass transfer, from food to the organism that eats it.",
+        "Materials cycle between organisms and the environment; decomposers return nutrients.",
+        "Quadrats estimate abundance; transects show how distribution changes across an area."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-ecology-sampling-and-fieldwork-keyword",
+      "stem": "Which key term is most closely linked to “Sampling and fieldwork”?",
+      "before": [
+        "competition",
+        "quadrat",
+        "population",
+        "ecosystem"
+      ],
+      "after": [
+        "competition",
+        "population",
+        "ecosystem",
+        "quadrat"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-ecology-biodiversity-and-food-security-summary",
+      "stem": "Which statement best summarises “Biodiversity and food security”?",
+      "before": [
+        "Materials cycle between organisms and the environment; decomposers return nutrients.",
+        "Quadrats estimate abundance; transects show how distribution changes across an area.",
+        "Biodiversity supports stable ecosystems; food security depends on reliable supplies.",
+        "Arrows show the direction of biomass transfer, from food to the organism that eats it."
+      ],
+      "after": [
+        "Biodiversity supports stable ecosystems; food security depends on reliable supplies.",
+        "Materials cycle between organisms and the environment; decomposers return nutrients.",
+        "Quadrats estimate abundance; transects show how distribution changes across an area.",
+        "Arrows show the direction of biomass transfer, from food to the organism that eats it."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-ecology-biodiversity-and-food-security-keyword",
+      "stem": "Which key term is most closely linked to “Biodiversity and food security”?",
+      "before": [
+        "population",
+        "ecosystem",
+        "competition",
+        "biodiversity"
+      ],
+      "after": [
+        "population",
+        "biodiversity",
+        "ecosystem",
+        "competition"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-ecology-evaluating-interventions-summary",
+      "stem": "Which statement best summarises “Evaluating interventions”?",
+      "before": [
+        "Materials cycle between organisms and the environment; decomposers return nutrients.",
+        "Quadrats estimate abundance; transects show how distribution changes across an area.",
+        "Compare benefits, costs and evidence before judging a conservation or farming action.",
+        "Arrows show the direction of biomass transfer, from food to the organism that eats it."
+      ],
+      "after": [
+        "Materials cycle between organisms and the environment; decomposers return nutrients.",
+        "Quadrats estimate abundance; transects show how distribution changes across an area.",
+        "Arrows show the direction of biomass transfer, from food to the organism that eats it.",
+        "Compare benefits, costs and evidence before judging a conservation or farming action."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-ecology-evaluating-interventions-keyword",
+      "stem": "Which key term is most closely linked to “Evaluating interventions”?",
+      "before": [
+        "population",
+        "ecosystem",
+        "competition",
+        "conservation"
+      ],
+      "after": [
+        "population",
+        "conservation",
+        "ecosystem",
+        "competition"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-ecology-human-impacts-and-biodiversity-summary",
+      "stem": "Which statement best summarises “Human impacts and biodiversity”?",
+      "before": [
+        "Human activity can reduce habitats; conservation choices should compare biodiversity gains with costs and other impacts.",
+        "A community is all the populations living together; an ecosystem includes them and their environment.",
+        "Organisms compete for limited resources; adaptations improve survival in an environment.",
+        "Arrows show the direction of biomass transfer, from food to the organism that eats it."
+      ],
+      "after": [
+        "A community is all the populations living together; an ecosystem includes them and their environment.",
+        "Organisms compete for limited resources; adaptations improve survival in an environment.",
+        "Arrows show the direction of biomass transfer, from food to the organism that eats it.",
+        "Human activity can reduce habitats; conservation choices should compare biodiversity gains with costs and other impacts."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-ecology-human-impacts-and-biodiversity-keyword",
+      "stem": "Which key term is most closely linked to “Human impacts and biodiversity”?",
+      "before": [
+        "competition",
+        "biodiversity",
+        "population",
+        "ecosystem"
+      ],
+      "after": [
+        "biodiversity",
+        "competition",
+        "population",
+        "ecosystem"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-cell-exchange-limit",
+      "stem": "Why is diffusion alone harder for a larger organism?",
+      "before": [
+        "It has less surface area per unit volume",
+        "It has no cell membranes",
+        "Its cells stop respiring",
+        "It has more surface area per unit volume"
+      ],
+      "after": [
+        "It has no cell membranes",
+        "Its cells stop respiring",
+        "It has more surface area per unit volume",
+        "It has less surface area per unit volume"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-organisation-6-0",
+      "stem": "What happens to diffusion when the gradient is steeper?",
+      "before": [
+        "It stops",
+        "It reverses automatically",
+        "It is faster",
+        "It needs ATP"
+      ],
+      "after": [
+        "It stops",
+        "It is faster",
+        "It reverses automatically",
+        "It needs ATP"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-organisation-6-1",
+      "stem": "What maintains a steep gas-exchange gradient at alveoli?",
+      "before": [
+        "A thick membrane",
+        "No circulation",
+        "A smaller surface area",
+        "Ventilation and blood flow"
+      ],
+      "after": [
+        "A thick membrane",
+        "Ventilation and blood flow",
+        "No circulation",
+        "A smaller surface area"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-homeostasis-response-9-0",
+      "stem": "Which hormone stimulates egg maturation?",
+      "before": [
+        "Amylase",
+        "FSH",
+        "Bile",
+        "Lipase"
+      ],
+      "after": [
+        "FSH",
+        "Amylase",
+        "Bile",
+        "Lipase"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-ecology-5-0",
+      "stem": "What does biodiversity describe?",
+      "before": [
+        "Only crop yield",
+        "Variety of living organisms",
+        "Only soil pH",
+        "Only one population size"
+      ],
+      "after": [
+        "Variety of living organisms",
+        "Only crop yield",
+        "Only soil pH",
+        "Only one population size"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-cell-biology-surface-area-to-volume-reasoning-summary",
+      "stem": "Which statement best summarises “Surface-area-to-volume reasoning”?",
+      "before": [
+        "Mitosis makes two genetically identical cells; stem cells can develop into specialised cells.",
+        "Prepare a thin specimen, start on low power, focus, then draw only what you can see.",
+        "A smaller cell has more surface area for each unit of volume, so exchange is easier.",
+        "Active transport uses energy to move substances against their concentration gradient."
+      ],
+      "after": [
+        "Mitosis makes two genetically identical cells; stem cells can develop into specialised cells.",
+        "Prepare a thin specimen, start on low power, focus, then draw only what you can see.",
+        "Active transport uses energy to move substances against their concentration gradient.",
+        "A smaller cell has more surface area for each unit of volume, so exchange is easier."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-organisation-using-exchange-gradients-summary",
+      "stem": "Which statement best summarises “Using exchange gradients”?",
+      "before": [
+        "Bile neutralises stomach acid and emulsifies fats, giving lipase more surface to work on.",
+        "The right side pumps blood to the lungs; the left side pumps oxygenated blood to the body.",
+        "Alveoli exchange gases quickly because they have thin walls, a large area and a good blood supply.",
+        "A steep concentration gradient increases diffusion; blood flow and ventilation help keep it steep."
+      ],
+      "after": [
+        "Bile neutralises stomach acid and emulsifies fats, giving lipase more surface to work on.",
+        "A steep concentration gradient increases diffusion; blood flow and ventilation help keep it steep.",
+        "The right side pumps blood to the lungs; the left side pumps oxygenated blood to the body.",
+        "Alveoli exchange gases quickly because they have thin walls, a large area and a good blood supply."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-organisation-using-exchange-gradients-keyword",
+      "stem": "Which key term is most closely linked to “Using exchange gradients”?",
+      "before": [
+        "gradient",
+        "tissue",
+        "organ",
+        "enzyme"
+      ],
+      "after": [
+        "tissue",
+        "gradient",
+        "organ",
+        "enzyme"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-infection-response-defences-and-immunity-summary",
+      "stem": "Which statement best summarises “Defences and immunity”?",
+      "before": [
+        "Skin and mucus block pathogens; white blood cells destroy them and produce antibodies.",
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "A claim is stronger when the method is fair, the sample is large and results can be repeated.",
+        "Different pathogens spread in different ways, so prevention depends on the disease."
+      ],
+      "after": [
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "Skin and mucus block pathogens; white blood cells destroy them and produce antibodies.",
+        "A claim is stronger when the method is fair, the sample is large and results can be repeated.",
+        "Different pathogens spread in different ways, so prevention depends on the disease."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-bioenergetics-aerobic-respiration-summary",
+      "stem": "Which statement best summarises “Aerobic respiration”?",
+      "before": [
+        "With oxygen, cells release energy from glucose and make carbon dioxide and water.",
+        "Exercise raises energy demand, so breathing and heart rate increase to deliver more oxygen and glucose.",
+        "Measure a change over time, keep other factors constant, and repeat readings.",
+        "A reflex is a fast automatic response carried through a reflex arc."
+      ],
+      "after": [
+        "Exercise raises energy demand, so breathing and heart rate increase to deliver more oxygen and glucose.",
+        "Measure a change over time, keep other factors constant, and repeat readings.",
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "With oxygen, cells release energy from glucose and make carbon dioxide and water."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-bioenergetics-anaerobic-respiration-summary",
+      "stem": "Which statement best summarises “Anaerobic respiration”?",
+      "before": [
+        "Measure a change over time, keep other factors constant, and repeat readings.",
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "Plants use light energy to turn carbon dioxide and water into glucose and oxygen.",
+        "Without enough oxygen, muscles release less energy and produce lactic acid."
+      ],
+      "after": [
+        "Without enough oxygen, muscles release less energy and produce lactic acid.",
+        "Measure a change over time, keep other factors constant, and repeat readings.",
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "Plants use light energy to turn carbon dioxide and water into glucose and oxygen."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-bioenergetics-exercise-and-metabolism-summary",
+      "stem": "Which statement best summarises “Exercise and metabolism”?",
+      "before": [
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "Plants use light energy to turn carbon dioxide and water into glucose and oxygen.",
+        "Exercise raises energy demand, so breathing and heart rate increase to deliver more oxygen and glucose.",
+        "Measure a change over time, keep other factors constant, and repeat readings."
+      ],
+      "after": [
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "Exercise raises energy demand, so breathing and heart rate increase to deliver more oxygen and glucose.",
+        "Plants use light energy to turn carbon dioxide and water into glucose and oxygen.",
+        "Measure a change over time, keep other factors constant, and repeat readings."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-bioenergetics-measuring-a-biological-rate-summary",
+      "stem": "Which statement best summarises “Measuring a biological rate”?",
+      "before": [
+        "Measure a change over time, keep other factors constant, and repeat readings.",
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "With oxygen, cells release energy from glucose and make carbon dioxide and water.",
+        "Without enough oxygen, muscles release less energy and produce lactic acid."
+      ],
+      "after": [
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "Measure a change over time, keep other factors constant, and repeat readings.",
+        "With oxygen, cells release energy from glucose and make carbon dioxide and water.",
+        "Without enough oxygen, muscles release less energy and produce lactic acid."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-homeostasis-response-keeping-conditions-stable-summary",
+      "stem": "Which statement best summarises “Keeping conditions stable”?",
+      "before": [
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "Insulin lowers high blood glucose.",
+        "Homeostasis keeps internal conditions near an optimum using receptors, coordination centres and effectors.",
+        "A gland releases a hormone into blood; the hormone travels to a target organ."
+      ],
+      "after": [
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "Insulin lowers high blood glucose.",
+        "A gland releases a hormone into blood; the hormone travels to a target organ.",
+        "Homeostasis keeps internal conditions near an optimum using receptors, coordination centres and effectors."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-homeostasis-response-blood-glucose-summary",
+      "stem": "Which statement best summarises “Blood glucose”?",
+      "before": [
+        "Insulin lowers high blood glucose.",
+        "Glycogen turns to glucose",
+        "Less glucose enters cells",
+        "Water becomes glucose"
+      ],
+      "after": [
+        "Glycogen turns to glucose",
+        "Less glucose enters cells",
+        "Water becomes glucose",
+        "Insulin lowers high blood glucose."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-homeostasis-response-reproduction-and-hormones-summary",
+      "stem": "Which statement best summarises “Reproduction and hormones”?",
+      "before": [
+        "FSH matures an egg; LH triggers ovulation; oestrogen and progesterone control the uterine lining.",
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "Insulin lowers high blood glucose.",
+        "A gland releases a hormone into blood; the hormone travels to a target organ."
+      ],
+      "after": [
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "FSH matures an egg; LH triggers ovulation; oestrogen and progesterone control the uterine lining.",
+        "Insulin lowers high blood glucose.",
+        "A gland releases a hormone into blood; the hormone travels to a target organ."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-homeostasis-response-reproductive-hormones-summary",
+      "stem": "Which statement best summarises “Reproductive hormones”?",
+      "before": [
+        "FSH stimulates maturation of an egg in an ovarian follicle. LH triggers ovulation. Oestrogen and progesterone help coordinate changes in the uterine lining.",
+        "Change one factor, measure reaction time, repeat and compare means.",
+        "Insulin lowers high blood glucose.",
+        "Water becomes glucose"
+      ],
+      "after": [
+        "Change one factor, measure reaction time, repeat and compare means.",
+        "FSH stimulates maturation of an egg in an ovarian follicle. LH triggers ovulation. Oestrogen and progesterone help coordinate changes in the uterine lining.",
+        "Insulin lowers high blood glucose.",
+        "Water becomes glucose"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-homeostasis-response-the-endocrine-system-summary",
+      "stem": "Which statement best summarises “The endocrine system”?",
+      "before": [
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "A gland releases a hormone into blood; the hormone travels to a target organ.",
+        "Insulin lowers high blood glucose.",
+        "FSH matures an egg; LH triggers ovulation; oestrogen and progesterone control the uterine lining."
+      ],
+      "after": [
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "Insulin lowers high blood glucose.",
+        "FSH matures an egg; LH triggers ovulation; oestrogen and progesterone control the uterine lining.",
+        "A gland releases a hormone into blood; the hormone travels to a target organ."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-inheritance-genetic-crosses-summary",
+      "stem": "Which statement best summarises “Genetic crosses”?",
+      "before": [
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "Each parent passes on one allele; a Punnett square shows possible offspring genotypes.",
+        "Classification groups organisms by shared features and evolutionary relationships.",
+        "Fossils and genetic similarities help show how species have changed over time."
+      ],
+      "after": [
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "Classification groups organisms by shared features and evolutionary relationships.",
+        "Each parent passes on one allele; a Punnett square shows possible offspring genotypes.",
+        "Fossils and genetic similarities help show how species have changed over time."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-inheritance-variation-and-mutation-summary",
+      "stem": "Which statement best summarises “Variation and mutation”?",
+      "before": [
+        "Polydactyly is dominant; cystic fibrosis is recessive, so two recessive alleles are needed for the condition.",
+        "Eggs carry X; sperm carry X or Y, giving an approximately 1:1 XX to XY outcome.",
+        "Variation comes from genes and environment; mutations are changes in DNA.",
+        "A reflex is a fast automatic response carried through a reflex arc."
+      ],
+      "after": [
+        "Variation comes from genes and environment; mutations are changes in DNA.",
+        "Polydactyly is dominant; cystic fibrosis is recessive, so two recessive alleles are needed for the condition.",
+        "Eggs carry X; sperm carry X or Y, giving an approximately 1:1 XX to XY outcome.",
+        "A reflex is a fast automatic response carried through a reflex arc."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-inheritance-selective-breeding-and-genetic-engineering-summary",
+      "stem": "Which statement best summarises “Selective breeding and genetic engineering”?",
+      "before": [
+        "Selective breeding chooses parents with desired traits; genetic engineering changes DNA directly.",
+        "Classification groups organisms by shared features and evolutionary relationships.",
+        "Fossils and genetic similarities help show how species have changed over time.",
+        "A reflex is a fast automatic response carried through a reflex arc."
+      ],
+      "after": [
+        "Classification groups organisms by shared features and evolutionary relationships.",
+        "Fossils and genetic similarities help show how species have changed over time.",
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "Selective breeding chooses parents with desired traits; genetic engineering changes DNA directly."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-inheritance-evidence-and-classification-summary",
+      "stem": "Which statement best summarises “Evidence and classification”?",
+      "before": [
+        "Polydactyly is dominant; cystic fibrosis is recessive, so two recessive alleles are needed for the condition.",
+        "Classification groups organisms by shared features and evolutionary relationships.",
+        "Fossils and genetic similarities help show how species have changed over time.",
+        "A reflex is a fast automatic response carried through a reflex arc."
+      ],
+      "after": [
+        "Polydactyly is dominant; cystic fibrosis is recessive, so two recessive alleles are needed for the condition.",
+        "Fossils and genetic similarities help show how species have changed over time.",
+        "Classification groups organisms by shared features and evolutionary relationships.",
+        "A reflex is a fast automatic response carried through a reflex arc."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-ecology-communities-and-ecosystems-summary",
+      "stem": "Which statement best summarises “Communities and ecosystems”?",
+      "before": [
+        "A community is all the populations living together; an ecosystem includes them and their environment.",
+        "Compare benefits, costs and evidence before judging a conservation or farming action.",
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "Human activity can reduce habitats; conservation choices should compare biodiversity gains with costs and other impacts."
+      ],
+      "after": [
+        "Compare benefits, costs and evidence before judging a conservation or farming action.",
+        "A community is all the populations living together; an ecosystem includes them and their environment.",
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "Human activity can reduce habitats; conservation choices should compare biodiversity gains with costs and other impacts."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-ecology-competition-and-adaptation-summary",
+      "stem": "Which statement best summarises “Competition and adaptation”?",
+      "before": [
+        "Organisms compete for limited resources; adaptations improve survival in an environment.",
+        "Compare benefits, costs and evidence before judging a conservation or farming action.",
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "Human activity can reduce habitats; conservation choices should compare biodiversity gains with costs and other impacts."
+      ],
+      "after": [
+        "Compare benefits, costs and evidence before judging a conservation or farming action.",
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "Organisms compete for limited resources; adaptations improve survival in an environment.",
+        "Human activity can reduce habitats; conservation choices should compare biodiversity gains with costs and other impacts."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-ecology-biodiversity-and-food-security-summary",
+      "stem": "Which statement best summarises “Biodiversity”?",
+      "before": [
+        "Materials cycle between organisms and the environment; decomposers return nutrients.",
+        "Quadrats estimate abundance; transects show how distribution changes across an area.",
+        "Biodiversity is the variety of living organisms.",
+        "Arrows show the direction of biomass transfer, from food to the organism that eats it."
+      ],
+      "after": [
+        "Materials cycle between organisms and the environment; decomposers return nutrients.",
+        "Biodiversity is the variety of living organisms.",
+        "Quadrats estimate abundance; transects show how distribution changes across an area.",
+        "Arrows show the direction of biomass transfer, from food to the organism that eats it."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-digestion-completion-q02",
+      "stem": "Which statement best explains enzyme specificity in the simplified lock-and-key model?",
+      "before": [
+        "An enzyme is a protein catalyst whose active-site shape fits particular substrates.",
+        "Enzymes are used up as fuel for every reaction.",
+        "Every enzyme works equally well on every substrate.",
+        "An enzyme makes a substrate unnecessary."
+      ],
+      "after": [
+        "Enzymes are used up as fuel for every reaction.",
+        "An enzyme is a protein catalyst whose active-site shape fits particular substrates.",
+        "Every enzyme works equally well on every substrate.",
+        "An enzyme makes a substrate unnecessary."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-circulation-completion-q18",
+      "stem": "A survey of 1000 volunteers from one specialist clinic finds more disease than a random community sample of 200. Which conclusion is best supported?",
+      "before": [
+        "The clinic sample may be biased; sample size alone does not make it representative.",
+        "The larger sample always gives the true population risk.",
+        "Every member of the community has the clinic disease rate.",
+        "Selection method never affects disease estimates."
+      ],
+      "after": [
+        "The larger sample always gives the true population risk.",
+        "Every member of the community has the clinic disease rate.",
+        "Selection method never affects disease estimates.",
+        "The clinic sample may be biased; sample size alone does not make it representative."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-infection-response-7-1",
+      "stem": "Which is a possible use of monoclonal antibodies?",
+      "before": [
+        "A diagnostic test",
+        "Making bile",
+        "Carrying water in xylem",
+        "Triggering mitosis in every cell"
+      ],
+      "after": [
+        "Making bile",
+        "Carrying water in xylem",
+        "A diagnostic test",
+        "Triggering mitosis in every cell"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-bioenergetics-6-0",
+      "stem": "If added light no longer increases rate, what can be inferred?",
+      "before": [
+        "Light has become a product",
+        "Photosynthesis has ceased forever",
+        "Light is not currently limiting",
+        "Temperature must be zero"
+      ],
+      "after": [
+        "Light has become a product",
+        "Photosynthesis has ceased forever",
+        "Temperature must be zero",
+        "Light is not currently limiting"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-bioenergetics-6-1",
+      "stem": "Which evidence shows carbon dioxide was limiting?",
+      "before": [
+        "Removing it raises the rate",
+        "The rate stays flat when it is added",
+        "There is no carbon dioxide in air",
+        "Adding it raises the rate"
+      ],
+      "after": [
+        "Removing it raises the rate",
+        "The rate stays flat when it is added",
+        "Adding it raises the rate",
+        "There is no carbon dioxide in air"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-homeostasis-response-8-0",
+      "stem": "What does negative feedback do?",
+      "before": [
+        "Opposes the original change",
+        "Always increases the change",
+        "Stops receptors working",
+        "Makes every hormone identical"
+      ],
+      "after": [
+        "Always increases the change",
+        "Opposes the original change",
+        "Stops receptors working",
+        "Makes every hormone identical"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-homeostasis-response-8-1",
+      "stem": "Why is negative feedback useful?",
+      "before": [
+        "It removes the need for receptors",
+        "It keeps conditions near an optimum",
+        "It makes body temperature irrelevant",
+        "It replaces all nerves"
+      ],
+      "after": [
+        "It removes the need for receptors",
+        "It makes body temperature irrelevant",
+        "It replaces all nerves",
+        "It keeps conditions near an optimum"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-homeostasis-response-10-0",
+      "stem": "What is one possible risk of fertility hormone treatment?",
+      "before": [
+        "Instant guaranteed success",
+        "No physical effects",
+        "Multiple pregnancy",
+        "A loss of all eggs"
+      ],
+      "after": [
+        "Instant guaranteed success",
+        "Multiple pregnancy",
+        "No physical effects",
+        "A loss of all eggs"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-homeostasis-response-11-1",
+      "stem": "Where does ADH act to change water balance?",
+      "before": [
+        "Kidneys",
+        "Alveoli",
+        "Bile duct",
+        "Ribosomes"
+      ],
+      "after": [
+        "Alveoli",
+        "Bile duct",
+        "Kidneys",
+        "Ribosomes"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-homeostasis-response-12-0",
+      "stem": "Which is a use of plant growth regulators?",
+      "before": [
+        "Rooting cuttings",
+        "Carrying oxygen in blood",
+        "Making antibodies",
+        "Moving impulses in neurones"
+      ],
+      "after": [
+        "Carrying oxygen in blood",
+        "Making antibodies",
+        "Moving impulses in neurones",
+        "Rooting cuttings"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-homeostasis-response-12-1",
+      "stem": "Why can a shoot bend towards light?",
+      "before": [
+        "The shoot has muscles",
+        "Auxin causes unequal growth",
+        "The shoot makes insulin",
+        "Xylem carries light"
+      ],
+      "after": [
+        "Auxin causes unequal growth",
+        "The shoot has muscles",
+        "The shoot makes insulin",
+        "Xylem carries light"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-inheritance-8-0",
+      "stem": "What does the order of DNA bases help determine?",
+      "before": [
+        "Amino-acid sequence",
+        "Only body temperature",
+        "Food-chain direction",
+        "The size of every organ"
+      ],
+      "after": [
+        "Only body temperature",
+        "Food-chain direction",
+        "The size of every organ",
+        "Amino-acid sequence"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-inheritance-8-1",
+      "stem": "Why might a mutation have no visible effect?",
+      "before": [
+        "All mutations are always fatal",
+        "It may not change a protein’s function",
+        "DNA never affects proteins",
+        "Every mutation makes the same amino acid"
+      ],
+      "after": [
+        "All mutations are always fatal",
+        "DNA never affects proteins",
+        "Every mutation makes the same amino acid",
+        "It may not change a protein’s function"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-ecology-7-0",
+      "stem": "Which formula gives biomass transfer efficiency?",
+      "before": [
+        "Available ÷ transferred × 100",
+        "Transferred + available",
+        "Time ÷ biomass",
+        "Transferred ÷ available × 100"
+      ],
+      "after": [
+        "Available ÷ transferred × 100",
+        "Transferred + available",
+        "Transferred ÷ available × 100",
+        "Time ÷ biomass"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "aqa-bio-step-ecology-7-1",
+      "stem": "Why is less biomass usually available at the next level?",
+      "before": [
+        "Losses in respiration, waste and uneaten parts",
+        "Energy is created by consumers",
+        "All biomass is transferred",
+        "Producers stop photosynthesising"
+      ],
+      "after": [
+        "Energy is created by consumers",
+        "Losses in respiration, waste and uneaten parts",
+        "All biomass is transferred",
+        "Producers stop photosynthesising"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-infection-response-monoclonal-antibodies-summary",
+      "stem": "Which statement best summarises “Monoclonal antibodies”?",
+      "before": [
+        "Skin and mucus block pathogens; white blood cells destroy them and produce antibodies.",
+        "Monoclonal antibodies bind one specific antigen and can be used in tests or targeted treatments.",
+        "Different pathogens spread in different ways, so prevention depends on the disease.",
+        "Pathogens cause infectious disease and can spread through air, water or direct contact."
+      ],
+      "after": [
+        "Monoclonal antibodies bind one specific antigen and can be used in tests or targeted treatments.",
+        "Skin and mucus block pathogens; white blood cells destroy them and produce antibodies.",
+        "Different pathogens spread in different ways, so prevention depends on the disease.",
+        "Pathogens cause infectious disease and can spread through air, water or direct contact."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-infection-response-monoclonal-antibodies-keyword",
+      "stem": "Which key term is most closely linked to “Monoclonal antibodies”?",
+      "before": [
+        "transmission",
+        "antibody",
+        "antigen",
+        "pathogen"
+      ],
+      "after": [
+        "transmission",
+        "antibody",
+        "pathogen",
+        "antigen"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-bioenergetics-interacting-limiting-factors-summary",
+      "stem": "Which statement best summarises “Interacting limiting factors”?",
+      "before": [
+        "Without enough oxygen, muscles release less energy and produce lactic acid.",
+        "Improving one factor stops helping when another factor becomes limiting.",
+        "The slowest available input limits photosynthesis: light, carbon dioxide or temperature.",
+        "With oxygen, cells release energy from glucose and make carbon dioxide and water."
+      ],
+      "after": [
+        "Improving one factor stops helping when another factor becomes limiting.",
+        "Without enough oxygen, muscles release less energy and produce lactic acid.",
+        "The slowest available input limits photosynthesis: light, carbon dioxide or temperature.",
+        "With oxygen, cells release energy from glucose and make carbon dioxide and water."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-bioenergetics-interacting-limiting-factors-keyword",
+      "stem": "Which key term is most closely linked to “Interacting limiting factors”?",
+      "before": [
+        "chlorophyll",
+        "No biological effect",
+        "limiting factor",
+        "photosynthesis"
+      ],
+      "after": [
+        "chlorophyll",
+        "No biological effect",
+        "photosynthesis",
+        "limiting factor"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-homeostasis-response-hormones-feedback-and-fertility-summary",
+      "stem": "Which statement best summarises “Hormones, feedback and fertility”?",
+      "before": [
+        "Fertility treatment can use FSH and LH to stimulate egg maturation and ovulation.",
+        "A gland releases a hormone into blood; the hormone travels to a target organ.",
+        "Homeostasis keeps internal conditions near an optimum using receptors, coordination centres and effectors.",
+        "A reflex is a fast automatic response carried through a reflex arc."
+      ],
+      "after": [
+        "A gland releases a hormone into blood; the hormone travels to a target organ.",
+        "Homeostasis keeps internal conditions near an optimum using receptors, coordination centres and effectors.",
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "Fertility treatment can use FSH and LH to stimulate egg maturation and ovulation."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-homeostasis-response-hormones-feedback-and-fertility-keyword",
+      "stem": "Which key term is most closely linked to “Hormones, feedback and fertility”?",
+      "before": [
+        "reflex arc",
+        "FSH",
+        "homeostasis",
+        "effector"
+      ],
+      "after": [
+        "reflex arc",
+        "homeostasis",
+        "FSH",
+        "effector"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-homeostasis-response-regulating-water-balance-summary",
+      "stem": "Which statement best summarises “Regulating water balance”?",
+      "before": [
+        "Homeostasis keeps internal conditions near an optimum using receptors, coordination centres and effectors.",
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "Insulin lowers high blood glucose; glucagon raises low blood glucose.",
+        "ADH changes how much water the kidneys reabsorb: more ADH means more reabsorption."
+      ],
+      "after": [
+        "Homeostasis keeps internal conditions near an optimum using receptors, coordination centres and effectors.",
+        "A reflex is a fast automatic response carried through a reflex arc.",
+        "ADH changes how much water the kidneys reabsorb: more ADH means more reabsorption.",
+        "Insulin lowers high blood glucose; glucagon raises low blood glucose."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-homeostasis-response-regulating-water-balance-keyword",
+      "stem": "Which key term is most closely linked to “Regulating water balance”?",
+      "before": [
+        "ADH",
+        "homeostasis",
+        "effector",
+        "reflex arc"
+      ],
+      "after": [
+        "homeostasis",
+        "effector",
+        "ADH",
+        "reflex arc"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-homeostasis-response-plant-growth-regulators-summary",
+      "stem": "Which statement best summarises “Plant growth regulators”?",
+      "before": [
+        "Plant hormones can change growth and are used to control weeds, rooting and fruit ripening.",
+        "ADH changes how much water the kidneys reabsorb: more ADH means more reabsorption.",
+        "A gland releases a hormone into blood; the hormone travels to a target organ.",
+        "Homeostasis keeps internal conditions near an optimum using receptors, coordination centres and effectors."
+      ],
+      "after": [
+        "ADH changes how much water the kidneys reabsorb: more ADH means more reabsorption.",
+        "Plant hormones can change growth and are used to control weeds, rooting and fruit ripening.",
+        "A gland releases a hormone into blood; the hormone travels to a target organ.",
+        "Homeostasis keeps internal conditions near an optimum using receptors, coordination centres and effectors."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-homeostasis-response-plant-growth-regulators-keyword",
+      "stem": "Which key term is most closely linked to “Plant growth regulators”?",
+      "before": [
+        "reflex arc",
+        "auxin",
+        "homeostasis",
+        "effector"
+      ],
+      "after": [
+        "auxin",
+        "reflex arc",
+        "homeostasis",
+        "effector"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-inheritance-dna-and-protein-structure-summary",
+      "stem": "Which statement best summarises “DNA and protein structure”?",
+      "before": [
+        "The order of DNA bases codes for amino acids; amino-acid order affects protein shape.",
+        "DNA carries genetic instructions; genes are sections of DNA found on chromosomes.",
+        "Sexual reproduction combines gametes and creates variation; asexual reproduction makes clones.",
+        "Each parent passes on one allele; a Punnett square shows possible offspring genotypes."
+      ],
+      "after": [
+        "DNA carries genetic instructions; genes are sections of DNA found on chromosomes.",
+        "The order of DNA bases codes for amino acids; amino-acid order affects protein shape.",
+        "Sexual reproduction combines gametes and creates variation; asexual reproduction makes clones.",
+        "Each parent passes on one allele; a Punnett square shows possible offspring genotypes."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-inheritance-dna-and-protein-structure-keyword",
+      "stem": "Which key term is most closely linked to “DNA and protein structure”?",
+      "before": [
+        "gamete",
+        "base sequence",
+        "DNA",
+        "gene"
+      ],
+      "after": [
+        "gamete",
+        "DNA",
+        "base sequence",
+        "gene"
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "bio-deep-ecology-transfer-efficiency-summary",
+      "stem": "Which statement best summarises “Transfer efficiency”?",
+      "before": [
+        "Human activity can reduce habitats; conservation choices should compare biodiversity gains with costs and other impacts.",
+        "A community is all the populations living together; an ecosystem includes them and their environment.",
+        "Only some biomass passes to the next level; much is lost in waste, respiration and uneaten parts.",
+        "Compare benefits, costs and evidence before judging a conservation or farming action."
+      ],
+      "after": [
+        "Only some biomass passes to the next level; much is lost in waste, respiration and uneaten parts.",
+        "Human activity can reduce habitats; conservation choices should compare biodiversity gains with costs and other impacts.",
+        "A community is all the populations living together; an ecosystem includes them and their environment.",
+        "Compare benefits, costs and evidence before judging a conservation or farming action."
+      ]
+    },
+    {
+      "subject": "Biology",
+      "id": "ocr-resolution",
+      "stem": "An image is enlarged but two nearby points still cannot be distinguished. Which property limits the detail?",
+      "before": [
+        "Resolution",
+        "Image size",
+        "Paper size",
+        "Drawing colour"
+      ],
+      "after": [
+        "Image size",
+        "Resolution",
+        "Paper size",
+        "Drawing colour"
+      ]
+    },
+    {
+      "subject": "Chemistry",
+      "id": "ocr-chemistry-focus",
+      "stem": "Most alpha particles pass straight through thin foil. What does this suggest about an atom?",
+      "before": [
+        "It is mostly empty space",
+        "It has no nucleus",
+        "Its electrons are positive",
+        "Its mass is evenly spread"
+      ],
+      "after": [
+        "It has no nucleus",
+        "Its electrons are positive",
+        "It is mostly empty space",
+        "Its mass is evenly spread"
+      ]
+    },
+    {
+      "subject": "Physics",
+      "id": "build4-4",
+      "stem": "Which quantity is measured in amperes?",
+      "before": [
+        "Current",
+        "Energy",
+        "Resistance",
+        "Power"
+      ],
+      "after": [
+        "Energy",
+        "Resistance",
+        "Current",
+        "Power"
+      ]
+    },
+    {
+      "subject": "Physics",
+      "id": "build4-5",
+      "stem": "What does a resultant force of zero mean?",
+      "before": [
+        "The object must be stopped",
+        "There is no change in velocity",
+        "The object has no mass",
+        "Gravity is absent"
+      ],
+      "after": [
+        "The object must be stopped",
+        "The object has no mass",
+        "Gravity is absent",
+        "There is no change in velocity"
+      ]
+    },
+    {
+      "subject": "Maths",
+      "id": "aqa-maths-standard",
+      "stem": "Write 46,000 in standard form.",
+      "before": [
+        "4.6 × 10⁴",
+        "46 × 10³",
+        "4.6 × 10³",
+        "0.46 × 10⁴"
+      ],
+      "after": [
+        "46 × 10³",
+        "4.6 × 10³",
+        "4.6 × 10⁴",
+        "0.46 × 10⁴"
+      ]
+    },
+    {
+      "subject": "Maths",
+      "id": "aqa-maths-direction",
+      "stem": "Which vector moves 4 units right and 2 units down?",
+      "before": [
+        "(4,-2)",
+        "(-4,2)",
+        "(4,2)",
+        "(-2,4)"
+      ],
+      "after": [
+        "(-4,2)",
+        "(4,2)",
+        "(-2,4)",
+        "(4,-2)"
+      ]
+    },
+    {
+      "subject": "Maths",
+      "id": "aqa-maths-more-outlier",
+      "stem": "Which average is usually most affected by one very large outlier?",
+      "before": [
+        "Mean",
+        "Median",
+        "Mode",
+        "None of them"
+      ],
+      "after": [
+        "Median",
+        "Mode",
+        "None of them",
+        "Mean"
+      ]
+    },
+    {
+      "subject": "Maths",
+      "id": "aqa-maths-more-translation",
+      "stem": "A translation vector (2, −3) moves a shape which way?",
+      "before": [
+        "2 right and 3 down",
+        "2 left and 3 up",
+        "2 right and 3 up",
+        "3 right and 2 down"
+      ],
+      "after": [
+        "2 left and 3 up",
+        "2 right and 3 down",
+        "2 right and 3 up",
+        "3 right and 2 down"
+      ]
+    },
+    {
+      "subject": "Maths",
+      "id": "aqa-maths-more-semicircle-angle",
+      "stem": "What is the angle in a semicircle?",
+      "before": [
+        "90°",
+        "45°",
+        "180°",
+        "60°"
+      ],
+      "after": [
+        "45°",
+        "90°",
+        "180°",
+        "60°"
+      ]
+    },
+    {
+      "subject": "Maths",
+      "id": "aqa-maths-more-midpoint2",
+      "stem": "OA = a and OB = b. M is the midpoint of AB. Which is OM?",
+      "before": [
+        "(a+b)/2",
+        "a+b",
+        "(a-b)/2",
+        "2a+b"
+      ],
+      "after": [
+        "a+b",
+        "(a-b)/2",
+        "2a+b",
+        "(a+b)/2"
+      ]
+    }
+  ]
+}

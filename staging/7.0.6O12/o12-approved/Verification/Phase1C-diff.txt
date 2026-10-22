@@ -1,0 +1,152 @@
+--- Phase1B/Higher-A-Questions.md
++++ Phase1C/Higher-A-Questions.md
+@@ -146,7 +146,7 @@
+ 
+ ## 5b · 2 marks
+ 
+-Model cell P is a cube with side length 0.5 mm. Model cell Q has surface-area-to-volume ratio 3:1, measured using mm. Calculate P’s ratio and state how many times greater it is than Q’s.
++Model cell P is a cube with side length 0.5 mm. Model cell Q has surface-area-to-volume ratio 3:1, measured using mm. Calculate P’s ratio and state how many times as large as Q’s it is.
+ 
+ ### H-CUBE
+ 
+--- Phase1B/Foundation-A-Marking-Guide.md
++++ Phase1C/Foundation-A-Marking-Guide.md
+@@ -164,7 +164,7 @@
+ 
+ ## 7b · 6 marks · Human/self-review
+ 
+-Use the original level-of-response rubric in the blueprint: 0–6, human review. Indicative content: zero net mass change at about 0.40 for this tissue/conditions; positive/negative mass changes from net water movement across partially permeable membranes; single cylinders, surface liquid, different durations undermine comparison; equal dimensions/same tissue, equal time/temperature/solution volume, consistent gentle blotting, replicates and means, more concentrations near zero; do not generalise to all plant tissue or claim water stops moving.
++Use the original level-of-response rubric in the blueprint: 0–6, human review. Indicative content: zero net mass change at about 0.40 for this tissue/conditions; positive/negative mass changes from net water movement across partially permeable membranes; single cylinders, surface liquid, different durations undermine comparison; equal dimensions/same tissue, equal time/temperature/solution volume, consistent gentle blotting, replicates and means, more concentrations near zero; do not generalise to all plant tissue or claim water stops moving. Explicitly credit comparing several plant tissue types across the concentration range under matched conditions (dimensions, time, temperature, solution volume and blotting), with repeats within each type and comparison of their estimated zero-change concentrations. Repeats of one tissue assess reliability but cannot establish the same zero-change concentration for every plant tissue; even agreement among several types cannot prove a universal claim.
+ 
+ Specification: 4.1.3.2 RP02; WS 2/3; MS 4a/4d · Revision: O9/O10
+ 
+@@ -173,12 +173,12 @@
+ - **0 marks:** No relevant creditworthy content.
+ - **1–2 marks:** A few relevant observations or improvements with little explanation; the judgement is weakly supported.
+ - **3–4 marks:** Some linked use of the graph/osmosis and useful improvements, but the interpretation, justification or evaluation is incomplete.
+-- **5–6 marks:** A coherent, evidence-based judgement links the zero-change estimate and net water movement to dataset limitations and a workable, controlled, repeated investigation. Improvements are justified; universal/exact claims are avoided.
++- **5–6 marks:** A coherent, evidence-based judgement links the zero-change estimate and net water movement to dataset limitations and a workable, controlled, repeated investigation that compares several tissue types under matched conditions and compares their zero-change estimates. Improvements are justified, and the limits of generalising to every plant tissue are explained.
+ 
+-Judge the whole response, select the best-fit level, then choose the lower/upper mark according to completeness and coherence. Do not count six keywords or require every possible control. For 5–6, both the scientific interpretation and justified methodological evaluation need to be developed. A strong answer can use other valid controls. Merely saying “repeat for accuracy” is less developed than explaining that repeats expose variation and support a mean.
++Judge the whole response, select the best-fit level, then choose the lower/upper mark according to completeness and coherence. Do not count six keywords or require every possible control. For 5–6, both the scientific interpretation and justified methodological evaluation need to be developed. A strong answer can use other valid controls. For the top level, the response must develop how tissue-type comparisons under matched conditions address the universal claim; repeats of one tissue alone do not do so. Accept equivalent scientifically valid approaches and wording, including a justified counterexample design using another tissue type. Do not require a set phrase, named tissues, every listed control, or a checklist of points; apply the levels holistically. Merely saying “repeat for accuracy” is less developed than explaining that repeats expose variation and support a mean.
+ 
+ ### Illustrative model response
+ 
+-For this celeriac tissue under these conditions, the graph suggests no net mass change at about 0.40 mol/dm³. Below this concentration the tissue gains mass as water enters overall by osmosis through partially permeable cell membranes; above it the tissue loses water overall. This does not establish the same value for every plant tissue. Surface liquid would affect the measured mass, and different soaking times make comparisons unfair. I would use equal-sized cylinders from comparable tissue, equal solution volumes, time and temperature, and consistent gentle blotting before weighing. Repeats and means would improve the evidence, with extra concentrations near 0.40 to refine the estimate. No net change does not mean water molecules stop moving.
++For this celeriac tissue under these conditions, the graph suggests no net mass change at about 0.40 mol/dm³. Below this concentration the tissue gains mass as water enters overall by osmosis through partially permeable cell membranes; above it the tissue loses water overall. This does not establish the same value for every plant tissue. Surface liquid would affect the measured mass, and different soaking times make comparisons unfair. I would use equal-sized cylinders from comparable tissue, equal solution volumes, time and temperature, and consistent gentle blotting before weighing. Repeats and means would improve the evidence, with extra concentrations near 0.40 to refine the estimate. I would also test several different plant tissue types using the same concentration range and matched conditions, repeating each type and comparing their estimated zero-change concentrations. Different estimates would refute the claim; similar estimates for the tested types would still not prove it for every plant tissue. No net change does not mean water molecules stop moving.
+ 
+ Foundation graph estimate: approximately 0.40 mol/dm³. Higher: approximately 0.32 mol/dm³; allow a justified graphical estimate from 0.31 to 0.33 on the supplied graph. These are estimates, not required spurious exactness. Percent changes in 7a are from separate pilot batches and are not answered by the 7b graph.
+--- Phase1B/START-HERE.md
++++ Phase1C/START-HERE.md
+@@ -1,57 +1,3 @@
+-# O12 Phase 1B - Owner approval review
++# O12 Phase 1C approval materials
+ 
+-18 October 2026
+-
+-**Verdict: Ready for owner approval of the examination materials.** This approves neither an examination interface nor publication. Phase 2 remains unauthorised.
+-
+-## What changed
+-
+-All 48 tier-specific parts were reviewed. **12 question/option sets were revised; 36 retained.** Further marking-only clarifications do not count as changed questions.
+-
+-- **F6b:** now tests the complete osmosis definition. Plausible alternatives distinguish water from solute and the correct direction from its reverse.
+-- **F7a/H7a:** separate pilot batches remove an answer leak: the requested percentage change previously appeared in the later graph/table.
+-- **F1d/F2d/F3d:** remove the root-cell giveaway, require students to notice missing calibration, and apply mitochondria knowledge to an unfamiliar cell with beating projections.
+-- **H3b/F4c/H4c/H6a/H7b:** fairer marking scope, reasoned stem-cell judgements, inference of the respiration-energy link, and a defensible osmosis conclusion. H6b options were improved alongside F6b.
+-- **Marking:** explicit methods, unit conversions, acceptable alternatives and partial credit. F5b accepts equivalent ratios such as 24:8 because simplest form is not required; arithmetic errors do not earn full credit. Six-mark responses use whole-response best-fit levels, with illustrative models rather than keyword counting.
+-
+-## Confirmed structure and marking
+-
+-| Per paper | Result |
+-|---|---|
+-| Marks / groups / parts | 40 / 7 / 24 |
+-| AO1 / AO2 / AO3 | 16 / 16 / 8 |
+-| Selected-response marks suitable for automatic checking | 11 |
+-| Written answers and calculation working requiring human/self-review | 29 |
+-| RP01 microscopy context / RP02 investigation | 6 / 8 marks |
+-
+-Self-assessed and teacher-reviewed results must remain labelled separately from automatically checked marks. No official grade or whole-topic Secure judgement follows from this paper alone.
+-
+-## Visuals and access
+-
+-**22 original diagrams, tables and graphs** are included beside their questions, with individual SVG and PNG files. Labels, data points, axes, units, scales and question dependencies passed checks. All 22 were inspected at 320-pixel phone width; PDFs were rendered and inspected. Markdown question companions provide full text alternatives and semantic tables without naming the assessed structure or supplying derived answers. PDF/UA certification and physical iPhone testing are not claimed.
+-
+-## Specification and remaining concerns
+-
+-The current official [AQA Cell Biology specification](https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/biology-subject-content) and [assessment scheme](https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/scheme-of-assessment) were checked, reusing the Phase 1 official source research. Cell Biology has no Higher-only subsections; tier differentiation comes from demand, context, scaffolding and calculations. No separate-Biology-only requirement was introduced.
+-
+-All eleven numbered Cell Biology subsections are represented, but a 40-mark paper samples rather than exhausts the specification. Microscope slide preparation and drawing construction, some named cell adaptations, and graph plotting remain under-sampled. RP01 and RP02 questions assess knowledge and reasoning; they do not certify practical competence. Timing and tier difficulty need a learner pilot. These papers have not been validated as equivalent to official AQA examinations.
+-
+-## Preservation and checks
+-
+-- Structure, keys, calculations, partial-credit rules and visual dependencies passed the focused material checks. Verification files contain the evidence.
+-- **588 approved O11 packaged files remain byte-identical**, preserving the cumulative O1-O11 application. Original O12 Phase 1 files also remain unchanged.
+-- Existing **1154/1154 application regression evidence was reused**; no application suite was rerun because no application code changed. Material checks are not claimed as new application tests.
+-- No interface work, deployment, publication, GitHub commit/push or paid dependency.
+-
+-Allowance snapshot near delivery: **77% five-hour remaining; 96% weekly remaining**, subject to change. The earlier snapshot printed in any superseded working renders is not current.
+-
+-## Review files
+-
+-- [Owner report with visual preview](Owner-Review.pdf)
+-- [Foundation questions](Foundation-A-Questions.pdf) / [marking guide](Foundation-A-Marking-Guide.pdf)
+-- [Higher questions](Higher-A-Questions.pdf) / [marking guide](Higher-A-Marking-Guide.pdf)
+-- [Foundation text version](Foundation-A-Questions.md) / [Higher text version](Higher-A-Questions.md)
+-- [Part-by-part review register](Verification/Part-review-register.md)
+-- [Scope and source notes](Verification/Scope-and-sources.md)
+-
+-![A sample of the original review visuals](Visual-preview.png)
++Read Change-Report.md or Owner-Review.pdf, then the two marking guides. Higher 5b wording is updated. Phase 2 remains on hold pending explicit owner approval. Verification/Phase1B-Evidence contains historical Phase 1B evidence only.
+--- Phase1B/Higher-A-Marking-Guide.md
++++ Phase1C/Higher-A-Marking-Guide.md
+@@ -164,7 +164,7 @@
+ 
+ ## 7b · 6 marks · Human/self-review
+ 
+-Human best-fit level marking, 0–6: estimate the zero near 0.32 mol/dm³ for this tissue/conditions; explain net water movement through partially permeable membranes; use the lack of replicates, unremoved surface liquid and varied time to question the universal/exact claim; propose justified controlled repeats, means and additional concentrations near zero. Do not demand knowledge of water-potential equations or an exact intracellular solute concentration.
++Human best-fit level marking, 0–6: estimate the zero near 0.32 mol/dm³ for this tissue/conditions; explain net water movement through partially permeable membranes; use the lack of replicates, unremoved surface liquid and varied time to question the universal/exact claim; propose justified controlled repeats, means and additional concentrations near zero. Do not demand knowledge of water-potential equations or an exact intracellular solute concentration. Explicitly credit comparing several plant tissue types across the concentration range under matched conditions (dimensions, time, temperature, solution volume and blotting), with repeats within each type and comparison of their estimated zero-change concentrations. Repeats of one tissue assess reliability but cannot establish the same zero-change concentration for every plant tissue; even agreement among several types cannot prove a universal claim.
+ 
+ Specification: 4.1.3.2 RP02; WS 2/3; MS 4a/4d · Revision: O9/O10
+ 
+@@ -173,9 +173,9 @@
+ - **0 marks:** No relevant creditworthy content.
+ - **1–2 marks:** A few relevant observations or improvements with little explanation; the judgement is weakly supported.
+ - **3–4 marks:** Some linked use of the graph/osmosis and useful improvements, but the interpretation, justification or evaluation is incomplete.
+-- **5–6 marks:** A coherent, evidence-based judgement links the zero-change estimate and net water movement to dataset limitations and a workable, controlled, repeated investigation. Improvements are justified; universal/exact claims are avoided.
++- **5–6 marks:** A coherent, evidence-based judgement links the zero-change estimate and net water movement to dataset limitations and a workable, controlled, repeated investigation that compares several tissue types under matched conditions and compares their zero-change estimates. Improvements are justified, and the limits of generalising to every plant tissue are explained.
+ 
+-Judge the whole response, select the best-fit level, then choose the lower/upper mark according to completeness and coherence. Do not count six keywords or require every possible control. For 5–6, both the scientific interpretation and justified methodological evaluation need to be developed. A strong answer can use other valid controls. Merely saying “repeat for accuracy” is less developed than explaining that repeats expose variation and support a mean.
++Judge the whole response, select the best-fit level, then choose the lower/upper mark according to completeness and coherence. Do not count six keywords or require every possible control. For 5–6, both the scientific interpretation and justified methodological evaluation need to be developed. A strong answer can use other valid controls. For the top level, the response must develop how tissue-type comparisons under matched conditions address the universal claim; repeats of one tissue alone do not do so. Accept equivalent scientifically valid approaches and wording, including a justified counterexample design using another tissue type. Do not require a set phrase, named tissues, every listed control, or a checklist of points; apply the levels holistically. Merely saying “repeat for accuracy” is less developed than explaining that repeats expose variation and support a mean.
+ 
+ ### Illustrative model response
+ 
+--- Phase1B/question-design-catalogue.json
++++ Phase1C/question-design-catalogue.json
+@@ -1,5 +1,5 @@
+ {
+-  "status": "PHASE 1B OWNER REVIEW — STATIC MATERIALS ONLY",
++  "status": "PHASE 1C OWNER REVIEW — STATIC MATERIALS ONLY",
+   "papers": [
+     "Foundation A",
+     "Higher A"
+@@ -467,7 +467,7 @@
+       "lesson": "O8",
+       "visual": "F-CUBE / H-CUBE",
+       "Foundation": "A model cell is a cube with side length 2 mm. Calculate its surface-area-to-volume ratio. Use surface area = 6 × side² and volume = side³. Show working.",
+-      "Higher": "Model cell P is a cube with side length 0.5 mm. Model cell Q has surface-area-to-volume ratio 3:1, measured using mm. Calculate P’s ratio and state how many times greater it is than Q’s.",
++      "Higher": "Model cell P is a cube with side length 0.5 mm. Model cell Q has surface-area-to-volume ratio 3:1, measured using mm. Calculate P’s ratio and state how many times as large as Q’s it is.",
+       "markingFoundation": "Valid surface-area/volume method: 6×2² and 2³, yielding 24 mm² and 8 mm³ if arithmetic is correct (1); correct ratio 3:1 or an equivalent ratio such as 24:8 (1). The question does not require simplest form, so a correct equivalent final ratio can earn 2. If earlier arithmetic is wrong, award at most the method mark; do not award full marks merely for simplifying a wrong ratio consistently. Do not credit area/volume dimensional confusion.",
+       "markingHigher": "P has surface area 1.5 mm² and volume 0.125 mm³, giving SA:V = 12:1 or an equivalent ratio (1); 12 ÷ 3 = four times Q (1). If P is wrong through arithmetic but a consistent valid comparison P÷3 is shown, allow only the comparison mark by error carried forward, for a maximum of 1/2. Do not credit a reversed comparison or invalid dimensions.",
+       "optionsFoundation": null,
+@@ -672,8 +672,8 @@
+       "visual": "F-OSM-GRAPH + F-OSM-TABLE / H equivalents",
+       "Foundation": "The table and graph show celeriac tissue results. The investigator used one cylinder per concentration, did not blot before final weighing, and used different soaking times. They claim “every plant tissue has no net mass change at 0.40 mol/dm³”. Evaluate the claim. Use the graph and osmosis, then describe how you would improve the investigation to test the claim.",
+       "Higher": "Use H-OSM-TABLE and H-OSM-GRAPH. The investigator used one cylinder per concentration, did not blot before final weighing, and varied soaking time. They claim that every type of plant tissue has no net mass change at exactly the same sucrose concentration. Evaluate the claim. Use an estimate from the graph and osmosis, and propose an improved investigation.",
+-      "markingFoundation": "Use the original level-of-response rubric in the blueprint: 0–6, human review. Indicative content: zero net mass change at about 0.40 for this tissue/conditions; positive/negative mass changes from net water movement across partially permeable membranes; single cylinders, surface liquid, different durations undermine comparison; equal dimensions/same tissue, equal time/temperature/solution volume, consistent gentle blotting, replicates and means, more concentrations near zero; do not generalise to all plant tissue or claim water stops moving.",
+-      "markingHigher": "Human best-fit level marking, 0–6: estimate the zero near 0.32 mol/dm³ for this tissue/conditions; explain net water movement through partially permeable membranes; use the lack of replicates, unremoved surface liquid and varied time to question the universal/exact claim; propose justified controlled repeats, means and additional concentrations near zero. Do not demand knowledge of water-potential equations or an exact intracellular solute concentration.",
++      "markingFoundation": "Use the original level-of-response rubric in the blueprint: 0–6, human review. Indicative content: zero net mass change at about 0.40 for this tissue/conditions; positive/negative mass changes from net water movement across partially permeable membranes; single cylinders, surface liquid, different durations undermine comparison; equal dimensions/same tissue, equal time/temperature/solution volume, consistent gentle blotting, replicates and means, more concentrations near zero; do not generalise to all plant tissue or claim water stops moving. Explicitly credit comparing several plant tissue types across the concentration range under matched conditions (dimensions, time, temperature, solution volume and blotting), with repeats within each type and comparison of their estimated zero-change concentrations. Repeats of one tissue assess reliability but cannot establish the same zero-change concentration for every plant tissue; even agreement among several types cannot prove a universal claim.",
++      "markingHigher": "Human best-fit level marking, 0–6: estimate the zero near 0.32 mol/dm³ for this tissue/conditions; explain net water movement through partially permeable membranes; use the lack of replicates, unremoved surface liquid and varied time to question the universal/exact claim; propose justified controlled repeats, means and additional concentrations near zero. Do not demand knowledge of water-potential equations or an exact intracellular solute concentration. Explicitly credit comparing several plant tissue types across the concentration range under matched conditions (dimensions, time, temperature, solution volume and blotting), with repeats within each type and comparison of their estimated zero-change concentrations. Repeats of one tissue assess reliability but cannot establish the same zero-change concentration for every plant tissue; even agreement among several types cannot prove a universal claim.",
+       "optionsFoundation": null,
+       "optionsHigher": null,
+       "visualIdsFoundation": [

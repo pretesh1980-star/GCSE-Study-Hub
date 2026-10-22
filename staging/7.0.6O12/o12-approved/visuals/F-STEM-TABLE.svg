@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="480" height="246" preserveAspectRatio="xMinYMin meet" viewBox="0 0 480 246" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="F-STEM-TABLE-title F-STEM-TABLE-desc"><title id="F-STEM-TABLE-title">F-STEM-TABLE · Experimental treatment</title><desc id="F-STEM-TABLE-desc">Table. Feature; Information. Feature: Potential outcome; Information: Could replace damaged nerve cells. Feature: Safety observation; Information: A virus could be transferred. Feature: Cell source; Information: Embryos are used.</desc>
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="480" height="246"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-246)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="12" y="224" style="font-family: Arial; font-size: 19px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,448) scale(1,-1)">F-STEM-TABLE · Experimental treatment</text>
+			<rect x="0" y="158" width="170" height="48" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,93%,90%); fill-rule: evenodd;"/>
+			<text x="12" y="181" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,362) scale(1,-1)">Feature</text>
+			<rect x="170" y="158" width="310" height="48" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,93%,90%); fill-rule: evenodd;"/>
+			<text x="182" y="181" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,362) scale(1,-1)">Information</text>
+			<rect x="0" y="112" width="170" height="46" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="12" y="133" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,266) scale(1,-1)">Potential outcome</text>
+			<rect x="170" y="112" width="310" height="46" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="182" y="133" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,266) scale(1,-1)">Could replace damaged nerve cells</text>
+			<rect x="0" y="48" width="170" height="64" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="12" y="87" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,174) scale(1,-1)">Safety</text>
+			<text x="12" y="64" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,128) scale(1,-1)">observation</text>
+			<rect x="170" y="48" width="310" height="64" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="182" y="87" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,174) scale(1,-1)">A virus could be transferred</text>
+			<rect x="0" y="2" width="170" height="46" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="12" y="23" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,46) scale(1,-1)">Cell source</text>
+			<rect x="170" y="2" width="310" height="46" style="stroke: rgb(40%,46%,46%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="182" y="23" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,46) scale(1,-1)">Embryos are used</text>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,3 @@
+Start Preview.command: executable mode 0755; zsh syntax passed. Actual --check exits 0 and recognises the running refined candidate at port 8945.
+Preview identity: O11-consolidated-refinement-review-2026-10-15, served by the candidate’s own launcher helper.
+Package: complete ZIP CRC integrity, entry-point/addon inclusion and executable launcher flag verified after creation. Latest alias SHA256 matches versioned ZIP. Original O11 baseline checksum unchanged.

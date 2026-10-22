@@ -1,0 +1,33 @@
+{
+  "rows": [
+    {
+      "width": 390,
+      "student": "new",
+      "continueY": 2875.0625,
+      "viewportHeight": 844,
+      "blocked": true,
+      "notice": "Try your starting explanation before continuing."
+    },
+    {
+      "width": 390,
+      "student": "returning",
+      "blocked": true,
+      "notice": "Try your starting explanation before continuing."
+    },
+    {
+      "width": 1365,
+      "student": "new",
+      "continueY": 2778.171875,
+      "viewportHeight": 844,
+      "blocked": true,
+      "notice": "Try your starting explanation before continuing."
+    },
+    {
+      "width": 1365,
+      "student": "returning",
+      "blocked": true,
+      "notice": "Try your starting explanation before continuing."
+    }
+  ],
+  "errors": []
+}

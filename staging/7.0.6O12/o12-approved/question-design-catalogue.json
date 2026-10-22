@@ -1,0 +1,691 @@
+{
+  "status": "PHASE 1C OWNER REVIEW — STATIC MATERIALS ONLY",
+  "papers": [
+    "Foundation A",
+    "Higher A"
+  ],
+  "questions": [
+    {
+      "id": "1a",
+      "spec": "4.1.1.2",
+      "objective": "Recall cell structure/function",
+      "marks": 1,
+      "ao": [
+        1,
+        0,
+        0
+      ],
+      "mode": "auto",
+      "lesson": "O2",
+      "visual": "none",
+      "Foundation": "Which structure is normally present in plant, animal and bacterial cells? Choose one.",
+      "Higher": "Which structure–function pair is correct? Choose one.",
+      "markingFoundation": "Cytoplasm.",
+      "markingHigher": "Ribosomes – protein synthesis.",
+      "optionsFoundation": [
+        "Cytoplasm",
+        "Nucleus",
+        "Chloroplast"
+      ],
+      "optionsHigher": [
+        "Mitochondria – protein synthesis",
+        "Nucleus – aerobic respiration",
+        "Ribosomes – protein synthesis"
+      ],
+      "correctOptionFoundation": "Cytoplasm",
+      "correctOptionHigher": "Ribosomes – protein synthesis",
+      "visualIdsFoundation": [],
+      "visualIdsHigher": []
+    },
+    {
+      "id": "1b",
+      "spec": "4.1.1.2",
+      "objective": "Identify a structure and relate function",
+      "marks": 2,
+      "ao": [
+        2,
+        0,
+        0
+      ],
+      "mode": "review",
+      "lesson": "O2",
+      "visual": "F-CELL / H-CELL",
+      "Foundation": "Figure F-CELL shows an animal cell. Name structure A. State its function.",
+      "Higher": "Figure H-CELL shows a leaf cell. Name structure B. State its function.",
+      "markingFoundation": "Nucleus (1); controls cell activities / contains genetic material or DNA (1). Accept either clear function as the second mark, not simply “important”.",
+      "markingHigher": "Chloroplast (1); site of photosynthesis / absorbs light for photosynthesis via chlorophyll (1).",
+      "optionsFoundation": null,
+      "optionsHigher": null,
+      "visualIdsFoundation": [
+        "F-CELL"
+      ],
+      "visualIdsHigher": [
+        "H-CELL"
+      ]
+    },
+    {
+      "id": "1c",
+      "spec": "4.1.1.1–4.1.1.2",
+      "objective": "Recall prokaryotic genetic organisation",
+      "marks": 1,
+      "ao": [
+        1,
+        0,
+        0
+      ],
+      "mode": "auto",
+      "lesson": "O2",
+      "visual": "none",
+      "Foundation": "Which description fits a bacterial plasmid? Choose one.",
+      "Higher": "Which description fits the main genetic material of a typical bacterial cell? Choose one.",
+      "markingFoundation": "A small ring of DNA.",
+      "markingHigher": "A DNA loop not enclosed by a nucleus.",
+      "optionsFoundation": [
+        "A site of aerobic respiration",
+        "A small ring of DNA",
+        "A membrane-bound nucleus"
+      ],
+      "optionsHigher": [
+        "A DNA loop not enclosed by a nucleus",
+        "Chromosome pairs enclosed by a nucleus",
+        "DNA found only inside mitochondria"
+      ],
+      "correctOptionFoundation": "A small ring of DNA",
+      "correctOptionHigher": "A DNA loop not enclosed by a nucleus",
+      "visualIdsFoundation": [],
+      "visualIdsHigher": []
+    },
+    {
+      "id": "1d",
+      "spec": "4.1.1.1–4.1.1.2",
+      "objective": "Apply cell-type/scale knowledge",
+      "marks": 1,
+      "ao": [
+        0,
+        1,
+        0
+      ],
+      "mode": "auto",
+      "lesson": "O2",
+      "visual": "none",
+      "Foundation": "An unknown cell has a cellulose wall and a large permanent vacuole, but no chloroplasts. Which identification best fits? Choose one.",
+      "Higher": "A bacterial cell is 3 micrometres long and an animal cell is 30 micrometres long. How many orders of magnitude separate these lengths? Choose one.",
+      "markingFoundation": "A plant cell; not every plant cell contains chloroplasts.",
+      "markingHigher": "One order of magnitude (factor 10).",
+      "optionsFoundation": [
+        "Plant cell",
+        "Animal cell",
+        "Bacterial cell"
+      ],
+      "optionsHigher": [
+        "Two",
+        "Ten",
+        "One"
+      ],
+      "correctOptionFoundation": "Plant cell",
+      "correctOptionHigher": "One",
+      "visualIdsFoundation": [],
+      "visualIdsHigher": []
+    },
+    {
+      "id": "2a",
+      "spec": "4.1.1.2 RP01",
+      "objective": "Recall a safe microscope procedure",
+      "marks": 1,
+      "ao": [
+        1,
+        0,
+        0
+      ],
+      "mode": "auto",
+      "lesson": "O4/O5",
+      "visual": "none",
+      "Foundation": "A microscope has ×4, ×10 and ×40 objectives. Which should be used first to locate a specimen? Choose one.",
+      "Higher": "Which procedure is suitable when changing from low to high power after locating a specimen? Choose one.",
+      "markingFoundation": "Start with ×4, the lowest-power objective.",
+      "markingHigher": "Centre the specimen first, then use fine focus at high power.",
+      "optionsFoundation": [
+        "×10",
+        "×40",
+        "×4"
+      ],
+      "optionsHigher": [
+        "Use coarse focusing rather than fine focusing after changing to high power",
+        "Centre first, then use fine focus",
+        "Move the specimen out of view before changing power"
+      ],
+      "correctOptionFoundation": "×4",
+      "correctOptionHigher": "Centre first, then use fine focus",
+      "visualIdsFoundation": [],
+      "visualIdsHigher": []
+    },
+    {
+      "id": "2b",
+      "spec": "4.1.1.5",
+      "objective": "Distinguish resolution from magnification",
+      "marks": 1,
+      "ao": [
+        1,
+        0,
+        0
+      ],
+      "mode": "review",
+      "lesson": "O4",
+      "visual": "none",
+      "Foundation": "An electron microscope can show two very close structures separately. Name the property that makes this possible.",
+      "Higher": "Explain what higher resolving power allows a microscope to do.",
+      "markingFoundation": "Resolution / resolving power (1).",
+      "markingHigher": "Distinguish structures/points that are closer together (1); making an image larger alone is insufficient.",
+      "optionsFoundation": null,
+      "optionsHigher": null,
+      "visualIdsFoundation": [],
+      "visualIdsHigher": []
+    },
+    {
+      "id": "2c",
+      "spec": "4.1.1.5; MS 1b/3b",
+      "objective": "Calculate real size and convert units",
+      "marks": 3,
+      "ao": [
+        0,
+        3,
+        0
+      ],
+      "mode": "review",
+      "lesson": "O4/O5",
+      "visual": "none",
+      "Foundation": "The recorded image length is 24 mm and the magnification is ×600. Calculate the real cell length in micrometres. Use real length = image length ÷ magnification, and 1 mm = 1000 micrometres. Show working.",
+      "Higher": "The recorded image length is 72 mm and the magnification is ×24 000. Calculate the real cell length in metres. Give the answer in standard form and show working.",
+      "markingFoundation": "24 ÷ 600 = 0.04 mm, or a correct equivalent rearrangement (1); valid mm-to-micrometre conversion, ×1000 (1); 40 µm (1). Fully correct answer with unit can earn 3. A correct calculation method with arithmetic error can retain method/conversion credit; do not give an answer mark for dimensional confusion.",
+      "markingHigher": "72 ÷ 24000 = 0.003 mm, or equivalent valid method (1); valid conversion from mm to m, ÷1000 (1); 3 × 10⁻⁶ m in standard form (1). Accept 3.0 × 10⁻⁶ m. Fully correct answer/unit can earn 3. A correct method/conversion can retain those marks despite arithmetic error. A correct non-standard-form decimal earns up to 2/3, because standard form is requested.",
+      "optionsFoundation": null,
+      "optionsHigher": null,
+      "visualIdsFoundation": [],
+      "visualIdsHigher": []
+    },
+    {
+      "id": "2d",
+      "spec": "4.1.1.2 RP01; WS 3.7",
+      "objective": "Evaluate a scientific observation record",
+      "marks": 1,
+      "ao": [
+        0,
+        0,
+        1
+      ],
+      "mode": "review",
+      "lesson": "O5",
+      "visual": "F-DRAWING / H-DRAWING",
+      "Foundation": "The two observation drawings in F-DRAWING are from different specimens. Explain why their displayed lengths cannot be used to decide which cell was really larger.",
+      "Higher": "A student writes “actual cell length = 4 cm” by measuring a magnified drawing on a screen. Explain one change needed for a valid size record.",
+      "markingFoundation": "The drawings have no calibrated scale/magnification, so displayed lengths cannot establish real lengths (1). Accept that the drawings may have different unknown magnifications. Do not credit simply saying that they look different.",
+      "markingHigher": "Use the known magnification/calibrated scale to calculate actual size, or include a correctly calibrated scale bar rather than treating displayed size as real size (1).",
+      "optionsFoundation": null,
+      "optionsHigher": null,
+      "visualIdsFoundation": [
+        "F-DRAWING"
+      ],
+      "visualIdsHigher": [
+        "H-DRAWING"
+      ]
+    },
+    {
+      "id": "3a",
+      "spec": "4.1.2.1",
+      "objective": "Recall the relationship between DNA, genes and chromosomes",
+      "marks": 1,
+      "ao": [
+        1,
+        0,
+        0
+      ],
+      "mode": "auto",
+      "lesson": "O6",
+      "visual": "none",
+      "Foundation": "Which statement about a chromosome is correct? Choose one.",
+      "Higher": "Which statement about body-cell genetic material is correct? Choose one.",
+      "markingFoundation": "A chromosome is made of DNA and carries many genes.",
+      "markingHigher": "Chromosomes normally occur in pairs and each carries many genes.",
+      "optionsFoundation": [
+        "Each chromosome carries exactly one gene",
+        "A chromosome is made of DNA and carries many genes",
+        "A chromosome is made of genes but contains no DNA"
+      ],
+      "optionsHigher": [
+        "Chromosomes normally occur in pairs and each carries many genes",
+        "All genes occur on a single chromosome in every body cell",
+        "Chromosomes are produced only after the cytoplasm divides"
+      ],
+      "correctOptionFoundation": "A chromosome is made of DNA and carries many genes",
+      "correctOptionHigher": "Chromosomes normally occur in pairs and each carries many genes",
+      "visualIdsFoundation": [],
+      "visualIdsHigher": []
+    },
+    {
+      "id": "3b",
+      "spec": "4.1.2.2",
+      "objective": "Describe the overall cell cycle",
+      "marks": 2,
+      "ao": [
+        2,
+        0,
+        0
+      ],
+      "mode": "review",
+      "lesson": "O6",
+      "visual": "none",
+      "Foundation": "Before mitosis, a cell grows and increases its sub-cellular structures. Describe what happens to its DNA before mitosis and what happens to chromosomes/nuclei during mitosis.",
+      "Higher": "Explain why the two new nuclei formed by mitosis normally contain the same genes as the original nucleus.",
+      "markingFoundation": "DNA replicates to make two copies of each chromosome (1); sets of chromosomes separate to opposite ends and nuclei divide (1). No named mitotic phases required.",
+      "markingHigher": "DNA is replicated beforehand, producing copies of each chromosome (1); each new nucleus receives one copy of each chromosome / an identical complete chromosome set (1). Do not require cytoplasm division for this question about nuclei. Do not credit a claim that DNA merely grows bigger or that each new nucleus receives only half the original types of gene.",
+      "optionsFoundation": null,
+      "optionsHigher": null,
+      "visualIdsFoundation": [],
+      "visualIdsHigher": []
+    },
+    {
+      "id": "3c",
+      "spec": "4.1.1.4",
+      "objective": "Recall differentiation in animals and plants",
+      "marks": 1,
+      "ao": [
+        1,
+        0,
+        0
+      ],
+      "mode": "auto",
+      "lesson": "O3/O6",
+      "visual": "none",
+      "Foundation": "Which statement about differentiation is correct? Choose one.",
+      "Higher": "Which comparison of plant and animal differentiation is correct? Choose one.",
+      "markingFoundation": "Many plant cells can differentiate throughout life.",
+      "markingHigher": "Many plant cells retain differentiation capacity throughout life; most animal types differentiate early.",
+      "optionsFoundation": [
+        "All mature animal cells can become any cell type",
+        "Differentiation means a cell divides into two identical cells",
+        "Many plant cells can differentiate throughout life"
+      ],
+      "optionsHigher": [
+        "Differentiation and mitosis always mean the same process",
+        "Many plant cells retain differentiation capacity throughout life; most animal types differentiate early",
+        "Most animal cells retain unlimited differentiation capacity, but plant cells never differentiate"
+      ],
+      "correctOptionFoundation": "Many plant cells can differentiate throughout life",
+      "correctOptionHigher": "Many plant cells retain differentiation capacity throughout life; most animal types differentiate early",
+      "visualIdsFoundation": [],
+      "visualIdsHigher": []
+    },
+    {
+      "id": "3d",
+      "spec": "4.1.1.3–4.1.1.4",
+      "objective": "Explain specialised structure in context",
+      "marks": 2,
+      "ao": [
+        0,
+        2,
+        0
+      ],
+      "mode": "review",
+      "lesson": "O3",
+      "visual": "F-CILIATED / H-NERVE",
+      "Foundation": "F-CILIATED shows a cell from an unfamiliar water animal. Its hair-like projections beat to move liquid, and it contains many mitochondria. Explain how the mitochondria help it do this.",
+      "Higher": "Figure H-NERVE shows a cell transmitting signals from the spinal cord to a foot. It has a long extension and branched ends. Explain how both features help its function.",
+      "markingFoundation": "Mitochondria carry out aerobic respiration (1); this releases energy needed for the beating/movement of the projections (1). Accept respiration releases the energy for movement without the word aerobic. Do not award a mark just for repeating that there are many mitochondria. Energy is released, not created.",
+      "markingHigher": "Long extension carries signals over a long distance (1); branches connect with other cells/allow communication to several cells (1). Information about signal transmission is provided; do not require untaught synapse chemistry.",
+      "optionsFoundation": null,
+      "optionsHigher": null,
+      "visualIdsFoundation": [
+        "F-CILIATED"
+      ],
+      "visualIdsHigher": [
+        "H-NERVE"
+      ]
+    },
+    {
+      "id": "4a",
+      "spec": "4.1.2.3",
+      "objective": "Compare stem-cell differentiation capacities",
+      "marks": 2,
+      "ao": [
+        2,
+        0,
+        0
+      ],
+      "mode": "review",
+      "lesson": "O6",
+      "visual": "none",
+      "Foundation": "State one cell type adult bone-marrow stem cells can form. State how embryonic stem cells differ in the range of cells they can form.",
+      "Higher": "Compare the range of cells that embryonic stem cells and plant meristem cells can produce.",
+      "markingFoundation": "A blood-cell type / blood cells (1); embryonic stem cells can form most types of human cell / a wider range than adult marrow (1).",
+      "markingHigher": "Embryonic stem cells can form most human cell types (1); meristem stem cells can form any type of plant cell throughout plant life (1). Do not infer human–plant interchangeability.",
+      "optionsFoundation": null,
+      "optionsHigher": null,
+      "visualIdsFoundation": [],
+      "visualIdsHigher": []
+    },
+    {
+      "id": "4b",
+      "spec": "4.1.2.3",
+      "objective": "Recall therapeutic cloning",
+      "marks": 1,
+      "ao": [
+        1,
+        0,
+        0
+      ],
+      "mode": "auto",
+      "lesson": "O6",
+      "visual": "none",
+      "Foundation": "Which description is therapeutic cloning? Choose one.",
+      "Higher": "Why are stem cells from an embryo produced by therapeutic cloning less likely to be rejected by the patient? Choose one.",
+      "markingFoundation": "An embryo with the same genes as the patient is produced.",
+      "markingHigher": "The embryo has the same genes as the patient.",
+      "optionsFoundation": [
+        "Mature blood cells are collected directly for transfusion",
+        "Adult bone-marrow cells are removed and transplanted without making an embryo",
+        "An embryo with the same genes as the patient is produced"
+      ],
+      "optionsHigher": [
+        "Differentiation removes all genetic differences between donors",
+        "The embryo has the same genes as the patient",
+        "All stem cells from every donor already have identical genes"
+      ],
+      "correctOptionFoundation": "An embryo with the same genes as the patient is produced",
+      "correctOptionHigher": "The embryo has the same genes as the patient",
+      "visualIdsFoundation": [],
+      "visualIdsHigher": []
+    },
+    {
+      "id": "4c",
+      "spec": "4.1.2.3; WS 1.3",
+      "objective": "Evaluate a stem-cell proposal using supplied evidence",
+      "marks": 2,
+      "ao": [
+        0,
+        0,
+        2
+      ],
+      "mode": "review",
+      "lesson": "O6",
+      "visual": "F-STEM-TABLE / H-STEM-TABLE",
+      "Foundation": "A research team proposes further work on the treatment in F-STEM-TABLE. Explain one reason to continue the research and one reason it may not be suitable for every patient.",
+      "Higher": "Use H-STEM-TABLE. A nursery claims that meristem cloning guarantees the long-term survival of this rare plant. Evaluate the claim using one evidence-based benefit and one limitation.",
+      "markingFoundation": "Replacing damaged nerve cells could help restore lost function, supporting further research (1); viral transfer could harm a patient, or embryo use could make treatment unacceptable to a patient with a justified ethical/religious objection (1). Link the table evidence to a consequence or suitability judgement; simply copying two entries without a reason is insufficient. Do not require proof of effectiveness or imply a guaranteed cure.",
+      "markingHigher": "Rapid production of many plants can increase numbers/preserve the existing useful resistance, supporting conservation in the short term (1); genetic uniformity can leave the clones susceptible to a different/new disease, so long-term survival is not guaranteed (1). Accept another defensible limitation based on the supplied evidence. A bare yes/no judgement earns no separate mark.",
+      "optionsFoundation": null,
+      "optionsHigher": null,
+      "visualIdsFoundation": [
+        "F-STEM-TABLE"
+      ],
+      "visualIdsHigher": [
+        "H-STEM-TABLE"
+      ]
+    },
+    {
+      "id": "5a",
+      "spec": "4.1.3.1",
+      "objective": "Recall net diffusion",
+      "marks": 1,
+      "ao": [
+        1,
+        0,
+        0
+      ],
+      "mode": "auto",
+      "lesson": "O7",
+      "visual": "none",
+      "Foundation": "Which statement defines diffusion? Choose one.",
+      "Higher": "Which statement describes net diffusion at a concentration gradient? Choose one.",
+      "markingFoundation": "Net particle movement from higher to lower concentration.",
+      "markingHigher": "More particles move down the gradient than up it overall.",
+      "optionsFoundation": [
+        "Net particle movement from higher to lower concentration",
+        "Net particle movement from lower to higher concentration using respiration energy",
+        "Only water moves through a partially permeable membrane"
+      ],
+      "optionsHigher": [
+        "No particles can move against the gradient individually",
+        "Respiration drives every particle crossing a cell membrane",
+        "More particles move down the gradient than up it overall"
+      ],
+      "correctOptionFoundation": "Net particle movement from higher to lower concentration",
+      "correctOptionHigher": "More particles move down the gradient than up it overall",
+      "visualIdsFoundation": [],
+      "visualIdsHigher": []
+    },
+    {
+      "id": "5b",
+      "spec": "4.1.3.1; MS 1c/5c",
+      "objective": "Calculate and compare surface-area-to-volume ratios",
+      "marks": 2,
+      "ao": [
+        0,
+        2,
+        0
+      ],
+      "mode": "review",
+      "lesson": "O8",
+      "visual": "F-CUBE / H-CUBE",
+      "Foundation": "A model cell is a cube with side length 2 mm. Calculate its surface-area-to-volume ratio. Use surface area = 6 × side² and volume = side³. Show working.",
+      "Higher": "Model cell P is a cube with side length 0.5 mm. Model cell Q has surface-area-to-volume ratio 3:1, measured using mm. Calculate P’s ratio and state how many times as large as Q’s it is.",
+      "markingFoundation": "Valid surface-area/volume method: 6×2² and 2³, yielding 24 mm² and 8 mm³ if arithmetic is correct (1); correct ratio 3:1 or an equivalent ratio such as 24:8 (1). The question does not require simplest form, so a correct equivalent final ratio can earn 2. If earlier arithmetic is wrong, award at most the method mark; do not award full marks merely for simplifying a wrong ratio consistently. Do not credit area/volume dimensional confusion.",
+      "markingHigher": "P has surface area 1.5 mm² and volume 0.125 mm³, giving SA:V = 12:1 or an equivalent ratio (1); 12 ÷ 3 = four times Q (1). If P is wrong through arithmetic but a consistent valid comparison P÷3 is shown, allow only the comparison mark by error carried forward, for a maximum of 1/2. Do not credit a reversed comparison or invalid dimensions.",
+      "optionsFoundation": null,
+      "optionsHigher": null,
+      "visualIdsFoundation": [
+        "F-CUBE"
+      ],
+      "visualIdsHigher": [
+        "H-CUBE"
+      ]
+    },
+    {
+      "id": "5c",
+      "spec": "4.1.3.1",
+      "objective": "Explain adaptations of an exchange surface",
+      "marks": 2,
+      "ao": [
+        0,
+        2,
+        0
+      ],
+      "mode": "review",
+      "lesson": "O8",
+      "visual": "F-GILL / H-LEAF",
+      "Foundation": "Figure F-GILL shows many thin folds with a good blood supply. Explain how two of these features increase gas exchange.",
+      "Higher": "Figure H-LEAF shows a thin leaf with many air spaces and stomata. Explain how two features make diffusion of carbon dioxide to photosynthesising cells effective.",
+      "markingFoundation": "Any two distinct feature–effect links (1 each): folds increase area; thin surface shortens diffusion distance; blood flow maintains concentration gradient. Simply naming features gets no explanation marks.",
+      "markingHigher": "Any two distinct links (1 each): thin leaf short diffusion path; air spaces create large internal area/short paths; stomata allow gas exchange with surrounding air. Do not require guard-cell regulation or later plant physiology.",
+      "optionsFoundation": null,
+      "optionsHigher": null,
+      "visualIdsFoundation": [
+        "F-GILL"
+      ],
+      "visualIdsHigher": [
+        "H-LEAF"
+      ]
+    },
+    {
+      "id": "5d",
+      "spec": "4.1.3.1; WS 3.5",
+      "objective": "Choose a justified conclusion from diffusion data",
+      "marks": 1,
+      "ao": [
+        0,
+        0,
+        1
+      ],
+      "mode": "auto",
+      "lesson": "O7",
+      "visual": "F-DIFF-TABLE / H-DIFF-TABLE",
+      "Foundation": "The table gives mean diffusion rates of 0.30 units/min at 10 °C and 0.60 units/min at 20 °C, with all other conditions controlled. Which conclusion is supported? Choose one.",
+      "Higher": "The table gives diffusion rates at 15 °C: 0.24, 0.26, 0.25 units/min; at 25 °C: 0.44, 0.46, 0.45 units/min, with other conditions controlled. Which conclusion is supported? Choose one.",
+      "markingFoundation": "Diffusion was faster at 20 °C under these conditions.",
+      "markingHigher": "The higher-temperature measurements consistently show a faster rate under these conditions.",
+      "optionsFoundation": [
+        "Diffusion was faster at 20 °C under these conditions",
+        "Every 10 °C rise must double diffusion at every temperature",
+        "Temperature supplied the respiration energy needed for diffusion"
+      ],
+      "optionsHigher": [
+        "The measurements prove the rate doubles for every future temperature rise",
+        "Diffusion stops at the lower temperature",
+        "The higher-temperature measurements consistently show a faster rate under these conditions"
+      ],
+      "correctOptionFoundation": "Diffusion was faster at 20 °C under these conditions",
+      "correctOptionHigher": "The higher-temperature measurements consistently show a faster rate under these conditions",
+      "visualIdsFoundation": [
+        "F-DIFF-TABLE"
+      ],
+      "visualIdsHigher": [
+        "H-DIFF-TABLE"
+      ]
+    },
+    {
+      "id": "6a",
+      "spec": "4.1.3.3",
+      "objective": "Explain against-gradient active uptake",
+      "marks": 2,
+      "ao": [
+        0,
+        2,
+        0
+      ],
+      "mode": "review",
+      "lesson": "O11",
+      "visual": "F-ION / H-GLUCOSE",
+      "Foundation": "Figure F-ION shows mineral-ion concentration 0.4 units outside a root hair and 2.0 units inside, with uptake into the cell. Explain how uptake can continue.",
+      "Higher": "H-GLUCOSE shows glucose uptake from the small intestine into blood. A treatment reduces respiration in the intestinal lining cells; the concentration difference initially stays unchanged. Predict the effect on continued uptake and explain why.",
+      "markingFoundation": "Active transport moves ions from lower to higher concentration / against their gradient (1); requires energy from respiration (1).",
+      "markingHigher": "Continued net uptake is against the glucose concentration gradient and requires active transport (1); reduced respiration makes less energy available, so this uptake is likely to slow (1). Accept equivalent conditional wording. Do not infer that all respiration or all passive transport stops. No advanced cotransport mechanism is required.",
+      "optionsFoundation": null,
+      "optionsHigher": null,
+      "visualIdsFoundation": [
+        "F-ION"
+      ],
+      "visualIdsHigher": [
+        "H-GLUCOSE"
+      ]
+    },
+    {
+      "id": "6b",
+      "spec": "4.1.3.2",
+      "objective": "Recall complete osmosis definition",
+      "marks": 1,
+      "ao": [
+        1,
+        0,
+        0
+      ],
+      "mode": "auto",
+      "lesson": "O9",
+      "visual": "none",
+      "Foundation": "Which description of osmosis is correct? Choose one.",
+      "Higher": "Which statement defines osmosis completely? Choose one.",
+      "markingFoundation": "Net movement of water from a dilute to a concentrated solution through a partially permeable membrane. Water, net direction and the partially permeable membrane are all part of the correct description.",
+      "markingHigher": "Net movement of water from a dilute to a concentrated solution through a partially permeable membrane. Do not confuse solvent movement with solute movement.",
+      "optionsFoundation": [
+        "Net movement of water from a dilute to a concentrated solution through a partially permeable membrane",
+        "Net movement of dissolved ions from a dilute to a concentrated solution through a partially permeable membrane",
+        "Net movement of water from a concentrated to a dilute solution through a partially permeable membrane"
+      ],
+      "optionsHigher": [
+        "Net movement of water from a concentrated to a dilute solution through a partially permeable membrane",
+        "Net movement of dissolved solute from a dilute to a concentrated solution through a partially permeable membrane",
+        "Net movement of water from a dilute to a concentrated solution through a partially permeable membrane"
+      ],
+      "correctOptionFoundation": "Net movement of water from a dilute to a concentrated solution through a partially permeable membrane",
+      "correctOptionHigher": "Net movement of water from a dilute to a concentrated solution through a partially permeable membrane",
+      "visualIdsFoundation": [],
+      "visualIdsHigher": []
+    },
+    {
+      "id": "6c",
+      "spec": "4.1.3.1",
+      "objective": "Recall factors affecting diffusion rate",
+      "marks": 1,
+      "ao": [
+        1,
+        0,
+        0
+      ],
+      "mode": "auto",
+      "lesson": "O7",
+      "visual": "none",
+      "Foundation": "With other conditions unchanged, which change increases diffusion rate? Choose one.",
+      "Higher": "Which combination of changes increases diffusion rate when other conditions remain unchanged? Choose one.",
+      "markingFoundation": "A larger concentration difference.",
+      "markingHigher": "Larger exchange area and steeper concentration gradient.",
+      "optionsFoundation": [
+        "A larger concentration difference",
+        "A smaller exchange area",
+        "A lower temperature"
+      ],
+      "optionsHigher": [
+        "Smaller exchange area and lower temperature",
+        "Shallower concentration gradient and lower temperature",
+        "Larger exchange area and steeper concentration gradient"
+      ],
+      "correctOptionFoundation": "A larger concentration difference",
+      "correctOptionHigher": "Larger exchange area and steeper concentration gradient",
+      "visualIdsFoundation": [],
+      "visualIdsHigher": []
+    },
+    {
+      "id": "7a",
+      "spec": "4.1.3.2 RP02; MS 1c",
+      "objective": "Calculate percentage change of plant-tissue mass",
+      "marks": 2,
+      "ao": [
+        0,
+        2,
+        0
+      ],
+      "mode": "review",
+      "lesson": "O9/O10",
+      "visual": "F-MASS-TABLE / H-MASS-TABLE",
+      "Foundation": "This is a separate pilot batch, not the tissue used for 7b. Use F-MASS-TABLE to calculate the percentage change in mass. Use (final mass − initial mass) ÷ initial mass × 100. Include the sign and show working.",
+      "Higher": "This is a separate pilot batch, not the tissue used for 7b. Use H-MASS-TABLE to calculate the percentage change in mass. Give your answer to one decimal place, including its sign, and show working.",
+      "markingFoundation": "(2.64 − 2.40) ÷ 2.40 × 100 (1); +10% (1). A fully correct signed final answer can earn 2 without written working. Award the method mark for a valid percentage-change method even if arithmetic goes wrong. A gain stated in words with 10% is acceptable; 0.24 g alone is not a percentage.",
+      "markingHigher": "(2.92 − 3.20) ÷ 3.20 × 100 = −8.75% (1 for valid method); −8.8% to one decimal place (1). A correct signed, rounded answer can earn 2. Accept 8.8% loss in words. −8.75% shows the correct method but misses the requested rounding, so 1/2. Do not double-penalise a sign error within the method.",
+      "optionsFoundation": null,
+      "optionsHigher": null,
+      "visualIdsFoundation": [
+        "F-MASS-TABLE"
+      ],
+      "visualIdsHigher": [
+        "H-MASS-TABLE"
+      ]
+    },
+    {
+      "id": "7b",
+      "spec": "4.1.3.2 RP02; WS 2/3; MS 4a/4d",
+      "objective": "Interpret osmosis evidence and improve an investigation",
+      "marks": 6,
+      "ao": [
+        0,
+        2,
+        4
+      ],
+      "mode": "review",
+      "lesson": "O9/O10",
+      "visual": "F-OSM-GRAPH + F-OSM-TABLE / H equivalents",
+      "Foundation": "The table and graph show celeriac tissue results. The investigator used one cylinder per concentration, did not blot before final weighing, and used different soaking times. They claim “every plant tissue has no net mass change at 0.40 mol/dm³”. Evaluate the claim. Use the graph and osmosis, then describe how you would improve the investigation to test the claim.",
+      "Higher": "Use H-OSM-TABLE and H-OSM-GRAPH. The investigator used one cylinder per concentration, did not blot before final weighing, and varied soaking time. They claim that every type of plant tissue has no net mass change at exactly the same sucrose concentration. Evaluate the claim. Use an estimate from the graph and osmosis, and propose an improved investigation.",
+      "markingFoundation": "Use the original level-of-response rubric in the blueprint: 0–6, human review. Indicative content: zero net mass change at about 0.40 for this tissue/conditions; positive/negative mass changes from net water movement across partially permeable membranes; single cylinders, surface liquid, different durations undermine comparison; equal dimensions/same tissue, equal time/temperature/solution volume, consistent gentle blotting, replicates and means, more concentrations near zero; do not generalise to all plant tissue or claim water stops moving. Explicitly credit comparing several plant tissue types across the concentration range under matched conditions (dimensions, time, temperature, solution volume and blotting), with repeats within each type and comparison of their estimated zero-change concentrations. Repeats of one tissue assess reliability but cannot establish the same zero-change concentration for every plant tissue; even agreement among several types cannot prove a universal claim.",
+      "markingHigher": "Human best-fit level marking, 0–6: estimate the zero near 0.32 mol/dm³ for this tissue/conditions; explain net water movement through partially permeable membranes; use the lack of replicates, unremoved surface liquid and varied time to question the universal/exact claim; propose justified controlled repeats, means and additional concentrations near zero. Do not demand knowledge of water-potential equations or an exact intracellular solute concentration. Explicitly credit comparing several plant tissue types across the concentration range under matched conditions (dimensions, time, temperature, solution volume and blotting), with repeats within each type and comparison of their estimated zero-change concentrations. Repeats of one tissue assess reliability but cannot establish the same zero-change concentration for every plant tissue; even agreement among several types cannot prove a universal claim.",
+      "optionsFoundation": null,
+      "optionsHigher": null,
+      "visualIdsFoundation": [
+        "F-OSM-TABLE",
+        "F-OSM-GRAPH"
+      ],
+      "visualIdsHigher": [
+        "H-OSM-TABLE",
+        "H-OSM-GRAPH"
+      ]
+    }
+  ],
+  "date": "2026-10-18",
+  "version": "O12-phase1b-review-1"
+}

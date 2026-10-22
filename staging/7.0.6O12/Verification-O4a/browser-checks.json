@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-11",
+  "browser": "Mac-hosted Codex in-app browser",
+  "physical_iPhone": false,
+  "microscope_card_entry": "passed",
+  "specimen_switch": "passed",
+  "objectives_and_field": "passed",
+  "keyboard_focus": "passed",
+  "button_focus": "passed",
+  "onion_discovery": "passed",
+  "cheek_discovery": "passed",
+  "reload_guided_choices": "passed",
+  "tier_separation": "passed",
+  "optional_original_resources": "passed",
+  "revision_refresh": "passed",
+  "native_back_forward": "passed",
+  "preserved_O1_O2_O3": "passed",
+  "osmosis_lab": "passed",
+  "console_errors_warnings": [],
+  "reduced_motion": "static policy and automated contract; no animated component",
+  "touch": "responsive layout and 44px controls checked; physical device pending"
+}

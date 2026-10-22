@@ -1,0 +1,9 @@
+O11 final package verification — 17 October 2026
+Focused 96/96; full regression 1154/1154; zero failed/skipped/cancelled.
+Launcher: zsh -n passes; actual Start Preview.command starts local server; --check validates files/identity and safely reuses matching server. Executable mode 0755.
+91 linked scripts/stylesheets return nonempty HTTP 200.
+Desktop 1280×900, mobile 390×844; no page horizontal overflow. Viewport reset.
+No GitHub commit/deployment; no O12.
+Baseline refined ZIP retained; approved O1–O10 educational source unchanged.
+ZIP testzip passes; all packaged files match delivered directory; launcher executable flag preserved.
+Root latest ZIP equals versioned ZIP SHA256; prior latest files moved intact to Previous-latest-O11-refined/.

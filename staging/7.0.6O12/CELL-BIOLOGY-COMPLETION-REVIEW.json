@@ -1,0 +1,1379 @@
+{
+  "build": "7.0.5Q",
+  "method": "Targeted manual adequacy review against the P manifest and existing cached AQA Trilogy specification, with current resolver/fingerprint checks. No whole-project discovery repeated. Presence of metadata alone was not used as a completion standard.",
+  "units": [
+    {
+      "specRef": "4.1.1.1",
+      "title": "Eukaryotes and prokaryotes",
+      "decision": "FULLY COVERED",
+      "teachingRevisionReview": "Eukaryotic nuclear genetic material versus bacterial DNA loop/plasmids, membrane/cytoplasm/wall and relative size are explicit; illustration and conversions are linked.",
+      "practiceReview": "Q01 assesses standard form/size ratio/order; Q02 and retained bio2-bacteria assess structure-function differences.",
+      "answersFeedbackReview": "Every newly mapped task has a full model answer and explicit feedback/marking points; writing tasks use the existing honest self-assessment flow. Numeric tasks use reviewed equivalents and reject incompatible units.",
+      "skillsAndPracticalReview": "MS1b/2a/2h and prefixes taught and applied; no Higher-only requirement added.",
+      "foundationHigherReview": "Effective Foundation, unconfirmed and Higher resolvers expose all relevant new shared items; tests confirm original Higher material and legacy tier separation preserved.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Cell Biology|Inside a cell",
+        "Biology|Cell Biology|Bacteria and specialised cells",
+        "Biology|Cell Biology|Microscopes and scale"
+      ],
+      "questionRefs": [
+        "aqa-cell-bacteria-dna",
+        "bio2-bacteria",
+        "aqa-cell-completion-q01",
+        "aqa-cell-completion-q02"
+      ],
+      "supportRefs": [
+        "Biology|support|diagram-bacterium",
+        "Biology|support|completion-animal",
+        "Biology|support|completion-bacterium"
+      ],
+      "evidence": {
+        "lessons": [
+          {
+            "id": "Biology|Cell Biology|Inside a cell",
+            "label": "Inside a cell",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q reviewed extension: shared AQA Trilogy cell-structure, microscopy, division and practical requirements; both tiers."
+          },
+          {
+            "id": "Biology|Cell Biology|Bacteria and specialised cells",
+            "label": "Bacteria and specialised cells",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q reviewed extension: shared AQA Trilogy cell-structure, microscopy, division and practical requirements; both tiers."
+          },
+          {
+            "id": "Biology|Cell Biology|Microscopes and scale",
+            "label": "Microscopes and scale",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q reviewed extension: shared AQA Trilogy cell-structure, microscopy, division and practical requirements; both tiers."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-cell-bacteria-dna",
+            "label": "Which statement about bacterial DNA is correct?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio2-bacteria",
+            "label": "Give two differences between a bacterial cell and a typical animal cell.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-cell-completion-q01",
+            "label": "A bacterium is 2 µm long and an animal cell is 20 µm long. Express both lengths in metres using standard form, calculate how many times longer the animal cell is, and state the order-of-magnitude difference.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          },
+          {
+            "id": "aqa-cell-completion-q02",
+            "label": "Use the three cell schematics. Identify A–H and state one function of each. Which kind of cell has its main DNA outside a nucleus? Do plant and algal walls have the same strengthening material?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          }
+        ],
+        "support": [
+          {
+            "id": "Biology|support|diagram-bacterium",
+            "label": "Existing revision diagram: bacterium",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "Biology|support|completion-animal",
+            "label": "Cell completion diagram: animal",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          },
+          {
+            "id": "Biology|support|completion-bacterium",
+            "label": "Cell completion diagram: bacterium",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          }
+        ]
+      }
+    },
+    {
+      "specRef": "4.1.1.2",
+      "title": "Animal and plant cells",
+      "decision": "FULLY COVERED",
+      "teachingRevisionReview": "All listed animal structures/functions and plant/algal wall, chloroplast and cell-sap vacuole requirements now have explanations plus full comparison schematics; visibility limits are explicit.",
+      "practiceReview": "Q02 assesses identification/function; Q03 estimates area and explains precision; Q18 interprets plant/animal observations and drawing limits.",
+      "answersFeedbackReview": "Every newly mapped task has a full model answer and explicit feedback/marking points; writing tasks use the existing honest self-assessment flow. Numeric tasks use reviewed equivalents and reject incompatible units.",
+      "skillsAndPracticalReview": "WS1.2 and size/area estimation addressed with an image/grid; linkage to RP01 is direct.",
+      "foundationHigherReview": "Effective Foundation, unconfirmed and Higher resolvers expose all relevant new shared items; tests confirm original Higher material and legacy tier separation preserved.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Cell Biology|Inside a cell",
+        "Biology|Cell Biology|Microscopes and scale"
+      ],
+      "questionRefs": [
+        "aqa-cell-nucleus-label",
+        "aqa-cell-protein-maker",
+        "build4-0",
+        "bio2-ribosome",
+        "aqa-cell-completion-q02",
+        "aqa-cell-completion-q03",
+        "aqa-cell-completion-q18"
+      ],
+      "supportRefs": [
+        "Biology|support|diagram-animal-cell",
+        "Biology|support|diagram-bacterium",
+        "Biology|support|completion-animal",
+        "Biology|support|completion-plant",
+        "Biology|support|completion-bacterium",
+        "Biology|support|completion-grid"
+      ],
+      "evidence": {
+        "lessons": [
+          {
+            "id": "Biology|Cell Biology|Inside a cell",
+            "label": "Inside a cell",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q reviewed extension: shared AQA Trilogy cell-structure, microscopy, division and practical requirements; both tiers."
+          },
+          {
+            "id": "Biology|Cell Biology|Microscopes and scale",
+            "label": "Microscopes and scale",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q reviewed extension: shared AQA Trilogy cell-structure, microscopy, division and practical requirements; both tiers."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-cell-nucleus-label",
+            "label": "On the cell diagram, what does A point to?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-cell-protein-maker",
+            "label": "Which part directly assembles proteins?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "build4-0",
+            "label": "Which structure controls the activities of an animal cell?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "bio2-ribosome",
+            "label": "Which cell structure makes proteins?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-cell-completion-q02",
+            "label": "Use the three cell schematics. Identify A–H and state one function of each. Which kind of cell has its main DNA outside a nucleus? Do plant and algal walls have the same strengthening material?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          },
+          {
+            "id": "aqa-cell-completion-q03",
+            "label": "The grid represents a cell occupying 10 × 8 squares. Estimate the percentage of its drawn area occupied by the green oval. Explain your method and why an estimate is appropriate.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          },
+          {
+            "id": "aqa-cell-completion-q18",
+            "label": "An onion drawing has thick shaded outlines, imagined chloroplasts and ribosomes, no labels and a 10 mm cell drawn from a supplied actual length of 20 µm. Improve the drawing, supply its magnification and scale, and predict one similarity and one difference from a stained animal-cell slide.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          }
+        ],
+        "support": [
+          {
+            "id": "Biology|support|diagram-animal-cell",
+            "label": "Existing revision diagram: animal-cell",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "Biology|support|diagram-bacterium",
+            "label": "Existing revision diagram: bacterium",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "Biology|support|completion-animal",
+            "label": "Cell completion diagram: animal",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          },
+          {
+            "id": "Biology|support|completion-plant",
+            "label": "Cell completion diagram: plant",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          },
+          {
+            "id": "Biology|support|completion-bacterium",
+            "label": "Cell completion diagram: bacterium",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          },
+          {
+            "id": "Biology|support|completion-grid",
+            "label": "Cell completion diagram: grid",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          }
+        ]
+      }
+    },
+    {
+      "specRef": "4.1.1.3",
+      "title": "Cell specialisation",
+      "decision": "FULLY COVERED",
+      "teachingRevisionReview": "Sperm/root-hair content retained, nerve/muscle/xylem/phloem adaptations added; existing transport functions reused rather than replaced.",
+      "practiceReview": "Q04/Q05 ask feature-function links with supplied and unfamiliar-cell information; Q06 links specialisation to differentiation.",
+      "answersFeedbackReview": "Every newly mapped task has a full model answer and explicit feedback/marking points; writing tasks use the existing honest self-assessment flow. Numeric tasks use reviewed equivalents and reject incompatible units.",
+      "skillsAndPracticalReview": "Required inference from supplied structural information is explicitly practised.",
+      "foundationHigherReview": "Effective Foundation, unconfirmed and Higher resolvers expose all relevant new shared items; tests confirm original Higher material and legacy tier separation preserved.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Cell Biology|Bacteria and specialised cells",
+        "Biology|Cell Biology|Active transport and exchange",
+        "Biology|Organisation|Transport in plants"
+      ],
+      "questionRefs": [
+        "aqa-cell-sperm-tail",
+        "bio2-active",
+        "bio2-plant-transport",
+        "aqa-cell-completion-q04",
+        "aqa-cell-completion-q05",
+        "aqa-cell-completion-q06"
+      ],
+      "supportRefs": [],
+      "evidence": {
+        "lessons": [
+          {
+            "id": "Biology|Cell Biology|Bacteria and specialised cells",
+            "label": "Bacteria and specialised cells",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q reviewed extension: shared AQA Trilogy cell-structure, microscopy, division and practical requirements; both tiers."
+          },
+          {
+            "id": "Biology|Cell Biology|Active transport and exchange",
+            "label": "Active transport and exchange",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "Biology|Organisation|Transport in plants",
+            "label": "Transport in plants",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-cell-sperm-tail",
+            "label": "A sperm cell has a long tail. What is the clearest link between feature and function?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio2-active",
+            "label": "Root cells absorb ions from very dilute soil water. Explain why energy may be needed.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "bio2-plant-transport",
+            "label": "Compare the substances transported in xylem and phloem.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-cell-completion-q04",
+            "label": "A nerve cell has a long fibre and branched ends; a muscle cell has contractile fibres and many mitochondria. Explain these adaptations. An unfamiliar exchange cell has folds and a thin surface: infer two benefits.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          },
+          {
+            "id": "aqa-cell-completion-q05",
+            "label": "Xylem consists of hollow, strengthened tubes with no living contents; phloem has perforated end walls and associated companion cells. Explain how these suit transport. Contrast one adaptation of a root-hair cell or sperm cell.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          },
+          {
+            "id": "aqa-cell-completion-q06",
+            "label": "Compare when animal and plant cells differentiate. Explain how differentiation changes a cell and why division in a mature animal differs from early development.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          }
+        ],
+        "support": []
+      }
+    },
+    {
+      "specRef": "4.1.1.4",
+      "title": "Cell differentiation",
+      "decision": "FULLY COVERED",
+      "teachingRevisionReview": "Early animal versus continuing plant differentiation, acquisition of specialised structures and mature repair/replacement are now explicit.",
+      "practiceReview": "Q06 distinguishes differentiation/division; Q12 applies development/repair; Q13 checks stem-cell potential.",
+      "answersFeedbackReview": "Every newly mapped task has a full model answer and explicit feedback/marking points; writing tasks use the existing honest self-assessment flow. Numeric tasks use reviewed equivalents and reject incompatible units.",
+      "skillsAndPracticalReview": "Comparison and contextual interpretation addressed; all content shared across tiers.",
+      "foundationHigherReview": "Effective Foundation, unconfirmed and Higher resolvers expose all relevant new shared items; tests confirm original Higher material and legacy tier separation preserved.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Cell Biology|Division and stem cells"
+      ],
+      "questionRefs": [
+        "aqa-cell-completion-q06",
+        "aqa-cell-completion-q12",
+        "aqa-cell-completion-q13"
+      ],
+      "supportRefs": [],
+      "evidence": {
+        "lessons": [
+          {
+            "id": "Biology|Cell Biology|Division and stem cells",
+            "label": "Division and stem cells",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q reviewed extension: shared AQA Trilogy cell-structure, microscopy, division and practical requirements; both tiers."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-cell-completion-q06",
+            "label": "Compare when animal and plant cells differentiate. Explain how differentiation changes a cell and why division in a mature animal differs from early development.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          },
+          {
+            "id": "aqa-cell-completion-q12",
+            "label": "An embryo grows, a skin cut heals and a young root lengthens by making more cells. Explain why mitosis is involved. Is a cell becoming specialised the same process?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          },
+          {
+            "id": "aqa-cell-completion-q13",
+            "label": "Compare embryonic, adult bone-marrow and plant-meristem stem cells: state what makes them stem cells, their possible products and when plant potential persists.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          }
+        ],
+        "support": []
+      }
+    },
+    {
+      "specRef": "4.1.1.5",
+      "title": "Microscopy",
+      "decision": "FULLY COVERED",
+      "teachingRevisionReview": "Light-to-electron development, magnification/resolution, all equation arrangements, prefixes, standard form and estimation covered; original worked examples retained.",
+      "practiceReview": "Q01/Q03/Q07/Q08/Q09/Q18 plus recovered R01 cover size, resolution, both rearrangements and scale; numeric aliases reject incompatible units.",
+      "answersFeedbackReview": "Every newly mapped task has a full model answer and explicit feedback/marking points; writing tasks use the existing honest self-assessment flow. Numeric tasks use reviewed equivalents and reject incompatible units.",
+      "skillsAndPracticalReview": "MS1a/1b/2h/3b and WS1.1/4.4 exercised. Explicit unit conversions and explanations supplied.",
+      "foundationHigherReview": "Effective Foundation, unconfirmed and Higher resolvers expose all relevant new shared items; tests confirm original Higher material and legacy tier separation preserved.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Cell Biology|Microscopes and scale",
+        "Biology|Cell Biology|Your board · microscopy"
+      ],
+      "questionRefs": [
+        "aqa-cell-image-magnification",
+        "aqa-cell-micro-sequence",
+        "aqa-micro",
+        "bio2-micro",
+        "aqa-drawing",
+        "aqa-cell-completion-q01",
+        "aqa-cell-completion-q03",
+        "aqa-cell-completion-q07",
+        "aqa-cell-completion-q08",
+        "aqa-cell-completion-q09",
+        "aqa-cell-completion-r01",
+        "aqa-cell-completion-q18"
+      ],
+      "supportRefs": [
+        "Biology|support|equation-Magnification",
+        "Biology|support|completion-grid"
+      ],
+      "evidence": {
+        "lessons": [
+          {
+            "id": "Biology|Cell Biology|Microscopes and scale",
+            "label": "Microscopes and scale",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q reviewed extension: shared AQA Trilogy cell-structure, microscopy, division and practical requirements; both tiers."
+          },
+          {
+            "id": "Biology|Cell Biology|Your board · microscopy",
+            "label": "Your board · microscopy",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q reviewed extension: shared AQA Trilogy cell-structure, microscopy, division and practical requirements; both tiers."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-cell-image-magnification",
+            "label": "A cell image is 20 mm wide and the real cell is 0.05 mm wide. What is the magnification?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-cell-micro-sequence",
+            "label": "Which sequence gives a sensible way to view a new specimen?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-micro",
+            "label": "A cell image is 24 mm long. The real cell is 0.06 mm long. Calculate the magnification.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "bio2-micro",
+            "label": "A cell image is 15 mm long. The real cell is 0.03 mm long. Calculate magnification.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-drawing",
+            "label": "Describe two features of a useful biological drawing.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-cell-completion-q01",
+            "label": "A bacterium is 2 µm long and an animal cell is 20 µm long. Express both lengths in metres using standard form, calculate how many times longer the animal cell is, and state the order-of-magnitude difference.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          },
+          {
+            "id": "aqa-cell-completion-q03",
+            "label": "The grid represents a cell occupying 10 × 8 squares. Estimate the percentage of its drawn area occupied by the green oval. Explain your method and why an estimate is appropriate.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          },
+          {
+            "id": "aqa-cell-completion-q07",
+            "label": "A student enlarges a blurred light-microscope image to see individual ribosomes. Will this work? Explain how electron microscopy advanced knowledge of cells and which instrument is suitable for school plant/animal slide observations.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          },
+          {
+            "id": "aqa-cell-completion-q08",
+            "label": "A cell image is 60 mm long at a magnification of ×1500. Calculate its actual length in µm.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          },
+          {
+            "id": "aqa-cell-completion-q09",
+            "label": "A structure is 200 nm long and is shown at ×10000. Calculate the image length in mm.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          },
+          {
+            "id": "aqa-cell-completion-r01",
+            "label": "A cell image measures 36 mm and its actual length is 60 micrometres. Calculate its magnification and explain your unit conversion. Enter only the numerical magnification here; compare your explanation with the feedback.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          },
+          {
+            "id": "aqa-cell-completion-q18",
+            "label": "An onion drawing has thick shaded outlines, imagined chloroplasts and ribosomes, no labels and a 10 mm cell drawn from a supplied actual length of 20 µm. Improve the drawing, supply its magnification and scale, and predict one similarity and one difference from a stained animal-cell slide.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          }
+        ],
+        "support": [
+          {
+            "id": "Biology|support|equation-Magnification",
+            "label": "Learning Lab equation: Magnification",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "Biology|support|completion-grid",
+            "label": "Cell completion diagram: grid",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          }
+        ]
+      }
+    },
+    {
+      "specRef": "4.1.2.1",
+      "title": "Chromosomes",
+      "decision": "FULLY COVERED",
+      "teachingRevisionReview": "Existing Inheritance sources remain canonical and are discoverable through a lesson navigation button; nucleus/DNA/many-genes/body-cell pairs are explicit in the division bridge.",
+      "practiceReview": "Q10 directly assesses hierarchy and chromosome pairs; Q11 and bio2-mitosis reinforce copying and preserved chromosome number.",
+      "answersFeedbackReview": "Every newly mapped task has a full model answer and explicit feedback/marking points; writing tasks use the existing honest self-assessment flow. Numeric tasks use reviewed equivalents and reject incompatible units.",
+      "skillsAndPracticalReview": "Existing DNA model reused; no duplicate standalone chromosome lesson.",
+      "foundationHigherReview": "Effective Foundation, unconfirmed and Higher resolvers expose all relevant new shared items; tests confirm original Higher material and legacy tier separation preserved.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Cell Biology|Division and stem cells",
+        "Biology|Inheritance|DNA, genes and chromosomes",
+        "Biology|Inheritance|Sex chromosomes and inheritance"
+      ],
+      "questionRefs": [
+        "bio2-mitosis",
+        "aqa-cell-completion-q10",
+        "aqa-cell-completion-q11"
+      ],
+      "supportRefs": [
+        "Biology|support|diagram-dna"
+      ],
+      "evidence": {
+        "lessons": [
+          {
+            "id": "Biology|Cell Biology|Division and stem cells",
+            "label": "Division and stem cells",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q reviewed extension: shared AQA Trilogy cell-structure, microscopy, division and practical requirements; both tiers."
+          },
+          {
+            "id": "Biology|Inheritance|DNA, genes and chromosomes",
+            "label": "DNA, genes and chromosomes",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "Biology|Inheritance|Sex chromosomes and inheritance",
+            "label": "Sex chromosomes and inheritance",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          }
+        ],
+        "questions": [
+          {
+            "id": "bio2-mitosis",
+            "label": "How do the chromosome numbers and genetic information of daughter cells produced by mitosis compare?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-cell-completion-q10",
+            "label": "Use the Cell → Nucleus → Chromosome → DNA → Gene model. Explain the relationships and why drawing genes as separate whole chromosomes is wrong. A body cell has three chromosome pairs: how many chromosomes would each daughter cell have after mitosis?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          },
+          {
+            "id": "aqa-cell-completion-q11",
+            "label": "Describe the three overall stages of the cell cycle, including what happens to sub-cellular structures, chromosomes, nuclei and the cell boundary.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          }
+        ],
+        "support": [
+          {
+            "id": "Biology|support|diagram-dna",
+            "label": "Existing revision diagram: dna",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          }
+        ]
+      }
+    },
+    {
+      "specRef": "4.1.2.2",
+      "title": "Mitosis and the cell cycle",
+      "decision": "FULLY COVERED",
+      "teachingRevisionReview": "Three overall stages include cell growth/organelle increase, copied chromosomes, separation/nuclear division and final membrane/cytoplasm division.",
+      "practiceReview": "Q11 assesses sequence with explanations; Q12 applies mitosis to embryo/root growth and skin repair; existing daughter-cell question retained.",
+      "answersFeedbackReview": "Every newly mapped task has a full model answer and explicit feedback/marking points; writing tasks use the existing honest self-assessment flow. Numeric tasks use reviewed equivalents and reject incompatible units.",
+      "skillsAndPracticalReview": "Context recognition and chromosome modelling practised; named mitotic phases not introduced.",
+      "foundationHigherReview": "Effective Foundation, unconfirmed and Higher resolvers expose all relevant new shared items; tests confirm original Higher material and legacy tier separation preserved.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Cell Biology|Division and stem cells"
+      ],
+      "questionRefs": [
+        "aqa-cell-mitosis-sequence",
+        "bio2-mitosis",
+        "aqa-cell-completion-q10",
+        "aqa-cell-completion-q11",
+        "aqa-cell-completion-q12"
+      ],
+      "supportRefs": [],
+      "evidence": {
+        "lessons": [
+          {
+            "id": "Biology|Cell Biology|Division and stem cells",
+            "label": "Division and stem cells",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q reviewed extension: shared AQA Trilogy cell-structure, microscopy, division and practical requirements; both tiers."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-cell-mitosis-sequence",
+            "label": "Which order describes mitosis for growth?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio2-mitosis",
+            "label": "How do the chromosome numbers and genetic information of daughter cells produced by mitosis compare?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-cell-completion-q10",
+            "label": "Use the Cell → Nucleus → Chromosome → DNA → Gene model. Explain the relationships and why drawing genes as separate whole chromosomes is wrong. A body cell has three chromosome pairs: how many chromosomes would each daughter cell have after mitosis?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          },
+          {
+            "id": "aqa-cell-completion-q11",
+            "label": "Describe the three overall stages of the cell cycle, including what happens to sub-cellular structures, chromosomes, nuclei and the cell boundary.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          },
+          {
+            "id": "aqa-cell-completion-q12",
+            "label": "An embryo grows, a skin cut heals and a young root lengthens by making more cells. Explain why mitosis is involved. Is a cell becoming specialised the same process?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          }
+        ],
+        "support": []
+      }
+    },
+    {
+      "specRef": "4.1.2.3",
+      "title": "Stem cells",
+      "decision": "FULLY COVERED",
+      "teachingRevisionReview": "Embryonic/adult bone-marrow/meristem function, differentiation potential, therapeutic cloning/rejection, diabetes/paralysis, viral risk, ethics and plant applications covered.",
+      "practiceReview": "Q13–Q16 target sources, treatment, evidence-based evaluation and plant cloning; original generic risk question retained.",
+      "answersFeedbackReview": "Every newly mapped task has a full model answer and explicit feedback/marking points; writing tasks use the existing honest self-assessment flow. Numeric tasks use reviewed equivalents and reject incompatible units.",
+      "skillsAndPracticalReview": "WS1.3 balanced evaluation with explicit criteria; no laboratory stem-cell technique requirement added.",
+      "foundationHigherReview": "Effective Foundation, unconfirmed and Higher resolvers expose all relevant new shared items; tests confirm original Higher material and legacy tier separation preserved.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Cell Biology|Division and stem cells"
+      ],
+      "questionRefs": [
+        "aqa-cell-stem-potential",
+        "bio2-stem",
+        "aqa-cell-completion-q13",
+        "aqa-cell-completion-q14",
+        "aqa-cell-completion-q15",
+        "aqa-cell-completion-q16"
+      ],
+      "supportRefs": [],
+      "evidence": {
+        "lessons": [
+          {
+            "id": "Biology|Cell Biology|Division and stem cells",
+            "label": "Division and stem cells",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q reviewed extension: shared AQA Trilogy cell-structure, microscopy, division and practical requirements; both tiers."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-cell-stem-potential",
+            "label": "Why are stem cells useful for repair?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "bio2-stem",
+            "label": "Give one potential benefit and one possible risk of using stem cells to replace damaged tissue.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-cell-completion-q13",
+            "label": "Compare embryonic, adult bone-marrow and plant-meristem stem cells: state what makes them stem cells, their possible products and when plant potential persists.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          },
+          {
+            "id": "aqa-cell-completion-q14",
+            "label": "An embryo with the same genes as a patient is produced for therapeutic cloning. Explain why its stem cells could help treat diabetes or paralysis and why rejection is reduced.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          },
+          {
+            "id": "aqa-cell-completion-q15",
+            "label": "A proposal offers embryo-derived stem-cell treatment with uncertain benefit and a possible risk of viral infection. Evaluate it, including another biological risk and an ethical concern, then give a justified judgement.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          },
+          {
+            "id": "aqa-cell-completion-q16",
+            "label": "Explain why meristem cloning could help conserve a rare plant and provide farmers with disease-resistant crop plants. Include one economic advantage and one limit of assuming all clones will thrive.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          }
+        ],
+        "support": []
+      }
+    },
+    {
+      "specRef": "RP01",
+      "title": "Microscope observations",
+      "decision": "FULLY COVERED",
+      "teachingRevisionReview": "Teacher-approved onion epidermis and prepared stained animal slide provide plant/animal examples. Preparation, safety, careful focus, observations, proportional labelled drawing, calibrated scale and visibility limits are explicit.",
+      "practiceReview": "Q17 tests method/safety corrections; Q18 drawing/observation/scale interpretation; Q02/Q03/Q08/R01 reinforce image and measurement skills.",
+      "answersFeedbackReview": "Every newly mapped task has a full model answer and explicit feedback/marking points; writing tasks use the existing honest self-assessment flow. Numeric tasks use reviewed equivalents and reject incompatible units.",
+      "skillsAndPracticalReview": "AT1/7 preparation supported. Physical performance/observation is not claimed by online completion. Prepared animal slides avoid unsupported fresh-human-sampling assumptions.",
+      "foundationHigherReview": "Effective Foundation, unconfirmed and Higher resolvers expose all relevant new shared items; tests confirm original Higher material and legacy tier separation preserved.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|practical|microscopy",
+        "Biology|Cell Biology|Your board · microscopy",
+        "Biology|Cell Biology|Microscopes and scale",
+        "Biology|Cell Biology|Inside a cell"
+      ],
+      "questionRefs": [
+        "aqa-cell-scope-order",
+        "aqa-cell-drawing-label",
+        "aqa-drawing",
+        "aqa-micro",
+        "bio2-micro",
+        "aqa-cell-completion-q02",
+        "aqa-cell-completion-q03",
+        "aqa-cell-completion-q08",
+        "aqa-cell-completion-q17",
+        "aqa-cell-completion-q18",
+        "aqa-cell-completion-r01"
+      ],
+      "supportRefs": [
+        "Biology|practical|microscopy",
+        "Biology|support|equation-Magnification",
+        "Biology|support|practical-Microscopy",
+        "Biology|support|completion-animal",
+        "Biology|support|completion-plant",
+        "Biology|support|completion-grid"
+      ],
+      "evidence": {
+        "lessons": [
+          {
+            "id": "Biology|practical|microscopy",
+            "label": "Microscopy",
+            "kind": "practical",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q reviewed extension: shared AQA Trilogy cell-structure, microscopy, division and practical requirements; both tiers."
+          },
+          {
+            "id": "Biology|Cell Biology|Your board · microscopy",
+            "label": "Your board · microscopy",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q reviewed extension: shared AQA Trilogy cell-structure, microscopy, division and practical requirements; both tiers."
+          },
+          {
+            "id": "Biology|Cell Biology|Microscopes and scale",
+            "label": "Microscopes and scale",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q reviewed extension: shared AQA Trilogy cell-structure, microscopy, division and practical requirements; both tiers."
+          },
+          {
+            "id": "Biology|Cell Biology|Inside a cell",
+            "label": "Inside a cell",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q reviewed extension: shared AQA Trilogy cell-structure, microscopy, division and practical requirements; both tiers."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-cell-scope-order",
+            "label": "What is the best first step when using a light microscope?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-cell-drawing-label",
+            "label": "Which is best for a biological drawing?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-drawing",
+            "label": "Describe two features of a useful biological drawing.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-micro",
+            "label": "A cell image is 24 mm long. The real cell is 0.06 mm long. Calculate the magnification.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "bio2-micro",
+            "label": "A cell image is 15 mm long. The real cell is 0.03 mm long. Calculate magnification.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-cell-completion-q02",
+            "label": "Use the three cell schematics. Identify A–H and state one function of each. Which kind of cell has its main DNA outside a nucleus? Do plant and algal walls have the same strengthening material?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          },
+          {
+            "id": "aqa-cell-completion-q03",
+            "label": "The grid represents a cell occupying 10 × 8 squares. Estimate the percentage of its drawn area occupied by the green oval. Explain your method and why an estimate is appropriate.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          },
+          {
+            "id": "aqa-cell-completion-q08",
+            "label": "A cell image is 60 mm long at a magnification of ×1500. Calculate its actual length in µm.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          },
+          {
+            "id": "aqa-cell-completion-q17",
+            "label": "A student leaves onion peel folded, traps air under its coverslip, spills stain, then starts at high power and winds the lens down using coarse focus. Correct each problem and explain how to obtain animal-cell observations safely.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          },
+          {
+            "id": "aqa-cell-completion-q18",
+            "label": "An onion drawing has thick shaded outlines, imagined chloroplasts and ribosomes, no labels and a 10 mm cell drawn from a supplied actual length of 20 µm. Improve the drawing, supply its magnification and scale, and predict one similarity and one difference from a stained animal-cell slide.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          },
+          {
+            "id": "aqa-cell-completion-r01",
+            "label": "A cell image measures 36 mm and its actual length is 60 micrometres. Calculate its magnification and explain your unit conversion. Enter only the numerical magnification here; compare your explanation with the feedback.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          }
+        ],
+        "support": [
+          {
+            "id": "Biology|practical|microscopy",
+            "label": "Microscopy",
+            "kind": "practical",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q reviewed extension: shared AQA Trilogy cell-structure, microscopy, division and practical requirements; both tiers."
+          },
+          {
+            "id": "Biology|support|equation-Magnification",
+            "label": "Learning Lab equation: Magnification",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "Biology|support|practical-Microscopy",
+            "label": "Learning Lab practical design: Microscopy",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "Biology|support|completion-animal",
+            "label": "Cell completion diagram: animal",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          },
+          {
+            "id": "Biology|support|completion-plant",
+            "label": "Cell completion diagram: plant",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          },
+          {
+            "id": "Biology|support|completion-grid",
+            "label": "Cell completion diagram: grid",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Build 7.0.5Q shared AQA Trilogy Cell Biology requirement; question, answer, feedback and visual reviewed together."
+          }
+        ]
+      }
+    }
+  ],
+  "before": {
+    "fullyCovered": 2,
+    "partial": 75,
+    "missing": 1,
+    "higherOnlyAdequate": 0
+  },
+  "after": {
+    "fullyCovered": 11,
+    "partial": 66,
+    "missing": 1,
+    "higherOnlyAdequate": 0
+  },
+  "promoted": 9,
+  "knownTierConcerns": 0,
+  "recordedTierBacklog": 0,
+  "answerUnitBacklog": 0
+}

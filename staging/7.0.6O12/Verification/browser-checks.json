@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-17",
+  "qaOrigin": "http://127.0.0.1:8949",
+  "reviewOrigin": "http://localhost:8949",
+  "browser": "Codex in-app browser",
+  "desktopViewport": [
+    1280,
+    900
+  ],
+  "desktopScrollWidth": 1280,
+  "mobileViewport": [
+    390,
+    844
+  ],
+  "mobileScrollWidth": 390,
+  "checks": {
+    "stage3GutDiagram": true,
+    "narrationReadStopBeforeSilenceRequest": true,
+    "optionalThreeSequential": true,
+    "letterBlocksModel": true,
+    "unmarkedModelsAndSavedDrafts": true,
+    "reloadRestores": true,
+    "skipToStage6": true,
+    "eightQuestionsAndConcentrationDiagram": true,
+    "recallTextInput": true,
+    "pendingAnswersSurviveReload": true,
+    "menuOpenClosePreservesIndependence": true,
+    "structuredScore": "6/8 (75%)",
+    "writtenMarksAutoAwarded": false,
+    "reviewExpandedIncorrect": 2,
+    "reviewExpandedCorrect": 0,
+    "reviewFocusedFirstIncorrect": true,
+    "freshRetakeBlank": true,
+    "freshRetakeHistoryHidden": true,
+    "teachingRevisitSetsPractice": true,
+    "homeAndNativeBack": true,
+    "twelveMilestones": true,
+    "osmosisAndRP02Selector": true,
+    "capturedBrowserWarningsErrors": [],
+    "viewportReset": true,
+    "mainOriginAssessmentScoreAdded": false
+  },
+  "notVerified": [
+    "physical iPhone Safari/touch",
+    "audible voice quality"
+  ],
+  "audioPolicy": "All work after user requested silence was silent."
+}

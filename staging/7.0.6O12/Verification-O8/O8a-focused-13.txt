@@ -1,0 +1,21 @@
+✔ O8 opens without autoplay and isolates active lessons (112.684292ms)
+✔ cube model arithmetic, dimensions and scaling are exact (18.506709ms)
+✔ size controls preserve state and reject invalid dimensions (23.856334ms)
+✔ SA:V falls while total area and diffusion distance rise (16.002084ms)
+✔ guided activity and scaffold calculations never award credit (25.964709ms)
+✔ all surfaces have contextual mechanisms and visual feature selection (28.296666ms)
+✔ generic surface toggles change predictions independently (24.062625ms)
+✔ save reload and tier pathways isolate guided state without new keys (331.809333ms)
+✔ unsupported board and course cannot mutate O8 (44.796708ms)
+✔ narration uses O6/O7 speech API and pause cancels stale callbacks (24.264208ms)
+✔ silent captions complete and replay resets model (25.871083ms)
+✔ mute, surface narration and navigation stop speech (24.619333ms)
+✔ corrupt guided state recovers safe bounds and accessible controls (22.666833ms)
+ℹ tests 13
+ℹ suites 0
+ℹ pass 13
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 795.800792

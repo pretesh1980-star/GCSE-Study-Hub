@@ -1,0 +1,182 @@
+{
+  "passed": 44,
+  "total": 44,
+  "results": [
+    {
+      "name": "direct O9 opens original six-stage Lab",
+      "pass": true
+    },
+    {
+      "name": "sequence and O7/O8 bridge visible",
+      "pass": true
+    },
+    {
+      "name": "native click advances original stage",
+      "pass": true
+    },
+    {
+      "name": "optional video inline with no autoplay",
+      "pass": true
+    },
+    {
+      "name": "transcript link exists",
+      "pass": true
+    },
+    {
+      "name": "membrane direction 0",
+      "pass": true
+    },
+    {
+      "name": "membrane direction 2",
+      "pass": true
+    },
+    {
+      "name": "membrane direction 4",
+      "pass": true
+    },
+    {
+      "name": "cell effects require prediction",
+      "pass": true
+    },
+    {
+      "name": "cell scenario dilute",
+      "pass": true
+    },
+    {
+      "name": "accessible cell description dilute",
+      "pass": true
+    },
+    {
+      "name": "cell scenario equal",
+      "pass": true
+    },
+    {
+      "name": "accessible cell description equal",
+      "pass": true
+    },
+    {
+      "name": "cell scenario concentrated",
+      "pass": true
+    },
+    {
+      "name": "accessible cell description concentrated",
+      "pass": true
+    },
+    {
+      "name": "teaching no overflow 320",
+      "pass": true
+    },
+    {
+      "name": "teaching no overflow 390",
+      "pass": true
+    },
+    {
+      "name": "teaching no overflow 768",
+      "pass": true
+    },
+    {
+      "name": "teaching no overflow 1365",
+      "pass": true
+    },
+    {
+      "name": "guided exploration earns no mastery",
+      "pass": true
+    },
+    {
+      "name": "pending hides teaching",
+      "pass": true
+    },
+    {
+      "name": "missing answers cannot submit",
+      "pass": true
+    },
+    {
+      "name": "native inputs update count",
+      "pass": true
+    },
+    {
+      "name": "assessment no overflow 320",
+      "pass": true
+    },
+    {
+      "name": "numeric touch size 320",
+      "pass": true
+    },
+    {
+      "name": "assessment no overflow 390",
+      "pass": true
+    },
+    {
+      "name": "numeric touch size 390",
+      "pass": true
+    },
+    {
+      "name": "assessment no overflow 768",
+      "pass": true
+    },
+    {
+      "name": "numeric touch size 768",
+      "pass": true
+    },
+    {
+      "name": "assessment no overflow 1365",
+      "pass": true
+    },
+    {
+      "name": "numeric touch size 1365",
+      "pass": true
+    },
+    {
+      "name": "radio groups have legends",
+      "pass": true
+    },
+    {
+      "name": "native independent submit scores 100",
+      "pass": true
+    },
+    {
+      "name": "topic mastery unchanged",
+      "pass": true
+    },
+    {
+      "name": "duplicate submit cannot rescore",
+      "pass": true
+    },
+    {
+      "name": "reload preserves independent pending attempt",
+      "pass": true
+    },
+    {
+      "name": "second form scores independently",
+      "pass": true
+    },
+    {
+      "name": "third form is unscored repeat",
+      "pass": true
+    },
+    {
+      "name": "Foundation evidence separate",
+      "pass": true
+    },
+    {
+      "name": "Foundation tests core cell loss",
+      "pass": true
+    },
+    {
+      "name": "assisted check cannot score",
+      "pass": true
+    },
+    {
+      "name": "Library exit works",
+      "pass": true
+    },
+    {
+      "name": "homepage available",
+      "pass": true
+    },
+    {
+      "name": "no browser errors",
+      "pass": true
+    }
+  ]
+}

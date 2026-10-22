@@ -1,0 +1,25 @@
+{
+  "baselineSHA256": "d2589257d2a95d8f2f8f477b31939b5878da423201b2d45380659e7887300f6e",
+  "changed": [
+    "PROJECT-STATE.md",
+    "index.html",
+    "exchange-film.css",
+    "package.json",
+    "exchange-film.js",
+    "CURRENT-BUILD.txt",
+    "tests/exchange-film.test.cjs"
+  ],
+  "added": [
+    "Build-Hollie-review.md",
+    "tests/hollie-browser.html",
+    "Verification-Hollie/regression-964.txt",
+    "Verification-Hollie/browser-verification.json",
+    "Verification-Hollie/live-preview.json",
+    "Verification-Hollie/focused-57.txt"
+  ],
+  "removed": [
+    "tests/pip-browser.html"
+  ],
+  "removedReason": "Test harness renamed to hollie-browser.html",
+  "unchangedFiles": 372
+}

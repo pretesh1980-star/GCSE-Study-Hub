@@ -1,0 +1,4 @@
+
+.o9-stage-controls{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px;padding:16px 0;border-block:1px solid #a5bcb2;margin:16px 0}.o9-stage-controls span{font-weight:700}.o9-stage-overview{background:#edf7f4;padding:16px;border-radius:12px;margin:16px 0}.o9-stage-overview h3{margin-top:0}.o9-stage-overview ol{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;list-style:none;padding:0}.o9-stage-overview .btn{width:100%;text-align:left;white-space:normal;overflow-wrap:anywhere}.o9-stage-overview [aria-current=step]{border:3px solid #12675f;font-weight:700}.o9-stage-controls button:disabled{opacity:.55;cursor:default}#ot-title{scroll-margin-top:24px}@media(max-width:500px){.o9-stage-overview ol{grid-template-columns:1fr}.o9-stage-controls .btn{flex:1 1 100%}.o9-stage-controls span{order:-1;width:100%;text-align:center}}
+
+.ot .o9-stage-overview{display:block}.ot .o9-stage-controls{flex-direction:row}

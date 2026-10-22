@@ -1,0 +1,82 @@
+TAP version 13
+# Subtest: dashboard entry keeps cards and compact supporting information
+ok 1 - dashboard entry keeps cards and compact supporting information
+  ---
+  duration_ms: 98.911292
+  type: 'test'
+  ...
+# Subtest: cells card opens introduction and Library preserves selection
+ok 2 - cells card opens introduction and Library preserves selection
+  ---
+  duration_ms: 30.154209
+  type: 'test'
+  ...
+# Subtest: structures card opens introduction and Library preserves selection
+ok 3 - structures card opens introduction and Library preserves selection
+  ---
+  duration_ms: 26.367708
+  type: 'test'
+  ...
+# Subtest: specialised card opens introduction and Library preserves selection
+ok 4 - specialised card opens introduction and Library preserves selection
+  ---
+  duration_ms: 25.121334
+  type: 'test'
+  ...
+# Subtest: all later milestones offer preserved revision content and primary action
+ok 5 - all later milestones offer preserved revision content and primary action
+  ---
+  duration_ms: 74.562292
+  type: 'test'
+  ...
+# Subtest: card and Library retain pending independent answers without granting credit
+ok 6 - card and Library retain pending independent answers without granting credit
+  ---
+  duration_ms: 53.795542
+  type: 'test'
+  ...
+# Subtest: navigation preserves completed evidence through reload and tier switching
+ok 7 - navigation preserves completed evidence through reload and tier switching
+  ---
+  duration_ms: 425.911667
+  type: 'test'
+  ...
+# Subtest: destination restore resumes current assessment instead of old answer snapshots
+ok 8 - destination restore resumes current assessment instead of old answer snapshots
+  ---
+  duration_ms: 38.0785
+  type: 'test'
+  ...
+# Subtest: previous tier history destination stays on current tier dashboard
+ok 9 - previous tier history destination stays on current tier dashboard
+  ---
+  duration_ms: 288.4765
+  type: 'test'
+  ...
+# Subtest: other lesson destinations restore their subject and topic
+ok 10 - other lesson destinations restore their subject and topic
+  ---
+  duration_ms: 17.90325
+  type: 'test'
+  ...
+# Subtest: native history records destinations and manually controls restoration scroll
+ok 11 - native history records destinations and manually controls restoration scroll
+  ---
+  duration_ms: 26.037667
+  type: 'test'
+  ...
+# Subtest: reload interactive and Osmosis hash resumes the matching saved destination
+ok 12 - reload interactive and Osmosis hash resumes the matching saved destination
+  ---
+  duration_ms: 46.824625
+  type: 'test'
+  ...
+1..12
+# tests 12
+# suites 0
+# pass 12
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 1216.443459

@@ -1,0 +1,12 @@
+GCSE Study Hub — CURRENT BUILD
+Build: 7.0.6O2b student experience refinement
+Date: 10 October 2026
+Baseline: latest O2 review-update candidate
+Testing: 107/107 focused; 691/691 full regression; zero failures. Mac in-app-browser and 390px responsive smoke checks passed.
+Publication: UNPUBLISHED. No GitHub deployment. No O3 development.
+Known limitations: narration remains device-dependent and robotic; no natural-voice audition or real-iPhone Safari verification. Journey completion is reliably attributable only to O1/O2. Browser progress is origin-specific; existing Osmosis separate-storage/backup limitation remains.
+Latest ZIP: GCSE-Study-Hub-LATEST-OPEN-THIS.zip
+Versioned ZIP: GCSE-Study-Hub-7.0.6O2b-candidate.zip
+Review: Build-O2b-review.md
+Preview: http://127.0.0.1:8895/
+Next recommended milestone: Specialised Cells, only after approval.

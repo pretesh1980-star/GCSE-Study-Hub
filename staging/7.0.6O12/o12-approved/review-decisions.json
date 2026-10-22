@@ -1,0 +1,337 @@
+[
+  {
+    "id": "1a",
+    "tier": "Foundation",
+    "decision": "retained",
+    "changedFields": []
+  },
+  {
+    "id": "1a",
+    "tier": "Higher",
+    "decision": "retained",
+    "changedFields": []
+  },
+  {
+    "id": "1b",
+    "tier": "Foundation",
+    "decision": "revised",
+    "changedFields": [
+      "markingFoundation"
+    ]
+  },
+  {
+    "id": "1b",
+    "tier": "Higher",
+    "decision": "retained",
+    "changedFields": []
+  },
+  {
+    "id": "1c",
+    "tier": "Foundation",
+    "decision": "retained",
+    "changedFields": []
+  },
+  {
+    "id": "1c",
+    "tier": "Higher",
+    "decision": "retained",
+    "changedFields": []
+  },
+  {
+    "id": "1d",
+    "tier": "Foundation",
+    "decision": "revised",
+    "changedFields": [
+      "Foundation"
+    ]
+  },
+  {
+    "id": "1d",
+    "tier": "Higher",
+    "decision": "retained",
+    "changedFields": []
+  },
+  {
+    "id": "2a",
+    "tier": "Foundation",
+    "decision": "retained",
+    "changedFields": []
+  },
+  {
+    "id": "2a",
+    "tier": "Higher",
+    "decision": "retained",
+    "changedFields": []
+  },
+  {
+    "id": "2b",
+    "tier": "Foundation",
+    "decision": "retained",
+    "changedFields": []
+  },
+  {
+    "id": "2b",
+    "tier": "Higher",
+    "decision": "retained",
+    "changedFields": []
+  },
+  {
+    "id": "2c",
+    "tier": "Foundation",
+    "decision": "revised",
+    "changedFields": [
+      "markingFoundation"
+    ]
+  },
+  {
+    "id": "2c",
+    "tier": "Higher",
+    "decision": "revised",
+    "changedFields": [
+      "markingHigher"
+    ]
+  },
+  {
+    "id": "2d",
+    "tier": "Foundation",
+    "decision": "revised",
+    "changedFields": [
+      "Foundation",
+      "markingFoundation"
+    ]
+  },
+  {
+    "id": "2d",
+    "tier": "Higher",
+    "decision": "retained",
+    "changedFields": []
+  },
+  {
+    "id": "3a",
+    "tier": "Foundation",
+    "decision": "retained",
+    "changedFields": []
+  },
+  {
+    "id": "3a",
+    "tier": "Higher",
+    "decision": "retained",
+    "changedFields": []
+  },
+  {
+    "id": "3b",
+    "tier": "Foundation",
+    "decision": "retained",
+    "changedFields": []
+  },
+  {
+    "id": "3b",
+    "tier": "Higher",
+    "decision": "revised",
+    "changedFields": [
+      "Higher",
+      "markingHigher"
+    ]
+  },
+  {
+    "id": "3c",
+    "tier": "Foundation",
+    "decision": "retained",
+    "changedFields": []
+  },
+  {
+    "id": "3c",
+    "tier": "Higher",
+    "decision": "retained",
+    "changedFields": []
+  },
+  {
+    "id": "3d",
+    "tier": "Foundation",
+    "decision": "revised",
+    "changedFields": [
+      "Foundation",
+      "markingFoundation"
+    ]
+  },
+  {
+    "id": "3d",
+    "tier": "Higher",
+    "decision": "retained",
+    "changedFields": []
+  },
+  {
+    "id": "4a",
+    "tier": "Foundation",
+    "decision": "retained",
+    "changedFields": []
+  },
+  {
+    "id": "4a",
+    "tier": "Higher",
+    "decision": "retained",
+    "changedFields": []
+  },
+  {
+    "id": "4b",
+    "tier": "Foundation",
+    "decision": "retained",
+    "changedFields": []
+  },
+  {
+    "id": "4b",
+    "tier": "Higher",
+    "decision": "retained",
+    "changedFields": []
+  },
+  {
+    "id": "4c",
+    "tier": "Foundation",
+    "decision": "revised",
+    "changedFields": [
+      "Foundation",
+      "markingFoundation"
+    ]
+  },
+  {
+    "id": "4c",
+    "tier": "Higher",
+    "decision": "revised",
+    "changedFields": [
+      "Higher",
+      "markingHigher"
+    ]
+  },
+  {
+    "id": "5a",
+    "tier": "Foundation",
+    "decision": "retained",
+    "changedFields": []
+  },
+  {
+    "id": "5a",
+    "tier": "Higher",
+    "decision": "retained",
+    "changedFields": []
+  },
+  {
+    "id": "5b",
+    "tier": "Foundation",
+    "decision": "revised",
+    "changedFields": [
+      "markingFoundation"
+    ]
+  },
+  {
+    "id": "5b",
+    "tier": "Higher",
+    "decision": "revised",
+    "changedFields": [
+      "markingHigher"
+    ]
+  },
+  {
+    "id": "5c",
+    "tier": "Foundation",
+    "decision": "retained",
+    "changedFields": []
+  },
+  {
+    "id": "5c",
+    "tier": "Higher",
+    "decision": "retained",
+    "changedFields": []
+  },
+  {
+    "id": "5d",
+    "tier": "Foundation",
+    "decision": "retained",
+    "changedFields": []
+  },
+  {
+    "id": "5d",
+    "tier": "Higher",
+    "decision": "retained",
+    "changedFields": []
+  },
+  {
+    "id": "6a",
+    "tier": "Foundation",
+    "decision": "retained",
+    "changedFields": []
+  },
+  {
+    "id": "6a",
+    "tier": "Higher",
+    "decision": "revised",
+    "changedFields": [
+      "Higher",
+      "markingHigher"
+    ]
+  },
+  {
+    "id": "6b",
+    "tier": "Foundation",
+    "decision": "revised",
+    "changedFields": [
+      "Foundation",
+      "optionsFoundation",
+      "correctOptionFoundation",
+      "markingFoundation"
+    ]
+  },
+  {
+    "id": "6b",
+    "tier": "Higher",
+    "decision": "revised",
+    "changedFields": [
+      "optionsHigher",
+      "markingHigher"
+    ]
+  },
+  {
+    "id": "6c",
+    "tier": "Foundation",
+    "decision": "retained",
+    "changedFields": []
+  },
+  {
+    "id": "6c",
+    "tier": "Higher",
+    "decision": "retained",
+    "changedFields": []
+  },
+  {
+    "id": "7a",
+    "tier": "Foundation",
+    "decision": "revised",
+    "changedFields": [
+      "Foundation",
+      "markingFoundation"
+    ]
+  },
+  {
+    "id": "7a",
+    "tier": "Higher",
+    "decision": "revised",
+    "changedFields": [
+      "Higher",
+      "markingHigher"
+    ]
+  },
+  {
+    "id": "7b",
+    "tier": "Foundation",
+    "decision": "retained",
+    "changedFields": []
+  },
+  {
+    "id": "7b",
+    "tier": "Higher",
+    "decision": "revised",
+    "changedFields": [
+      "Higher",
+      "markingHigher"
+    ]
+  }
+]

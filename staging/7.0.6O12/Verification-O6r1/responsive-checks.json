@@ -1,0 +1,86 @@
+[
+  {
+    "part": "1. Inside the nucleus",
+    "buttons": true,
+    "overflow": false,
+    "uniqueIds": true,
+    "width": 1280
+  },
+  {
+    "part": "1. Inside the nucleus",
+    "buttons": true,
+    "overflow": false,
+    "uniqueIds": true,
+    "width": 768
+  },
+  {
+    "part": "1. Inside the nucleus",
+    "buttons": true,
+    "overflow": false,
+    "uniqueIds": true,
+    "width": 390
+  },
+  {
+    "part": "1. Inside the nucleus",
+    "buttons": true,
+    "overflow": false,
+    "uniqueIds": true,
+    "width": 320
+  },
+  {
+    "part": "2. One cell → two",
+    "buttons": true,
+    "overflow": false,
+    "uniqueIds": true,
+    "width": 1280
+  },
+  {
+    "part": "2. One cell → two",
+    "buttons": true,
+    "overflow": false,
+    "uniqueIds": true,
+    "width": 768
+  },
+  {
+    "part": "2. One cell → two",
+    "buttons": true,
+    "overflow": false,
+    "uniqueIds": true,
+    "width": 390
+  },
+  {
+    "part": "2. One cell → two",
+    "buttons": true,
+    "overflow": false,
+    "uniqueIds": true,
+    "width": 320
+  },
+  {
+    "part": "3. Stem cells & choices",
+    "buttons": true,
+    "overflow": false,
+    "uniqueIds": true,
+    "width": 1280
+  },
+  {
+    "part": "3. Stem cells & choices",
+    "buttons": true,
+    "overflow": false,
+    "uniqueIds": true,
+    "width": 768
+  },
+  {
+    "part": "3. Stem cells & choices",
+    "buttons": true,
+    "overflow": false,
+    "uniqueIds": true,
+    "width": 390
+  },
+  {
+    "part": "3. Stem cells & choices",
+    "buttons": true,
+    "overflow": false,
+    "uniqueIds": true,
+    "width": 320
+  }
+]

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="480" height="340" preserveAspectRatio="xMinYMin meet" viewBox="0 0 480 340" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="F-GILL-title F-GILL-desc"><title id="F-GILL-title">F-GILL · Gill folds</title><desc id="F-GILL-desc">Several long, thin tissue folds project into surrounding water. A connected blood channel runs inside each fold, separated from the water by a thin tissue boundary. Labels identify water, the boundary and blood channels; no explanation of their effects is printed.</desc>
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="480" height="340"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-340)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="20" y="54" width="440" height="230" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,95%,98%); fill-rule: evenodd;"/>
+			<text x="350" y="297" style="font-family: Arial; font-size: 20px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,594) scale(1,-1)">Water</text>
+			<rect x="70" y="70" width="35" height="194" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(89%,93%,90%); fill-rule: evenodd;"/>
+			<rect x="86" y="79" width="220" height="22" rx="11" ry="0" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(89%,93%,90%); fill-rule: evenodd;"/>
+			<path d="M 91,90 L 295,90 Z" style="stroke: rgb(70%,35%,40%); stroke-linecap: butt; stroke-width: 4;"/>
+			<rect x="86" y="119" width="220" height="22" rx="11" ry="0" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(89%,93%,90%); fill-rule: evenodd;"/>
+			<path d="M 91,130 L 295,130 Z" style="stroke: rgb(70%,35%,40%); stroke-linecap: butt; stroke-width: 4;"/>
+			<rect x="86" y="159" width="220" height="22" rx="11" ry="0" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(89%,93%,90%); fill-rule: evenodd;"/>
+			<path d="M 91,170 L 295,170 Z" style="stroke: rgb(70%,35%,40%); stroke-linecap: butt; stroke-width: 4;"/>
+			<rect x="86" y="199" width="220" height="22" rx="11" ry="0" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(89%,93%,90%); fill-rule: evenodd;"/>
+			<path d="M 91,210 L 295,210 Z" style="stroke: rgb(70%,35%,40%); stroke-linecap: butt; stroke-width: 4;"/>
+			<rect x="86" y="239" width="220" height="22" rx="11" ry="0" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(89%,93%,90%); fill-rule: evenodd;"/>
+			<path d="M 91,250 L 295,250 Z" style="stroke: rgb(70%,35%,40%); stroke-linecap: butt; stroke-width: 4;"/>
+			<path d="M 87,77 L 87,260 Z" style="stroke: rgb(70%,35%,40%); stroke-linecap: butt; stroke-width: 5;"/>
+			<text x="16" y="319" style="font-family: Arial; font-size: 20px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,638) scale(1,-1)">Section through gill folds</text>
+			<text x="321" y="225" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,450) scale(1,-1)">Thin tissue</text>
+			<text x="321" y="202" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,404) scale(1,-1)">boundary</text>
+			<polyline points="315 193, 285 180" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd;"/>
+			<text x="172.9921875" y="29" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,58) scale(1,-1)">Blood channels</text>
+			<polyline points="215 44, 182 91" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd;"/>
+			<text x="146.95458984375" y="7" style="font-family: Arial; font-size: 18px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,14) scale(1,-1)">Schematic, not to scale</text>
+		</g>
+	</g>
+</svg>

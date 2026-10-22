@@ -1,0 +1,291 @@
+[
+  {
+    "id": "8464-chemistry-atomic-structure-calc",
+    "subject": "Chemistry",
+    "type": "answer-units",
+    "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction.",
+    "metadata": {
+      "id": "8464-chemistry-atomic-structure-calc",
+      "kind": "question",
+      "subject": "Chemistry",
+      "topic": "Atomic Structure",
+      "section": null,
+      "declaredTier": "both",
+      "tier": "both",
+      "reason": "Reviewed standalone calculation/recall demand against the AQA Foundation exclusions.",
+      "fingerprint": "83ce092c"
+    }
+  },
+  {
+    "id": "8464-chemistry-bonding-calc",
+    "subject": "Chemistry",
+    "type": "answer-units",
+    "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction.",
+    "metadata": {
+      "id": "8464-chemistry-bonding-calc",
+      "kind": "question",
+      "subject": "Chemistry",
+      "topic": "Bonding",
+      "section": null,
+      "declaredTier": "both",
+      "tier": "both",
+      "reason": "Reviewed standalone calculation/recall demand against the AQA Foundation exclusions.",
+      "fingerprint": "afff634b"
+    }
+  },
+  {
+    "id": "8464-chemistry-quantitative-chemistry-calc",
+    "subject": "Chemistry",
+    "type": "answer-units",
+    "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction.",
+    "metadata": {
+      "id": "8464-chemistry-quantitative-chemistry-calc",
+      "kind": "question",
+      "subject": "Chemistry",
+      "topic": "Quantitative Chemistry",
+      "section": null,
+      "declaredTier": "both",
+      "tier": "higher",
+      "reason": "Reviewed standalone calculation/recall demand against the AQA Foundation exclusions.",
+      "fingerprint": "e2d32864"
+    }
+  },
+  {
+    "id": "8464-chemistry-chemical-changes-calc",
+    "subject": "Chemistry",
+    "type": "answer-units",
+    "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction.",
+    "metadata": {
+      "id": "8464-chemistry-chemical-changes-calc",
+      "kind": "question",
+      "subject": "Chemistry",
+      "topic": "Chemical Changes",
+      "section": null,
+      "declaredTier": "both",
+      "tier": "both",
+      "reason": "Reviewed standalone calculation/recall demand against the AQA Foundation exclusions.",
+      "fingerprint": "524adca0"
+    }
+  },
+  {
+    "id": "8464-chemistry-energy-changes-calc",
+    "subject": "Chemistry",
+    "type": "answer-units",
+    "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction.",
+    "metadata": {
+      "id": "8464-chemistry-energy-changes-calc",
+      "kind": "question",
+      "subject": "Chemistry",
+      "topic": "Energy Changes",
+      "section": null,
+      "declaredTier": "both",
+      "tier": "higher",
+      "reason": "Reviewed standalone calculation/recall demand against the AQA Foundation exclusions.",
+      "fingerprint": "a801e841"
+    }
+  },
+  {
+    "id": "8464-chemistry-rate-extent-of-chemical-change-calc",
+    "subject": "Chemistry",
+    "type": "answer-units",
+    "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction.",
+    "metadata": {
+      "id": "8464-chemistry-rate-extent-of-chemical-change-calc",
+      "kind": "question",
+      "subject": "Chemistry",
+      "topic": "Rate & Extent of Chemical Change",
+      "section": null,
+      "declaredTier": "both",
+      "tier": "both",
+      "reason": "Reviewed standalone calculation/recall demand against the AQA Foundation exclusions.",
+      "fingerprint": "90a81567"
+    }
+  },
+  {
+    "id": "8464-chemistry-organic-chemistry-calc",
+    "subject": "Chemistry",
+    "type": "answer-units",
+    "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction.",
+    "metadata": {
+      "id": "8464-chemistry-organic-chemistry-calc",
+      "kind": "question",
+      "subject": "Chemistry",
+      "topic": "Organic Chemistry",
+      "section": null,
+      "declaredTier": "both",
+      "tier": "both",
+      "reason": "Reviewed standalone calculation/recall demand against the AQA Foundation exclusions.",
+      "fingerprint": "e5fdf80c"
+    }
+  },
+  {
+    "id": "8464-chemistry-chemical-analysis-calc",
+    "subject": "Chemistry",
+    "type": "answer-units",
+    "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction.",
+    "metadata": {
+      "id": "8464-chemistry-chemical-analysis-calc",
+      "kind": "question",
+      "subject": "Chemistry",
+      "topic": "Chemical Analysis",
+      "section": null,
+      "declaredTier": "both",
+      "tier": "both",
+      "reason": "Reviewed standalone calculation/recall demand against the AQA Foundation exclusions.",
+      "fingerprint": "76418a65"
+    }
+  },
+  {
+    "id": "8464-chemistry-chemistry-of-the-atmosphere-calc",
+    "subject": "Chemistry",
+    "type": "answer-units",
+    "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction.",
+    "metadata": {
+      "id": "8464-chemistry-chemistry-of-the-atmosphere-calc",
+      "kind": "question",
+      "subject": "Chemistry",
+      "topic": "Chemistry of the Atmosphere",
+      "section": null,
+      "declaredTier": "both",
+      "tier": "both",
+      "reason": "Reviewed standalone calculation/recall demand against the AQA Foundation exclusions.",
+      "fingerprint": "02fd95a6"
+    }
+  },
+  {
+    "id": "8464-chemistry-using-resources-calc",
+    "subject": "Chemistry",
+    "type": "answer-units",
+    "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction.",
+    "metadata": {
+      "id": "8464-chemistry-using-resources-calc",
+      "kind": "question",
+      "subject": "Chemistry",
+      "topic": "Using Resources",
+      "section": null,
+      "declaredTier": "both",
+      "tier": "both",
+      "reason": "Reviewed standalone calculation/recall demand against the AQA Foundation exclusions.",
+      "fingerprint": "9c454d2a"
+    }
+  },
+  {
+    "id": "8464-physics-energy-calc",
+    "subject": "Physics",
+    "type": "answer-units",
+    "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction.",
+    "metadata": {
+      "id": "8464-physics-energy-calc",
+      "kind": "question",
+      "subject": "Physics",
+      "topic": "Energy",
+      "section": null,
+      "declaredTier": "both",
+      "tier": "both",
+      "reason": "Reviewed standalone calculation/recall demand against the AQA Foundation exclusions.",
+      "fingerprint": "93bdf76f"
+    }
+  },
+  {
+    "id": "8464-physics-electricity-calc",
+    "subject": "Physics",
+    "type": "answer-units",
+    "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction.",
+    "metadata": {
+      "id": "8464-physics-electricity-calc",
+      "kind": "question",
+      "subject": "Physics",
+      "topic": "Electricity",
+      "section": null,
+      "declaredTier": "both",
+      "tier": "both",
+      "reason": "Reviewed standalone calculation/recall demand against the AQA Foundation exclusions.",
+      "fingerprint": "5c93c468"
+    }
+  },
+  {
+    "id": "8464-physics-particle-model-calc",
+    "subject": "Physics",
+    "type": "answer-units",
+    "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction.",
+    "metadata": {
+      "id": "8464-physics-particle-model-calc",
+      "kind": "question",
+      "subject": "Physics",
+      "topic": "Particle Model",
+      "section": null,
+      "declaredTier": "both",
+      "tier": "both",
+      "reason": "Reviewed standalone calculation/recall demand against the AQA Foundation exclusions.",
+      "fingerprint": "50471fe7"
+    }
+  },
+  {
+    "id": "8464-physics-atomic-structure-calc",
+    "subject": "Physics",
+    "type": "answer-units",
+    "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction.",
+    "metadata": {
+      "id": "8464-physics-atomic-structure-calc",
+      "kind": "question",
+      "subject": "Physics",
+      "topic": "Atomic Structure",
+      "section": null,
+      "declaredTier": "both",
+      "tier": "higher",
+      "reason": "Reviewed standalone calculation/recall demand against the AQA Foundation exclusions.",
+      "fingerprint": "f877e2dd"
+    }
+  },
+  {
+    "id": "8464-physics-forces-calc",
+    "subject": "Physics",
+    "type": "answer-units",
+    "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction.",
+    "metadata": {
+      "id": "8464-physics-forces-calc",
+      "kind": "question",
+      "subject": "Physics",
+      "topic": "Forces",
+      "section": null,
+      "declaredTier": "both",
+      "tier": "both",
+      "reason": "Reviewed standalone calculation/recall demand against the AQA Foundation exclusions.",
+      "fingerprint": "d377fe56"
+    }
+  },
+  {
+    "id": "8464-physics-waves-calc",
+    "subject": "Physics",
+    "type": "answer-units",
+    "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction.",
+    "metadata": {
+      "id": "8464-physics-waves-calc",
+      "kind": "question",
+      "subject": "Physics",
+      "topic": "Waves",
+      "section": null,
+      "declaredTier": "both",
+      "tier": "both",
+      "reason": "Reviewed standalone calculation/recall demand against the AQA Foundation exclusions.",
+      "fingerprint": "205ee9f5"
+    }
+  },
+  {
+    "id": "8464-physics-magnetism-electromagnetism-calc",
+    "subject": "Physics",
+    "type": "answer-units",
+    "reason": "Answer aliases accept incompatible units; existing behaviour retained for separate correction.",
+    "metadata": {
+      "id": "8464-physics-magnetism-electromagnetism-calc",
+      "kind": "question",
+      "subject": "Physics",
+      "topic": "Magnetism & Electromagnetism",
+      "section": null,
+      "declaredTier": "both",
+      "tier": "both",
+      "reason": "Reviewed standalone calculation/recall demand against the AQA Foundation exclusions.",
+      "fingerprint": "5056e426"
+    }
+  }
+]

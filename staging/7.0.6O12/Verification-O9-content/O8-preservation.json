@@ -1,0 +1,2323 @@
+{
+  "all_o8_files_present": true,
+  "original_app_code_unchanged": true,
+  "osmosis_media_unchanged": true,
+  "files": [
+    {
+      "path": "biology-practice.js",
+      "o8_sha256": "9b0df899187dae18dc2e2eacff21392834204c3c5f7ed4ae5cabc133b84556cf",
+      "final_sha256": "9b0df899187dae18dc2e2eacff21392834204c3c5f7ed4ae5cabc133b84556cf",
+      "unchanged": true
+    },
+    {
+      "path": "journey-navigation.js",
+      "o8_sha256": "f0ef1ff99f26ad2934cd1f6a89b9442730a6d9548471e16a5f5e25afea400463",
+      "final_sha256": "f0ef1ff99f26ad2934cd1f6a89b9442730a6d9548471e16a5f5e25afea400463",
+      "unchanged": true
+    },
+    {
+      "path": "biology-coordination-completion.js",
+      "o8_sha256": "d72f05feb37f9d3791b4579526f2fbdc08e6cc9c4410cf1bff792240e2fc916c",
+      "final_sha256": "d72f05feb37f9d3791b4579526f2fbdc08e6cc9c4410cf1bff792240e2fc916c",
+      "unchanged": true
+    },
+    {
+      "path": "spec-audit.js",
+      "o8_sha256": "6997452188e6343b5e00f5f468e9971918ba569ccce2ba8f36a45fb9014a63f5",
+      "final_sha256": "6997452188e6343b5e00f5f468e9971918ba569ccce2ba8f36a45fb9014a63f5",
+      "unchanged": true
+    },
+    {
+      "path": "biology-core-gaps.js",
+      "o8_sha256": "f1a20ea19828adaa9f4663a130d5cefd66a97510fe18a67c26f0eacc8f684fda",
+      "final_sha256": "f1a20ea19828adaa9f4663a130d5cefd66a97510fe18a67c26f0eacc8f684fda",
+      "unchanged": true
+    },
+    {
+      "path": "biology-evolution-completion.js",
+      "o8_sha256": "245089a1adccee2377879439abbd2beb0b4d0b8b68ed6ad5db083ae28527e7c8",
+      "final_sha256": "245089a1adccee2377879439abbd2beb0b4d0b8b68ed6ad5db083ae28527e7c8",
+      "unchanged": true
+    },
+    {
+      "path": "BIOLOGY-COVERAGE-7.0.5Y.json",
+      "o8_sha256": "92597f92d61720b9f0f8271db8dde02887674accdfa3d4273253e4bd4625be50",
+      "final_sha256": "92597f92d61720b9f0f8271db8dde02887674accdfa3d4273253e4bd4625be50",
+      "unchanged": true
+    },
+    {
+      "path": "CELL-BIOLOGY-PREP-EVIDENCE.json",
+      "o8_sha256": "5c86eebd2ac51a108d9cb5f023c6efbe58127af14b61d063b8840b5ace6e747a",
+      "final_sha256": "5c86eebd2ac51a108d9cb5f023c6efbe58127af14b61d063b8840b5ace6e747a",
+      "unchanged": true
+    },
+    {
+      "path": "PROJECT-STATE.md",
+      "o8_sha256": "f1623ec1ff2a6bc7823843334b4fbf033a14202fcc46b1b81a083c3f3d781836",
+      "final_sha256": "f1623ec1ff2a6bc7823843334b4fbf033a14202fcc46b1b81a083c3f3d781836",
+      "unchanged": true
+    },
+    {
+      "path": "CELL-BIOLOGY-IMPLEMENTATION-MANIFEST.md",
+      "o8_sha256": "18d268d0efbf4de5fe0e9652251ba63ccf66694b78afd12e8f2377817f88d8da",
+      "final_sha256": "18d268d0efbf4de5fe0e9652251ba63ccf66694b78afd12e8f2377817f88d8da",
+      "unchanged": true
+    },
+    {
+      "path": "biology-cell-completion.js",
+      "o8_sha256": "ddc595e1ac57adb588c0959bd15a0b8d68ad3045a47dac787984b1a41c36b552",
+      "final_sha256": "ddc595e1ac57adb588c0959bd15a0b8d68ad3045a47dac787984b1a41c36b552",
+      "unchanged": true
+    },
+    {
+      "path": "biology-cards.js",
+      "o8_sha256": "40bcbff87f93a052afa1a03c04afbed120e4311e2eb169ad862a06d8eae62830",
+      "final_sha256": "40bcbff87f93a052afa1a03c04afbed120e4311e2eb169ad862a06d8eae62830",
+      "unchanged": true
+    },
+    {
+      "path": "cell-dashboard.js",
+      "o8_sha256": "343aa5333d2e506764cefa206352445b211597b244654a590b2a8f4edfc5d921",
+      "final_sha256": "343aa5333d2e506764cefa206352445b211597b244654a590b2a8f4edfc5d921",
+      "unchanged": true
+    },
+    {
+      "path": "PATHOGENS-SUMMARY-CLEANUP.md",
+      "o8_sha256": "18d5ec730c025e99ba3bc76f4e8f60368b05a4b4c2df5dc638efb57dc20b2cec",
+      "final_sha256": "18d5ec730c025e99ba3bc76f4e8f60368b05a4b4c2df5dc638efb57dc20b2cec",
+      "unchanged": true
+    },
+    {
+      "path": "cell-structures-tutor.css",
+      "o8_sha256": "3db881c5961ea00f777135918740f5e8cdbca8c927384c7b2a00e3acfe2fd598",
+      "final_sha256": "3db881c5961ea00f777135918740f5e8cdbca8c927384c7b2a00e3acfe2fd598",
+      "unchanged": true
+    },
+    {
+      "path": "learning-tools.js",
+      "o8_sha256": "1452a6895c5e5e2555c2fe945a4176a9aefe69a6a8e83153ca4286ea5b1ec48d",
+      "final_sha256": "1452a6895c5e5e2555c2fe945a4176a9aefe69a6a8e83153ca4286ea5b1ec48d",
+      "unchanged": true
+    },
+    {
+      "path": "BIOLOGY-COVERAGE-7.0.5U.json",
+      "o8_sha256": "26051bc2748467c8824ed9599e43595efdc38282147c25dbcff576501645ae4a",
+      "final_sha256": "26051bc2748467c8824ed9599e43595efdc38282147c25dbcff576501645ae4a",
+      "unchanged": true
+    },
+    {
+      "path": "COORDINATION-COMPLETION-Y.md",
+      "o8_sha256": "f7c36fd0ceab28d738b999e4b43f7f0c8d9a3d41575d4d92417c05fb22f46fe2",
+      "final_sha256": "f7c36fd0ceab28d738b999e4b43f7f0c8d9a3d41575d4d92417c05fb22f46fe2",
+      "unchanged": true
+    },
+    {
+      "path": "BUILD-O1a-REVIEW.md",
+      "o8_sha256": "d813c91dd8a4604d80460b2374faf3dadf0b95e1ab0951a8cb9d5988b87be6a2",
+      "final_sha256": "d813c91dd8a4604d80460b2374faf3dadf0b95e1ab0951a8cb9d5988b87be6a2",
+      "unchanged": true
+    },
+    {
+      "path": "biology-ecology-impact-completion.js",
+      "o8_sha256": "a22980f976ea4987501774f3adda4a8a9ef27c5ba2cb584a4e8caf5ff1a1b34d",
+      "final_sha256": "a22980f976ea4987501774f3adda4a8a9ef27c5ba2cb584a4e8caf5ff1a1b34d",
+      "unchanged": true
+    },
+    {
+      "path": "microscope-labelling.js",
+      "o8_sha256": "9c7b071f36232557b5de13da0942f780edd72c5106beed143855deb4485d8b95",
+      "final_sha256": "9c7b071f36232557b5de13da0942f780edd72c5106beed143855deb4485d8b95",
+      "unchanged": true
+    },
+    {
+      "path": "biology-plant-completion.js",
+      "o8_sha256": "c9b7e8086c5517f265b9cfe6544c8bbdcbefd3669ee263a07a82ee73a1f4455a",
+      "final_sha256": "c9b7e8086c5517f265b9cfe6544c8bbdcbefd3669ee263a07a82ee73a1f4455a",
+      "unchanged": true
+    },
+    {
+      "path": "Build-O4b3-review.md",
+      "o8_sha256": "ee9ee93332dce20cf8af66ae619825005fe73cfb823d7d28f00e39c9bd9afb79",
+      "final_sha256": "ee9ee93332dce20cf8af66ae619825005fe73cfb823d7d28f00e39c9bd9afb79",
+      "unchanged": true
+    },
+    {
+      "path": "microscope-tutor.css",
+      "o8_sha256": "c62168eb38c71fbe1bb73b6c5098a3ade4568c9e3dca912b06682c48725328b8",
+      "final_sha256": "c62168eb38c71fbe1bb73b6c5098a3ade4568c9e3dca912b06682c48725328b8",
+      "unchanged": true
+    },
+    {
+      "path": "NARRATED-OSMOSIS-7.0.6G.md",
+      "o8_sha256": "6d461f0f9e72d064b6c596a2a5ae0f2b972cd7e93a261748a4639291de938982",
+      "final_sha256": "6d461f0f9e72d064b6c596a2a5ae0f2b972cd7e93a261748a4639291de938982",
+      "unchanged": true
+    },
+    {
+      "path": "BLOOD-GLUCOSE-CLEANUP.md",
+      "o8_sha256": "2c786e56f8f0a89dcffbec793c88f7c09679be395c3bd88215359a78dc1e4024",
+      "final_sha256": "2c786e56f8f0a89dcffbec793c88f7c09679be395c3bd88215359a78dc1e4024",
+      "unchanged": true
+    },
+    {
+      "path": "index.html",
+      "o8_sha256": "4f71ea9ea7d4a1ac4450a65ac4a067aefc6a1f6565036130e5a0ac5e75d12622",
+      "final_sha256": "f0dcbdd0b686e54abab9b6724443a1d22684674525a93846414bee2b14df13d0",
+      "unchanged": false
+    },
+    {
+      "path": "BIOLOGY-COVERAGE-7.0.5T.json",
+      "o8_sha256": "688c60350a261b7956db03b5bf82fb877b97baa9308e55e6711b708a3d5baa58",
+      "final_sha256": "688c60350a261b7956db03b5bf82fb877b97baa9308e55e6711b708a3d5baa58",
+      "unchanged": true
+    },
+    {
+      "path": "OSMOSIS-VIDEO-7.0.6F.md",
+      "o8_sha256": "debbbf4b591fc97be99521ab9517097e4435f9d90f4c3488f1dbd1116636fd18",
+      "final_sha256": "debbbf4b591fc97be99521ab9517097e4435f9d90f4c3488f1dbd1116636fd18",
+      "unchanged": true
+    },
+    {
+      "path": "SUMMARY-BATCH-J.md",
+      "o8_sha256": "b2b029922b41ab7296e49231dc02b319c70783facb14ebe01d13857aa0275484",
+      "final_sha256": "b2b029922b41ab7296e49231dc02b319c70783facb14ebe01d13857aa0275484",
+      "unchanged": true
+    },
+    {
+      "path": "BUILD-O2-REVIEW.md",
+      "o8_sha256": "6de38325fdc6aef7b8cb0c4f37f1e1a3e43ef2aac828720ee42ee341bd455e16",
+      "final_sha256": "6de38325fdc6aef7b8cb0c4f37f1e1a3e43ef2aac828720ee42ee341bd455e16",
+      "unchanged": true
+    },
+    {
+      "path": "microscopy-calculations.css",
+      "o8_sha256": "773519c32f7df15a87175c14e00f7ec5477b25f500e0e49ac1f26e0670e45360",
+      "final_sha256": "773519c32f7df15a87175c14e00f7ec5477b25f500e0e49ac1f26e0670e45360",
+      "unchanged": true
+    },
+    {
+      "path": "biology-medicines-completion.js",
+      "o8_sha256": "3e63f4e28e35ec75d8b6fc1d15498eeba7577194056d4a0ec27c0da629a5d843",
+      "final_sha256": "3e63f4e28e35ec75d8b6fc1d15498eeba7577194056d4a0ec27c0da629a5d843",
+      "unchanged": true
+    },
+    {
+      "path": "REPRODUCTION-COMPLETION-REVIEW.json",
+      "o8_sha256": "88b128bde8605926cf5f4588d326f67dbbd95f49127449bf7c7c91af09c41b48",
+      "final_sha256": "88b128bde8605926cf5f4588d326f67dbbd95f49127449bf7c7c91af09c41b48",
+      "unchanged": true
+    },
+    {
+      "path": "exchange-tutor.js",
+      "o8_sha256": "1816695833bf44edf81daca26dedc5b8e6d35e34bf0aa6806517f33c4f65051b",
+      "final_sha256": "1816695833bf44edf81daca26dedc5b8e6d35e34bf0aa6806517f33c4f65051b",
+      "unchanged": true
+    },
+    {
+      "path": "coverage.js",
+      "o8_sha256": "61d8b9225a90bae9073354a1f1be327ea74c5404ae7255ac1211c17682648caa",
+      "final_sha256": "61d8b9225a90bae9073354a1f1be327ea74c5404ae7255ac1211c17682648caa",
+      "unchanged": true
+    },
+    {
+      "path": "BIOLOGY-COVERAGE-7.0.5X.json",
+      "o8_sha256": "6985404e597673754b0df048d98cf096d4c1c820f0778c069bf66b46aa187c0d",
+      "final_sha256": "6985404e597673754b0df048d98cf096d4c1c820f0778c069bf66b46aa187c0d",
+      "unchanged": true
+    },
+    {
+      "path": "BIOLOGY-COMPLETION-REVIEW.json",
+      "o8_sha256": "f7551ec9ff56ab533ebc2e05ba4faf66e94d6f372c5f06df81fa664994691132",
+      "final_sha256": "f7551ec9ff56ab533ebc2e05ba4faf66e94d6f372c5f06df81fa664994691132",
+      "unchanged": true
+    },
+    {
+      "path": "VERIFICATION-7.0.6D.json",
+      "o8_sha256": "8745c959a2a95a78da8eb2c81ec60d45aa16da4b5ad6d3dd40e3956c788e0613",
+      "final_sha256": "8745c959a2a95a78da8eb2c81ec60d45aa16da4b5ad6d3dd40e3956c788e0613",
+      "unchanged": true
+    },
+    {
+      "path": "BIOENERGETICS-COMPLETION-X.md",
+      "o8_sha256": "931782956a55eec4357f9526ba70638b807a7177fa4e38be8f77dbb2f5bb79cb",
+      "final_sha256": "931782956a55eec4357f9526ba70638b807a7177fa4e38be8f77dbb2f5bb79cb",
+      "unchanged": true
+    },
+    {
+      "path": "exchange-tutor.css",
+      "o8_sha256": "36568886c986151d86bc78dfa5b79a71f6464b57ff3fd5854227aa939c1f7dc9",
+      "final_sha256": "36568886c986151d86bc78dfa5b79a71f6464b57ff3fd5854227aa939c1f7dc9",
+      "unchanged": true
+    },
+    {
+      "path": "division-simple.js",
+      "o8_sha256": "d67101aa1324f1c079adc9565815a81a591dbc002a3bf9713a81fcf28c229a99",
+      "final_sha256": "d67101aa1324f1c079adc9565815a81a591dbc002a3bf9713a81fcf28c229a99",
+      "unchanged": true
+    },
+    {
+      "path": "PROJECT-STATE-O6.md",
+      "o8_sha256": "e33ca83d04058fc4174c8b4b2143d96b556597b0c790f10f3d4d05ce0867b3dc",
+      "final_sha256": "e33ca83d04058fc4174c8b4b2143d96b556597b0c790f10f3d4d05ce0867b3dc",
+      "unchanged": true
+    },
+    {
+      "path": "mcq-option-order.js",
+      "o8_sha256": "6df7f70a4fcf265510fe0f0ec68177a51a8eb154eb86381e4dae6f4370247d20",
+      "final_sha256": "6df7f70a4fcf265510fe0f0ec68177a51a8eb154eb86381e4dae6f4370247d20",
+      "unchanged": true
+    },
+    {
+      "path": "coverage.html",
+      "o8_sha256": "b679b2ce4159d512eb5a76494e0e8671111ae75f07f2aafdb826f449742bb1dd",
+      "final_sha256": "b679b2ce4159d512eb5a76494e0e8671111ae75f07f2aafdb826f449742bb1dd",
+      "unchanged": true
+    },
+    {
+      "path": "Preservation-O6.json",
+      "o8_sha256": "6f54a0652b7bc3263dd2f05da08f6f577c9845d5e004ccf1743831e946e698e9",
+      "final_sha256": "6f54a0652b7bc3263dd2f05da08f6f577c9845d5e004ccf1743831e946e698e9",
+      "unchanged": true
+    },
+    {
+      "path": "Build-O5-review.md",
+      "o8_sha256": "8916e27e0d6e96766ead1cca239c2094cc295659bda085da6ff478cda01cf9a7",
+      "final_sha256": "8916e27e0d6e96766ead1cca239c2094cc295659bda085da6ff478cda01cf9a7",
+      "unchanged": true
+    },
+    {
+      "path": "rp01-lab.js",
+      "o8_sha256": "7d58f32bc932342866b5174759778fac63305a30d15abba1ba83f50903e68a45",
+      "final_sha256": "7d58f32bc932342866b5174759778fac63305a30d15abba1ba83f50903e68a45",
+      "unchanged": true
+    },
+    {
+      "path": "MEDICINES-COMPLETION-REVIEW.json",
+      "o8_sha256": "d2e465189496e2439b792bfccd7b6df16ee7ee2e11f821adf7e756d0f5e83216",
+      "final_sha256": "d2e465189496e2439b792bfccd7b6df16ee7ee2e11f821adf7e756d0f5e83216",
+      "unchanged": true
+    },
+    {
+      "path": "CELL-BIOLOGY-IMPLEMENTATION-MANIFEST.json",
+      "o8_sha256": "b3b42c0430dfb92bf9f126b283e9e7a5ce00afcbb83673e6db422454cc03f0da",
+      "final_sha256": "b3b42c0430dfb92bf9f126b283e9e7a5ce00afcbb83673e6db422454cc03f0da",
+      "unchanged": true
+    },
+    {
+      "path": "Build-O4a1-review.md",
+      "o8_sha256": "f67344baeb14e9b6adcbf2879e2c35907d2dfffe36379cbdbb623bb1e5359a7e",
+      "final_sha256": "f67344baeb14e9b6adcbf2879e2c35907d2dfffe36379cbdbb623bb1e5359a7e",
+      "unchanged": true
+    },
+    {
+      "path": "Start Preview.command",
+      "o8_sha256": "1e7aac662f06a214eb079f6b578cfaf98278014c95822ebab294f549372fd156",
+      "final_sha256": "0fba4f3785c68f42984287fc7e54b75059ed92c3ee56f67407ce0fcb6a81929e",
+      "unchanged": false
+    },
+    {
+      "path": "osmosis-tutor.js",
+      "o8_sha256": "bbd34f10afa30a90d07b5646e4addb638652070e798270057b1c7d126be46c4f",
+      "final_sha256": "bbd34f10afa30a90d07b5646e4addb638652070e798270057b1c7d126be46c4f",
+      "unchanged": true
+    },
+    {
+      "path": "CELL-BIOLOGY-COMPLETION-Q.md",
+      "o8_sha256": "f38e44b9318172df44059da66537649c57be9aa4cd984ae969c2e20e8dff518b",
+      "final_sha256": "f38e44b9318172df44059da66537649c57be9aa4cd984ae969c2e20e8dff518b",
+      "unchanged": true
+    },
+    {
+      "path": "BIOLOGY-COVERAGE-7.0.5S.json",
+      "o8_sha256": "ce945a7f29ebc6ca8aef6011cbc26b5a7e07e7d1c08beb8804d35710f57023e3",
+      "final_sha256": "ce945a7f29ebc6ca8aef6011cbc26b5a7e07e7d1c08beb8804d35710f57023e3",
+      "unchanged": true
+    },
+    {
+      "path": "CIRCULATION-COMPLETION-REVIEW.json",
+      "o8_sha256": "20626d4c6a695b1d8996204b0a5ed3fbb595151cf12aa2ec494ff3514ceeb5f8",
+      "final_sha256": "20626d4c6a695b1d8996204b0a5ed3fbb595151cf12aa2ec494ff3514ceeb5f8",
+      "unchanged": true
+    },
+    {
+      "path": "design.css",
+      "o8_sha256": "eb0bb0dfa9e46cf345f563a997a43e7757b4c443c1f0455bb2f466e0f97c37d9",
+      "final_sha256": "eb0bb0dfa9e46cf345f563a997a43e7757b4c443c1f0455bb2f466e0f97c37d9",
+      "unchanged": true
+    },
+    {
+      "path": "CURRENT-BUILD 2.txt",
+      "o8_sha256": "7b3d537989473d1908781d321b8de2b826cf48a9dc8b1cfe9536c7ad08eb1c15",
+      "final_sha256": "7b3d537989473d1908781d321b8de2b826cf48a9dc8b1cfe9536c7ad08eb1c15",
+      "unchanged": true
+    },
+    {
+      "path": "Build-O4b4-review.md",
+      "o8_sha256": "4e6ab6db5a3bafb5afd3ec51e48717f90f10d6d6c94f0ea10040831aa491e267",
+      "final_sha256": "4e6ab6db5a3bafb5afd3ec51e48717f90f10d6d6c94f0ea10040831aa491e267",
+      "unchanged": true
+    },
+    {
+      "path": "division-tutor.css",
+      "o8_sha256": "c1b5afbef2c7a46a508642135263a73444e7451062501225cb94e0088323cb24",
+      "final_sha256": "c1b5afbef2c7a46a508642135263a73444e7451062501225cb94e0088323cb24",
+      "unchanged": true
+    },
+    {
+      "path": "cell-lesson-navigation.js",
+      "o8_sha256": "0604550f3e9eb4926dfd830e528c478b42203a0f8c7818797eaf573bc3234a56",
+      "final_sha256": "0604550f3e9eb4926dfd830e528c478b42203a0f8c7818797eaf573bc3234a56",
+      "unchanged": true
+    },
+    {
+      "path": "Build-Hollie-review.md",
+      "o8_sha256": "8173cb154e32baca9cf2c9e5558ed1ca7b9984adb2bde06037c877e8f366aa2c",
+      "final_sha256": "8173cb154e32baca9cf2c9e5558ed1ca7b9984adb2bde06037c877e8f366aa2c",
+      "unchanged": true
+    },
+    {
+      "path": "ADAPTIVE-FEEDBACK-7.0.6J.md",
+      "o8_sha256": "3dec762f7058b074bc7ffb440e111dca5a31d0cf4efdbb9ea54a1a9e974acad8",
+      "final_sha256": "3dec762f7058b074bc7ffb440e111dca5a31d0cf4efdbb9ea54a1a9e974acad8",
+      "unchanged": true
+    },
+    {
+      "path": "Build-Pip-2-review.md",
+      "o8_sha256": "2b4409142fbc77189be82d7d052a1d2b17d47e3d78396ce0744529f722be8e35",
+      "final_sha256": "2b4409142fbc77189be82d7d052a1d2b17d47e3d78396ce0744529f722be8e35",
+      "unchanged": true
+    },
+    {
+      "path": "diffusion-assessment.js",
+      "o8_sha256": "47a8c11650cb9d32fc4ec0fab0d2fa36fd01b8b0cfb521c308e5e20a142f45c8",
+      "final_sha256": "47a8c11650cb9d32fc4ec0fab0d2fa36fd01b8b0cfb521c308e5e20a142f45c8",
+      "unchanged": true
+    },
+    {
+      "path": "biology-question-bank.js",
+      "o8_sha256": "88961e6ecbd08357df696fcdfc0f1c8fd665f744b8d7e0d1fe63cd27c7ee71a1",
+      "final_sha256": "88961e6ecbd08357df696fcdfc0f1c8fd665f744b8d7e0d1fe63cd27c7ee71a1",
+      "unchanged": true
+    },
+    {
+      "path": "Build-O8-review.md",
+      "o8_sha256": "ee6dec0e6d8b74016b728ee3550580e883585eade73bca56754bcad4d3b1ccb6",
+      "final_sha256": "ee6dec0e6d8b74016b728ee3550580e883585eade73bca56754bcad4d3b1ccb6",
+      "unchanged": true
+    },
+    {
+      "path": "SPECIALISED-CELLS-MAPPING.md",
+      "o8_sha256": "55463cb4af54e764042cddae57b39b63e790e06bcb9eba8d22759cea1fe3d863",
+      "final_sha256": "55463cb4af54e764042cddae57b39b63e790e06bcb9eba8d22759cea1fe3d863",
+      "unchanged": true
+    },
+    {
+      "path": "assessment-ux.js",
+      "o8_sha256": "729d9cdb6f932633a9dbf0975364f0cba191c3c7b35bbf476353cc965488361f",
+      "final_sha256": "729d9cdb6f932633a9dbf0975364f0cba191c3c7b35bbf476353cc965488361f",
+      "unchanged": true
+    },
+    {
+      "path": "Build-O3a-review.md",
+      "o8_sha256": "712d859a3a939555c4e21d9c3c0f7a2567e334d3e6307841edb01b2f08af9339",
+      "final_sha256": "712d859a3a939555c4e21d9c3c0f7a2567e334d3e6307841edb01b2f08af9339",
+      "unchanged": true
+    },
+    {
+      "path": "division-assessment.js",
+      "o8_sha256": "e942cf6790fd92ad595736dabf0898c9f9e7a2a635c7e31ca3c88b8823aa496b",
+      "final_sha256": "e942cf6790fd92ad595736dabf0898c9f9e7a2a635c7e31ca3c88b8823aa496b",
+      "unchanged": true
+    },
+    {
+      "path": "science-courses.js",
+      "o8_sha256": "c5aec594f203fd1d18d66f221a63ff9e3faf067ce2e928404697491c318d97ef",
+      "final_sha256": "c5aec594f203fd1d18d66f221a63ff9e3faf067ce2e928404697491c318d97ef",
+      "unchanged": true
+    },
+    {
+      "path": "exchange-film.css",
+      "o8_sha256": "9b7bfaf623b6b7ad7d9c9f849adb989f2b649cdb0ff3894f6fd715ed133b253f",
+      "final_sha256": "9b7bfaf623b6b7ad7d9c9f849adb989f2b649cdb0ff3894f6fd715ed133b253f",
+      "unchanged": true
+    },
+    {
+      "path": "MCQ-AUTHORING.md",
+      "o8_sha256": "e8ea4019d9a089c271009ce81ab1ed642dcc56f96cf5e8bd47e9806d81d1b2b0",
+      "final_sha256": "e8ea4019d9a089c271009ce81ab1ed642dcc56f96cf5e8bd47e9806d81d1b2b0",
+      "unchanged": true
+    },
+    {
+      "path": "Build-O8-film-review.md",
+      "o8_sha256": "2b3058403433a27ed1db4b3650d4c91d1c2670e2fc9075ec3b13f885e57e2b2e",
+      "final_sha256": "2b3058403433a27ed1db4b3650d4c91d1c2670e2fc9075ec3b13f885e57e2b2e",
+      "unchanged": true
+    },
+    {
+      "path": "INHERITANCE-COMPLETION-REVIEW.json",
+      "o8_sha256": "cf609281af1f0eec7562dba7ba6c96188ee14abbd91f713b2889ee203b544442",
+      "final_sha256": "cf609281af1f0eec7562dba7ba6c96188ee14abbd91f713b2889ee203b544442",
+      "unchanged": true
+    },
+    {
+      "path": "BIOLOGY-COVERAGE-7.0.6A.json",
+      "o8_sha256": "de999638ab9703e6d8c64b9ee9e1b8a69dfcd47805de7db11a69c0498c3b3060",
+      "final_sha256": "de999638ab9703e6d8c64b9ee9e1b8a69dfcd47805de7db11a69c0498c3b3060",
+      "unchanged": true
+    },
+    {
+      "path": "BIOLOGY-COMPLETE-7.0.6D.md",
+      "o8_sha256": "c916f4b290b84055def2c6c529567c91448c4ef97f799b527b8c6618ff0ea515",
+      "final_sha256": "c916f4b290b84055def2c6c529567c91448c4ef97f799b527b8c6618ff0ea515",
+      "unchanged": true
+    },
+    {
+      "path": "INFECTION-COMPLETION-REVIEW.json",
+      "o8_sha256": "41926276df717c079d0c467f8f063494b913186209f948a440427ffa19769af9",
+      "final_sha256": "41926276df717c079d0c467f8f063494b913186209f948a440427ffa19769af9",
+      "unchanged": true
+    },
+    {
+      "path": "biology-ecology-field-completion.js",
+      "o8_sha256": "d994ab0187187650b0953d402cb097efbbd14f5ee54e3c2360623a20511bd058",
+      "final_sha256": "d994ab0187187650b0953d402cb097efbbd14f5ee54e3c2360623a20511bd058",
+      "unchanged": true
+    },
+    {
+      "path": "biology-extended-practice.js",
+      "o8_sha256": "ddd60be979b5ae698735bc240f195c26e14aab185b85a3afa632bad6656bae47",
+      "final_sha256": "ddd60be979b5ae698735bc240f195c26e14aab185b85a3afa632bad6656bae47",
+      "unchanged": true
+    },
+    {
+      "path": "Build-O4b2-review.md",
+      "o8_sha256": "b99deb5973908b244a99cde623ea224acde79bf8135f5e91c254b89141c5715d",
+      "final_sha256": "b99deb5973908b244a99cde623ea224acde79bf8135f5e91c254b89141c5715d",
+      "unchanged": true
+    },
+    {
+      "path": "TIER-CLEANUP.md",
+      "o8_sha256": "d921a183814f2fcd90e61aff655495f9ea4f11f30bfb5c665209687c0fb596e0",
+      "final_sha256": "d921a183814f2fcd90e61aff655495f9ea4f11f30bfb5c665209687c0fb596e0",
+      "unchanged": true
+    },
+    {
+      "path": "BUILD-O3-REVIEW.md",
+      "o8_sha256": "a065050d0d267bb1a3f782187003b5202d63fa78c1afd03512e5d845354cadfd",
+      "final_sha256": "a065050d0d267bb1a3f782187003b5202d63fa78c1afd03512e5d845354cadfd",
+      "unchanged": true
+    },
+    {
+      "path": "osmosis-tutor.css",
+      "o8_sha256": "1549a2a0a524e9649343d4e186b0fd64227b47b5d7f9af4b54e1f28ea26f6974",
+      "final_sha256": "1549a2a0a524e9649343d4e186b0fd64227b47b5d7f9af4b54e1f28ea26f6974",
+      "unchanged": true
+    },
+    {
+      "path": "MCQ-POSITION-AUDIT-W1.json",
+      "o8_sha256": "107cfd8b266dea623f296b474d1d33b0b6a9af8c5e2bda3abff5591dddc5d30f",
+      "final_sha256": "107cfd8b266dea623f296b474d1d33b0b6a9af8c5e2bda3abff5591dddc5d30f",
+      "unchanged": true
+    },
+    {
+      "path": "ECOLOGY-BATCH-K.md",
+      "o8_sha256": "e83f41584bbf08daadf3d77403d86aeb6f91d375b5eda5d55b036dff33e69e22",
+      "final_sha256": "e83f41584bbf08daadf3d77403d86aeb6f91d375b5eda5d55b036dff33e69e22",
+      "unchanged": true
+    },
+    {
+      "path": "biology-circulation-completion.js",
+      "o8_sha256": "5b3b636036dc50d055f53d33b29a304ab68990fda77a81742889aae0374513fc",
+      "final_sha256": "5b3b636036dc50d055f53d33b29a304ab68990fda77a81742889aae0374513fc",
+      "unchanged": true
+    },
+    {
+      "path": "FOUNDATION-AUDIT.md",
+      "o8_sha256": "a6cb6826b853ccf3058c3753dacef6f2fb71fc55df19d020d5584dc675e617bf",
+      "final_sha256": "a6cb6826b853ccf3058c3753dacef6f2fb71fc55df19d020d5584dc675e617bf",
+      "unchanged": true
+    },
+    {
+      "path": "specialised-cells-tutor.css",
+      "o8_sha256": "d50e07f40fb52365ff509e7e5183e1cb2c139067791d18abc8129a0cb7a42334",
+      "final_sha256": "d50e07f40fb52365ff509e7e5183e1cb2c139067791d18abc8129a0cb7a42334",
+      "unchanged": true
+    },
+    {
+      "path": "specialised-cells-data.js",
+      "o8_sha256": "ffe3ee5c858507b5e2e0ecdc40cbd15fc76700f047f4fc4276f0845889660155",
+      "final_sha256": "ffe3ee5c858507b5e2e0ecdc40cbd15fc76700f047f4fc4276f0845889660155",
+      "unchanged": true
+    },
+    {
+      "path": "PROJECT-STATE-O7.md",
+      "o8_sha256": "5ecc1147bfeb6a30883d2edfb31a79ce9d5c6cf8f29f7647354ae16ec89eb600",
+      "final_sha256": "5ecc1147bfeb6a30883d2edfb31a79ce9d5c6cf8f29f7647354ae16ec89eb600",
+      "unchanged": true
+    },
+    {
+      "path": "TRANSPORT-COMPLETION-REVIEW.json",
+      "o8_sha256": "57d52b1aa751ea6874c50e59b42514e1bea4ccf892a54ed11abe04e779d50f05",
+      "final_sha256": "57d52b1aa751ea6874c50e59b42514e1bea4ccf892a54ed11abe04e779d50f05",
+      "unchanged": true
+    },
+    {
+      "path": "spec-audit-admin.js",
+      "o8_sha256": "d2eedf1874aa323f1b4cb3138b65e949529f4a41e150144ea6750ae109d82f94",
+      "final_sha256": "d2eedf1874aa323f1b4cb3138b65e949529f4a41e150144ea6750ae109d82f94",
+      "unchanged": true
+    },
+    {
+      "path": "rp01-lab.css",
+      "o8_sha256": "118a8d9897d0d2aa49777d7ab0dda5fbdd0672f72e337196e5a7c816217b6af3",
+      "final_sha256": "118a8d9897d0d2aa49777d7ab0dda5fbdd0672f72e337196e5a7c816217b6af3",
+      "unchanged": true
+    },
+    {
+      "path": "BIOLOGY-COVERAGE-7.0.5R.json",
+      "o8_sha256": "37b986d954ae3ceb3106d395e4566e29f63bda52b7f3e017e7ad608da5fe3a50",
+      "final_sha256": "37b986d954ae3ceb3106d395e4566e29f63bda52b7f3e017e7ad608da5fe3a50",
+      "unchanged": true
+    },
+    {
+      "path": "DEFENCES-SUMMARY-CLEANUP.md",
+      "o8_sha256": "ec179bdef361943150e1f11fc1322bc58a60185f9470e8f556e15dc1bef5055a",
+      "final_sha256": "ec179bdef361943150e1f11fc1322bc58a60185f9470e8f556e15dc1bef5055a",
+      "unchanged": true
+    },
+    {
+      "path": "lesson-percentage-feedback.js",
+      "o8_sha256": "f4b4d84c6e237fe7b728fbc245f13e6aa592a11bb00d700ba40aa6a952d97289",
+      "final_sha256": "f4b4d84c6e237fe7b728fbc245f13e6aa592a11bb00d700ba40aa6a952d97289",
+      "unchanged": true
+    },
+    {
+      "path": "BUILD-M-REVIEW.md",
+      "o8_sha256": "adbdafc7fcd5b0b529db984b37735ffdb22fcdca4b23d75e47e2ba14d53cb3e6",
+      "final_sha256": "adbdafc7fcd5b0b529db984b37735ffdb22fcdca4b23d75e47e2ba14d53cb3e6",
+      "unchanged": true
+    },
+    {
+      "path": "foundation-tier-data.js",
+      "o8_sha256": "952a15150fd55c4a2c380cd59c4383d9cf777064ac6b7c66a5d8f92c889bba16",
+      "final_sha256": "952a15150fd55c4a2c380cd59c4383d9cf777064ac6b7c66a5d8f92c889bba16",
+      "unchanged": true
+    },
+    {
+      "path": "BIOLOGY-CONSOLIDATION-N.md",
+      "o8_sha256": "c30ee1ccc70337a9f76792ee6805bd7dd27f9e6335492e91cb8e52a877113cff",
+      "final_sha256": "c30ee1ccc70337a9f76792ee6805bd7dd27f9e6335492e91cb8e52a877113cff",
+      "unchanged": true
+    },
+    {
+      "path": "biology-digestion-completion.js",
+      "o8_sha256": "e49a6180655d21e05c97984e24d59d082d8ae28fb2fa8b66d132646943049bd4",
+      "final_sha256": "e49a6180655d21e05c97984e24d59d082d8ae28fb2fa8b66d132646943049bd4",
+      "unchanged": true
+    },
+    {
+      "path": "curriculum.js",
+      "o8_sha256": "6036c2a200e0244adb97123d82823ec50b9a151cd60ccca25ae47f2fb67bc036",
+      "final_sha256": "6036c2a200e0244adb97123d82823ec50b9a151cd60ccca25ae47f2fb67bc036",
+      "unchanged": true
+    },
+    {
+      "path": "biology-reproduction-completion.js",
+      "o8_sha256": "fe6ba3cc68a60711a29d86457c146bb43771584cf06f67f9fda1169a02386fef",
+      "final_sha256": "fe6ba3cc68a60711a29d86457c146bb43771584cf06f67f9fda1169a02386fef",
+      "unchanged": true
+    },
+    {
+      "path": "README.md",
+      "o8_sha256": "6d6a49ee66db499a9e07332a9ecd1fbded713390f4db1df2f91b82cc78359e3b",
+      "final_sha256": "6d6a49ee66db499a9e07332a9ecd1fbded713390f4db1df2f91b82cc78359e3b",
+      "unchanged": true
+    },
+    {
+      "path": "cell-dashboard.css",
+      "o8_sha256": "2b8431b4d04dd3a217ca63ab330155c4b970ea8e4c8747d06694042f37f33a42",
+      "final_sha256": "2b8431b4d04dd3a217ca63ab330155c4b970ea8e4c8747d06694042f37f33a42",
+      "unchanged": true
+    },
+    {
+      "path": "BIOLOGY-COVERAGE-7.0.5Q.json",
+      "o8_sha256": "a1c65f07e118f032ad70f37369f4fc3cfd92920cffc741594a88d025472ea248",
+      "final_sha256": "a1c65f07e118f032ad70f37369f4fc3cfd92920cffc741594a88d025472ea248",
+      "unchanged": true
+    },
+    {
+      "path": "biology.js",
+      "o8_sha256": "b7a01334828bf1c70858017a7096a7000c548890f91f661531d23a70e4db748b",
+      "final_sha256": "b7a01334828bf1c70858017a7096a7000c548890f91f661531d23a70e4db748b",
+      "unchanged": true
+    },
+    {
+      "path": "BIOLOGY-REPAIR-REUSE-O.md",
+      "o8_sha256": "2db2d6231ac6a97ff385201add893389bb5f987e721d14f435d95508ac617b92",
+      "final_sha256": "2db2d6231ac6a97ff385201add893389bb5f987e721d14f435d95508ac617b92",
+      "unchanged": true
+    },
+    {
+      "path": "COORDINATION-COMPLETION-REVIEW.json",
+      "o8_sha256": "d85bef6ba661c19a9e7b730e76373befd5cd6d1119f8686136c5fe42310bdf51",
+      "final_sha256": "d85bef6ba661c19a9e7b730e76373befd5cd6d1119f8686136c5fe42310bdf51",
+      "unchanged": true
+    },
+    {
+      "path": "mcq-option-order-data.js",
+      "o8_sha256": "2a09ceb3173e5c12dcf2f43e99621b439d8f6a58d56737735b10ffb06545686b",
+      "final_sha256": "2a09ceb3173e5c12dcf2f43e99621b439d8f6a58d56737735b10ffb06545686b",
+      "unchanged": true
+    },
+    {
+      "path": "CELL-BIOLOGY-COMPLETION-REVIEW.json",
+      "o8_sha256": "5a14064b6a28272e399120bf8c6acd9351c85b3b43826d9b51835601dec203ea",
+      "final_sha256": "5a14064b6a28272e399120bf8c6acd9351c85b3b43826d9b51835601dec203ea",
+      "unchanged": true
+    },
+    {
+      "path": "microscopy-calculations.js",
+      "o8_sha256": "b41340d5c3bb39b950399d40541520a36ebd34f7e364a9c6d93f95053c4856c1",
+      "final_sha256": "b41340d5c3bb39b950399d40541520a36ebd34f7e364a9c6d93f95053c4856c1",
+      "unchanged": true
+    },
+    {
+      "path": "Build-O6-review.md",
+      "o8_sha256": "0ff695aeec92be6606b056800ded78a95f83a4f65948357506df9048ebfafa83",
+      "final_sha256": "0ff695aeec92be6606b056800ded78a95f83a4f65948357506df9048ebfafa83",
+      "unchanged": true
+    },
+    {
+      "path": "BIOLOGY-COVERAGE-7.0.6B.json",
+      "o8_sha256": "4cd108fdf66d377bf29cd6dcddaf4945bb2ce9fb3f8c3490101872aac7a6edd9",
+      "final_sha256": "4cd108fdf66d377bf29cd6dcddaf4945bb2ce9fb3f8c3490101872aac7a6edd9",
+      "unchanged": true
+    },
+    {
+      "path": "cell-structures-tutor.js",
+      "o8_sha256": "83727fb7c41e4c81a6128cc25a9901c9555ccf112925775d280e64cc8051319d",
+      "final_sha256": "83727fb7c41e4c81a6128cc25a9901c9555ccf112925775d280e64cc8051319d",
+      "unchanged": true
+    },
+    {
+      "path": "maths.js",
+      "o8_sha256": "4206609155a54a1de3e822d59af63d907fc202553d0048d42d8e49169c817c30",
+      "final_sha256": "4206609155a54a1de3e822d59af63d907fc202553d0048d42d8e49169c817c30",
+      "unchanged": true
+    },
+    {
+      "path": "Build-O3b-review.md",
+      "o8_sha256": "b128e4c6ecd092cf227f52eccf5a00347335bf2ce2ce9f18f54bd1325ac97a44",
+      "final_sha256": "b128e4c6ecd092cf227f52eccf5a00347335bf2ce2ce9f18f54bd1325ac97a44",
+      "unchanged": true
+    },
+    {
+      "path": "SUMMARY-BATCH-G.md",
+      "o8_sha256": "7fb58aef719edfe590fff7e9b37cfc2fe68da7624ccc31504c1d44d9daf99574",
+      "final_sha256": "7fb58aef719edfe590fff7e9b37cfc2fe68da7624ccc31504c1d44d9daf99574",
+      "unchanged": true
+    },
+    {
+      "path": "cells-tutor.css",
+      "o8_sha256": "4fa95d822fe1b26601a8c55b9df8a21d8f9ed8961cc79749aafd369259b440c0",
+      "final_sha256": "4fa95d822fe1b26601a8c55b9df8a21d8f9ed8961cc79749aafd369259b440c0",
+      "unchanged": true
+    },
+    {
+      "path": "Build-O6r1-review.md",
+      "o8_sha256": "85c95928851fa56ebbc2fbe8ca200c0bcc9101d9b923794aaa8ceabc6d5427e5",
+      "final_sha256": "85c95928851fa56ebbc2fbe8ca200c0bcc9101d9b923794aaa8ceabc6d5427e5",
+      "unchanged": true
+    },
+    {
+      "path": "BUILD-O2-REVIEW-UPDATE.md",
+      "o8_sha256": "d006e25ef31b4c9d9c2812c11fb20312c820889f158436264fce18dd3975799c",
+      "final_sha256": "d006e25ef31b4c9d9c2812c11fb20312c820889f158436264fce18dd3975799c",
+      "unchanged": true
+    },
+    {
+      "path": ".gitignore",
+      "o8_sha256": "6bd1cb166be73a808bae1d7b47d3fc25e0b76f1c721a0749a1dc33b1cc3938bc",
+      "final_sha256": "6bd1cb166be73a808bae1d7b47d3fc25e0b76f1c721a0749a1dc33b1cc3938bc",
+      "unchanged": true
+    },
+    {
+      "path": "package.json",
+      "o8_sha256": "5290ae8ac5d7cc61d7ae716e5e59ff81121887fca69eeec5f48a947e3fda82fe",
+      "final_sha256": "0adfa95741065dcd839ff5bf63d4e0b2e451af8f79937cf68ce00eadbdc3b361",
+      "unchanged": false
+    },
+    {
+      "path": "BIOLOGY-REPAIR-PREPARATION-P.md",
+      "o8_sha256": "daef0d1f46fcdd061e97a380623608497a86d7c367ca20ce6c47688106dc4568",
+      "final_sha256": "daef0d1f46fcdd061e97a380623608497a86d7c367ca20ce6c47688106dc4568",
+      "unchanged": true
+    },
+    {
+      "path": "ECOLOGY-BATCH-L.md",
+      "o8_sha256": "8632671769757a515c9f13119cda788cabb8ce893aa7952a9092f14b53f074ce",
+      "final_sha256": "8632671769757a515c9f13119cda788cabb8ce893aa7952a9092f14b53f074ce",
+      "unchanged": true
+    },
+    {
+      "path": "REMAINING-TIER-ISSUES.json",
+      "o8_sha256": "565d6511d85a492f6ae12f77cc0582d6c4a609c33044955c157a327c14fffd3b",
+      "final_sha256": "565d6511d85a492f6ae12f77cc0582d6c4a609c33044955c157a327c14fffd3b",
+      "unchanged": true
+    },
+    {
+      "path": "PROJECT-STATE-O5.md",
+      "o8_sha256": "d08d62d1fc83cd5a00eb0ba472aeac90f27a97d4df409472fcfeb0605c46853a",
+      "final_sha256": "d08d62d1fc83cd5a00eb0ba472aeac90f27a97d4df409472fcfeb0605c46853a",
+      "unchanged": true
+    },
+    {
+      "path": "Build-O3b-O4a-review.md",
+      "o8_sha256": "d47de7a65c00594912e47a40d0c725d3266c6ac0ac407cce46d759441a9875fa",
+      "final_sha256": "d47de7a65c00594912e47a40d0c725d3266c6ac0ac407cce46d759441a9875fa",
+      "unchanged": true
+    },
+    {
+      "path": "OSMOSIS-BENCHMARK-7.0.6E.md",
+      "o8_sha256": "6edce22dd894f8bc4a7c1c3b724c5822b28a3b4b52f7867d3561012776a58812",
+      "final_sha256": "6edce22dd894f8bc4a7c1c3b724c5822b28a3b4b52f7867d3561012776a58812",
+      "unchanged": true
+    },
+    {
+      "path": "biology-infection-completion.js",
+      "o8_sha256": "7ddf5d366aebe2df1087c4e0d1334a0db508960eb2e442edff51714fd8ef9d6f",
+      "final_sha256": "7ddf5d366aebe2df1087c4e0d1334a0db508960eb2e442edff51714fd8ef9d6f",
+      "unchanged": true
+    },
+    {
+      "path": "BIOLOGY-BATCH-M.md",
+      "o8_sha256": "6c9e9aca9b58d97216bd70876cdcfc7b15bc8ad94215620ce01403030a5d5741",
+      "final_sha256": "6c9e9aca9b58d97216bd70876cdcfc7b15bc8ad94215620ce01403030a5d5741",
+      "unchanged": true
+    },
+    {
+      "path": "Build-O4b1-review.md",
+      "o8_sha256": "b61559147eac11c5377b28a5043b61455f120bf33ad0d79ab8db0638d9fc4dda",
+      "final_sha256": "b61559147eac11c5377b28a5043b61455f120bf33ad0d79ab8db0638d9fc4dda",
+      "unchanged": true
+    },
+    {
+      "path": "coverage-admin.js",
+      "o8_sha256": "73020bfb127805658f1f508095755fb1dafdd29d19a354b49f70fd81713e3401",
+      "final_sha256": "73020bfb127805658f1f508095755fb1dafdd29d19a354b49f70fd81713e3401",
+      "unchanged": true
+    },
+    {
+      "path": "BIOLOGY-COVERAGE-7.0.6C.json",
+      "o8_sha256": "9fe6f79ed71db9b24726d1cbde59e1983060dce44d016d19740f10c905cc0a31",
+      "final_sha256": "9fe6f79ed71db9b24726d1cbde59e1983060dce44d016d19740f10c905cc0a31",
+      "unchanged": true
+    },
+    {
+      "path": "common-content.js",
+      "o8_sha256": "3dbf21a0b86f8f070919001364381e17ca0c5f23969401e97550efed07147029",
+      "final_sha256": "3dbf21a0b86f8f070919001364381e17ca0c5f23969401e97550efed07147029",
+      "unchanged": true
+    },
+    {
+      "path": "INFECTION-COMPLETION-V.md",
+      "o8_sha256": "43795bc0e1c88f57afca5ed78c2e30fb320eddf9490e156fbb368268439c4e9c",
+      "final_sha256": "43795bc0e1c88f57afca5ed78c2e30fb320eddf9490e156fbb368268439c4e9c",
+      "unchanged": true
+    },
+    {
+      "path": "exchange-film.js",
+      "o8_sha256": "3d32d34e394e8c58a15a7d6dbb874646f8566bbd72d84c5e5fa70e09d9001f9e",
+      "final_sha256": "3d32d34e394e8c58a15a7d6dbb874646f8566bbd72d84c5e5fa70e09d9001f9e",
+      "unchanged": true
+    },
+    {
+      "path": "EVOLUTION-COMPLETION-REVIEW.json",
+      "o8_sha256": "b224dca7aaae1c9d7ca963bfcec7ff74f5d7521ac938e76f647a47ddcc2aca59",
+      "final_sha256": "b224dca7aaae1c9d7ca963bfcec7ff74f5d7521ac938e76f647a47ddcc2aca59",
+      "unchanged": true
+    },
+    {
+      "path": "MEDICINES-COMPLETION-W.md",
+      "o8_sha256": "266528dee400a5401cbdea34d03344ebf24772aa14f3baffd83f7a75fa26e404",
+      "final_sha256": "266528dee400a5401cbdea34d03344ebf24772aa14f3baffd83f7a75fa26e404",
+      "unchanged": true
+    },
+    {
+      "path": "BIOLOGY-COVERAGE-7.0.5P.json",
+      "o8_sha256": "171a76b8a3016c17a4b157610d4cd76c666436ad3980183517ca2f1c6ebec274",
+      "final_sha256": "171a76b8a3016c17a4b157610d4cd76c666436ad3980183517ca2f1c6ebec274",
+      "unchanged": true
+    },
+    {
+      "path": "README.txt",
+      "o8_sha256": "9818cb616438c6a76540ba748252db97dd962a07056f5aabf6de2c5d187674ad",
+      "final_sha256": "095c3984cd93b7b01f18bc0b667d5510001faf41354f63ae16aeb13bc9aa3b28",
+      "unchanged": false
+    },
+    {
+      "path": "biology-transport-completion.js",
+      "o8_sha256": "ced32b7c35e6ac6fe4dcd8b1a5512d949ae90ebb299fa3db841ba5be99eff746",
+      "final_sha256": "ced32b7c35e6ac6fe4dcd8b1a5512d949ae90ebb299fa3db841ba5be99eff746",
+      "unchanged": true
+    },
+    {
+      "path": "foundation-tier.js",
+      "o8_sha256": "59b37876255237933fd6ca5ff897cbcb9c12fa282ef1936eb47c6c1cae3a72cc",
+      "final_sha256": "59b37876255237933fd6ca5ff897cbcb9c12fa282ef1936eb47c6c1cae3a72cc",
+      "unchanged": true
+    },
+    {
+      "path": "PLANT-COMPLETION-U.md",
+      "o8_sha256": "5805db3e5b082ad637b0d854b585da70430d7c9ff1ce05acdb026e957f3f7115",
+      "final_sha256": "5805db3e5b082ad637b0d854b585da70430d7c9ff1ce05acdb026e957f3f7115",
+      "unchanged": true
+    },
+    {
+      "path": "diffusion-tutor.js",
+      "o8_sha256": "5068690ba20f1d15389cb6ed6919eab064f190bb78fe00258e93a7eb3e232241",
+      "final_sha256": "5068690ba20f1d15389cb6ed6919eab064f190bb78fe00258e93a7eb3e232241",
+      "unchanged": true
+    },
+    {
+      "path": "BIOLOGY-COVERAGE-7.0.6D.json",
+      "o8_sha256": "cfbe39daafccaeac27c8c2716190115c86f800fd564661dbabab05cd8af6fc75",
+      "final_sha256": "cfbe39daafccaeac27c8c2716190115c86f800fd564661dbabab05cd8af6fc75",
+      "unchanged": true
+    },
+    {
+      "path": "BUILD-N-STRUCTURAL-CORRECTIONS-REVIEW.md",
+      "o8_sha256": "3f96ab75d7fc5933521f28a99b113e9dfaba8f48a62df9e748e2b99681f92b77",
+      "final_sha256": "3f96ab75d7fc5933521f28a99b113e9dfaba8f48a62df9e748e2b99681f92b77",
+      "unchanged": true
+    },
+    {
+      "path": "biology-inheritance-completion.js",
+      "o8_sha256": "e6410045aafefd7f2656c92905ff608dd2152176e401843499f532183b0ea4f5",
+      "final_sha256": "e6410045aafefd7f2656c92905ff608dd2152176e401843499f532183b0ea4f5",
+      "unchanged": true
+    },
+    {
+      "path": "TRANSPORT-COMPLETION-R.md",
+      "o8_sha256": "18b28f4f631a88634f76e89a986a69f4e6b296f7b775ed9216c291ec14e420e7",
+      "final_sha256": "18b28f4f631a88634f76e89a986a69f4e6b296f7b775ed9216c291ec14e420e7",
+      "unchanged": true
+    },
+    {
+      "path": "HOMEOSTASIS-BATCH-H.md",
+      "o8_sha256": "902e85210bac579ef823af2e7b438240d40bf4c5f6375deeb1bb2ec524d0c3b9",
+      "final_sha256": "902e85210bac579ef823af2e7b438240d40bf4c5f6375deeb1bb2ec524d0c3b9",
+      "unchanged": true
+    },
+    {
+      "path": "MCQ-POSITION-QUALITY-W1.md",
+      "o8_sha256": "9d2dcc7ddd41865b0529a77f0a66c0b2db89e44910ff27ce6ac9a22926684c93",
+      "final_sha256": "9d2dcc7ddd41865b0529a77f0a66c0b2db89e44910ff27ce6ac9a22926684c93",
+      "unchanged": true
+    },
+    {
+      "path": "USAGE-CHECKPOINTS.md",
+      "o8_sha256": "555106e046d8796a0780563f2dab8e081ce3992f7f2cb9b47f310ee5a7c4175a",
+      "final_sha256": "555106e046d8796a0780563f2dab8e081ce3992f7f2cb9b47f310ee5a7c4175a",
+      "unchanged": true
+    },
+    {
+      "path": "Build-O7-review.md",
+      "o8_sha256": "47b24ae303209e84be0c481d4e96ed392828cd510e80e58d4df1e566a4f50c83",
+      "final_sha256": "47b24ae303209e84be0c481d4e96ed392828cd510e80e58d4df1e566a4f50c83",
+      "unchanged": true
+    },
+    {
+      "path": "INHERITANCE-BATCH-I.md",
+      "o8_sha256": "3ebf743e616a4ffa4b34c566a6eccd4d95c38328da3b765145cdba25b7048910",
+      "final_sha256": "3ebf743e616a4ffa4b34c566a6eccd4d95c38328da3b765145cdba25b7048910",
+      "unchanged": true
+    },
+    {
+      "path": "DIGESTION-COMPLETION-S.md",
+      "o8_sha256": "fcbd7f04be4497f1809e03f2b51a7c85e02b4cf9fc72a54890d31d4d4aa9f29e",
+      "final_sha256": "fcbd7f04be4497f1809e03f2b51a7c85e02b4cf9fc72a54890d31d4d4aa9f29e",
+      "unchanged": true
+    },
+    {
+      "path": "cell-journey.js",
+      "o8_sha256": "6b1602ebcf49b99850feedf007b0c2864ffa7bf77d3c6b85a11f2676db0527bf",
+      "final_sha256": "6b1602ebcf49b99850feedf007b0c2864ffa7bf77d3c6b85a11f2676db0527bf",
+      "unchanged": true
+    },
+    {
+      "path": "CIRCULATION-COMPLETION-T.md",
+      "o8_sha256": "077bb63c3a5afc21ac40eb43ff68b0d108004e5b085ba116003b8a78a7acb736",
+      "final_sha256": "077bb63c3a5afc21ac40eb43ff68b0d108004e5b085ba116003b8a78a7acb736",
+      "unchanged": true
+    },
+    {
+      "path": "biology-bioenergetics-completion.js",
+      "o8_sha256": "21cd9d7a33e735be0e6506af167d4f1595c1a4eaf32d86c4ceef327fc96cfab2",
+      "final_sha256": "21cd9d7a33e735be0e6506af167d4f1595c1a4eaf32d86c4ceef327fc96cfab2",
+      "unchanged": true
+    },
+    {
+      "path": "STABLE-CONDITIONS-CLEANUP.md",
+      "o8_sha256": "5b187f9fcbb24186d37234db0cbd0a3d250fa0c4c1f4422a8a650a99d69ccfcd",
+      "final_sha256": "5b187f9fcbb24186d37234db0cbd0a3d250fa0c4c1f4422a8a650a99d69ccfcd",
+      "unchanged": true
+    },
+    {
+      "path": "BIOENERGETICS-COMPLETION-REVIEW.json",
+      "o8_sha256": "971829ca4ff3c9969099af4fb3c6a2b8b92442ccc8eadf987361b4b9a8408511",
+      "final_sha256": "971829ca4ff3c9969099af4fb3c6a2b8b92442ccc8eadf987361b4b9a8408511",
+      "unchanged": true
+    },
+    {
+      "path": "specialised-cells-tutor.js",
+      "o8_sha256": "1424a9f1d380fcb83ca2091b06ee05effccb3039a71e66fe979484e5943cc709",
+      "final_sha256": "1424a9f1d380fcb83ca2091b06ee05effccb3039a71e66fe979484e5943cc709",
+      "unchanged": true
+    },
+    {
+      "path": "exam-resources.js",
+      "o8_sha256": "a91b52c007119f1acbc1b3e2128edd42dab50f1ae265bca601b539599e9bee0d",
+      "final_sha256": "a91b52c007119f1acbc1b3e2128edd42dab50f1ae265bca601b539599e9bee0d",
+      "unchanged": true
+    },
+    {
+      "path": "cells-tutor.js",
+      "o8_sha256": "64cd6c6b0e00e6d776483db81e372ab5b8c6f5e2a2cd9941adcaa8361914050e",
+      "final_sha256": "64cd6c6b0e00e6d776483db81e372ab5b8c6f5e2a2cd9941adcaa8361914050e",
+      "unchanged": true
+    },
+    {
+      "path": "DIGESTION-COMPLETION-REVIEW.json",
+      "o8_sha256": "1675512e2342f9643f3800e36e17398dbb8ff4dcb145b8e538e633b5c2fcf6d5",
+      "final_sha256": "1675512e2342f9643f3800e36e17398dbb8ff4dcb145b8e538e633b5c2fcf6d5",
+      "unchanged": true
+    },
+    {
+      "path": "biology-diagrams.js",
+      "o8_sha256": "81becff187f9a6a9f91079cf85adbbb8fbcaf5e2b7914255eff3abc0ceb729a3",
+      "final_sha256": "81becff187f9a6a9f91079cf85adbbb8fbcaf5e2b7914255eff3abc0ceb729a3",
+      "unchanged": true
+    },
+    {
+      "path": "BIOLOGY-COVERAGE-7.0.5W.json",
+      "o8_sha256": "cd2fe9fdc123f0953c603b2eb08b85aa9ce16de33d386edaa7ff690a11047b3c",
+      "final_sha256": "cd2fe9fdc123f0953c603b2eb08b85aa9ce16de33d386edaa7ff690a11047b3c",
+      "unchanged": true
+    },
+    {
+      "path": "EDUCATIONAL-STANDARDS.md",
+      "o8_sha256": "6a1973af3cf8411100a4eb470f7d5eb248b8b77c239d59900eb6cde6ce85d374",
+      "final_sha256": "6a1973af3cf8411100a4eb470f7d5eb248b8b77c239d59900eb6cde6ce85d374",
+      "unchanged": true
+    },
+    {
+      "path": "SUBTITLE-FIX-7.0.6H.md",
+      "o8_sha256": "a8e37a8a2f714cb323355035bd6913df42990f2041ec678e55e96a0ff4bb30d4",
+      "final_sha256": "a8e37a8a2f714cb323355035bd6913df42990f2041ec678e55e96a0ff4bb30d4",
+      "unchanged": true
+    },
+    {
+      "path": "Build-N-structural-corrections.patch",
+      "o8_sha256": "947b89da79ebc86e6b044e977d52939fd94dcee9b1927b46a0535a6bf1ebbc83",
+      "final_sha256": "947b89da79ebc86e6b044e977d52939fd94dcee9b1927b46a0535a6bf1ebbc83",
+      "unchanged": true
+    },
+    {
+      "path": "trilogy-content.js",
+      "o8_sha256": "b6f5b6dd98c8c5d9091cdf2be12bb6aa3ee5173514e0c71241f0ff941b03e383",
+      "final_sha256": "b6f5b6dd98c8c5d9091cdf2be12bb6aa3ee5173514e0c71241f0ff941b03e383",
+      "unchanged": true
+    },
+    {
+      "path": "EVOLUTION-COMPLETION-B.md",
+      "o8_sha256": "9dc09bde53abca9da7851aed7069515f4596072f4aa11c553fe2f0ed0dee3e57",
+      "final_sha256": "9dc09bde53abca9da7851aed7069515f4596072f4aa11c553fe2f0ed0dee3e57",
+      "unchanged": true
+    },
+    {
+      "path": "PLANT-COMPLETION-REVIEW.json",
+      "o8_sha256": "458b22ea599eeb473208b542d02c9476548031c6cea5832ef6a040d12ec2ee0c",
+      "final_sha256": "458b22ea599eeb473208b542d02c9476548031c6cea5832ef6a040d12ec2ee0c",
+      "unchanged": true
+    },
+    {
+      "path": "mobile-nav.js",
+      "o8_sha256": "cc4cf8c9f69df62d4b8fda19607741088ff549bbf6cbce346fcfb210b53eb036",
+      "final_sha256": "cc4cf8c9f69df62d4b8fda19607741088ff549bbf6cbce346fcfb210b53eb036",
+      "unchanged": true
+    },
+    {
+      "path": "biology-reuse.js",
+      "o8_sha256": "aeef7f9cda20f888015f6550a9c7b1b4d49a0c5cbecd1a9f1a395fe3f52dd5ce",
+      "final_sha256": "aeef7f9cda20f888015f6550a9c7b1b4d49a0c5cbecd1a9f1a395fe3f52dd5ce",
+      "unchanged": true
+    },
+    {
+      "path": "BUILD-O1-REVIEW.md",
+      "o8_sha256": "208d420c33bb013a45c18f4fbc77d555f03ba6b8a7c9af5340526325ed08dd7f",
+      "final_sha256": "208d420c33bb013a45c18f4fbc77d555f03ba6b8a7c9af5340526325ed08dd7f",
+      "unchanged": true
+    },
+    {
+      "path": "diffusion-tutor.css",
+      "o8_sha256": "1236ed4a70aacf8f2cda70692289b406863779d36f2292b05a07e96a0d5505e3",
+      "final_sha256": "1236ed4a70aacf8f2cda70692289b406863779d36f2292b05a07e96a0d5505e3",
+      "unchanged": true
+    },
+    {
+      "path": "Build-O4b-review.md",
+      "o8_sha256": "4e1ad0aec887eca03dbbbff05d3d8c09e01f5fc1af212973d50cb64e0d93c5b7",
+      "final_sha256": "4e1ad0aec887eca03dbbbff05d3d8c09e01f5fc1af212973d50cb64e0d93c5b7",
+      "unchanged": true
+    },
+    {
+      "path": "INHERITANCE-COMPLETION-A.md",
+      "o8_sha256": "1940fe810a7c2782a6baa90c4b32200dd5f004d5a26fb22b6adab360fec53a60",
+      "final_sha256": "1940fe810a7c2782a6baa90c4b32200dd5f004d5a26fb22b6adab360fec53a60",
+      "unchanged": true
+    },
+    {
+      "path": "CURRENT-BUILD.txt",
+      "o8_sha256": "9ce67ddc648b154f1001bf79effb0601c9339cb707dcbb3e49a73c889b0e04af",
+      "final_sha256": "60d6873366758fc825578d259f381de8ee5799275e76516b67f03dd8b822cc52",
+      "unchanged": false
+    },
+    {
+      "path": "microscope-tutor.js",
+      "o8_sha256": "3e2192410dfbdaf0eb6c8cdc06aea63f4789f9091b840d5cf3527862c58db690",
+      "final_sha256": "3e2192410dfbdaf0eb6c8cdc06aea63f4789f9091b840d5cf3527862c58db690",
+      "unchanged": true
+    },
+    {
+      "path": "BIOLOGY-COVERAGE-7.0.5V.json",
+      "o8_sha256": "c349218be2a5407da42e123353417fc97cf3ad28e19005f4dd9b35dcd3511276",
+      "final_sha256": "c349218be2a5407da42e123353417fc97cf3ad28e19005f4dd9b35dcd3511276",
+      "unchanged": true
+    },
+    {
+      "path": "app.js",
+      "o8_sha256": "bb3a9a08d5bfb84182d3907759cbab5a98867fefb5c51d3af6771399247a1d64",
+      "final_sha256": "bb3a9a08d5bfb84182d3907759cbab5a98867fefb5c51d3af6771399247a1d64",
+      "unchanged": true
+    },
+    {
+      "path": "REPRODUCTIVE-HORMONES-CLEANUP.md",
+      "o8_sha256": "f16a21f0a44a0399db2a096c6685d1dbdd0d47891616c2cb443f76f75494ab81",
+      "final_sha256": "f16a21f0a44a0399db2a096c6685d1dbdd0d47891616c2cb443f76f75494ab81",
+      "unchanged": true
+    },
+    {
+      "path": "spec-audit-data.js",
+      "o8_sha256": "2b886dd83061345d64abc32a6298adadaf7b4e7d830b53f46bfdb25886f7d6f7",
+      "final_sha256": "2b886dd83061345d64abc32a6298adadaf7b4e7d830b53f46bfdb25886f7d6f7",
+      "unchanged": true
+    },
+    {
+      "path": "REPRODUCTION-COMPLETION-Z.md",
+      "o8_sha256": "b8ffe6d1741c0f984d40cf6ef7ddf43424db536c1b0d1d084d6dc41666e86563",
+      "final_sha256": "b8ffe6d1741c0f984d40cf6ef7ddf43424db536c1b0d1d084d6dc41666e86563",
+      "unchanged": true
+    },
+    {
+      "path": "COURSE-ALIGNMENT.md",
+      "o8_sha256": "ad30d1398a02f12c9461fdf766451a131c52ebfc475cd1cc76a8dd337ee2c8e9",
+      "final_sha256": "ad30d1398a02f12c9461fdf766451a131c52ebfc475cd1cc76a8dd337ee2c8e9",
+      "unchanged": true
+    },
+    {
+      "path": "BIOLOGY-COVERAGE-7.0.5O.json",
+      "o8_sha256": "ef5828227fd00807e821bb091cda080d6c8996c138df829b42c257c167139a81",
+      "final_sha256": "ef5828227fd00807e821bb091cda080d6c8996c138df829b42c257c167139a81",
+      "unchanged": true
+    },
+    {
+      "path": "PROJECT-STATE-O6r1.md",
+      "o8_sha256": "f29d5d4a86ee8cfdede30fbd5c3c6e9cf8c6a89dd0702e50f0b70d9399afae46",
+      "final_sha256": "f29d5d4a86ee8cfdede30fbd5c3c6e9cf8c6a89dd0702e50f0b70d9399afae46",
+      "unchanged": true
+    },
+    {
+      "path": "ECOLOGY-FIELD-COMPLETION-C.md",
+      "o8_sha256": "b98f6db98d3d45b48784193c4c1e2b7475ed18d118db2b4fa6c24474c278bf9e",
+      "final_sha256": "b98f6db98d3d45b48784193c4c1e2b7475ed18d118db2b4fa6c24474c278bf9e",
+      "unchanged": true
+    },
+    {
+      "path": "rp01-assessment.js",
+      "o8_sha256": "8699d0aa3587f6ca4bbc3e1c3c82318c0bab204127fb7b63d9bf4ac087d9ba2d",
+      "final_sha256": "8699d0aa3587f6ca4bbc3e1c3c82318c0bab204127fb7b63d9bf4ac087d9ba2d",
+      "unchanged": true
+    },
+    {
+      "path": "division-tutor.js",
+      "o8_sha256": "abcee48bff39b7f48a9aa6fc11e73b5e4307aae626bd90928d5e4f5096fbdf5d",
+      "final_sha256": "abcee48bff39b7f48a9aa6fc11e73b5e4307aae626bd90928d5e4f5096fbdf5d",
+      "unchanged": true
+    },
+    {
+      "path": "BIOLOGY-COVERAGE-7.0.5Z.json",
+      "o8_sha256": "da674df4ce1689488f9e6289ce6a91e5cd97883cbf9b235924bdd3de447ab5f8",
+      "final_sha256": "da674df4ce1689488f9e6289ce6a91e5cd97883cbf9b235924bdd3de447ab5f8",
+      "unchanged": true
+    },
+    {
+      "path": "ANSWER-UNIT-AUDIT.json",
+      "o8_sha256": "cb74dc173428d80bf077b1d850b0c6382ca3530f9f6996817ce897f5c2a97fbe",
+      "final_sha256": "cb74dc173428d80bf077b1d850b0c6382ca3530f9f6996817ce897f5c2a97fbe",
+      "unchanged": true
+    },
+    {
+      "path": "exchange-assessment.js",
+      "o8_sha256": "581478fef81bc1cfbed277d0b8fb735fde554556436c0614c6ae623745c1d59e",
+      "final_sha256": "581478fef81bc1cfbed277d0b8fb735fde554556436c0614c6ae623745c1d59e",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O6r1/full.log",
+      "o8_sha256": "59a4c6ed4543c62bfa90e710ea9883bc7171beae79269f38e8c873c64b28d922",
+      "final_sha256": "59a4c6ed4543c62bfa90e710ea9883bc7171beae79269f38e8c873c64b28d922",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O6r1/responsive-checks.json",
+      "o8_sha256": "fc875c716241a566e4bd42d77735043145bdb721f56121da03a2bcd1c82bf805",
+      "final_sha256": "fc875c716241a566e4bd42d77735043145bdb721f56121da03a2bcd1c82bf805",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O6r1/browser-checks.md",
+      "o8_sha256": "66fec7d73c4ac3a94f408d1ca41f5e943c1fda46d2260c0dc32e86e17149e1fc",
+      "final_sha256": "66fec7d73c4ac3a94f408d1ca41f5e943c1fda46d2260c0dc32e86e17149e1fc",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O6r1/focused.log",
+      "o8_sha256": "6a9c625b6abd5c46a4d214480be2039a32288091fc56751398d6d28f9789c9c1",
+      "final_sha256": "6a9c625b6abd5c46a4d214480be2039a32288091fc56751398d6d28f9789c9c1",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O6b/full.log",
+      "o8_sha256": "2fee86c81603d662159f6344add6b4c57f5ec9f71067b054b38a73e8000c7070",
+      "final_sha256": "2fee86c81603d662159f6344add6b4c57f5ec9f71067b054b38a73e8000c7070",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O6b/browser-checks.md",
+      "o8_sha256": "25354f1a6fe04f63f4471a706b65f214966766554fdff6414fde809b8e6a02d9",
+      "final_sha256": "25354f1a6fe04f63f4471a706b65f214966766554fdff6414fde809b8e6a02d9",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O6b/focused.log",
+      "o8_sha256": "6856ed31cd9856598a8e37ca32e8b663f0857334549632c7884060dffde22f2c",
+      "final_sha256": "6856ed31cd9856598a8e37ca32e8b663f0857334549632c7884060dffde22f2c",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O3a/browser-checks.json",
+      "o8_sha256": "b7b9c5589d770bd905c4537778c7e563554c87e5dae632990c136b72a58f4171",
+      "final_sha256": "b7b9c5589d770bd905c4537778c7e563554c87e5dae632990c136b72a58f4171",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O3a/O3b-regression-tests.txt",
+      "o8_sha256": "9a7eb778a0ff1f239c12423b8a2c862c9cedee4ca5eb45642d75e74afce2cd0a",
+      "final_sha256": "9a7eb778a0ff1f239c12423b8a2c862c9cedee4ca5eb45642d75e74afce2cd0a",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O3a/navigation-tests.txt",
+      "o8_sha256": "956663c4706796334f730fc32ec65301240722afa356fe015b2c616ffbe63628",
+      "final_sha256": "956663c4706796334f730fc32ec65301240722afa356fe015b2c616ffbe63628",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O3a/preservation-manifest.json",
+      "o8_sha256": "154a328db15c3b85856d39adc8a06474edb87c07928232d36e90cf17ef904778",
+      "final_sha256": "154a328db15c3b85856d39adc8a06474edb87c07928232d36e90cf17ef904778",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O3a/O3b-focused-tests.txt",
+      "o8_sha256": "ff8e8afb613e0f9714c33cb2c193aa9f60eda8c2a07bfec8f302927373961b5a",
+      "final_sha256": "ff8e8afb613e0f9714c33cb2c193aa9f60eda8c2a07bfec8f302927373961b5a",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O3a/regression-tests.txt",
+      "o8_sha256": "ae1bbe471364598387788eb45f8485c2938c2beadbf2b262ebfa1ec538434e71",
+      "final_sha256": "ae1bbe471364598387788eb45f8485c2938c2beadbf2b262ebfa1ec538434e71",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O3a/focused-tests.txt",
+      "o8_sha256": "72e94eca835eacf7ad2953657ab76c0bd469187ea7f113bed7fdeddc773752f6",
+      "final_sha256": "72e94eca835eacf7ad2953657ab76c0bd469187ea7f113bed7fdeddc773752f6",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O3/regression-tests.txt",
+      "o8_sha256": "cd9aa5966a9e6cc64b6ef7f8b220c2c66938ac4e9ce4b989941b96395255c8ec",
+      "final_sha256": "cd9aa5966a9e6cc64b6ef7f8b220c2c66938ac4e9ce4b989941b96395255c8ec",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O3/preserved-files.json",
+      "o8_sha256": "104c2a9d31e6516f8aa3fd4b820c51a91af1be6cb6280d13352c8955d246cac0",
+      "final_sha256": "104c2a9d31e6516f8aa3fd4b820c51a91af1be6cb6280d13352c8955d246cac0",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O3/desktop-explorer.png",
+      "o8_sha256": "2737ca6933877a6c5d8f4c8db0ad502f340da51fe940e6920f7246abfdc1af0e",
+      "final_sha256": "2737ca6933877a6c5d8f4c8db0ad502f340da51fe940e6920f7246abfdc1af0e",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O3/mobile-explorer.png",
+      "o8_sha256": "427e128e860f1e34ea37cfc54bcb434afb1207074cf65c13d418a74a343af229",
+      "final_sha256": "427e128e860f1e34ea37cfc54bcb434afb1207074cf65c13d418a74a343af229",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O3/focused-tests.txt",
+      "o8_sha256": "a30f8c663fde90eed5f06c775e8acebd6c70a78e4fb3b2c5a69ee6ee364ca857",
+      "final_sha256": "a30f8c663fde90eed5f06c775e8acebd6c70a78e4fb3b2c5a69ee6ee364ca857",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O3/independent-result.png",
+      "o8_sha256": "8dfed481f358639143c4bc2a0a13f0f67d636f3bbf7d1e1a325bca82a940edfa",
+      "final_sha256": "8dfed481f358639143c4bc2a0a13f0f67d636f3bbf7d1e1a325bca82a940edfa",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O6c/full.log",
+      "o8_sha256": "f40ecf4d4fbdf533136dad810240574f46352f45509fb31d1946d376ec0d4c2b",
+      "final_sha256": "f40ecf4d4fbdf533136dad810240574f46352f45509fb31d1946d376ec0d4c2b",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O6c/browser-checks.md",
+      "o8_sha256": "8d1e03c8ae990ba9449c51b21056d25056efe25de60db6f84f784c74ea2a0c6e",
+      "final_sha256": "8d1e03c8ae990ba9449c51b21056d25056efe25de60db6f84f784c74ea2a0c6e",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O6c/clean-preview-layouts.json",
+      "o8_sha256": "777199ab18438cfc26c182831596c92e8ec7aab9dcca43eff55daae124d6d822",
+      "final_sha256": "777199ab18438cfc26c182831596c92e8ec7aab9dcca43eff55daae124d6d822",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O6c/focused.log",
+      "o8_sha256": "bbd8a531ce7df17732808f46105570f205bbd35bc0086a57b04c79a439c8f49f",
+      "final_sha256": "bbd8a531ce7df17732808f46105570f205bbd35bc0086a57b04c79a439c8f49f",
+      "unchanged": true
+    },
+    {
+      "path": "Archive/Inherited-build-records/Build-O2b-review.md",
+      "o8_sha256": "cf07e5fd50c4f5d8b6e584fc8d4e7e41d4d9ba19bec3f5cee0708e63cab89468",
+      "final_sha256": "cf07e5fd50c4f5d8b6e584fc8d4e7e41d4d9ba19bec3f5cee0708e63cab89468",
+      "unchanged": true
+    },
+    {
+      "path": "Archive/Inherited-build-records/GCSE_Study_Hub_Build_4_Final.zip",
+      "o8_sha256": "2e85934ca3ee8c4b55c26d001aa54f825cf44b5a278c0e5518ed0bd2889073c7",
+      "final_sha256": "2e85934ca3ee8c4b55c26d001aa54f825cf44b5a278c0e5518ed0bd2889073c7",
+      "unchanged": true
+    },
+    {
+      "path": "Archive/Inherited-build-records/CURRENT-BUILD.txt",
+      "o8_sha256": "15c54e5e771d8a2d83432049735230ae0c6d59244fc5e4ae14e3cab937e77826",
+      "final_sha256": "15c54e5e771d8a2d83432049735230ae0c6d59244fc5e4ae14e3cab937e77826",
+      "unchanged": true
+    },
+    {
+      "path": "Archive/Inherited-build-records/GCSE_Study_Hub_Build_4_Final/index.html",
+      "o8_sha256": "848af1d51bc7feffee262e61acd16c48f600df3c0aa3b82486d260af749ee41e",
+      "final_sha256": "848af1d51bc7feffee262e61acd16c48f600df3c0aa3b82486d260af749ee41e",
+      "unchanged": true
+    },
+    {
+      "path": "Archive/Inherited-build-records/GCSE_Study_Hub_Build_4_Final/README.txt",
+      "o8_sha256": "2390ae518a34dd66a2a37b9b1ed313eb5b5fb5ee16b9b93e64e8ca7d2934db0e",
+      "final_sha256": "2390ae518a34dd66a2a37b9b1ed313eb5b5fb5ee16b9b93e64e8ca7d2934db0e",
+      "unchanged": true
+    },
+    {
+      "path": "Archive/Development-evidence/O3-initial-focused-tests.txt",
+      "o8_sha256": "fd4c5721f66cadf1223d1164ffaec22bd58bf3859fcaba5db189f0db96d76f78",
+      "final_sha256": "fd4c5721f66cadf1223d1164ffaec22bd58bf3859fcaba5db189f0db96d76f78",
+      "unchanged": true
+    },
+    {
+      "path": "Archive/O2c-checkpoint-records/BUILD-O2c-REVIEW.md",
+      "o8_sha256": "2388bbe4a4c24ae47906b81970164664398ff1a7781f8867e32ead4852cc3844",
+      "final_sha256": "2388bbe4a4c24ae47906b81970164664398ff1a7781f8867e32ead4852cc3844",
+      "unchanged": true
+    },
+    {
+      "path": "Archive/O2c-checkpoint-records/CURRENT-BUILD.txt",
+      "o8_sha256": "70016a65ee1e62918b0272a3311e40fb44b69fb8b73193f49454fa30a8f0bebf",
+      "final_sha256": "70016a65ee1e62918b0272a3311e40fb44b69fb8b73193f49454fa30a8f0bebf",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O8-film/focused-67.txt",
+      "o8_sha256": "a4d599f52c8c605cebab231ea6257a4c4ea885c738b41da0c915c55a505d488c",
+      "final_sha256": "a4d599f52c8c605cebab231ea6257a4c4ea885c738b41da0c915c55a505d488c",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O8-film/browser-verification.json",
+      "o8_sha256": "55f3da9bb7778c89064386f90a7fed5faeaa7b5fcbf4d6e45444c0f567432f58",
+      "final_sha256": "55f3da9bb7778c89064386f90a7fed5faeaa7b5fcbf4d6e45444c0f567432f58",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O8-film/preservation.json",
+      "o8_sha256": "07f74014f94dbb112e62932e9307a6414c0492de946c99ca2702676d539b8d0f",
+      "final_sha256": "07f74014f94dbb112e62932e9307a6414c0492de946c99ca2702676d539b8d0f",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O8-film/regression-953.txt",
+      "o8_sha256": "f24b77b5b581393dc29cebd510817d21bb91a62105032f8d64d7bb3baf8268a8",
+      "final_sha256": "f24b77b5b581393dc29cebd510817d21bb91a62105032f8d64d7bb3baf8268a8",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O5/focused-o5b.txt",
+      "o8_sha256": "bace3a872b04a2189a66294411125dc79015e122e1e8219311e244413c0273ab",
+      "final_sha256": "bace3a872b04a2189a66294411125dc79015e122e1e8219311e244413c0273ab",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O5/focused-o5a.txt",
+      "o8_sha256": "82bcc036cc4505894ffb86a201811833995a518b083e35a5b01f46d6cdf5d362",
+      "final_sha256": "82bcc036cc4505894ffb86a201811833995a518b083e35a5b01f46d6cdf5d362",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O5/regression-o5a.txt",
+      "o8_sha256": "6069fe9fffa4f9bd2ec43c45afa2b7465d7c2ee0ec830f5e9e1741fc6d441eef",
+      "final_sha256": "6069fe9fffa4f9bd2ec43c45afa2b7465d7c2ee0ec830f5e9e1741fc6d441eef",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O5/regression-o5b.txt",
+      "o8_sha256": "a590608d171d62760de16e4d93b6e1356a905409688600cded18a7cc94be7a01",
+      "final_sha256": "a590608d171d62760de16e4d93b6e1356a905409688600cded18a7cc94be7a01",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O5/browser-checks.md",
+      "o8_sha256": "cd925ad5e21a7389331a6d5c6557fe6469c2e7eb50562f20ee6e31b8cad8d2a2",
+      "final_sha256": "cd925ad5e21a7389331a6d5c6557fe6469c2e7eb50562f20ee6e31b8cad8d2a2",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O2c/regression-tests.txt",
+      "o8_sha256": "7445d06a5d8c3b977da2a1a88e058da17fd8b0d8cdac6c75b738374fd6860662",
+      "final_sha256": "7445d06a5d8c3b977da2a1a88e058da17fd8b0d8cdac6c75b738374fd6860662",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O2c/focused-tests.txt",
+      "o8_sha256": "faabb57dc81f2cf8f888001df0a84f1156dc44c190804814207d8f813d8f8f00",
+      "final_sha256": "faabb57dc81f2cf8f888001df0a84f1156dc44c190804814207d8f813d8f8f00",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O2c/mobile.png",
+      "o8_sha256": "ebf56d6d31c01012e201c41653445853a9436a3962144d4e57073393b8eefb33",
+      "final_sha256": "ebf56d6d31c01012e201c41653445853a9436a3962144d4e57073393b8eefb33",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O2c/desktop-cards.png",
+      "o8_sha256": "1ccd60d685674bc5fac1da98820b5b66029628ce76ea289e4a0056c16ef4de87",
+      "final_sha256": "1ccd60d685674bc5fac1da98820b5b66029628ce76ea289e4a0056c16ef4de87",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4b1/preservation-manifest.json",
+      "o8_sha256": "5c3d4d54f3c877fb9b6baa08a9d76355f657c13d9feba008de6c01be1023e394",
+      "final_sha256": "5c3d4d54f3c877fb9b6baa08a9d76355f657c13d9feba008de6c01be1023e394",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4b1/regression-tests.txt",
+      "o8_sha256": "5452ee4c262c9b99c4690e8c10b45b78c03eb05f981b97cc604df2189e0175cc",
+      "final_sha256": "5452ee4c262c9b99c4690e8c10b45b78c03eb05f981b97cc604df2189e0175cc",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4b1/mobile-simple.png",
+      "o8_sha256": "3868094ab7fb883495ac14d0855fd0fbeedb5fcdfaa3dd8c82b58658d95d96a9",
+      "final_sha256": "3868094ab7fb883495ac14d0855fd0fbeedb5fcdfaa3dd8c82b58658d95d96a9",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4b1/focused-tests.txt",
+      "o8_sha256": "9ebb0c7a92aafe67e434c242b623215c3b5b8feabc4123d6ff9ac65271f19e84",
+      "final_sha256": "9ebb0c7a92aafe67e434c242b623215c3b5b8feabc4123d6ff9ac65271f19e84",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4b1/simple-preview.png",
+      "o8_sha256": "dfdbc80200164a135b263f9706fb86273bc176e4237d3594c541520b63cd31ad",
+      "final_sha256": "dfdbc80200164a135b263f9706fb86273bc176e4237d3594c541520b63cd31ad",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4a/browser-checks.json",
+      "o8_sha256": "3d5f4254fb3af839458848eda05e41aeb5515780d615756b2b26e9f1f2784117",
+      "final_sha256": "3d5f4254fb3af839458848eda05e41aeb5515780d615756b2b26e9f1f2784117",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4a/preservation-manifest.json",
+      "o8_sha256": "4f533e772fd139bf0bdc8766606bfe99097b6cd788e7044f2f7071d67cfa2516",
+      "final_sha256": "4f533e772fd139bf0bdc8766606bfe99097b6cd788e7044f2f7071d67cfa2516",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4a/regression-tests.txt",
+      "o8_sha256": "cc460d756be0ec576b29d06ff1fc3f43793daae78531d220e3f41f41fbe0ea0c",
+      "final_sha256": "cc460d756be0ec576b29d06ff1fc3f43793daae78531d220e3f41f41fbe0ea0c",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4a/focused-tests.txt",
+      "o8_sha256": "01c79f3bff324b5027990f814528f19e224539337f08ef384ebabc6d46fe57a7",
+      "final_sha256": "01c79f3bff324b5027990f814528f19e224539337f08ef384ebabc6d46fe57a7",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4a/layout-measurements.json",
+      "o8_sha256": "f613d0d58b91f9035f56a3ba06107977a5352b51875de65560b983249afdd4d1",
+      "final_sha256": "f613d0d58b91f9035f56a3ba06107977a5352b51875de65560b983249afdd4d1",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O2b/regression-tests.txt",
+      "o8_sha256": "45738d5196b8009e8ddca8ec1774616afbcc32059a77723eb5262afed964ca91",
+      "final_sha256": "45738d5196b8009e8ddca8ec1774616afbcc32059a77723eb5262afed964ca91",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O2b/preservation.json",
+      "o8_sha256": "af5a51268e88e08a194d5f14a504071899adee820abc545ebf59f1179b29c10a",
+      "final_sha256": "af5a51268e88e08a194d5f14a504071899adee820abc545ebf59f1179b29c10a",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O2b/focused-tests.txt",
+      "o8_sha256": "f8fb6da846573c4dce874ac2b1a4892b0e327972beeb95d3f887e626d1df35e0",
+      "final_sha256": "f8fb6da846573c4dce874ac2b1a4892b0e327972beeb95d3f887e626d1df35e0",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4a1/mobile-labels.png",
+      "o8_sha256": "b73367a138b8e8e18dab85d5f2ced5009e15ccdeda6b3bb581ab72f1c79910f5",
+      "final_sha256": "b73367a138b8e8e18dab85d5f2ced5009e15ccdeda6b3bb581ab72f1c79910f5",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4a1/desktop-labels.png",
+      "o8_sha256": "7b6c8f0b2ebeb16d3c7db4649fd00a447b350af78902e607dff1c1a0c21378f0",
+      "final_sha256": "7b6c8f0b2ebeb16d3c7db4649fd00a447b350af78902e607dff1c1a0c21378f0",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4a1/preservation-manifest.json",
+      "o8_sha256": "e0a3f7273e289a1ac25a4ac965b7da3f59074e741974836732d2f97f42127287",
+      "final_sha256": "e0a3f7273e289a1ac25a4ac965b7da3f59074e741974836732d2f97f42127287",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4a1/regression-tests.txt",
+      "o8_sha256": "fc1b9692f317a89f0c7e5228eddae7cb11ba5ff23910bd8b7853f908c111d2c3",
+      "final_sha256": "fc1b9692f317a89f0c7e5228eddae7cb11ba5ff23910bd8b7853f908c111d2c3",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4a1/focused-tests.txt",
+      "o8_sha256": "955cb432e446eff4374ca10a0a48152d1523601d38e260f25eb2afae54b566f6",
+      "final_sha256": "955cb432e446eff4374ca10a0a48152d1523601d38e260f25eb2afae54b566f6",
+      "unchanged": true
+    },
+    {
+      "path": "tests/assessment-ux.test.cjs",
+      "o8_sha256": "915d2dc8268ce4fda3eee4021adeff1c6f2883c488b43f4cde8dfa3f963c5daf",
+      "final_sha256": "915d2dc8268ce4fda3eee4021adeff1c6f2883c488b43f4cde8dfa3f963c5daf",
+      "unchanged": true
+    },
+    {
+      "path": "tests/mobile-browser.cjs",
+      "o8_sha256": "52206b27553961bc052fcb07439c96550b9180ff75183426fb00ba2ba646d8c3",
+      "final_sha256": "52206b27553961bc052fcb07439c96550b9180ff75183426fb00ba2ba646d8c3",
+      "unchanged": true
+    },
+    {
+      "path": "tests/microscope-labelling.test.cjs",
+      "o8_sha256": "92afacf43ca26fa89a9b3a9056480619f881a0261d22ba8a4de38ee588160220",
+      "final_sha256": "92afacf43ca26fa89a9b3a9056480619f881a0261d22ba8a4de38ee588160220",
+      "unchanged": true
+    },
+    {
+      "path": "tests/biology-medicines-completion.test.cjs",
+      "o8_sha256": "594189f6ebda0301b3a1b1dd109d6629b78ba86e4e254d05c8365663f40fec81",
+      "final_sha256": "594189f6ebda0301b3a1b1dd109d6629b78ba86e4e254d05c8365663f40fec81",
+      "unchanged": true
+    },
+    {
+      "path": "tests/O1-baseline-hashes.json",
+      "o8_sha256": "ac425602ef171b9ca8f2b2b3d200f7736c7d37604355f9f55438184690ec03c5",
+      "final_sha256": "ac425602ef171b9ca8f2b2b3d200f7736c7d37604355f9f55438184690ec03c5",
+      "unchanged": true
+    },
+    {
+      "path": "tests/structured-journey.test.cjs",
+      "o8_sha256": "bc2b79c274875d0e7975169635579b5f0b64e969babe1c00d72063b8b4f8c309",
+      "final_sha256": "bc2b79c274875d0e7975169635579b5f0b64e969babe1c00d72063b8b4f8c309",
+      "unchanged": true
+    },
+    {
+      "path": "tests/visual-dashboard.test.cjs",
+      "o8_sha256": "9e3c5e0e804ec65566ccee8a4b9777764a5847fe270c240110afd3e187fe16c6",
+      "final_sha256": "9e3c5e0e804ec65566ccee8a4b9777764a5847fe270c240110afd3e187fe16c6",
+      "unchanged": true
+    },
+    {
+      "path": "tests/exchange-assessment.test.cjs",
+      "o8_sha256": "7535f44e3e8b687a5e204974ec80e227c2d8eeff6d31c0488585d7e699b5f749",
+      "final_sha256": "7535f44e3e8b687a5e204974ec80e227c2d8eeff6d31c0488585d7e699b5f749",
+      "unchanged": true
+    },
+    {
+      "path": "tests/biology-reproduction-completion.test.cjs",
+      "o8_sha256": "dc9e62f31b08e43fd86e4f8b77f2f939311acc2b2439f75dab06aa44e34691d8",
+      "final_sha256": "dc9e62f31b08e43fd86e4f8b77f2f939311acc2b2439f75dab06aa44e34691d8",
+      "unchanged": true
+    },
+    {
+      "path": "tests/cell-lesson-navigation.test.cjs",
+      "o8_sha256": "6b57c9e0322f09e51f47ff3f60acb30eef5cc836a6d72f1d1fa7d2e9871a0664",
+      "final_sha256": "5be6201b81ad5e7d274cd797931f83c6ef7f8267e9cc24a932d2916513f23f38",
+      "unchanged": false
+    },
+    {
+      "path": "tests/coverage.test.cjs",
+      "o8_sha256": "c636dd668a42d0afc4f05be2b203785e261ce1856bcc173dac655fff2b12cdc2",
+      "final_sha256": "c636dd668a42d0afc4f05be2b203785e261ce1856bcc173dac655fff2b12cdc2",
+      "unchanged": true
+    },
+    {
+      "path": "tests/biology-infection-completion.test.cjs",
+      "o8_sha256": "28b1c1f8d96c34426da67074e4ffb51061ee33bd1ad21d230726f7f098a4aa85",
+      "final_sha256": "28b1c1f8d96c34426da67074e4ffb51061ee33bd1ad21d230726f7f098a4aa85",
+      "unchanged": true
+    },
+    {
+      "path": "tests/VERIFIED-FOCUSED-7.0.6D.txt",
+      "o8_sha256": "028b72c83b42035117cb0c293edb6cdd93c7b9b5f9ce6d17d3f517b22f976907",
+      "final_sha256": "028b72c83b42035117cb0c293edb6cdd93c7b9b5f9ce6d17d3f517b22f976907",
+      "unchanged": true
+    },
+    {
+      "path": "tests/biology-ecology-impact.test.cjs",
+      "o8_sha256": "98bdd8b6c0ac7e97199abcb194a043297a162c4022944224227924ee4cb67d8e",
+      "final_sha256": "98bdd8b6c0ac7e97199abcb194a043297a162c4022944224227924ee4cb67d8e",
+      "unchanged": true
+    },
+    {
+      "path": "tests/browser.cjs",
+      "o8_sha256": "0113e8affa39749ab4658f396d05caeab94d51a71686e26c0479901ab01f5267",
+      "final_sha256": "0113e8affa39749ab4658f396d05caeab94d51a71686e26c0479901ab01f5267",
+      "unchanged": true
+    },
+    {
+      "path": "tests/biology-cell-completion.test.cjs",
+      "o8_sha256": "80886df2318a02554674970794bf627d702dd797a9b355add03412b466c05501",
+      "final_sha256": "80886df2318a02554674970794bf627d702dd797a9b355add03412b466c05501",
+      "unchanged": true
+    },
+    {
+      "path": "tests/aqa-8464-foundation-index.json",
+      "o8_sha256": "8848e1488bb8ba874d2759196fcd3f74971822ed5449cade09d93826031926e2",
+      "final_sha256": "8848e1488bb8ba874d2759196fcd3f74971822ed5449cade09d93826031926e2",
+      "unchanged": true
+    },
+    {
+      "path": "tests/foundation-tier.test.cjs",
+      "o8_sha256": "b738fa1ab8d3c400bfb8027ed18c6ba2462503d2ca2c1ec36f64d026fb51c1a4",
+      "final_sha256": "b738fa1ab8d3c400bfb8027ed18c6ba2462503d2ca2c1ec36f64d026fb51c1a4",
+      "unchanged": true
+    },
+    {
+      "path": "tests/diffusion-tutor.test.cjs",
+      "o8_sha256": "8217eab9e52aa23e25da9ef7b93fbd2ab263a6cdf2e265486a20831da810c390",
+      "final_sha256": "8217eab9e52aa23e25da9ef7b93fbd2ab263a6cdf2e265486a20831da810c390",
+      "unchanged": true
+    },
+    {
+      "path": "tests/diffusion-assessment.test.cjs",
+      "o8_sha256": "b2c3714120ec41f02fd1c4f5a18cbc14db48094e8801468215198378d8e2a7d0",
+      "final_sha256": "b2c3714120ec41f02fd1c4f5a18cbc14db48094e8801468215198378d8e2a7d0",
+      "unchanged": true
+    },
+    {
+      "path": "tests/division-tutor.test.cjs",
+      "o8_sha256": "79717cf14fb2a152c93a939ad085b9821d9028eb342b832ca7b3a481a3e4be6a",
+      "final_sha256": "79717cf14fb2a152c93a939ad085b9821d9028eb342b832ca7b3a481a3e4be6a",
+      "unchanged": true
+    },
+    {
+      "path": "tests/student-experience.test.cjs",
+      "o8_sha256": "2109ed145aded43fb403acc70e78cc5ddbce4e934c0182805514c07af23394d8",
+      "final_sha256": "2109ed145aded43fb403acc70e78cc5ddbce4e934c0182805514c07af23394d8",
+      "unchanged": true
+    },
+    {
+      "path": "tests/exchange-tutor.test.cjs",
+      "o8_sha256": "0c9c5af1e4f910e3bdb45823af9e67aea652a7a39bb876325d27060c246a47ea",
+      "final_sha256": "0c9c5af1e4f910e3bdb45823af9e67aea652a7a39bb876325d27060c246a47ea",
+      "unchanged": true
+    },
+    {
+      "path": "tests/cells-tutor.test.cjs",
+      "o8_sha256": "4f3f4cc1ca7e42e17f5fd87b95006abe1dda9cad4e2028bab160a73fb982403c",
+      "final_sha256": "4f3f4cc1ca7e42e17f5fd87b95006abe1dda9cad4e2028bab160a73fb982403c",
+      "unchanged": true
+    },
+    {
+      "path": "tests/hollie-browser.html",
+      "o8_sha256": "a07b863fc63582518a52e552f601bdd44916fd20f2bc95cee26d3c84e8425065",
+      "final_sha256": "a07b863fc63582518a52e552f601bdd44916fd20f2bc95cee26d3c84e8425065",
+      "unchanged": true
+    },
+    {
+      "path": "tests/ecology-baseline-pathway-hashes.json",
+      "o8_sha256": "b428d5af836049e4e7f790bb6e59751200268fed328f81b691b8b136cd592460",
+      "final_sha256": "b428d5af836049e4e7f790bb6e59751200268fed328f81b691b8b136cd592460",
+      "unchanged": true
+    },
+    {
+      "path": "tests/diffusion-test-helpers.cjs",
+      "o8_sha256": "299cb45a15225b3a40c5605b909e0f799b34f890b1880254cf65b1cb40eb2034",
+      "final_sha256": "299cb45a15225b3a40c5605b909e0f799b34f890b1880254cf65b1cb40eb2034",
+      "unchanged": true
+    },
+    {
+      "path": "tests/mcq-quality.test.cjs",
+      "o8_sha256": "8b9e57a35d37d5fe5ab1aa1e1478e6571b5fb5ffa68e9fa0e45954ab1fb9e571",
+      "final_sha256": "8b9e57a35d37d5fe5ab1aa1e1478e6571b5fb5ffa68e9fa0e45954ab1fb9e571",
+      "unchanged": true
+    },
+    {
+      "path": "tests/biology-evolution-completion.test.cjs",
+      "o8_sha256": "88709bced7dfe520a5c2654a2d1d785a6be777d750c61763f38045f8dbbd44cc",
+      "final_sha256": "88709bced7dfe520a5c2654a2d1d785a6be777d750c61763f38045f8dbbd44cc",
+      "unchanged": true
+    },
+    {
+      "path": "tests/biology-circulation-completion.test.cjs",
+      "o8_sha256": "f0a39b558e20510880b1aa72b803b381dc08796ca06c2e0599efe54bde9bfd95",
+      "final_sha256": "f0a39b558e20510880b1aa72b803b381dc08796ca06c2e0599efe54bde9bfd95",
+      "unchanged": true
+    },
+    {
+      "path": "tests/specialised-cells-tutor.test.cjs",
+      "o8_sha256": "4710b7489fdf367c99700475dd7b62857f815da9b8e2430c5aca19a44fd24898",
+      "final_sha256": "4710b7489fdf367c99700475dd7b62857f815da9b8e2430c5aca19a44fd24898",
+      "unchanged": true
+    },
+    {
+      "path": "tests/rp01-lab.test.cjs",
+      "o8_sha256": "4d4bf62ac30b4f3e3e7b9a57e74494f0f0d1ab4aec34d4b4d2675f439a35bec8",
+      "final_sha256": "4d4bf62ac30b4f3e3e7b9a57e74494f0f0d1ab4aec34d4b4d2675f439a35bec8",
+      "unchanged": true
+    },
+    {
+      "path": "tests/rp01-assessment.test.cjs",
+      "o8_sha256": "9d423dc707b7bc1ee24d0813823953591c3f9d9f93fb8f0049dcc4c459fc5f2c",
+      "final_sha256": "9d423dc707b7bc1ee24d0813823953591c3f9d9f93fb8f0049dcc4c459fc5f2c",
+      "unchanged": true
+    },
+    {
+      "path": "tests/osmosis-tutor.test.cjs",
+      "o8_sha256": "9cf87734622f8f49311011bdb7acd95a5c1f3e6fe6662988d07e6c44fcfe3ba0",
+      "final_sha256": "9cf87734622f8f49311011bdb7acd95a5c1f3e6fe6662988d07e6c44fcfe3ba0",
+      "unchanged": true
+    },
+    {
+      "path": "tests/biology-plant-completion.test.cjs",
+      "o8_sha256": "2bc6e7bc5ee6f4658c523a70ff95e34c3e489e80e1e28f66dbbdea7d2266b0c2",
+      "final_sha256": "2bc6e7bc5ee6f4658c523a70ff95e34c3e489e80e1e28f66dbbdea7d2266b0c2",
+      "unchanged": true
+    },
+    {
+      "path": "tests/cell-structures-tutor.test.cjs",
+      "o8_sha256": "5aefa4547efab1537c3dad8adde2a4fdb371987f578f359dcebf2b3da5b2fb17",
+      "final_sha256": "5aefa4547efab1537c3dad8adde2a4fdb371987f578f359dcebf2b3da5b2fb17",
+      "unchanged": true
+    },
+    {
+      "path": "tests/biology-legacy-tier.test.cjs",
+      "o8_sha256": "1f3c4ac2fd30f093da7ff45fc35590c3373b918f500d4abed22c3894803c9c62",
+      "final_sha256": "1f3c4ac2fd30f093da7ff45fc35590c3373b918f500d4abed22c3894803c9c62",
+      "unchanged": true
+    },
+    {
+      "path": "tests/biology-inheritance-completion.test.cjs",
+      "o8_sha256": "4fadc9c876b82f51e3f96cf9026c1ec41cda663edc403adf469fa7ed526723a1",
+      "final_sha256": "4fadc9c876b82f51e3f96cf9026c1ec41cda663edc403adf469fa7ed526723a1",
+      "unchanged": true
+    },
+    {
+      "path": "tests/VERIFIED-FULL-7.0.6D.txt",
+      "o8_sha256": "1ae32314e8361482e25d0a414edeb34bbde582e47783c653ac64f0d42e47467b",
+      "final_sha256": "1ae32314e8361482e25d0a414edeb34bbde582e47783c653ac64f0d42e47467b",
+      "unchanged": true
+    },
+    {
+      "path": "tests/biology-ecology-field.test.cjs",
+      "o8_sha256": "364a2e015b12e78f8fcbf9b8c308d5467f03c8c7db90c6f5aea7a375557bdf60",
+      "final_sha256": "364a2e015b12e78f8fcbf9b8c308d5467f03c8c7db90c6f5aea7a375557bdf60",
+      "unchanged": true
+    },
+    {
+      "path": "tests/biology-digestion-completion.test.cjs",
+      "o8_sha256": "c25288814930eaef19f7f7d296e4707f5da7d6c9cc3584e7cc6de9c0d9933c55",
+      "final_sha256": "c25288814930eaef19f7f7d296e4707f5da7d6c9cc3584e7cc6de9c0d9933c55",
+      "unchanged": true
+    },
+    {
+      "path": "tests/biology-transport-completion.test.cjs",
+      "o8_sha256": "5ae85c45c42b357c107254ae83e4dcb1293bbffb4576d43bea3373ac3cc8f1ab",
+      "final_sha256": "5ae85c45c42b357c107254ae83e4dcb1293bbffb4576d43bea3373ac3cc8f1ab",
+      "unchanged": true
+    },
+    {
+      "path": "tests/biology-coordination-completion.test.cjs",
+      "o8_sha256": "9abbdc77d77bc155b13884c57a9e4b4630179a4a7f0cec9d3b89d306f3e6131e",
+      "final_sha256": "9abbdc77d77bc155b13884c57a9e4b4630179a4a7f0cec9d3b89d306f3e6131e",
+      "unchanged": true
+    },
+    {
+      "path": "tests/lesson-percentage-feedback.test.cjs",
+      "o8_sha256": "c69ce3250d938d2cda1489de0e2bc8decb7a18e0aa8126644b2050e2ce69e1b2",
+      "final_sha256": "c69ce3250d938d2cda1489de0e2bc8decb7a18e0aa8126644b2050e2ce69e1b2",
+      "unchanged": true
+    },
+    {
+      "path": "tests/state.test.cjs",
+      "o8_sha256": "76a0ca733f792c109a6e54f5beb683bbcd89b4a554d875ef53e23c8826b0d634",
+      "final_sha256": "76a0ca733f792c109a6e54f5beb683bbcd89b4a554d875ef53e23c8826b0d634",
+      "unchanged": true
+    },
+    {
+      "path": "tests/biology-reuse.test.cjs",
+      "o8_sha256": "5e57a7aad4a2b6870ab2a2040d2608bec689fcb502193496f3ff72d8ebf4cd81",
+      "final_sha256": "5e57a7aad4a2b6870ab2a2040d2608bec689fcb502193496f3ff72d8ebf4cd81",
+      "unchanged": true
+    },
+    {
+      "path": "tests/exchange-film.test.cjs",
+      "o8_sha256": "81942033f578a71eae97b47d0e80ed2d55aa0c806da2c9847fb860397b78f184",
+      "final_sha256": "81942033f578a71eae97b47d0e80ed2d55aa0c806da2c9847fb860397b78f184",
+      "unchanged": true
+    },
+    {
+      "path": "tests/microscopy-calculations.test.cjs",
+      "o8_sha256": "f7ad78e016b0cd76a0d9daf0bacb4a776028e903c51f84415868dda797e768f0",
+      "final_sha256": "f7ad78e016b0cd76a0d9daf0bacb4a776028e903c51f84415868dda797e768f0",
+      "unchanged": true
+    },
+    {
+      "path": "tests/biology-bioenergetics-completion.test.cjs",
+      "o8_sha256": "62fe589f49940d2b68c2a34ddfd162ddd9b4fe198658fb79e73a073d06ebc06c",
+      "final_sha256": "62fe589f49940d2b68c2a34ddfd162ddd9b4fe198658fb79e73a073d06ebc06c",
+      "unchanged": true
+    },
+    {
+      "path": "tests/spec-audit.test.cjs",
+      "o8_sha256": "a520de350651e8d1fb7c117a3ff800d4b81f6d9eed135f940ef4f848471bd63d",
+      "final_sha256": "a520de350651e8d1fb7c117a3ff800d4b81f6d9eed135f940ef4f848471bd63d",
+      "unchanged": true
+    },
+    {
+      "path": "tests/evolution-baseline-question-hashes.json",
+      "o8_sha256": "f393774d0462c31fa3bb790c479b893df6168d730f32e796876f21110c008a10",
+      "final_sha256": "f393774d0462c31fa3bb790c479b893df6168d730f32e796876f21110c008a10",
+      "unchanged": true
+    },
+    {
+      "path": "tests/microscope-tutor.test.cjs",
+      "o8_sha256": "e95e2efb4641d885aa9b6946321475c16941c0b7d37cc6f6620a8519620fb2e9",
+      "final_sha256": "e95e2efb4641d885aa9b6946321475c16941c0b7d37cc6f6620a8519620fb2e9",
+      "unchanged": true
+    },
+    {
+      "path": "tests/fixtures/baseline-705q-biology.json",
+      "o8_sha256": "a79986c543fd0b8403426c11b6616a99b9b3c73621b170ae39190997191d7a25",
+      "final_sha256": "a79986c543fd0b8403426c11b6616a99b9b3c73621b170ae39190997191d7a25",
+      "unchanged": true
+    },
+    {
+      "path": "tests/fixtures/baseline-705n.json",
+      "o8_sha256": "20fbb879267015d07944df9cfda4bc78a31670e7c5abe142f0011fd674b7990a",
+      "final_sha256": "20fbb879267015d07944df9cfda4bc78a31670e7c5abe142f0011fd674b7990a",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-Pip2/regression-958.txt",
+      "o8_sha256": "c19b2b3ad6dda37c824467f46a64d8224a4d1552ff5ab4691f42f1b4e471d7f8",
+      "final_sha256": "c19b2b3ad6dda37c824467f46a64d8224a4d1552ff5ab4691f42f1b4e471d7f8",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-Pip2/browser-verification.json",
+      "o8_sha256": "63a17c1ceeefe972cf625ce879df315ac9f46afa1f32746f6215e3506f8deb23",
+      "final_sha256": "63a17c1ceeefe972cf625ce879df315ac9f46afa1f32746f6215e3506f8deb23",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-Pip2/preservation.json",
+      "o8_sha256": "162dda8463d91736be2a9faf042339976ebe5a041e40b433fa9181cf644b8ea8",
+      "final_sha256": "162dda8463d91736be2a9faf042339976ebe5a041e40b433fa9181cf644b8ea8",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-Pip2/native-playback-review.json",
+      "o8_sha256": "4c391545cd07777be92be27a2292368b32ad52926f5e201aef135c7007161ca4",
+      "final_sha256": "4c391545cd07777be92be27a2292368b32ad52926f5e201aef135c7007161ca4",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-Pip2/focused-51.txt",
+      "o8_sha256": "14c1ebccfb1aa8e036f597679ba7fe22933e36b794ce4f84d852f0c284cc70c8",
+      "final_sha256": "14c1ebccfb1aa8e036f597679ba7fe22933e36b794ce4f84d852f0c284cc70c8",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O6a/full.log",
+      "o8_sha256": "f34b76b4b3dd358a49616d3c19e6c869f75860cab5ac2c1009c9e332e4432ba6",
+      "final_sha256": "f34b76b4b3dd358a49616d3c19e6c869f75860cab5ac2c1009c9e332e4432ba6",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O6a/browser-checks.md",
+      "o8_sha256": "4a13b6cc14d65981b745ea9c4cb25d95fe3d4cfe50e26d383ed93f0b097346af",
+      "final_sha256": "4a13b6cc14d65981b745ea9c4cb25d95fe3d4cfe50e26d383ed93f0b097346af",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O6a/focused.log",
+      "o8_sha256": "209ee470a4f29d951f7fb3762282cbb5a8fde029c300c53b902b9a12445df0f3",
+      "final_sha256": "209ee470a4f29d951f7fb3762282cbb5a8fde029c300c53b902b9a12445df0f3",
+      "unchanged": true
+    },
+    {
+      "path": "scripts/mcq-quality.cjs",
+      "o8_sha256": "e43fd28289cda106696be1dc50e861248b5076d46c581777b90d75790adbe422",
+      "final_sha256": "e43fd28289cda106696be1dc50e861248b5076d46c581777b90d75790adbe422",
+      "unchanged": true
+    },
+    {
+      "path": "scripts/generate-mcq-order.cjs",
+      "o8_sha256": "0bc338cbcb0e77ed362abe5a5c041c987afeed8623ee055a1fc9fffce051905c",
+      "final_sha256": "0bc338cbcb0e77ed362abe5a5c041c987afeed8623ee055a1fc9fffce051905c",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O1/final-file-manifest.json",
+      "o8_sha256": "8ed3283d01cb5a89b080649a5934826902f6d00d7e5901d3551cd1c795552e23",
+      "final_sha256": "8ed3283d01cb5a89b080649a5934826902f6d00d7e5901d3551cd1c795552e23",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O1/full-tests.txt",
+      "o8_sha256": "9dd19a9366481422396af9a8ceaa534681379529a6a770a9a8b1e03758759689",
+      "final_sha256": "9dd19a9366481422396af9a8ceaa534681379529a6a770a9a8b1e03758759689",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O1/O1-mobile-preview.png",
+      "o8_sha256": "e1f549da342e08d0f55e75b22acd003bb6879b1569a20dd3e7ab67b1ea77772b",
+      "final_sha256": "e1f549da342e08d0f55e75b22acd003bb6879b1569a20dd3e7ab67b1ea77772b",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O1/O1-preview.png",
+      "o8_sha256": "01ef8101174b4d8b4bd5bed9271442671282c288768059c6802e21ad8f971ca0",
+      "final_sha256": "01ef8101174b4d8b4bd5bed9271442671282c288768059c6802e21ad8f971ca0",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O1/focused-tests.txt",
+      "o8_sha256": "477c21ad9c97f94790f7c7c24a0b5ee58e3fe3e333130c25b867d82065010bfc",
+      "final_sha256": "477c21ad9c97f94790f7c7c24a0b5ee58e3fe3e333130c25b867d82065010bfc",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O1/browser-notes.md",
+      "o8_sha256": "fea213381ae251ecd9d07603d8bb40e17fcadd8d48d15a0f84948083aca438a7",
+      "final_sha256": "fea213381ae251ecd9d07603d8bb40e17fcadd8d48d15a0f84948083aca438a7",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O1/package-preservation.json",
+      "o8_sha256": "e929a737371a5493417992b3344b019011bb64dd865aaa97fb1a03854ccae352",
+      "final_sha256": "e929a737371a5493417992b3344b019011bb64dd865aaa97fb1a03854ccae352",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-N-corrected/browser-checks.json",
+      "o8_sha256": "34e3eab2086f996800aad78a26792344caeff0d65a6c1c1b8d8095ec50df1dd6",
+      "final_sha256": "34e3eab2086f996800aad78a26792344caeff0d65a6c1c1b8d8095ec50df1dd6",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-N-corrected/full-tests.txt",
+      "o8_sha256": "43017922c3ffaedba8e2ed5761e008a1c6b2e95cf25a45da175f9194b70766a4",
+      "final_sha256": "43017922c3ffaedba8e2ed5761e008a1c6b2e95cf25a45da175f9194b70766a4",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-N-corrected/preservation-manifest.json",
+      "o8_sha256": "3d96e51239e2638db16e87b024fd80cb8feaa9edcdaacae259b89b147f5fdb7f",
+      "final_sha256": "3d96e51239e2638db16e87b024fd80cb8feaa9edcdaacae259b89b147f5fdb7f",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-N-corrected/focused-tests.txt",
+      "o8_sha256": "655b5997336e45113f4ef5cb2633876a091ec97e08c7473c5f115ccd81df286e",
+      "final_sha256": "655b5997336e45113f4ef5cb2633876a091ec97e08c7473c5f115ccd81df286e",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O8/layout-checks.json",
+      "o8_sha256": "354bbe2b9200350cce11526e0841f04b580be588136ce8d354ce397685bbb4a0",
+      "final_sha256": "354bbe2b9200350cce11526e0841f04b580be588136ce8d354ce397685bbb4a0",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O8/browser-checks.json",
+      "o8_sha256": "1cc97c5dfc0523d84d60024126c87b15c0496473eeb7949968818dd0e48265e6",
+      "final_sha256": "1cc97c5dfc0523d84d60024126c87b15c0496473eeb7949968818dd0e48265e6",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O8/O8-focused-63.txt",
+      "o8_sha256": "9c708b3fe2dc896dee3b02c1cecfd1dd8fc80f65ec83a04503bd670e804cc30b",
+      "final_sha256": "9c708b3fe2dc896dee3b02c1cecfd1dd8fc80f65ec83a04503bd670e804cc30b",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O8/O8-final-regression-949.txt",
+      "o8_sha256": "b20f0a1ca9a7c1e4e8baf075374ef978c434e7dcff08edb7ba08a14895889fe5",
+      "final_sha256": "b20f0a1ca9a7c1e4e8baf075374ef978c434e7dcff08edb7ba08a14895889fe5",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O8/preservation.json",
+      "o8_sha256": "98cf41e7fab2ffacec94105f07ad6dd646728103b5e5090a332db3eb1698e543",
+      "final_sha256": "98cf41e7fab2ffacec94105f07ad6dd646728103b5e5090a332db3eb1698e543",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O8/O8a-regression-935.txt",
+      "o8_sha256": "ff9f17aa83fef4d2dc93219edcecd1b9a65011c16efa95e96a8ce6662ac88304",
+      "final_sha256": "ff9f17aa83fef4d2dc93219edcecd1b9a65011c16efa95e96a8ce6662ac88304",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O8/baseline-918.txt",
+      "o8_sha256": "ef3dc10f88ddbcbc899a2bc49db34eb5822390a56d4489ae47ccb0a2dc18f180",
+      "final_sha256": "ef3dc10f88ddbcbc899a2bc49db34eb5822390a56d4489ae47ccb0a2dc18f180",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O8/O8a-focused-13.txt",
+      "o8_sha256": "a69ad4d1165dc74a00534f464104ee0edc8bca17185302c053b45deeeac5c940",
+      "final_sha256": "a69ad4d1165dc74a00534f464104ee0edc8bca17185302c053b45deeeac5c940",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4b2/browser-checks.json",
+      "o8_sha256": "fbc17289857b5945761a483b953143bec9d478d870a0f2ffa1e3b2174e943890",
+      "final_sha256": "fbc17289857b5945761a483b953143bec9d478d870a0f2ffa1e3b2174e943890",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4b2/preservation-manifest.json",
+      "o8_sha256": "bd5e3c83fcc803ae2eb53511f37c25d1bacaee25170ba2ea913d43d4bd736b34",
+      "final_sha256": "bd5e3c83fcc803ae2eb53511f37c25d1bacaee25170ba2ea913d43d4bd736b34",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4b2/regression-tests.txt",
+      "o8_sha256": "b9e9e5011f8cbed7fdd329c0d3b0d86af3731917df37097aa72c29ecb315b8fd",
+      "final_sha256": "b9e9e5011f8cbed7fdd329c0d3b0d86af3731917df37097aa72c29ecb315b8fd",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4b2/examples-preview.png",
+      "o8_sha256": "9bcbfc9677588fa782de3dbf1dc5fd9b065655f191ba3e8c6a22f1c037194a2e",
+      "final_sha256": "9bcbfc9677588fa782de3dbf1dc5fd9b065655f191ba3e8c6a22f1c037194a2e",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4b2/focused-tests.txt",
+      "o8_sha256": "79e4593ff2da3b012b39daa545f24a432867882c40ce3ffed3bf5bc32cf999e8",
+      "final_sha256": "79e4593ff2da3b012b39daa545f24a432867882c40ce3ffed3bf5bc32cf999e8",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4b2/mobile-examples.png",
+      "o8_sha256": "80c42c2866b51f412b4b362acca40839aac0173e6f79d6a60cb6b8835ca8b659",
+      "final_sha256": "80c42c2866b51f412b4b362acca40839aac0173e6f79d6a60cb6b8835ca8b659",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-Hollie/regression-964.txt",
+      "o8_sha256": "1c518c6a1e081c0d78caee3587ae127821f248d30a083d42949d3f0a3ed7b806",
+      "final_sha256": "1c518c6a1e081c0d78caee3587ae127821f248d30a083d42949d3f0a3ed7b806",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-Hollie/browser-verification.json",
+      "o8_sha256": "a4a813b4b32292648676a0123673ba141e4980773d81e90794375ea7e00ab22c",
+      "final_sha256": "a4a813b4b32292648676a0123673ba141e4980773d81e90794375ea7e00ab22c",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-Hollie/live-preview.json",
+      "o8_sha256": "c09a1466988b16f5ff0bef5a692a2908a639670b5cfb5de8a86208beaec409c6",
+      "final_sha256": "c09a1466988b16f5ff0bef5a692a2908a639670b5cfb5de8a86208beaec409c6",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-Hollie/preservation.json",
+      "o8_sha256": "2c2e59cdaee63359754952e3f83ea13624542a8a051d8814f683b70e1b7ddaf7",
+      "final_sha256": "2c2e59cdaee63359754952e3f83ea13624542a8a051d8814f683b70e1b7ddaf7",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-Hollie/focused-57.txt",
+      "o8_sha256": "9cd6145bb72662ea97305b69389c88c0fee5aa0e39bfd3c50a84c9f731adbaeb",
+      "final_sha256": "9cd6145bb72662ea97305b69389c88c0fee5aa0e39bfd3c50a84c9f731adbaeb",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4b/browser-checks.json",
+      "o8_sha256": "4dc6c80d7d557aad309745067d93e4bb50f0d0922f0f07162af0b68344b50f09",
+      "final_sha256": "4dc6c80d7d557aad309745067d93e4bb50f0d0922f0f07162af0b68344b50f09",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4b/desktop-calculations.png",
+      "o8_sha256": "e95b586459b9f8771aaaf0a53492180aca5bfb1e1b26dae79a590f74cc324eb0",
+      "final_sha256": "e95b586459b9f8771aaaf0a53492180aca5bfb1e1b26dae79a590f74cc324eb0",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4b/mobile-labels.png",
+      "o8_sha256": "8ad77ecd16701fdccbbcdd645556bbef07baf806762c9acd1fb21f90f08e536d",
+      "final_sha256": "8ad77ecd16701fdccbbcdd645556bbef07baf806762c9acd1fb21f90f08e536d",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4b/preservation-manifest.json",
+      "o8_sha256": "64a5f806d3799067ad0ff9c6061a91c5565ad7ce5e9bb76db0b6f9f3d294b5ec",
+      "final_sha256": "64a5f806d3799067ad0ff9c6061a91c5565ad7ce5e9bb76db0b6f9f3d294b5ec",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4b/regression-tests.txt",
+      "o8_sha256": "fa3e936f48cf725e26492ad2c4685ef32419f4209737bb2154acd556b40ee683",
+      "final_sha256": "fa3e936f48cf725e26492ad2c4685ef32419f4209737bb2154acd556b40ee683",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4b/review-preview.png",
+      "o8_sha256": "d400f52591cbaf174dc2099e9c8e2e0ee603074999aa8dcf841babd4dc108fea",
+      "final_sha256": "d400f52591cbaf174dc2099e9c8e2e0ee603074999aa8dcf841babd4dc108fea",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4b/focused-tests.txt",
+      "o8_sha256": "46c8e29ff54292e7168456e06458a4753da290930a69af50dbc9419b85856f25",
+      "final_sha256": "46c8e29ff54292e7168456e06458a4753da290930a69af50dbc9419b85856f25",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4b/mobile-calculations.png",
+      "o8_sha256": "67bab7f8e43fbe940b9714707baf0fa2e421598d4b7a5af81b1a32efc110b6e8",
+      "final_sha256": "67bab7f8e43fbe940b9714707baf0fa2e421598d4b7a5af81b1a32efc110b6e8",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O1a/O1a-topic-unchanged.png",
+      "o8_sha256": "308689353a943bba9957a962f55fd6442d4761bff9947bafc5214f379db58290",
+      "final_sha256": "308689353a943bba9957a962f55fd6442d4761bff9947bafc5214f379db58290",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O1a/full-tests.txt",
+      "o8_sha256": "7466f19b5cd3db2a473282ce1ecf758cb421ddc9cef64bbbdba4325cfa9510a5",
+      "final_sha256": "7466f19b5cd3db2a473282ce1ecf758cb421ddc9cef64bbbdba4325cfa9510a5",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O1a/O1a-mastery-preview.png",
+      "o8_sha256": "8276492318eae8e072a56bc1c4a6a8f7ac239d524d1d70fcc818ef560ae3e842",
+      "final_sha256": "8276492318eae8e072a56bc1c4a6a8f7ac239d524d1d70fcc818ef560ae3e842",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O1a/O1a-mastery-mobile.png",
+      "o8_sha256": "8568a04855cef6e11d7d97d887f297846fa961efde74b133a2150f5cb67393e6",
+      "final_sha256": "8568a04855cef6e11d7d97d887f297846fa961efde74b133a2150f5cb67393e6",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O1a/focused-tests.txt",
+      "o8_sha256": "fc621459faac3c074b0988c8121f30f3461264e3e97a64e27bac4ccd887c62d0",
+      "final_sha256": "fc621459faac3c074b0988c8121f30f3461264e3e97a64e27bac4ccd887c62d0",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O1a/assets.json",
+      "o8_sha256": "263012be88cdadfb2c3497fcc53605975b3eb35ea5e9453ba8f56f652471c42d",
+      "final_sha256": "263012be88cdadfb2c3497fcc53605975b3eb35ea5e9453ba8f56f652471c42d",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O1a/file-manifest.json",
+      "o8_sha256": "3e343803b29e1d4f364b1c2678ea65659c3726f12b6fec530f9f5e53907f1f01",
+      "final_sha256": "3e343803b29e1d4f364b1c2678ea65659c3726f12b6fec530f9f5e53907f1f01",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O1a/browser-notes.md",
+      "o8_sha256": "058f365135bee7d0fcede1768cf4811e3e9f13699e45de1e27b4396e802f1e61",
+      "final_sha256": "058f365135bee7d0fcede1768cf4811e3e9f13699e45de1e27b4396e802f1e61",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4b4/mobile-science.png",
+      "o8_sha256": "38d1d5a8c39dcce6c4f07eef9e46dcbc3d04397ab2f05759e1570302a45a6d88",
+      "final_sha256": "38d1d5a8c39dcce6c4f07eef9e46dcbc3d04397ab2f05759e1570302a45a6d88",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4b4/preservation-manifest.json",
+      "o8_sha256": "c6621aeeabd35ff3c8b5b8c33e076e923b60e484b6b498e06dfc9c756f2fba12",
+      "final_sha256": "c6621aeeabd35ff3c8b5b8c33e076e923b60e484b6b498e06dfc9c756f2fba12",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4b4/regression-tests.txt",
+      "o8_sha256": "7975efc824febed69ad60959e876cb83546ed772f417073ea37bcc669421cd5a",
+      "final_sha256": "7975efc824febed69ad60959e876cb83546ed772f417073ea37bcc669421cd5a",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4b4/focused-tests.txt",
+      "o8_sha256": "39f5e5cad49ef9c4387bf5c66514b1d94edc1329b80660fd964e0b4ef06ef9a5",
+      "final_sha256": "39f5e5cad49ef9c4387bf5c66514b1d94edc1329b80660fd964e0b4ef06ef9a5",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4b4/science-preview.png",
+      "o8_sha256": "9e0fac1d4822377fe4415d8a26a80b81d8962d5644ad745e993f6c476ca965f0",
+      "final_sha256": "9e0fac1d4822377fe4415d8a26a80b81d8962d5644ad745e993f6c476ca965f0",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4b3/preservation-manifest.json",
+      "o8_sha256": "714b72f54640e5750fdfe8b8520fb5396cb7f1399909340eaa459034631fa315",
+      "final_sha256": "714b72f54640e5750fdfe8b8520fb5396cb7f1399909340eaa459034631fa315",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4b3/regression-tests.txt",
+      "o8_sha256": "62ef519e6190af6611d5b2c09f416cf58b44cddc3cb34882fa1d06623bead889",
+      "final_sha256": "62ef519e6190af6611d5b2c09f416cf58b44cddc3cb34882fa1d06623bead889",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4b3/controls-preview.png",
+      "o8_sha256": "88ddf37c75ffc5d815ab7052d229190ccce19ee2b5a9333f7b421ff5c5b3f8a1",
+      "final_sha256": "88ddf37c75ffc5d815ab7052d229190ccce19ee2b5a9333f7b421ff5c5b3f8a1",
+      "unchanged": true
+    },
+    {
+      "path": "Verification-O4b3/focused-tests.txt",
+      "o8_sha256": "abf08e9fbadb15fee55a329f211a31a146e9839c818fdffde2a71263b0fb975b",
+      "final_sha256": "abf08e9fbadb15fee55a329f211a31a146e9839c818fdffde2a71263b0fb975b",
+      "unchanged": true
+    },
+    {
+      "path": "media/osmosis-narrated.vtt",
+      "o8_sha256": "14a245a896f4940279fc4cb3d9d0634944147b3877fbc5148451125feaaa8539",
+      "final_sha256": "14a245a896f4940279fc4cb3d9d0634944147b3877fbc5148451125feaaa8539",
+      "unchanged": true
+    },
+    {
+      "path": "media/osmosis-narrated-transcript.txt",
+      "o8_sha256": "094a46720cf38ea1582716f61ceabc840779b4ab436ebdd01f566487e1481dcf",
+      "final_sha256": "094a46720cf38ea1582716f61ceabc840779b4ab436ebdd01f566487e1481dcf",
+      "unchanged": true
+    },
+    {
+      "path": "media/osmosis-poster.png",
+      "o8_sha256": "e5dfcc9f88f770b2bf4e37acc45c44b5e1b8a8fea773386f05c0b83f103264ae",
+      "final_sha256": "e5dfcc9f88f770b2bf4e37acc45c44b5e1b8a8fea773386f05c0b83f103264ae",
+      "unchanged": true
+    },
+    {
+      "path": "media/osmosis-explainer.mp4",
+      "o8_sha256": "2d82cb0bb20fdac6f86715ba8d9a3f8caee64782610890a025d9fa097bd7f888",
+      "final_sha256": "2d82cb0bb20fdac6f86715ba8d9a3f8caee64782610890a025d9fa097bd7f888",
+      "unchanged": true
+    },
+    {
+      "path": "media/cells-intro-transcript.txt",
+      "o8_sha256": "07dbb3cd58b73a9ca8243ac2bc5692067bc26ca465c19e9b607612dc0bfc8aa9",
+      "final_sha256": "07dbb3cd58b73a9ca8243ac2bc5692067bc26ca465c19e9b607612dc0bfc8aa9",
+      "unchanged": true
+    },
+    {
+      "path": "media/osmosis-transcript.txt",
+      "o8_sha256": "0f716e772e7bcd8dc5c5fa3abf1167f7a21db418c8be420af138428e6ffaa1c4",
+      "final_sha256": "0f716e772e7bcd8dc5c5fa3abf1167f7a21db418c8be420af138428e6ffaa1c4",
+      "unchanged": true
+    },
+    {
+      "path": "media/osmosis-explainer-clear-subtitles.mp4",
+      "o8_sha256": "d4222b0f5782c9ed1dbe4ca8c98c4ad35b3754664eb848d8edc23cba25b5feeb",
+      "final_sha256": "d4222b0f5782c9ed1dbe4ca8c98c4ad35b3754664eb848d8edc23cba25b5feeb",
+      "unchanged": true
+    },
+    {
+      "path": "media/osmosis-explainer.vtt",
+      "o8_sha256": "c3ab6994dff3c99257d5aefea16b645b770e56b18046d97d6c2229e539278081",
+      "final_sha256": "c3ab6994dff3c99257d5aefea16b645b770e56b18046d97d6c2229e539278081",
+      "unchanged": true
+    },
+    {
+      "path": "media/osmosis-explainer-narrated.mp4",
+      "o8_sha256": "bf2dcf91639e6eb08a6d29eed566a6fc07a00b87824b2ad247488f0f15515259",
+      "final_sha256": "bf2dcf91639e6eb08a6d29eed566a6fc07a00b87824b2ad247488f0f15515259",
+      "unchanged": true
+    }
+  ]
+}

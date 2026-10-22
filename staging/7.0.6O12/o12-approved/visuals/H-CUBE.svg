@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="480" height="230" preserveAspectRatio="xMinYMin meet" viewBox="0 0 480 230" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="H-CUBE-title H-CUBE-desc"><title id="H-CUBE-title">H-CUBE · Cube model</title><desc id="H-CUBE-desc">A cube is shown in perspective. One complete side is labelled 0.5 mm. The drawing is schematic, not to scale. Use the stated value, not a physical measurement of the drawing.</desc>
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="480" height="230"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-230)" style="clip-path: url(#clip)">
+		<g transform="">
+			<polygon points="155 52, 294 52, 294 171, 155 171" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 2; fill: rgb(89%,93%,90%); fill-rule: evenodd;"/>
+			<polygon points="155 171, 294 171, 355 209, 216 209" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 2; fill: rgb(95%,96%,96%); fill-rule: evenodd;"/>
+			<polygon points="294 52, 355 90, 355 209, 294 171" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 2; fill: rgb(91%,90%,95%); fill-rule: evenodd;"/>
+			<polyline points="155 43, 155 27, 294 27, 294 43" style="stroke: rgb(9%,23%,22%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd;"/>
+			<text x="190.537109375" y="8" style="font-family: Arial; font-size: 20px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,16) scale(1,-1)">0.5 mm</text>
+			<text x="26" y="199" style="font-family: Arial; font-size: 19px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,398) scale(1,-1)">Model cell P</text>
+		</g>
+	</g>
+</svg>

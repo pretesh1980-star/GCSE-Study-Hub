@@ -1,0 +1,14 @@
+LATEST REVIEW BUILD: O11 Active Transport — final consolidated refinement
+DATE: 17 October 2026
+STATUS: UNPUBLISHED; final hands-on approval pending. No GitHub commit/deployment. O12 not started.
+BASELINE: GCSE-Study-Hub-O11-REFINED-OPEN-THIS.zip
+BASELINE SHA256: ec41d0362207d7919867d90bfc377aba195ea478aa2a94c0730bcd4cdb002907
+APPROVAL: O1–O10 educational source preserved. O11 Stages 1, 2 and 4 unchanged except shared stage-selector controls.
+PREVIEW: http://localhost:8949/#cell-biology/active
+LAUNCHER: extract the entire ZIP, double-click Start Preview.command, keep terminal open.
+FOCUSED: 96/96 passed; 0 failed/skipped/cancelled.
+REGRESSION: 1154/1154 passed; 0 failed/skipped/cancelled.
+ASSESSMENT: eight structured questions; recall/explanations have 4 available written marks, unmarked and excluded from automatic score. Section mastery only; whole-topic unchanged.
+PERSISTENCE: versions 1/2 remain readable/resumable. New version 3 has separate IDs/counter in the existing record, with two unseen forms then practice repeats. No storage-key changes/resets.
+REPORTS: O11-final-review.md; O11-final-curriculum.md; learning-stage-navigation-standard.md
+ALLOWANCE SNAPSHOT: 77% five-hour, 84% weekly remaining (account-wide snapshot, may change).

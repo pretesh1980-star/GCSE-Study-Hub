@@ -1,0 +1,17 @@
+{
+  "durationSeconds" : 200.30866666666665,
+  "soun" : {
+    "audioBytes" : 2710069,
+    "completed" : true,
+    "decodedBuffers" : 3005,
+    "error" : "",
+    "nonzeroAudio" : true
+  },
+  "vide" : {
+    "audioBytes" : 0,
+    "completed" : true,
+    "decodedBuffers" : 3008,
+    "error" : "",
+    "nonzeroAudio" : false
+  }
+}

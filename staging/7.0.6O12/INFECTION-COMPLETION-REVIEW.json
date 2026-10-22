@@ -1,0 +1,545 @@
+{
+  "build": "7.0.5V",
+  "method": "Targeted review of only 4.3.1.1–4.3.1.6 using existing cached AQA 8464 evidence and Q–U standard. Actual teaching/revision, disease-specific practice and application, answers/feedback, skills and shared tier eligibility assessed. No full discovery audit; no automatic promotion from keywords.",
+  "before": {
+    "fullyCovered": 25,
+    "partial": 52,
+    "missing": 1,
+    "higherOnlyAdequate": 0
+  },
+  "after": {
+    "fullyCovered": 31,
+    "partial": 46,
+    "missing": 1,
+    "higherOnlyAdequate": 0
+  },
+  "units": [
+    {
+      "specRef": "4.3.1.1",
+      "title": "Communicable (infectious) diseases",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Existing pathogen section extended with four groups, bacterial toxin versus viral intracellular damage, direct/indirect routes in plants/animals and justified hygiene, water/food, isolation, tool, vector and limited vaccination controls.",
+      "assessment": "q01 classification/damage/vector reasoning; q02 unfamiliar air/water/plant-tool routes; shared q03/06/08/09 contextual control. Existing pathogen and water-treatment questions retained.",
+      "answersFeedback": "Every new record has model answer, explicit criteria and relevant misconceptions. Writing uses existing model-answer self-assessment. No new numeric answer lists or unit configurations.",
+      "skillsAndPractical": "WS1.4: route-matched controls and population/susceptibility limits rather than universal prevention claims.",
+      "tier": "Shared Foundation/Higher requirements; effective Foundation/unsure/Higher verified; original Higher content retained.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Infection & Response|Pathogens and transmission"
+      ],
+      "questionRefs": [
+        "build4-1",
+        "bio2-transmission",
+        "aqa-bio-step-infection-response-0-0",
+        "aqa-bio-step-infection-response-0-1",
+        "aqa-infection-completion-q01",
+        "aqa-infection-completion-q02",
+        "aqa-infection-completion-q03",
+        "aqa-infection-completion-q06",
+        "aqa-infection-completion-q08",
+        "aqa-infection-completion-q09"
+      ],
+      "supportRefs": [],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Infection & Response|Pathogens and transmission",
+            "label": "Pathogens and transmission",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5V shared infection/defence extension reviewed; original content retained."
+          }
+        ],
+        "questions": [
+          {
+            "id": "build4-1",
+            "label": "What is a pathogen?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "bio2-transmission",
+            "label": "Suggest a way to reduce disease spread by contaminated drinking water and explain it.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          },
+          {
+            "id": "aqa-bio-step-infection-response-0-0",
+            "label": "Which is a type of pathogen?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bio-step-infection-response-0-1",
+            "label": "Which action can reduce waterborne spread?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-infection-completion-q01",
+            "label": "Four supplied observations describe A: organisms multiplying and releasing toxins; B: agents reproducing inside host cells; C: a spore-spreading fungus; D: a malaria-like protist carried by an insect. Identify each pathogen group and explain why the insect is not the pathogen in D.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5V reviewed shared AQA 8464 communicable/named diseases and defences; answers/feedback contain no Higher-only demand."
+          },
+          {
+            "id": "aqa-infection-completion-q02",
+            "label": "An unfamiliar disease spreads in drinking water, another by cough droplets, and a plant infection is transferred by shared cutting tools. For each choose and explain a suitable control. Why would one measure not necessarily stop all three outbreaks?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5V reviewed shared AQA 8464 communicable/named diseases and defences; answers/feedback contain no Higher-only demand."
+          },
+          {
+            "id": "aqa-infection-completion-q03",
+            "label": "In a supplied measles outbreak, several unprotected pupils develop fever and a red rash after close exposure to coughs. Explain the route and seriousness, and compare reducing infectious contact with vaccination as prevention.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5V reviewed shared AQA 8464 communicable/named diseases and defences; answers/feedback contain no Higher-only demand."
+          },
+          {
+            "id": "aqa-infection-completion-q06",
+            "label": "Salmonella cases follow a meal where raw-poultry utensils also touched ready-to-eat food. Explain transmission and symptoms, including toxins. Why are food hygiene and poultry vaccination complementary rather than alternatives?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5V reviewed shared AQA 8464 communicable/named diseases and defences; answers/feedback contain no Higher-only demand."
+          },
+          {
+            "id": "aqa-infection-completion-q08",
+            "label": "A nursery reports black/purple spots and early leaf drop on roses. In an illustrative comparison, 6 of 20 plants develop new symptoms after infected leaves are removed/destroyed, versus 12 of 20 where fallen leaves remain. Explain a mechanism for control, another control, and one limit to the evidence.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5V reviewed shared AQA 8464 communicable/named diseases and defences; answers/feedback contain no Higher-only demand."
+          },
+          {
+            "id": "aqa-infection-completion-q09",
+            "label": "In a malaria-affected area, a programme combines mosquito nets with removal of suitable standing-water breeding sites. Trace transmission from an infected person to another person and explain why the two measures target different steps. Include health effects and a limitation.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5V reviewed shared AQA 8464 communicable/named diseases and defences; answers/feedback contain no Higher-only demand."
+          }
+        ],
+        "support": []
+      }
+    },
+    {
+      "specRef": "4.3.1.2",
+      "title": "Viral diseases",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Disease examples extended: measles fever/rash, complications, droplets and prevention; HIV initial illness, fluids/sexual routes, immune-cell damage, antiretroviral control versus cure and AIDS; TMV mosaic/photosynthesis/growth and contact control.",
+      "assessment": "q03 measles outbreak and complementary controls; q04 HIV progression/routes/control; q05 TMV versus fungal leaf damage and treatment application. Existing measles route recall retained.",
+      "answersFeedback": "Every new record has model answer, explicit criteria and relevant misconceptions. Writing uses existing model-answer self-assessment. No new numeric answer lists or unit configurations.",
+      "skillsAndPractical": "Separate disease-specific explanatory demands with calibrated clinical limits and cross-pathogen application; no vaccine mechanism expansion.",
+      "tier": "Shared Foundation/Higher requirements; effective Foundation/unsure/Higher verified; original Higher content retained.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Infection & Response|Disease examples"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-infection-response-6-1",
+        "aqa-infection-completion-q03",
+        "aqa-infection-completion-q04",
+        "aqa-infection-completion-q05"
+      ],
+      "supportRefs": [],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Infection & Response|Disease examples",
+            "label": "Disease examples",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5V shared infection/defence extension reviewed; original content retained."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-bio-step-infection-response-6-1",
+            "label": "Which route best matches measles spread?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-infection-completion-q03",
+            "label": "In a supplied measles outbreak, several unprotected pupils develop fever and a red rash after close exposure to coughs. Explain the route and seriousness, and compare reducing infectious contact with vaccination as prevention.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5V reviewed shared AQA 8464 communicable/named diseases and defences; answers/feedback contain no Higher-only demand."
+          },
+          {
+            "id": "aqa-infection-completion-q04",
+            "label": "A report describes initial flu-like illness after HIV infection, then control with antiretroviral drugs. Explain why HIV and AIDS are not interchangeable labels. Give two relevant transmission routes and explain a prevention measure for each.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5V reviewed shared AQA 8464 communicable/named diseases and defences; answers/feedback contain no Higher-only demand."
+          },
+          {
+            "id": "aqa-infection-completion-q05",
+            "label": "Plant A has TMV mosaic discolouration; plant B has rose black spot with yellowing and early leaf fall. Explain why both may grow slowly, distinguish their pathogen types, and explain why the same fungicide cannot be assumed effective for both.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5V reviewed shared AQA 8464 communicable/named diseases and defences; answers/feedback contain no Higher-only demand."
+          }
+        ],
+        "support": []
+      }
+    },
+    {
+      "specRef": "4.3.1.3",
+      "title": "Bacterial diseases",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Salmonella ingestion, cross-contamination, toxins, four symptoms, hygiene/cooking and poultry vaccination; gonorrhoea bacterial sexual spread, symptoms, barriers and qualified antibiotic control with penicillin resistance.",
+      "assessment": "q06 meal/utensil contamination and complementary poultry/hygiene controls; q07 supplied symptoms and prevention/treatment under resistance. Generic vector/measles questions no longer count as bacterial evidence.",
+      "answersFeedback": "Every new record has model answer, explicit criteria and relevant misconceptions. Writing uses existing model-answer self-assessment. No new numeric answer lists or unit configurations.",
+      "skillsAndPractical": "Control reasoning and resistance qualification only to subsection depth; detailed resistance/drug-development curriculum unchanged.",
+      "tier": "Shared Foundation/Higher requirements; effective Foundation/unsure/Higher verified; original Higher content retained.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Infection & Response|Disease examples"
+      ],
+      "questionRefs": [
+        "aqa-infection-completion-q06",
+        "aqa-infection-completion-q07"
+      ],
+      "supportRefs": [],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Infection & Response|Disease examples",
+            "label": "Disease examples",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5V shared infection/defence extension reviewed; original content retained."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-infection-completion-q06",
+            "label": "Salmonella cases follow a meal where raw-poultry utensils also touched ready-to-eat food. Explain transmission and symptoms, including toxins. Why are food hygiene and poultry vaccination complementary rather than alternatives?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5V reviewed shared AQA 8464 communicable/named diseases and defences; answers/feedback contain no Higher-only demand."
+          },
+          {
+            "id": "aqa-infection-completion-q07",
+            "label": "A supplied gonorrhoea case has painful urination and yellow/green discharge. Explain its type and transmission, and compare barrier prevention with antibiotic treatment when penicillin resistance is reported.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5V reviewed shared AQA 8464 communicable/named diseases and defences; answers/feedback contain no Higher-only demand."
+          }
+        ],
+        "support": []
+      }
+    },
+    {
+      "specRef": "4.3.1.4",
+      "title": "Fungal diseases",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Rose black spot fungus, purple/black spots, yellowing/leaf fall, photosynthesis/sugar/growth, wind/water spread, fungicides and removal/destruction of affected leaves.",
+      "assessment": "q05 comparative TMV/black-spot application; q08 nursery intervention data, source control and confounding/remaining-case limits.",
+      "answersFeedback": "Every new record has model answer, explicit criteria and relevant misconceptions. Writing uses existing model-answer self-assessment. No new numeric answer lists or unit configurations.",
+      "skillsAndPractical": "Interprets 6/20 versus 12/20 illustrative cases without claiming perfect prevention or definitive causation; existing evidence principles reused.",
+      "tier": "Shared Foundation/Higher requirements; effective Foundation/unsure/Higher verified; original Higher content retained.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Infection & Response|Disease examples"
+      ],
+      "questionRefs": [
+        "aqa-infection-completion-q05",
+        "aqa-infection-completion-q08"
+      ],
+      "supportRefs": [],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Infection & Response|Disease examples",
+            "label": "Disease examples",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5V shared infection/defence extension reviewed; original content retained."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-infection-completion-q05",
+            "label": "Plant A has TMV mosaic discolouration; plant B has rose black spot with yellowing and early leaf fall. Explain why both may grow slowly, distinguish their pathogen types, and explain why the same fungicide cannot be assumed effective for both.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5V reviewed shared AQA 8464 communicable/named diseases and defences; answers/feedback contain no Higher-only demand."
+          },
+          {
+            "id": "aqa-infection-completion-q08",
+            "label": "A nursery reports black/purple spots and early leaf drop on roses. In an illustrative comparison, 6 of 20 plants develop new symptoms after infected leaves are removed/destroyed, versus 12 of 20 where fallen leaves remain. Explain a mechanism for control, another control, and one limit to the evidence.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5V reviewed shared AQA 8464 communicable/named diseases and defences; answers/feedback contain no Higher-only demand."
+          }
+        ],
+        "support": []
+      }
+    },
+    {
+      "specRef": "4.3.1.5",
+      "title": "Protist diseases",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Malaria protist versus mosquito vector, acquisition from infected person and subsequent bite transmission, lifecycle concept, recurrent fever/fatal severity, nets and breeding prevention.",
+      "assessment": "q09 integrated unfamiliar programme: transmission sequence, pathogen/vector, symptoms, two complementary controls and limitations; existing vector recall retained.",
+      "answersFeedback": "Every new record has model answer, explicit criteria and relevant misconceptions. Writing uses existing model-answer self-assessment. No new numeric answer lists or unit configurations.",
+      "skillsAndPractical": "Multi-part mechanism/application task rather than superficial repeated templates; no unnecessary lifecycle stage names.",
+      "tier": "Shared Foundation/Higher requirements; effective Foundation/unsure/Higher verified; original Higher content retained.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Infection & Response|Disease examples"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-infection-response-6-0",
+        "aqa-infection-completion-q09"
+      ],
+      "supportRefs": [],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Infection & Response|Disease examples",
+            "label": "Disease examples",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5V shared infection/defence extension reviewed; original content retained."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-bio-step-infection-response-6-0",
+            "label": "What is a vector?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-infection-completion-q09",
+            "label": "In a malaria-affected area, a programme combines mosquito nets with removal of suitable standing-water breeding sites. Trace transmission from an infected person to another person and explain why the two measures target different steps. Include health effects and a limitation.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5V reviewed shared AQA 8464 communicable/named diseases and defences; answers/feedback contain no Higher-only demand."
+          }
+        ],
+        "support": []
+      }
+    },
+    {
+      "specRef": "4.3.1.6",
+      "title": "Human defence systems",
+      "decision": "FULLY COVERED",
+      "teachingRevision": "Defences section extended: intact skin/clots, nose hairs/mucus, named tracheal/bronchial mucus and ciliary clearance, stomach acid; phagocytosis, specific antibody binding and antitoxin neutralisation distinguished.",
+      "assessment": "q10 damaged-cilia/wound application across barriers; q11 breached-barrier/toxin scenario and antibody/antibiotic misconception correction. Existing skin and matching-antigen recall retained.",
+      "answersFeedback": "Every new record has model answer, explicit criteria and relevant misconceptions. Writing uses existing model-answer self-assessment. No new numeric answer lists or unit configurations.",
+      "skillsAndPractical": "Existing immune diagram retained; pathogen/white-cell/antibody steps reused, memory-cell endpoint not expanded. Non-specific versus specific function explicitly distinguished.",
+      "tier": "Shared Foundation/Higher requirements; effective Foundation/unsure/Higher verified; original Higher content retained.",
+      "remainingGap": null,
+      "lessonRefs": [
+        "Biology|Infection & Response|Defences and immunity"
+      ],
+      "questionRefs": [
+        "aqa-bio-step-infection-response-1-0",
+        "aqa-bio-step-infection-response-1-1",
+        "aqa-infection-completion-q10",
+        "aqa-infection-completion-q11"
+      ],
+      "supportRefs": [
+        "Biology|support|diagram-immunity"
+      ],
+      "currentEvidence": {
+        "lessons": [
+          {
+            "id": "Biology|Infection & Response|Defences and immunity",
+            "label": "Defences and immunity",
+            "kind": "lesson",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5V shared infection/defence extension reviewed; original content retained."
+          }
+        ],
+        "questions": [
+          {
+            "id": "aqa-bio-step-infection-response-1-0",
+            "label": "Which is a physical first-line barrier?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-bio-step-infection-response-1-1",
+            "label": "What does an antibody bind to?",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "Uses audited lesson subsection: Reviewed against the Foundation content of the linked AQA subject specification; no Higher-only demand identified in this block."
+          },
+          {
+            "id": "aqa-infection-completion-q10",
+            "label": "A supplied case has damaged airway cilia but mucus is still produced; another has a skin cut. Explain the roles of skin, nose, trachea/bronchi and stomach in non-specific defence and why mucus alone may not clear the airways effectively.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5V reviewed shared AQA 8464 communicable/named diseases and defences; answers/feedback contain no Higher-only demand."
+          },
+          {
+            "id": "aqa-infection-completion-q11",
+            "label": "A pathogen passes a barrier and releases a toxin. Explain how phagocytosis, antibodies and antitoxins provide different responses. Correct the claims “all antibodies kill every pathogen directly” and “antibiotics are made by our white blood cells”.",
+            "kind": "question",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5V reviewed shared AQA 8464 communicable/named diseases and defences; answers/feedback contain no Higher-only demand."
+          }
+        ],
+        "support": [
+          {
+            "id": "Biology|support|diagram-immunity",
+            "label": "Existing revision diagram: immunity",
+            "kind": "support",
+            "tier": "both",
+            "current": true,
+            "studentVisible": true,
+            "foundationReady": true,
+            "foundationEvidence": true,
+            "reason": "7.0.5O reviewed reuse of existing Biology material; explicit course/tier mapping, not a new coverage-completeness claim."
+          }
+        ]
+      }
+    }
+  ],
+  "newQuestions": {
+    "total": 11,
+    "writingSelfAssessment": 11,
+    "numericAutoCheck": 0,
+    "multipleChoice": 0
+  },
+  "recordedTierBacklog": 0,
+  "knownUnresolvedTierConcerns": 0,
+  "answerUnitBacklog": 0,
+  "tests": {
+    "focused": 127,
+    "full": 371,
+    "failures": 0
+  },
+  "scopeVerification": "All 63 science pathways compared with U. Only three targeted Infection & Response sections and 11 new questions differ; old questions, practicals and all unrelated content preserved."
+}

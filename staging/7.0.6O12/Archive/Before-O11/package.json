@@ -1,0 +1,14 @@
+{
+  "name": "gcse-study-hub",
+  "version": "7.0.6-O9-candidate",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/*.test.cjs",
+    "test:browser": "node tests/browser.cjs",
+    "check:mcq": "node --test tests/mcq-quality.test.cjs",
+    "balance:mcq": "node scripts/generate-mcq-order.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}

@@ -1,0 +1,16 @@
+LATEST VERIFIED CANDIDATE: GCSE Study Hub 7.0.6O5 — UNPUBLISHED
+DATE: 12 October 2026
+BASELINE: verified unpublished 7.0.6O4b4
+O5a CHECKPOINT: 95/95 focused; 808/808 full regression
+O5b FINAL: 114/114 focused; 827/827 full regression
+FAILURES / SKIPS / CANCELLATIONS: zero in each final checkpoint run
+LATEST TESTING ZIP: GCSE-Study-Hub-LATEST-OPEN-THIS.zip
+CANDIDATE ZIP: GCSE-Study-Hub-7.0.6O5-candidate.zip (identical to latest)
+SOURCE: GCSE-Study-Hub-7.0.6O5-candidate/
+RECOVERY: Archive/O4b4 verified baseline, O5a checkpoint, O5b checkpoint
+PREVIEW: http://127.0.0.1:8921/#cell-biology/rp01 (clean review origin)
+QA PREVIEW: http://127.0.0.1:8920/#cell-biology/rp01 (demonstration scores)
+REVIEW: Build-O5-review.md
+ROADMAP: PROJECT-STATE-O5.md
+LIMITATIONS: mobile emulation only; no physical device/formal screen-reader/hands-on lab verification. Legacy standalone browser scripts not run.
+STOP: USER REVIEW. No publication. O6 not started.
